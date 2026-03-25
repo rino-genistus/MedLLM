@@ -1,0 +1,214 @@
+TITLE: Prevalence of Anemia and Its Associated Factors Among Adult Diabetes Mellitus Patients at Debre Tabor General Hospital, Northcentral Ethiopia
+
+Background
+
+Diabetes mellitus is a cluster of metabolic disorders which is characterized by hyperglycemia. The occurrence of anaemia is a significant public health problem among diabetic patients because of complication and dietary modifications. So, this study aimed to assess the magnitude of anaemia among adult diabetes mellitus patients in Debre Tabor General Hospital, Ethiopia.
+
+Methods
+
+A cross-sectional study design was conducted. A simple random sampling technique was employed to collect data from 297 adult diabetic mellitus patients. After taking venous blood, the haemoglobin level was determined by using HemoCue 301 machine. Anaemia among diabetic patients was determined by using the haemoglobin level (<13.0g/dL for male and <12.0g/dL for female). Data were entered using EpiInfo version 7.2 and analyzed using SPSS version 21. The binary logistic regression model was used to explore the association of independent variables with anaemia. Finally, p-value <0.05 was used to declare the level of statistical significance.
+
+Results
+
+The prevalence of anemia among diabetic patient was 29.81% (95% CI: 24.27, 35.35). Diabetic patients unable to read and write (AOR = 3.51, 95% CI: 1.40, 8.75), able to read and write (AOR = 9.76, 95% CI: 3.15, 30.24), ≥4 family size (AOR = 0.53, 95% CI: 0.29, 0.99), intake of flesh meat (AOR=0.19, 95% CI: 0.05, 0.74), and parasitic infections (AOR = 0.26, 95% CI: 0.07, 0.95) were more likely to develop anemia.
+
+Conclusion
+
+Anemia is a moderate public health problem among diabetic patients. Here, educational status, family size, intake of flesh meat, and intestinal parasite infections were the factors associated with the development of anaemia. So, working on these significant factors by health care providers during routine care is vital to prevent anaemia among diabetic patients.
+
+Background
+
+Diabetics Mellitus (DM) is a raised level of glucose in the blood due to either the body cannot produce enough amount of insulin hormone or use insulin effectively. The global prevalence and impact of DM have increased dramatically, particularly in sub-Saharan Africa. It is one of the significant public health problems in developing countries due to the most rapid epidemiological transitions.
+
+Globally it is estimated that 425 million people live with diabetes aged 20–79 years, 90% of whom account for type 2 diabetes mellitus. This magnitude will increase to 642 million by 2040. The prevalence of diabetes in Africa increased from 4 million in 1980 (3.1%) to 25 million (7.1%) in 2014, which increased by 129%. Here, from the total increment in Africa, Ethiopia accounts for 3.8%.
+
+Anaemia is a reduction of haemoglobin concentration in blood, which consequently reduces the oxygen-carrying capacity of red blood cells unable to meet the physiological needs/requirements of the body. Anaemia is considered a public health problem in developing and developed countries due to the highest prevalence, which affects all stages of life that will be worse among vulnerable populations.
+
+Worldwide, 1.62 billion people are anaemic, which accounts for 24.8% of the global population. The highest prevalence was found in preschool-age children (47.4%), while the lowest was among men (12.7%). Anaemia is common in diabetic patients and increases morbidity and mortality, but its burden was not well characterized in sub-Saharan Africans. Also, the current guidelines on the management of diabetes do not recommend routine screening for anaemia. The prevalence of anaemia among diabetic patients was 23% in Accra, Ghana, 55.5% at the primary health center attached to King Faisal University, Al Ahsa, Saudi Arabia, 58.8% in Nagpur, Maharashtra, India, and 84.8% at the Austin and Repatriation Medical Center (ARMC), Australia.
+
+Developing countries similar to Ethiopia account for the most significant proportion of anaemia due to inadequate intake of nutrients, infectious diseases, and inherited conditions. On the other hand, again, people with chronic illnesses (kidney problems, cancer, diabetes, etc.) are the risk factors even if the causes of anaemia are multifactorial. Due to the development of diabetes mellitus, the nephropathy may arise, which further undermines the renal production of erythropoietin, positively contributing to an increased anaemic framework.
+
+Micronutrient deficiencies like cyanocobalamin, folate, and iron among Diabetic patients lead to anaemia. In addition to this, using medications (like Metformin) for a long duration may interfere with the absorption of cyanocobalamin, which may cause anaemia. These conditions show that being a diabetic patient is at risk of having anaemia.
+
+The squeal secondary to anaemia among diabetic patients is very high due to none specific nature of signs and symptoms. Since anaemia and type 2 diabetes patients will have similar symptoms like pale skin, chest pain, numbness, or coldness in the extremities, shortness of breath, and headache. Because of this, anaemia remains unidentified among diabetes patients. Anaemia is unrecognized in 25% of diabetic patients. Hence, it is vital to identify anaemia among diabetic patients to reduce the over consequence and burden.
+
+Methods and Materials
+
+Study Setting
+
+This study was conducted in Debre Tabor General Hospital, Debre Tabor Town. Debre Tabor is the capital Town of South Gondar Zone, which is found 666Kms Northcentral of Addis Ababa, the capital city of Ethiopia. The hospital delivered services for a population of 2,047,206 (1,038,913 were males and 1,008,293 were females) according to the 2007 census. The Town has a latitude of 11º51ºE - 38º1ºE and longitude of 11.850 ºN - 38.017ºE. The overall elevation is 2706 meters (8878ft) above sea level. Debre Tabor General Hospital offers health services like inpatient, outpatient, neonatal intensive care, TB/leprosy, antenatal care, delivery, postnatal care, and family planning for the urban and rural communities of South Gondar Zone.
+
+Study Design and Period
+
+The institutional-based cross-sectional study design was employed from February 1 up to March 29, 2019.
+
+Study Population
+
+All adult DM patients in Debre Tabor General Hospital chronic care unit were the study population for this study.
+
+Eligibility Criteria
+
+All Adult DM patients in Debre Tabor General Hospital Chronic care unit were a part of this study. But pregnant, lactating, and severely ill adult DM patients were excluded from this study.
+
+Sample Size Determination
+
+A single population proportion formula was used to determine sample size by considering 23% of anaemia proportion of diabetic patients according to the study in Ghana, a 95% of confidence level, and 5% marginal error. Then, the final sample size was 297 after adding a 10% nonresponse rate.
+
+Sampling Technique
+
+The study participants were selected using a systematic random sampling technique. Because we cannot be confident who will visit the chronic care unit during the data collection period but we can estimate by taking the average number from previous follow up time. Also, we cannot estimate the actual number of DM patients that will come for the services during data collection period to have a sample frame. First, we estimate the number of adult Diabetic patients from the registration book. The expected number of Diabetic patients who came for these services was near to 2500. Then, we calculate the Kth interval, which was 8. So, we interviewed the study participants every 8th interval for two months.
+
+Definition of Terms
+
+Anemia: - when the diabetic patient Hemoglobin level was <13.0g/dL for a male or <12.0g/dL for a female. The severity was further classified as mild (11.0–12.9 for male, 11.0–11.9g/dl for female), moderate (8.0–10.9g/dl for both), and sever (<8.0g/dl for both).
+
+Diabetes Mellitus Patient: - when the patient was diagnosed as a DM patient by a senior internist and start anti-diabetic medication before data collection. All these DM patients were registered as a diabetic patient under chronic diabetic care units of the Debre Tabor General Hospital to refill their medications and follow up.
+
+Data Collection Method and Equipment
+
+A structured interview administered questionnaire was used to collect the data. The questionnaire had sociodemographic, health, and diet-related variables. The English version questionnaire was first adapted from EDHS and different literature. Then, it was translated into Amharic, the local language of the study area by using linguistic professionals to check its consistency. A two days training with pretest for five medical laboratory professionals were given related to techniques of the face to face interview, standard operating procedure, and measurements of Hemoglobin. The supervisor was following the data collection process throughout the data collection period with the principal investigator.
+
+Before starting data collection, always, we checked the existence of materials and equipment like HemoCuvettes, HemoCue Hb 301 machine, Syringe, and sanitary materials like cotton, alcohol, and glove.
+
+Venous blood was drawn after wiping the vein area with alcohol-soaked cotton for hygiene to get a 0.5mL blood to put a 10µL blood on HumoCuvtte. The sampled blood had been put on HemoCuvettes and to be inserted into the HemoCueHb 301 machine. Finally, the haemoglobin level was read and recorded on the questionnaire through pre-stated SOP.
+
+Data Quality Assurance
+
+A definition of concepts and terms had been done clearly with the Amharic language to avoid ambiguity. The pretest was done outside of the study area on 20 samples before the actual data collection period. The HemoCueHb 301 machine was calibrated by using Hemo–solutions, prepared for this purpose. The sampled blood in the Syringe was gently pressed on the HemoCuvettes to avoided air bubbles during filling.
+
+Communication through the data collection period was employed daily to discuss the progress and problems faced during the data collection time. The collected data were checked for completeness and consistency by the investigators and supervisors. All data collectors were outside the chronic care unit to decrease bias.
+
+Data Processing and Analysis
+
+After data collection, the data were managed by editing, verification, coding, classification, and tabulation of collected data during data entry and analysis after checking completeness. The data entry was made by using EpiInfo version 7.2 software for Windows. Then, the SPSS version 21 software for Windows for further data analysis after export.
+
+Descriptive analysis through frequency, percentage, mean, and standard deviation (SD) was done to describe the variables. All continuous data were checked for skewness using frequency distribution with a normal curve. During analytical analysis, a binary logistic regression model was employed to assess the independent effects of each variable. During bivariable logistic regression, variables had a p-value <0.25 were considered for multivariable analysis. During multivariable analysis, a p-value of <0.05 was considered to declare statistical significance. Both crude and adjusted odds ratios with a 95% confidence interval were done to saw the strength of association.
+
+Result
+
+Sociodemographic Results of Study Participants
+
+Sociodemographic Characteristics of the Study Participant in Debre Tabor General Hospital, Debre Tabor, Ethiopia, 2019 (n=265)
+
+Characters	Category	Frequency	Percentage	 	Age (mean)	<48.69	116	43.8	 	≥48.69	149	56.2	 	Sex	Male	144	54.3	 	Female	121	45.7	 	Religion	Orthodox	255	96.2	 	Muslim	10	3.8	 	Residence	Urban	178	67.2	 	Rural	87	32.8	 	Educational status	Unable to read and write	112	42.3	 	Able to read and write	30	11.3	 	Primary school (1–8)	33	12.5	 	Secondary school (9–12)	21	7.9	 	College and above	69	2.6	 	Occupational status	Farmer	76	28.7	 	Housewife	67	25.3	 	Merchant	21	7.9	 	Government employee	38	14.3	 	Student	18	6.8	 	Other*	45	17	 	Marital status	Single	50	18.9	 	Married	188	70.9	 	Divorce	9	3.4	 	Widowed	18	6.8	 	Income (Mean)	<3084.95	156	58.9	 	≥3084.95	109	41.9	 	Family size (mean)	< 4	105	39.6	 	≥ 4	160	60.4
+
+Notes: Others* = none governmental workers, daily laborer, waiters, shop keepers, beauty salon, carpenters, drivers, etc.
+
+In this study, the response rate was 265 (89.22%). Among 265 participants, 178 (52.4%) were urban residents. The mean ± SD of age and family size of the participants was 48.69 ± 15.92 and 3.95 ± 1.61 respectively (Table 1).
+
+Medical and Dietary Related Characteristics
+
+None of the respondents has done a recent blood donation or a recent blood transfusion. From all, 3(1.1%) and 36 (13.6%) of them had a recent history of smoking and intake of alcohol individually. Near to two fifths 101 (38.1%) of the participants were had known chronic illness rather than DM (the diseases were Hypertension and Asthma). Only 33 (12.5%) and 6(2.3%) reported that they were had and treated for anaemia and diarrhoea within the last three months. From the female respondents, 35 (85.4%) of them were reported that they had a normal menstruation cycle.
+
+Dietary Habit result of the Study Participants in Debre Tabor General Hospital Debre Tabor, Ethiopia, 2019 (n =265)
+
+Characters	Category	Frequency	Percentage	 	Food eating frequency	More than three times	45	17	 	Three times	181	68.3	 	Two times	39	14.7	 	History of eating fresh meat	Always	15	5.7	 	Some times	200	75.5	 	Rarely	19	7.1	 	No	31	11.7	 	Eating organ meat	Sometimes	43	16.2	 	Rarely	28	10.6	 	No	194	73.2	 	Tea drinking	Once	15	5.7	 	Twice	3	1.1	 	No at all	247	93.2
+
+Notes: Always – use these food items at least ≥2 times within a week, sometimes – use at least once in a week or may or not use or intermittently use per week, and Rarely – those who take these foods, not at all within a month and these are not a part of their feeding habit.
+
+Most of the participant’s meal frequency was three times (181 (68.3%)) as shown in the table below (Table 2).
+
+Magnitude and Factors Associated with Anaemia Among Diabetic Patients
+
+The mean ± SD of haemoglobin value was 13.41 ± 2.85g/dl. In this study, the overall prevalence of anaemia was 79 (29.8%, 95% CI (24.27, 35.35)). Among these, 24 (9.1%), 46 (17.4%), and 9(3.4%) were severely, moderately, and mildly anaemic. Among anaemic DM patients, females account for the highest magnitude of anaemia 45 (57.0%).
+
+During binary logistic regression: sex, educational status, family size, history of eating flesh and organ meat, and history of Intestinal parasitic infection were significant factors at P-value <0.2. Then, participants educational status, family size, intake of flesh meat, and intestinal parasite infection were significantly associated factors with the development of anaemia among diabetic patients during multivariable logistic regression.
+
+Diabetic patients who were unable to read and write and able to read and write were 3.51 (AOR = 3.51 (95% CI (1.40, 8.75))) and 9.76 (AOR = 9.76 (95% CI (3.15, 30.24))) times more likely to develop anaemia as compared college and above. Among diabetic patients who have family sizes less than 4 were 47% (AOR = 0.53 (95% CI (0.29, 0.99))) less likely to had anaemia as compared to those who have more than four family sizes.
+
+Results of Binary and Multivariable Logistic Regression Analysis of Anemic Status Among Adult Diabetes Mellitus Patients in Debre Tabor General Hospital, Debre Tabor, Ethiopia, 2019 (n=265)
+
+Variables	Anemia	95% CI	 	Yes	No	COR	AOR	 	Sex	Male	34	110	0.52(0.30, 0.89)	0.65(0.33, 1.28)	 	Female	45	76	1	1	 	Educational status	Unable to read and write	43	69	4.15(1.87, 9.22)	3.51(1.40, 8.75) *	 	Able to read and write	15	15	6.67(2.45, 18.14)	9.76(3.15, 30.24) *	 	Primary school (1–8)	6	27	1.48(0.47, 4.57)	1.16(0.35, 3.84)	 	Secondary school (9–12)	6	15	2.67(0.82, 8.65)	2.18(0.62, 7.67)	 	College and above	9	60	1	1	 	Family size (mean)	<4	37	65	1	1	 	≥4	42	118	1.61(0.94, 2.78)	0.53(0.29, 0.99) *	 	Eating flesh meats	Yes	76	158	1	1	 	No	3	28	4.17(1.22, 14.23)	0.19 (0.05, 0.74)	 	Eating organ meats	Yes	28	43	1.83(1.02, 3.23)	1.70(0.873, 3.287)	 	No	51	143	1	1	 	History of recent IPI	Yes	3	27	0.23(0.06, 0.79)	0.26(0.07, 0.95) *	 	No	76	159	1	1
+
+Notes: *Shows statistically significant p< 0.05, 1 = reference group.
+
+Abbreviations: COR, crude odd ratio; AOR, adjusted odd ratio.
+
+Among diabetic patients, those who had the dietary habit of flesh meat were 81% (AOR=0.19 (95% CI (0.05, 0.74))) less likely to had anaemia. Among diabetic patients, those who have had no history of IPI were 74% (AOR = 0.26 (95% CI (0.07, 0.95))) less likely to had anaemia as compared to those who were had (Table 3).
+
+Discussion
+
+In this study, the prevalence of anaemia among DM patients was 79 (29.8%). This finding is similar to the research conducted in Wollo, Ethiopia (26.7%) and Ghana but higher than a study conducted in Fenote Selam Hospital, Ethiopia. This prevalence was lower than the finding from Saudi Arabia (55%). Such type of anaemia is also a problem in developed countries. This difference may be due to the complication of chronic diseases, level of awareness regarding nutritional care, and differences among sociodemographic characteristics.
+
+Diabetic patients those who were unable to read and write and able to read and write were 3.51 (AOR = 3.51 (95% CI (1.40, 8.75))) and 9.76 (AOR = 9.76 (95% CI (3.15, 30.24))) times more likely to develop anaemia as compared college and above. This finding is similar to the study conducted in Ethiopia and Ghana due to the sample population difference, informal education, and level of health awareness will be the reason.
+
+Diabetic patients, who have a family size less than four were 47% (AOR = 0.53 (95% CI (0.29, 0.99))) less likely to had anaemia as compared to those who have more than four family size like a study in Saudi Arabia (23.2%) and in Ethiopia too. When the family size increase, there is sharing of food and food insecurity, inadequate intake of nutrients, and financial crises. Also, larger family size may put a strain on family resources, which in turn may increase the risk of anemia by limiting the amount of foods with high iron content and bioavailability, such as pureed meats.
+
+Those patients with the dietary habit of flesh meat were 81% (AOR=0.19 (95% CI (0.05, 0.74))) less likely to had anaemia. The adequate intake of hem iron-rich sources will be affected by the economic status of the respondents.
+
+Diabetic patients without intestinal parasitic infections were 74% (AOR = 0.26 (95% CI (0.07, 0.95)) less likely to had anaemia as compared to those who were had, as the study in Ghana (15.3%). The prevalence of intestinal parasite infection in this study was 11.3%). These similarities might be due to lack of access to safe water, hygienic practices, and poor health-seeking behaviour for abdominal complaints.
+
+However, this study was conducted in one centre that may limit its generalizability. Also, this might be limited in linking anaemia to specific nutrient deficiency, the questionnaire was not validated for this study, and unable to establish any possible causal link. This study did not include clinical assessment of diseases like chronic kidney diseases, type of anaemia, and clinical evaluation of anaemia. Besides this, the response rate was a little bit more than that we planned (>10%) due to invasive procedure during blood sample collection.
+
+Conclusion
+
+Here, anaemia is a moderate public health problem. The significant factors for the development of anaemia among diabetic patients were educational status, family size, the dietary habit of flesh meat, and history of intestinal parasite infections.
+
+Regular anaemia assessment is essential by health care providers to reduce the burden and consequence. Also, health care workers shall have to give appropriate counselling on dietary intake based on the educational level and routine screening of intestinal parasite infection during the clinical assessment at chronic care units. Also, regular counselling to consume heme iron food sources with the family size is warranted.
+
+Abbreviations
+
+AOR, adjusted odd ratio; COR, crude odd ratio; CI, confidence interval; DM, diabetic miletus; Hgb, hemoglobin; IPI, intestinal parasitic infection; SPSS, Statistical Package for Social Science; WHO, World Health Organization.
+
+Data Sharing Statement
+
+All the required data is available upon the request from the corresponding author.
+
+Ethical Approval and Consent to Participate
+
+The Ethical clearance letter was obtained from Debre Tabor University Ethical Review Committee. Then, a written official letter was obtained from Debre Tabor General Hospital administrative officials. The objective of the study was explained to each study participant during the data collection period. We followed standard operating procedures (SOP) during data collection and tried to adhere to the declaration of Helsinki. Here, informed and written consent was obtained from each participant before the data collection. Participation in the study was entirely voluntary. For all participants, we assured that refusal was possible during any stage of the interview. The confidentiality was guaranteed by removing personal identifiers through using codes. For the anaemic patient, we were using an internal referral slip to communicate with the respective clinician in this chronic care unit.
+
+Consent for Publication
+
+Not applicable.
+
+Author Contributions
+
+All authors made a significant contribution to the work reported, through the conception, study design, execution, acquisition of data, analysis and interpretation; took part in drafting, revising or critically reviewing the article; gave final approval of the version to be published; have agreed on the journal to which the article has been submitted; and agree to be accountable for all aspects of the work.
+
+Disclosure
+
+The authors report no conflicts of interest for this work.
+
+References
+
+WHO Global report on diabetes: a summary
+
+Diabetes in sub-Saharan Africa–from policy to practice to progress: targeting the existing gaps for future care for diabetes
+
+Increasing prevalence of diabetes mellitus in a developing country and its related factors
+
+Epidemiology, complications and management of diabetes in Ethiopia: a systematic review
+
+Global aetiology and epidemiology of type 2 diabetes mellitus and its complications
+
+IDF Diabetes atlas: global estimates for the prevalence of diabetes for 2015 and 2040
+
+Diabetes in sub-Saharan Africa: from clinical care to health policy
+
+Anemia in patients with diabetes mellitus: prevalence and progression
+
+A case–control study of prevalence of anemia among patients with type 2 diabetes
+
+Prevalence of anemia and its correlation with HBA1c of patients in Type-II diabetes mellitus: a pilot study
+
+Unrecognized anemia in patients with diabetes: a cross-sectional survey
+
+The study of hematological profile of anemia in type 2 diabetes mellitus patients with normal renal function
+
+Incidence and risk of anemia in type-2 diabetic patients in the absence of renal impairment
+
+Linking anemia to inflammation and cancer: the crucial role of TNFα
+
+Anemia in diabetes: experience of a single treatment center in Kuwait
+
+Recent advances in management of type 2 diabetes and nephropathy: lessons from the RENAAL study
+
+Prevalence of anemia in diabetic adult outpatients in Northeast Ethiopia
+
+Association of anemia and renal function test among diabetes mellitus patients attending Fenote Selam Hospital, West Gojam, Northwest Ethiopia: a cross sectional study
+
+The burden of anaemia in type 2 diabetes and the role of nephropathy: a cross-sectional audit
+
+Effect of iron deficiency anemia on HbA1c in diabetic patients at Tikur Anbessa specialized teaching hospital, Addis Ababa Ethiopia
+

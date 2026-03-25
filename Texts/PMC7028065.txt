@@ -1,0 +1,264 @@
+TITLE: Rapid progression of type 2 diabetes and related complications in children and young people—A literature review
+
+Abstract
+
+Type 2 diabetes (T2D) is suggested to progress faster in children and young people vs type 1 diabetes (T1D) in the same age group and T2D in adults. We reviewed the evidence base for this. A literature search was performed of PubMed‐indexed publications between 2000 and 2018, for the terms “pediatric” and “T2D.” Results were combined and filtered for those relating to “progression.” Searches of abstract books from Latin American and Asian congresses were performed to include these populations. Pediatric populations were defined as <25 completed years of age. Of the articles and congress abstracts found, 30 were deemed relevant. Dividing the studies into categories based on how T2D progresses, we found the following: (a) yearly beta‐cell function deterioration was shown to be 20% to 35% in children with T2D compared with 7% to 11% in adults with T2D, despite similar disease durations; (b) retinopathy progression was likely dependent on diabetes duration rather than diabetes type; however, nephropathy, neuropathy and probably hypertension progressed faster in youth‐onset T2D vs T1D. Nephropathy progression was similar to adults with T2D, allowing for disease duration. Youth with T2D had a worse cardiovascular (CV) risk profile than youth with T1D, and a faster progression to CV death. (c) Progression to treatment failure was faster in youth‐onset T2D vs adult‐onset T2D. Substantial evidence exists for faster progression of T2D in pediatric patients vs T1D or adult‐onset T2D. New treatments targeting the pathology are needed urgently to address this issue.
+
+INTRODUCTION
+
+In most adult populations, type 2 diabetes (T2D) accounts for around 90% of all diabetes cases.1 However, in most characterized pediatric populations, T2D accounts for less than 50%, and there are significant ethnic differences in prevalence, ranging from 3% in White Europeans to 64% in American‐Indian populations.2, 3 In addition, the incidence of T2D among children and young people has increased significantly over time, with an annual increase of 7% between 2002 and 2012 in the United States.4 Therefore, this disease is a cause for concern to all those involved in the care of children and young people. Despite this, treatment options for children and young people are limited, compared with adult patients with T2D. There is a wide variety of treatment options for adults5, 6 but metformin and insulin have until recently been the only treatments approved in the United States and EU for children and young people with T2D.7
+
+There are differences in the pathophysiology of T2D between children and young people compared with adults, and a better understanding of this should help improve its management.8 However, the precise mechanisms by which T2D progresses in this age group are not yet well characterized. T2D in young people was thought to be associated with chronic complications due to longer disease exposure9; however, there is mounting evidence that the disease itself has faster progression in young people. There is evidence that pancreatic beta‐cell function deteriorates faster in young people with T2D compared with adult‐onset diabetes.10 However, the relative contributions of insulin resistance and beta‐cell function to this process have not been clearly defined.6, 10
+
+To understand how T2D progresses in the pediatric population, we performed a literature search of studies in this field and collated their data. Studies were separated into four categories: (a) time from normal glucose tolerance (NGT) to impaired glucose tolerance (IGT) to T2D diagnosis and (b) time from T2D diagnosis to further beta‐cell function deterioration, (c) time to diabetes‐related complications, and (d) time to treatment intensification. Within the four categories, the disease progression of T2D in children and young people was compared with that in youth‐onset type 1 diabetes (T1D), and where studies were available, compared with disease progression in adult‐onset T2D.
+
+METHODS
+
+Data sources and searches
+
+We performed a literature search of the electronic database PubMed between January 2000 and January 2018. The search terms are fully described in Table 1. Initial searches were performed relating to “pediatric” and “T2D,” then these searches were combined and filtered with criteria relating to “progression.” To facilitate the inclusion of data from Latin American and Asian populations, which are often under‐represented in literature, we also performed a search of the abstract books from the Latin American Pediatric Endocrinology Society 2015 and 2017 congresses and the Asia Pacific Pediatric Endocrine Society 2014 and 2016 congresses.
+
+Overview of the search terms applied in the literature search of PubMed
+
+Terms	Major	Title	Title and abstract	MeSH	Whole article	 	Pediatric	“Child”; “Child Health”; “Pediatrics”; “Infant”; “Adolescent”; or “Adolescent Health”	—	“Child”; “Children”; “Childhood”; “Pediatric”; “Pediatric”; “Infant”; “Adolescent”; “Teen”; “Adolescence”; “Teenager”; “Teenagers”; or “Youth”	—	—	 	Type 2 diabetes	Diabetes mellitus, type 2	“Diabetes‐Mellitus”; “Diabetes”; “Diabetics” AND (“Type 2” OR “Type‐2” OR “Type II” OR “Type‐II”); “Non‐insulin‐dependent‐diabetes”; “Noninsulin‐dependent‐diabetes”; “Noninsulin‐dependent diabetes”; “Noninsulin dependent diabetes”; “NIDDM”; “T2DM”; “T2D”; or “early onset.”	—	—	—	 	Progression	—	—	“Progression”; “Exacerbation”; “Clinical Deterioration”; or “Deterioration”	“Disease Progression”; “Clinical Deterioration”; or “Diabetes Complications”	“Disease Progression”; “Disease Exacerbation”; “Rate of Progression”; “Diabetes Complication”; “Diabetes‐Related Complication”; “Diabetic Complication”; “Complication of Diabetes”; “Complication Rate”; “Rate of Complications”; “Treatment Progression”; “Treatment Pattern”; “Treatment Status”; or “Natural History.”
+
+Abbreviations: MeSH, Medical Subject Headings; NIDDM, noninsulin dependent‐diabetes mellitus; T2D, type 2 diabetes; T2DM, type 2 diabetes mellitus.
+
+Study selection
+
+We reviewed the abstracts from the congresses and PubMed search results and excluded articles that were deemed irrelevant, such as those only describing T1D or gestational diabetes in adults and that did not provide data specific for T2D. The pediatric population was defined as those less than 25 years of age, and so any studies focused on older populations were not included. Other excluded search results were reviews, individual case studies (n = 1) and studies that did not address progression directly or were focused on standard of care. The citation lists of all publications were checked to ensure all relevant studies were included.
+
+Data extraction
+
+The full articles (or abstracts, where applicable) were then analyzed for data on disease progression and progression to complications. If numerical data were present, the article or abstract was included in this review. Cross‐trial comparisons should always be interpreted with caution as patient populations vary.
+
+RESULTS AND DISCUSSION
+
+Of the 569 articles, 23 congress abstracts and five studies from existing citation lists found in our initial searches, 30 fulfilled our search criteria (Figure 1). These included data from more than 20 studies and comprised over 13 000 participants across seven different countries (Tables 2, 3, and S1). Five of these studies had more than 1000 participants and included comparator groups. The majority were observational and multicenter studies, with some longitudinal and others cross sectional in design. Many were conducted in tertiary care centers.
+
+Flow chart of literature search results. †Asia Pacific Pediatric Endocrine Society and Latin American Pediatric Endocrinology Society congresses. ‡Reasons: actual time to progression data not included, not primary source of the data and/or focused on control of glycated hemoglobin without describing how this related to medication/complication, age range investigated >25 years of age
+
+Time from T2D diagnosis to beta‐cell deterioration and/or progression to exogenous insulin use or other change in medication
+
+Trial name/reference	Study type, duration	Country, number of study sites	T2D diagnosis criteria used	Number of participants	Age	Age at diagnosis	Time to beta‐cell deterioration	Time to change in medication	 	11	Prospective, 12‐16 mo	United States, 1 study site ‐ Pediatric Clinical and Translational Research Center	ADA criteria	6 (with a focus on obese children with T2D)	Mean: 14.4 y (1.9 SD) at baseline and 15.6 y (1.9 SD) at follow‐up	NR	Mean rate of decline 28.4% (16.2 SD) per year (calculated by insulin secretion measured by hyperglycemic clamp)	At baseline, patients on: metformin (n = 2), metformin + insulin (n = 3), or insulin alone (n = 1).At follow‐up: metformin alone (n = 3), or metformin + insulin (n = 3)	 	12	Medical record review of individuals enrolled between February 2012 and October 2016	United States, 19 study sites	ADA criteria	276 with obesity	<21 y (median: 16.2 y on metformin monotherapy; 16.8 y on insulin ± metformin)	NR	NR	For each 0.5% higher HbA1c level at diagnosis, there was an approximately 10% increase in the odds of not having durable glycemic control on metformin with a median duration of 4.2 y after the diagnosis.Those temporarily prescribed insulin at diagnosis had lower odds of durable glycemic control on metformin monotherapy (odds ratio 0.41 [99% CI:0.16, 1.06])	 	13	Prospective, longitudinal, 2 y	United States, 1 study site—Clinical and Translational Research Center at the Cincinnati Children's Hospital	ADA criteria	39 with newly diagnosed T2D;32 controls (weight‐matched, but with NGT)	Mean: T2D group = 15.4 y (2.5 SD); Control group = 14.3 y (2.0 SD)	NR	25% decline per year in the first 2 y (assessed using the disposition index)	NR	 	14	Medical record review of individuals diagnosed between 1990 and 2000 (presentation and 5‐y follow‐up)	United States, 1 study site—Montefiore Medical Center	National Diabetes Data Group	89	NR	Mean 10‐18 y; 14.0 y (2.3 SD)	NR	11% required insulin 1 y from diagnosis, which increased to 18% after 4 y73% required OAD after 1 y, which dropped to 45% after 4 y	 	15	Medical record review of patients enrolled in PDC between 2012‐2015	United States, eight study sites	ADA criteria	598	<21 y (median: 16 y)	NR	NR	Insulin use increased from 44% after 1‐2 y disease duration to 55% during 2‐3 y of T2D and 60% at ≥4 y	 	SEARCH study 16	Cross‐sectional, longitudinal, mean follow up time: 7.1 y (2.1 SD)	United States, multicenter	Physician diagnosis	646 incident T2D cases and 322 for longitudinal analysis	Mean: 15.4 y (2.7 SD)	NR	NR	Participants on metformin only at baseline: 29.7% reported metformin only at follow‐up with 26.8% no longer on medicationReceiving insulin at baseline: 76% were continuing on insulin ± OAD at follow‐up	 	SEARCH study 17	First 30 months of SEARCH study	United States, multicenter	Physician diagnosis initially for participation in SEARCH, but also need DA status for this study	948 DA‐positive; 329 DA‐negative	NR	Mean (SD) age in patients with T2D, 14.7 (2.8) y; in patients with T1D, 9.9 (4.6) y	Mean estimated rate of decline 0.7% per month (8% per year). (measured from decline in FCP)	NR	 	TODAY study group 18	Randomized	United States, multicenter	ADA criteria	699	10‐17 y at randomization	NR	Over 4 y there was a decline of 17‐30% per y depending on treatment group (calculated by C‐peptide index)	NR
+
+Abbreviations: ADA, American Diabetes Association; CI, confidence interval; DA, diabetes antibodies; FCP, fasting C‐peptide; HbA1c, glycated hemoglobin; NGT, normal glucose tolerance; NR, not reported; OAD, oral antidiabetic drug; PDC, Pediatric Diabetes Consortium; SD, standard deviation; T2D, type 2 diabetes; WHO, World Health Organization; y, year(s).
+
+Time from T2D diagnosis to a complication
+
+Trial name/reference	Study type	Country, number of sites	T2D diagnosis criteria used	Number of participants	Age range	Age at diagnosis	Time to complication	Type of complication	 	19	Cross sectional	United States, 1 study site—Children's Hospital and Research Center, Oakland	T2D diagnosed based on random BG levels, HbA1c, OGTT and the absence of autoantibodies	15 with T2D; 32 with T1D; 26 CG	Mean: 16.0 y T2D; 15.6 y T1D; 17.6 y CG	NR	At a duration of 2.1 y, 40% had impaired retinal time delay compared with 28% at a duration of 5.7 y in the T1D group and 8% in the CG	 	20	Chart review between 1986 and 2011	Australia, 1 site—Royal Prince Alfred Hospital Diabetes Clinical Database	Not specified	354 with T2D; 470 with T1D	15‐30 y	T2D, 25.6 ± 3.7 y; T1D, 22.0 ± 4.3 y	Mean diabetes duration of 11.6 y for T2D group and 14.7 y for T1DDeath occurred after 26.9 y of disease for T2D, and 36.5 y for T1D	For T2D vs T1D:There were more deaths (11.0% vs 6.8%)There were more CV deaths (50.0% vs 30.3%)Macrovascular complications (14.4% vs 5.7%) were more commonNeuropathy VPT Z scores were increased (2.3 vs 1.8)	 	SEARCH‐Case Control study 21	Randomized	United States, multicenter (Colorado, South Carolina)	Physician diagnosis	106 with T2D; 189 in the CG	Range: 10‐22 y; mean for T2D group = 15.7 y (4.4 SD); control = 14.3 y (4.6 SD)	Mean (interquartile range) in patients with T2D, 13.7 (4.0) y; in control patients, 14.3 (4.6) y	1.5 y	Higher prevalence in many CV risk factors when compared with CG. Average number of CVD risk factors in T2D group was 2.9 compared with 1.0 in the CG	 	SEARCH study 22	Observational	United States, multicenter	Physician diagnosed	43 with T2D; 222 with T1D	<20 y	NR	Average of 7.2 y for T2D and 6.8 y in T1D	42% of patients with T2D had diabetic retinopathy compared with 17% of patients with T1D	 	SEARCH 23	Observational, 2002‐2015	United States, multicenter	Physician diagnosis followed by disease type classification based on 1 or more positive diabetes autoantibody results andestimated insulin sensitivity score	2018 in total; 272 with T2D; 1746 with T1D	<20 y in both groupsMean age = 14.2 y (2.6 SD) in T2D group; 10.0 y (3.9 SD) in T1D group	T2D, 14.2 (2.6) y; T1D, 10.0 (3.9) y	At outcome visit, the mean diabetes duration was 7.9 y for both groups (1.9 SD for T2D and 2.0 SD for T1D)	Retinopathy in 9.1% of patients with T2D compared with 5.6% of patients with T1DDiabetic kidney disease was higher in the T2D group compared with T1D (19.9% vs 5.8%)Peripheral neuropathy was higher in T2D group (17.7% vs 8.5% in T1D group)Hypertension was higher in T2D compared with T1D (21.6% vs 10.1%)	 	TODAY study 24	Randomized	United States, multicenter	ADA criteria	455	10‐17 y at randomization	NR (diabetes duration was ≤2 y)	Median of 4.5 y	Cardiac end organ injury: 16.2% of patients had abnormalities in LV structure	 	TODAY study; the TODAY Study Group, 2013 25	Randomized, cross sectional	United States, multicenter	ADA criteria	699	10‐17 y at randomization	NR	After an average of 3.9 y:hypertension increased from 11.6% of patients to 33.8%;microalbuminuria increased from 6.3% to 16.6%	 	26	Prospective, all incidence of T2D and T1D between January 1986 and 2007	Canada, multicenter	Canadian Diabetes Association criteria	342 with T2D; 1011 with T1D; 1710 in CG	Range: 1‐18 y; mean T2D group = 13.5 y (2.2 SD); mean T1D group = 8.9 y (4.3 SD); mean age of CG = NR	NR	Mean 1.6 y from diagnosis in the T2D group and 6.3 y in the T1D group	26.9% of patients with T2D had persistent microalbuminuria compared with 12.7% in T1D4.7% of patients in the T2D group had persistent macroalbuminuria compared with 1.6% in T1D	 	27	Comparative clinic‐based study between 1996 and 2005	Australia, 1 study site—Children's Hospital at Westmead	Australasian Pediatric EndocrineGroup diabetes register criteria	68 with T2D; 1433 with T1D	Patients with T2D, median (interquartile range) 15.3 (13.6‐16.4) y; patients with T2D, median (interquartile range), 15.7 (13.9‐17.0) y;)	Patients with T2D, median, 13.2 y; patients with T1D, median, 8.1 y	1.3 y (vs 6.8 y in T1D)	Retinopathy was more common in patients with T1D compared with T2D (20% vs 4%)Microalbuminuria was more common in patients with T2D (28% vs 6% of T1D)Hypertension was also more common with T2D (36% vs 16% in T1D group)	 	28	Longitudinal, from 1965 to 2002	United States (Pima Indian population)	WHO criteria	178 youth onset; 1359 young adults; 971 older adults	<20 y (youth onset); 20‐39 y (young adults); 40‐59 y (older adults)	<20 y (youth onset); 20‐39 y (young adults); 40‐59 y (older adults)	Measured in brackets of <5, 5‐10, 10‐15, 15‐20, 20‐25, and >25 y of diabetes duration	Rates of nephropathy were the same across age groups and increased with diabetes durationRetinopathy was lower in youth‐onset T2D but increased with disease duration	 	29	Retrospective, electronic chart review from January 2001 to August 2012	United States, 1 study site—Department of Pediatric Endocrinology at the Children's Hospital of Birmingham, Alabama	The ICD‐9‐CM diagnosis codes of 250.00 and 250.02	86	Mean: 13.8 y (2.4 SD) Mean (±SD) age at follow‐up 1, 14.2 (±2.4); follow‐up 2, 14.9 (±2.4)	Mean (±SD), 13.8 (±2.4) y	Measured after 1 y	CV risk factors did not improve despite insulin treatment from diagnosisHbA1c levels were significantly higher in the group treated with insulin at diagnosis	 	30a	NR in the abstract	Japan	NR in the abstract	36	NR in the abstract	NR in the abstract	Retinopathy, which was only found in female patients (the 11 boys included in the study did not develop retinopathy). Dependent on HbA1c levels: <8.0% = 0% at 5 and 10 y, 5% at 15 y; >8.0% = 44% at 5 y, 56% at 10 and 15 y	 	31	Longitudinal between 1965 and 2002	United States, Pima Indian population	WHO criteria	96 youth onset; 1760 older onset	<20 y in youth onset (median: 16.8 y);25‐55 y in older onset (median: 36.9 y)	NR	Follow‐up defined as an event or December 2002 (up to 30 y for some individuals)	End‐stage renal disease: 16% in youth‐onset group compared with 8% in older‐onset group	 	32	Retrospective medical record review	Peru, single site	NR	20 with T2D and 54 with T1D	<18 yMean T2D group = 12.6 y and mean T1D group = 7.7 y	NR	Mean follow‐up time 3.7 y for T2D group and 5.7 y for T1D group.Disease duration for the microalbuminuria data is 2.3 y for the T2D group and 4.7 y for the T1D group	Hypertension found in 34.5% of patients with T2D and 27.6% of patients with T1DMicroalbuminuria found in 42.9% of patients with T2D and 16.3% of patients with T1D	 	33	Markov‐like computer model	United States	Model, not actual data	817 relevant studies were identified to build the model	15‐24 y at diagnosis	15‐24 y	LE of patients with T2D is 43 y from adolescence compared with nondiabetic peers with LE 58.6 y. Predicted 5% patients would have end‐stage renal disease after 25 y of disease	Death and end‐stage renal disease	 	34	Logistic regression analysis	United States, clinical Research Center at Cincinnati Children's Hospital	ADA criteria	129	10‐23 y	NR	CV: odds of having increased thickness of carotid IMT increased by 29%/y since diagnosis	 	35	Cross sectional	Japan, 1 study site—Yokohama City University Medical Center	Japan Diabetes Society Criteria	43 with T2D; 33 with T1D	Mean 16.5 y (3.5 SD) with T2D; 14.9 y (3.7 SD) with T1D	NR	Mean 3.8 y (2.8 SD) for patients with T2D and 5.7 y (4.5 SD) for patients with T1D	PAI‐1 (marker for promotion of atherosclerosis) was found to be significantly higher in patients with T2D (32.9 ng/mL vs 19.3 ng/mL in T1D)	 	36	Single‐observer, blinded	New Zealand, 1 study site	NR	8 with T2D; 11 with T1D; 20 CG	12‐18 y (girls only)	NR	Assessment completed at a mean diabetes duration of 20 months for T2D; 66 months for T1D	The cardiac structure and function showed abnormalities compared with T1D and controls
+
+Abbreviations: ADA, American Diabetes Association; BG, blood glucose; CG, control group; CV, cardiovascular; CVD, CV disease; HbA1c, glycated hemoglobin; ICD‐9‐CM, International Classification of Diseases, 9th Revision, Clinical Modification; IMT, intima‐media thickness; LE, life expectancy; LV, left ventricle; NR, not reported; OGTT, oral glucose tolerance test; PAI‐1, plasminogen activator inhibitor‐1; SD, SD; T1D, type 1 diabetes; T2D, type 2 diabetes; VPT, vibration perception threshold; WHO, World Health Organization; y, year(s).
+
+Data from abstract only as the full text is in Japanese.
+
+In this review, we aimed to explore the differences of progression of youth‐onset T2D and T1D, and youth‐onset and adult‐onset T2D in the four categories mentioned above. Due to differences in the natural history of T2D vs T1D, we were unable to compare the progression from NGT to IGT to T2D and beta‐cell function decline in these patient populations. However, it was possible for us to compare the progression of diabetes complications in patients with youth‐onset T2D and T1D.
+
+Progression from NGT to IGT to T2D (youth vs adults with T2D)
+
+We found four studies describing the progression from IGT to T2D in children and young people, two of which contained progression data from NGT. In an American prospective study, oral glucose tolerance test (OGTT) was used in 117 children and young people with obesity at baseline and after 2 years' follow‐up (Table S1).37 Of the 84 (72%) patients with NGT at baseline (mean age 12.7 years, mean body mass index [BMI] 35.5 kg/m2), eight (9.5%) progressed to IGT. Of the 33 (28%) patients with IGT at baseline (mean age 12.5 years, mean BMI 36.6 kg/m2), eight (24.2%) progressed to T2D, and 15 (45%) reverted to NGT after 2 years. Severe obesity (BMI‐SD score [SDS] more than 2.5), IGT, and African‐American background were identified as strong predictive factors for progression.37 Conversely, a German prospective study of 128 white European children (mean age 13.5 years, mean BMI 31.7 kg/m2) with IGT of 3 to 5 years found that 96 (75%) children reverted to NGT, and only three (2%) progressed to T2D.38 The 2‐hour OGTT results at baseline were highest (188 mg/dL; 10.4 mmol/L) in the children who progressed to T2D. Children in this cohort had a lower BMI than in the American cohort (32 vs 36 kg/m2) and there were no children from ethnic minorities.37, 38
+
+The Baltimore Longitudinal Study of Aging followed‐up 815 adults (mean age 57 years) with an OGTT every 2 years for a mean of 10.2 to 11 years (depending on the subgroup).39 Of the patients without diabetes, 32.5% had impaired fasting glucose (IFG)‐IGT at baseline. Approximately 10% of adults initially diagnosed with NGT progressed to IGT over 2 years, but only ~2% of adults initially diagnosed with IGT progressed to T2D in the same period.39 A large study of men in France reported that 5.4% of patients with IGT at baseline progressed to T2D after 3 years.40 Another large adult study in Denmark reported a progression from IFG or IGT to T2D of 4.0% per year,41 noticeably lower than the 24.2% reported for children and young people with T2D within 1.5 to 2 years from baseline (population contained different races).37 However, the adult rates were similar to those in predominantly White European pediatric studies.38, 42 Obesity was identified as a strong predictive factor of the escalation of IGT to T2D, as demonstrated by multiple linear regression analysis.37, 42 The severity of metabolic dysfunction has also been identified as a strong predictor of progression to T2D, as progression rates in patients with IGT and IFG have been identified as 2.8 times higher than those in patients with isolated IGT.41
+
+Mechanistic studies relating insulin secretion to glucose tolerance (including beta‐cell function) in youths compared with adults with IGT or T2D
+
+In a related, important study that used a mechanistic approach (rather than time‐to approach as described above) to compare young people and adults with IGT or recently diagnosed T2D, the RISE group reported one study of 66 young people (mean age 14 years, mean BMI 37 kg/m2; 80% with IGT) and 355 adults (mean age 53 years, mean BMI 35 kg/m2; 71% with IGT).43, 44 Although time from IGT to T2D was not reported in this study, the direct comparison of young people and adults with IGT or T2D makes its inclusion in this review important. Insulin sensitivity and beta‐cell function were measured using hyperglycemic clamp and extended OGTT. The young people and adults had similar weights (99 kg vs 101 kg) and BMIs (35 vs 36 kg/m2, respectively), although most BMIs were above the 97th centile for age and gender in the youth.43, 44 The young people had higher C‐peptide and insulin levels, and were 46% less insulin sensitive than the adults, although puberty status could not account for the total sensitivity reduction.43 It appeared that youth with IGT were operating from a different set point to adults on the disposition index scale, and were insulin hypersecretors.45 These young people demonstrated much higher C‐peptide and insulin responses than were needed to compensate for their lower insulin sensitivity, and one could speculate whether this contributes to a more rapid decline in pancreatic beta‐cell function in young people with IGT. Youth and adults with T2D had parallel and similar reductions in insulin secretion.44 These studies, and another from a center reporting data from children with NGT and obesity,46 highlight the importance of puberty as a driver for insulin resistance and metabolic health. The progression into puberty increased the risk (odds ratio [OR] 1.9, 95% confidence interval [CI] 1.3, 2.8) for developing a metabolically unhealthy profile, whereas changing from mid‐to‐late puberty increased the likelihood of switching back to a metabolically healthy profile (OR 3.1, 95% CI 2.1, 4.5).46
+
+Beta‐cell function decline in T2D in youths compared with adults
+
+Four studies described the decline in beta‐cell function associated with T2D in children and young people (Table 2). The Treatment Options for T2D in Adolescents and Youth (TODAY) study showed a yearly 20% to 35% decline in beta‐cell function in the 699 young people with T2D over a 4‐year follow‐up period, dependent on treatment group (metformin therapy, metformin plus lifestyle changes, and metformin plus rosiglitazone).18 In a smaller prospective study of six young people diagnosed with T2D within 3 years (mean age at baseline 14.4 years, BMI 37 kg/m2), the rate of beta‐cell function decline was approximately 20% per year over 12 to 16 months of follow‐up.11 A study of 39 young people diagnosed with T2D within 2.1 months (mean age 15.4 years, BMI‐SDS 2.4) confirmed this rapid rate of beta‐cell function decline, with disposition index declining by 25% per year over 2 years.13 The SEARCH for Diabetes in Youth study (SEARCH) is an ongoing population‐based, multicenter, and multiethnic study—data of 1277 children and young people with diabetes in the United States were analyzed, and a yearly beta‐cell function decline of 8% was reported.17 The reduced rate of beta‐cell function decline seen in the SEARCH study may be attributed to the trial design: the main subgroups compared were T1D autoantibody ‐positive and ‐negative, and the antibody‐negative group was subdivided into insulin‐sensitive and insulin‐ resistant with the assumption that the youth with T2D were in the antibody‐negative, insulin‐resistant group. These subgroup definitions, together with the fact that this study was population‐based rather than a specialist center study, suggest there may be some discrepancies between the outcomes identified from the subgroups defined here and those from subgroups in other studies.17
+
+The four studies described above did not include a direct comparison of youth‐onset and adult‐onset T2D data.11, 13, 17, 18 We identified two robust studies that explore beta‐cell function in adults with T2D.47, 48 The A Diabetes Outcome Progression Trial (ADOPT) study of 4360 adults with T2D (mean age 57 years, all diagnosed for less than 3 years, mean BMI 32 kg/m2) showed a decline in beta‐cell function of 6% to 11% per year.47 In the UK Prospective Diabetes Study (UKPDS) of 1305 adults recently diagnosed with T2D (mean age 59 years, mean BMI 26.8 kg/m2), the rate of pancreatic beta‐cell function decline was estimated at around 7% a year using the homeostasis model assessment %B index.17, 48
+
+Progression of microvascular complications
+
+Youth‐onset T2D compared with youth‐onset T1D
+
+We identified six articles on the progression of diabetes‐related retinal complications in children and young people with T2D (Table 3), although a range of diagnostic measures were used throughout the studies. A large clinic‐based survey compared the prevalence of diabetes complications in 1433 children and young people with T1D with 68 young people with T2D.27 While both groups were of similar age (median 15.5 years), those with T1D had a longer duration from diagnosis (median 6.8 years) than those with T2D (median 1.3 years). Retinopathy was more common in children with T1D than with T2D (20% vs 4%, respectively), as might be expected given the longer duration of diabetes.
+
+The SEARCH program reported a pilot study of 222 young people with T1D and 43 with T2D, all diagnosed under 20 years of age, and with median diabetes duration of 6.8 years.22 The prevalence of any retinopathy was 17% for T1D and 42% for T2D (OR 1.5, 95% CI 0.58, 3.88, P = .4, adjusted for age, duration, gender, race/ethnicity, parental education and glycated hemoglobin [HbA1c]). HbA1c was the strongest factor associated with development of retinopathy in this study: adjusted mean HbA1c was 9.4% in those with retinopathy compared with 8.6% in those without retinopathy.22 The SEARCH consortium then reported on its whole cohort of 1746 young people with T1D (mean age 17.9 years), and 272 with T2D (mean age 22.1 years), with a mean duration of diabetes of 7.9 years.23 Patients with T2D had a significantly higher age‐adjusted prevalence of retinopathy (9.1% vs 5.6%, OR 2.24, 95% CI 1.11, 4.5).
+
+Finally, Bronson‐Castain et al performed multifocal electroretinograms on 32 adolescents with T1D (mean diabetes duration 5.7 years) and 15 adolescents with T2D (mean diabetes duration 2.1 years) and age‐matched controls.19 Significant functional and structural changes were seen in 28% of adolescents with T1D and 40% of adolescents with T2D.19
+
+Neuropathy in youth‐onset T2D compared with T1D
+
+Rates of peripheral and autonomic neuropathy were explored by Eppens et al, and were found to be similar between the youth‐onset T2D and T1D groups.27 However, increases in neuropathy were noted in another study, with higher vibration perception threshold Z scores for patients with T2D compared with those with T1D.20
+
+Nephropathy in youth‐onset T2D compared with T1D
+
+The progression of renal complications in children and young people with T2D was described in eight publications (Table 3). The renal complications investigated were microalbuminuria and macroalbuminuria, nephropathy, diabetic kidney disease, and end‐stage renal disease. The large clinic‐based study by Eppens et al described above found a prevalence of microalbuminuria of 28% in youth with T2D compared with 6% in those with T1D,27 comparable to the age‐adjusted prevalence of nephropathy in the SEARCH study (19.9% vs 5.8% [OR 2.58, 95% CI 1.39, 4.81], respectively).23
+
+Dart et al compared the outcomes of youth‐onset diabetes in 1011 patients with T1D and 342 patients with T2D for a duration of follow‐up of 5.2 and 7.9 years, respectively.26 Youth‐onset T2D was associated with a fourfold increased risk of renal failure compared with youth‐onset T1D. Survival with renal complications was 100% after 10 years of diabetes in both groups; however, it decreased to 92% at 15 years and 55% at 20 years in the T2D group but remained stable in the T1D group. It is important to note that compared with the T1D group, the youth with T2D were older at diagnosis, mainly female, had higher BMI‐SDS scores, and twice as many patients with T2D had microalbuminuria at diagnosis compared to those with T1D (27% vs 13%). Patients with T2D had a lower socioeconomic status, and half the T2D cohort was homozygous or heterozygous for the hepatocyte nuclear factor‐1α polymorphism associated with this First Nation population. Additionally, significantly more youth with T2D had a mother with pregestational diabetes (P < .0001).26
+
+Youth‐onset T2D compared with adult‐onset T2D
+
+The study with the largest number of youths with T2D, the TODAY study, reported that the proportion with microalbuminuria increased from 6.3% at baseline (with an average HbA1c of 5.9%) to 16.6% over 3.9 years, or an approximate annual rate of 2.6% newly diagnosed patients.25 The most pertinent adult study with which to compare these TODAY results is the UKPDS study, which enrolled adults with newly diagnosed T2D and had a similar baseline prevalence of 6.5% microalbuminuria (urinary albumin excretion of 51‐299 mg/L)49 but higher HbA1c of 6.9%.50 The UKPDS participants had an annual rate of progression from microalbuminuria to proteinuria of 2% to 2.8%, and a 33% reduction in relative risk of microalbuminuria or proteinuria with more intensive blood glucose control.49, 50
+
+Other studies compared development of microvascular complications in patients with youth‐onset and adult‐onset T2D. A longitudinal population‐based study in Pima Indians in Arizona followed 96 patients with youth‐onset (under 20 years at diagnosis) T2D and 1760 patients with adult‐onset (over 20 years at diagnosis) T2D for over 20 years.31 Youth‐onset T2D was associated with a substantially higher incidence of end‐stage renal disease and mortality in middle age, compared with adult‐onset T2D.31 However, this was largely accounted for by the longer duration of diabetes by middle age in individuals diagnosed under 20 years. Crucially, for any duration of diabetes, participants with youth‐onset T2D had a lower risk of diabetic end‐stage renal disease and natural mortality than those with adult‐onset T2D.31
+
+Progression of macrovascular complications
+
+Youth‐onset T2D compared with T1D
+
+We identified 10 articles describing the progression to cardiovascular (CV) complications in children and young people with T2D (Table 3). A long‐term cohort study from Australia, established in 1986, linked hospital records with the Australian national death index to establish mortality outcomes for 354 patients with T2D with 470 patients with T1D, all with ages of onset between 15 and 30 years.20 Although this cohort contains both patients with youth‐onset and early adult‐onset T2D, the lack of alternative reliable data on long‐term outcomes justified this cohort's inclusion in this review. The median follow‐up period was 21.4 and 23.4 years for the T2D and T1D cohorts, respectively, during which time 8.6% of patients had died. CV mortality occurred in significantly more patients with T2D than with T1D (11% vs 6.8%, P = .03). Compared with the T1D cohort, deaths in the early onset T2D cohort occurred after a significantly shorter disease duration (26.9 vs 36.5 years, P = .0001), and at a relatively young age (52.9 ± SD 14.7 years of age vs 57.4 ± SD 12 years, respectively). There were more CV deaths in the early onset T2D cohort than the T1D cohort (50% vs 30%). This highly important cohort study highlighted some of the dangers associated with youth‐onset T2D: that the incidence of CV risk factors and CV mortality is increased in patients with early onset T2D compared with patients with early onset T1D.20
+
+The TODAY study included echocardiography undertaken 4.5 years from diagnosis of T2D (mean age 18 years).24 Even at this young age, adolescents with T2D had adverse measures of CV structure and function, which were positively related to BMI and blood pressure.24 These findings were also shown in an earlier study comparing adolescent females with T2D and T1D.36 Structural changes were also seen in a study by Shah et al, where carotid intima media thickness (cIMT), a widely used surrogate for atherosclerosis, was measured in 129 young people with T2D aged 10 to 23 years.34 Every 1% increase in HbA1c or 1 year increase in duration of diabetes was associated with a 30% increased odds of a thicker cIMT.34
+
+Plasma biomarkers for atherosclerosis include plasminogen activator inhibitor‐1 (PAI‐1) as a marker for promotion51 and adiponectin as a marker for inhibition of atherosclerosis.52 These were compared between 33 young people with T1D (mean age 14.9 years) and 43 young people with T2D (mean age 16.5 years).35 PAI‐1 levels were significantly higher (P < .001), and adiponectin levels significantly lower, in the T2D group than the T1D group (P < .005), suggesting that even in youth‐onset patients, T2D is a risk factor for macrovascular complications compared with T1D.35 This increased CV disease risk was also found and extended to additional plasma markers in a study comparing 106 youth‐onset T2D with 189 healthy controls.21
+
+Youth‐onset T2D compared with adult‐onset T2D
+
+During our search, we found literature that reported hypertension in 22% to 39% of children and young people with T2D after a disease duration of 1.3 to 7.9 years.23, 25, 27, 32 Hypertension is associated with obesity and often present at diagnosis of T2D in adult patients; the UKPDS study found 39% of patients were hypertensive at baseline.53
+
+Progression to treatment intensification
+
+We found a number of studies that described the progression of pharmacologic treatments in children and young people with T2D (Table 2). While progression to treatment intensification is a sign of disease progression, within these studies it was noted that patients may sometimes have a reduced need for treatment over time. It should also be noted that progression to insulin use may represent different severities of disease progression in pediatric and adult patients with T2D, and is not in any way a surrogate measure of beta‐cell function decline. Nambam et al found lower rates of insulin use in young patients with T2D 1 to <2 years postdiagnosis (17 on insulin monotherapy and 32 on metformin and insulin therapy) vs patients <1 year after diagnosis of T2D (26 on insulin monotherapy and 52 on metformin and insulin therapy), although numbers did rise again with a longer duration of disease.15 In the SEARCH study, 34% of patients on insulin at baseline (without or with an added oral antidiabetes drug [OAD]) were no longer continuing with insulin at follow‐up.16 Grinstein et al found the percentage of patients requiring OADs 1 to 4 years since diagnosis reduced from 73% to 45%, and over a 5‐year period, the number of patients who did not require treatment (insulin or OAD) increased from 6% to 37%.14 These different changes to patients' treatment regimens made it difficult to use progression in treatment intensification as a measure of disease progression.
+
+Perhaps the best comparison within this treatment section is time to treatment failure between childhood‐onset T2D and adult‐onset T2D. As mentioned, the TODAY study randomized 699 participants with youth‐onset diabetes to metformin alone, metformin plus rosiglitazone, or metformin plus lifestyle intervention.54 Of these patients, 45.6% reached the primary outcome of loss of glycemic control, with a median time to treatment failure of 11.5 months.54 A comparable study in adults (ADOPT) evaluated rosiglitazone, metformin, and glyburide as initial treatment for recently diagnosed T2D in 4360 adult patients (mean age 56.3‐57.9 years, diabetes duration 3‐4 years, BMI 32.1‐32.2 kg/m2, depending on the treatment group) treated for a median of 4 years with rosiglitazone and metformin, and 3.3 years with glyburide.55 As opposed to the 45.6% treatment failure observed in the TODAY study,54 only 15% reached failure (fasting glucose 10 mmol/L on consecutive testing) at 5 years with rosiglitazone, 21% with metformin, and 34% with glyburide.55 Comparison of these two intervention studies suggests that youth‐onset T2D has a faster rate of progression to treatment failure compared with adult‐onset T2D.
+
+Limitations
+
+The main limitations of our review are the variation of patient demographics between the studies and that no effect sizes were calculated. In several cases, the studies identified referred to a particular population and therefore the results of these studies may not be generalizable. Age at diagnosis, glycemia, and diabetes duration were inconsistently reported and varied considerably across the studies included in this review, so assessing how these parameters impacted the rate of disease progression was difficult. However, age at diagnosis and diabetes duration may also be misleading metrics, as the time between disease manifestation and clinical diagnosis may vary greatly between individuals.
+
+The methods used to diagnose diabetes and measure outcomes also varied between studies. Most studies did not make direct comparisons with adult patients with T2D and, therefore, we have used data from other adult‐only studies as a comparison, introducing yet other study designs and methodologies. The collated data generally showed a faster disease progression in the pediatric T2D population, but as the duration of disease differed, it is difficult to compare the proportions of patients with a complication across studies. Also, as with most research studies, these studies of pediatric patients with T2D were typically conducted in tertiary centers, which may limit the applicability of the data to patients normally seen in primary care. Finally, this was not a systematic review or meta‐analysis, so it is unknown how applicable our results are to the general pediatric population.
+
+CONCLUSIONS
+
+Through collating data from 31 papers and abstracts, we have shown that children with T2D are physiologically different to adults with T2D. Children and young people with IGT (or newly diagnosed T2D) had significantly higher C‐peptide and insulin levels than adults with the same conditions.43, 44 However, once T2D had developed, young people had similar reductions in insulin secretion as adults with T2D.44 Beta‐cell function declined faster than in adult‐onset T2D,11, 13, 17, 18 and severe obesity and an African‐American background were strong predictive factors of this decline.37 The progression of IGT to T2D in children and young people may be associated with an increased rate of beta‐cell deterioration compared with adults.43, 44 The development of nephropathy, neuropathy, and probably hypertension occurred earlier and progressed faster in youth‐onset T2D compared with youth‐onset T1D, although retinopathy and nephropathy progression were likely dependent on the duration of disease.20, 22, 23, 26, 27 The CV risk and mortality profile was worse in patients with youth‐onset T2D than with T1D.20 Finally, time‐to‐treatment failure was faster in patients with youth‐onset T2D than adult‐onset T2D.54, 55
+
+Upon assessing the data overall, it was apparent that some studies reported discordant results. Possible reasons for this large variation include the ethnicity/race and BMI/weight of patients, which are known risk factors for T2D.56 Some of the studies we reviewed enrolled young people from specialist centers, whereas others were population‐based. It is likely that these population/recruitment differences accounted for some of the variation in findings.
+
+Implications for practice
+
+These findings confirm the rapid progression of beta‐cell failure in youth‐onset T2D and show that complications arise early in the course of the disease. Moreover, they highlight the importance of screening for T2D complications from diagnosis, and then repeating these screens at least annually (as recommended by the International Society for Pediatric and Adolescent Diabetes guidelines).56 This approach should enable earlier intervention to reduce the development and progression of these complications and help mitigate the often devastating consequences of this disease in young patients.
+
+Progression of T2D in children and young people is rapid in terms of beta‐cell function deterioration, time to treatment failure and development of complications. Generally, these events occur more rapidly in children than adults. As poor glycemic control is associated with these three parameters, it is vital these young patients achieve and maintain target HbA1c levels as early as possible. Thus, new treatments approved for this age group are urgently required.
+
+CONFLICTS OF INTEREST
+
+T.B. received consultancy fees from Novo Nordisk, and has been UK chief investigator for two Novo Nordisk clinical trials, one Bristol Myers Squibb trial, and one AstraZeneca trial in pediatric T2D. He has also received an honorarium for a lecture for Servier.
+
+M.Y.J. received fees from Novo Nordisk as a principal investigator and for consultancy work. He is a principal investigator for two T2D studies for Merck Sharp and Dohme (MSD), also providing consultancy work for MSD. He declares honoraria from Nestle Nutrition Institute and Abbott Nutrition for consultancy and lectures.
+
+S.T. received fees from Novo Nordisk as a principal investigator and for consultancy work.
+
+M.H. has no further conflicts of interest to declare.
+
+N.S. received fees from Novo Nordisk for consultancy work.
+
+All authors of this review are members of the Novo Nordisk Pediatric Type 2 Diabetes Global Expert Panel, and as such have received honoraria from Novo Nordisk. Novo Nordisk also funded medical writing and editing support for this article. In addition to the above, the authors declare the following potential conflicts of interest:
+
+AUTHOR CONTRIBUTIONS
+
+The authors identified the need for this review article, helped to develop the search terms used and screened the search results. All authors reviewed drafts of the content and approved the final version for submission.
+
+Supporting information
+
+REFERENCES
+
+Prevalence of type 1 and type 2 diabetes among children and adolescents from 2001 to 2009
+
+Complications and comorbidities of T2DM in adolescents: findings from the TODAY clinical trial
+
+Incidence trends of type 1 and type 2 diabetes among youths, 2002‐2012
+
+Expanding treatment options for youth with type 2 diabetes: current problems and proposed solutions: a white paper from the NICHD diabetes working group
+
+Youth‐onset type 2 diabetes consensus report: current status, challenges, and priorities
+
+Type 2 diabetes
+
+The changing face of diabetes in youth: lessons learned from studies of type 2 diabetes
+
+Progressive deterioration of beta‐cell function in obese youth with type 2 diabetes
+
+Initial presentation of type 2 diabetes in adolescents predicts durability of successful treatment with metformin monotherapy: insights from the Pediatric Diabetes Consortium T2D Registry
+
+Beta‐cell function over time in adolescents with new type 2 diabetes and obese adolescents without diabetes
+
+Presentation and 5‐year follow‐up of type 2 diabetes mellitus in African‐American and Caribbean‐Hispanic adolescents
+
+A cross‐sectional view of the current state of treatment of youth with type 2 diabetes in the USA: enrollment data from the Pediatric Diabetes Consortium Type 2 Diabetes Registry
+
+Trends in glycemic medications and control in youths with type 2 diabetes (T2D): the SEARCH for diabetes in youth study
+
+Clinical evolution of beta cell function in youth with diabetes: the SEARCH for diabetes in youth study
+
+Effects of metformin, metformin plus rosiglitazone, and metformin plus lifestyle on insulin sensitivity and beta‐cell function in TODAY
+
+Early neural and vascular changes in the adolescent type 1 and type 2 diabetic retina
+
+Long‐term complications and mortality in young‐onset diabetes: type 2 diabetes is more hazardous and lethal than type 1 diabetes
+
+Cardiovascular risk factors among youth with and without type 2 diabetes: differences and possible mechanisms
+
+Diabetic retinopathy in the SEARCH for diabetes in youth cohort: a pilot study
+
+Association of type 1 diabetes vs type 2 diabetes diagnosed during childhood and adolescence with complications during teenage years and young adulthood
+
+Alterations in left ventricular, left atrial, and right ventricular structure and function to cardiovascular risk factors in adolescents with type 2 diabetes participating in the TODAY clinical trial
+
+Rapid rise in hypertension and nephropathy in youth with type 2 diabetes: the TODAY clinical trial
+
+High burden of kidney disease in youth‐onset type 2 diabetes
+
+Prevalence of diabetes complications in adolescents with type 2 compared with type 1 diabetes
+
+Incidence of retinopathy and nephropathy in youth‐onset compared with adult‐onset type 2 diabetes
+
+Glycemic control and diabetic dyslipidemia in adolescents with type 2 diabetes
+
+Relationship between retinopathy development and systemic factors in type 2 childhood diabetes
+
+Effect of youth‐onset type 2 diabetes mellitus on incidence of end‐stage renal disease and mortality in young and middle‐aged Pima Indians
+
+Clinical features and course of pediatric patients with type 1 and type 2 diabetes mellitus
+
+Estimated morbidity and mortality in adolescents and young adults diagnosed with type 2 diabetes mellitus
+
+Influence of duration of diabetes, glycemic control, and traditional cardiovascular risk factors on early atherosclerotic vascular changes in adolescents and young adults with type 2 diabetes mellitus
+
+Children with type 2 diabetes mellitus are at greater risk of macrovascular complications
+
+Structural and functional cardiac abnormalities in adolescent girls with poorly controlled type 2 diabetes
+
+Predictors of changes in glucose tolerance status in obese youth
+
+Impaired glucose tolerance in obese white children and adolescents: three to five year follow‐up in untreated patients
+
+The natural history of progression from normal glucose tolerance to type 2 diabetes in the Baltimore longitudinal study of aging
+
+Risk factors for NIDDM in white population: Paris prospective study
+
+Progression to impaired glucose regulation and diabetes in the population‐based Inter99 study
+
+One‐year follow‐up of untreated obese white children and adolescents with impaired glucose tolerance: high conversion rate to normal glucose tolerance
+
+Metabolic contrasts between youth and adults with impaired glucose tolerance or recently diagnosed type 2 diabetes: I. Observations using the Hyperglycemic clamp
+
+Metabolic contrasts between youth and adults with impaired glucose tolerance or recently diagnosed type 2 diabetes: II. Observations using the oral glucose tolerance test
+
+124‐OR: comparison of OGTT model‐derived measures of ß‐cell function between youth and adults
+
+Strong effect of pubertal status on metabolic health in obese children: a longitudinal study
+
+Effects of rosiglitazone, glyburide, and metformin on beta‐cell function and insulin sensitivity in ADOPT
+
+UKPDS 26: sulphonylurea failure in non‐insulin‐dependent diabetic patients over six years. UK Prospective Diabetes Study (UKPDS) Group
+
+Microvascular disease: what does the UKPDS tell us about diabetic nephropathy?
+
+Group US. Risk factors for renal dysfunction in type 2 diabetes: U.K. prospective diabetes study 74
+
+Elevated levels of plasminogen‐activator inhibitor type 1 in atherosclerotic aorta
+
+Adiponectin protein exists in aortic endothelial cells
+
+Hypertension in diabetes study group. Hypertension in diabetes study (HDS): II. Increased risk of cardiovascular complications in hypertensive type 2 diabetic patients
+
+A clinical trial to maintain glycemic control in youth with type 2 diabetes
+
+Glycemic durability of rosiglitazone, metformin, or glyburide Monotherapy
+
+ISPAD clinical practice consensus guidelines 2018: type 2 diabetes mellitus in youth
+

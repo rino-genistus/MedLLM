@@ -1,0 +1,282 @@
+TITLE: Meta-analysis of studies on depression prevalence among diabetes mellitus patients in Africa
+
+Diabetes mellitus is a group of metabolic diseases characterized by hyperglycemia resulting from defects in insulin secretion or insulin action. It can be caused by the consumption of carbohydrate meals or medication side effects. Depression as a comorbid condition in an individual with diabetes is accountable for increased disability, mortality, and significant health problem in patients. As a continent, Africa does not have an overall estimation of depression prevalence among diabetes mellitus patients at a regional level. Consequently, this study's purpose was to use the meta-analysis method to summarize estimates of extant studies that have reported depression prevalence among patients with diabetes mellitus in Africa. The literature search method was executed to classify studies with reported depression prevalence with evidently designed inclusion and exclusion criteria. In total, 20 studies from sundry screened articles were appropriate for ultimate inclusion in the meta-analysis. Since substantial heterogeneity was expected, a random-effects meta-analysis was carried out using the number of cases with a total sample size to estimate the prevalence of diabetes mellitus at a regional level. The residual amount of heterogeneity was found to be high according to the statistics of τ2 = 0.06; I2 = 99.10%, chi-square = 2184.85, degree of freedom = 19 and P =< 0.001. The pooled depression prevalence was 40% within a 95% confidence interval of 29%–51%. The meta-regression analysis result showed that none of the included moderators contributed to the heterogeneity of studies. The result of effect size estimates against its standard error showed publication bias with a P-value of 0.001. The meta-analysis findings of this study have indicated that depression prevalence in Africa is still high. Reporting on numerous risk factors like socio-demographic characteristics were not possible in this study because of a lack of completeness in the included articles. Consequently, screening diabetes patients for comorbid depression with its associated risk factors is highly recommended.
+
+Africa continent, Depression prevalence, Diabetes mellitus, Meta-analysis method, Statistical heterogeneity.
+
+Introduction
+
+It is increasingly apprehended that some diseases have become a significant public health threat in their prevention, control, and treatment. Such a problem negatively impacts communities' health status, resulting in a destructive consequence on mental health status. This doubles the problem for patients and people around them, resulting in irrevocable consequences on countries' health systems. However, diabetes mellitus (DM) is a metabolic disorder characterized by chronic hyperglycemia that causes carbohydrate, protein, and fat metabolism disorders. According to a World Health Organization (WHO) report, 425 million individuals aged 20–79 years suffered from DM in 2017. The number is expected to increase to 629 million by 2030. The connotation between depression and diabetes has been known for many years. Diabetes and depression are both severe, long-lasting conditions that negatively affect the quality of life, upsurge functional disability, and lessen life expectancy. Individuals living with diabetes have a likelihood of developing depressive symptoms, and individuals with depression can develop diabetes. There has been improved attention over the years in establishing the connection between diabetes and depression and how studies might enlighten practice. A significant body of indication has emphasized depression as common in individuals with diabetes than in the general population.
+
+Also, it has been steadily shown that depression is associated with an increased risk of morbidity and mortality in an individual with diabetes and that depression may harm observance of glucose-lowering treatments. Moreover, studies have advocated that psychological disorders often remain undiagnosed and are consequently not properly treated among individuals with diabetes. This subject is predominantly appropriate in Africa, where healthcare infrastructures have mostly engrossed in infectious diseases. The amalgamation of depression and diabetes between the more impoverished populations in low-income and middle-income countries could favor the development of diabetic complications and, eventually, enormous morbidity and mortality.
+
+According to WHO, approximately 80% of individuals with diabetes live in low-income and middle-income countries. The global prevalence of diabetes among adults over 18 years of age has risen from 4.7% in 1980 to 8.5% in 2014. Besides, the prevalence has been rising more rapidly in low-income and middle-income countries. In 2016, an estimated 1.6 million deaths were directly caused by diabetes. The regional prevalence of diabetes in Africa is estimated to be 3.1%, estimated at 15.9 million. However, the overall prevalence of diabetes in Africa is unknown because of the availability of minimal studies. Despite efforts to reduce this disease menace in African countries, global projections have shown that the Africa continent will experience the most significant future increase in the burden of DM of about 156% by 2045. Many studies have demonstrated that most individuals affected with diabetes experience higher anxiety, depression, and frustration than ordinary people. Among these disorders, depression has been reported as the second mental disorder globally. It is prevalent among patients with diabetes, making their lives even more challenging.
+
+Depression is a common and often recurrent disorder, which has several risk factors that have been documented in the literature. Some of these include comorbidities, mental illnesses, family history of depression adverse events of childhood. prior history of depression, treatment of depression, and treatment outcomes. Also, they include physical inactivity, smoking, having a chronic disease, and unhealthy eating styles. Most clinical guidelines have recommended regular screening of depression for diabetes. Depression as a comorbid condition in an individual with diabetes is accountable for increased disability, mortality, and significant health burden on patients. Despite the consequences of comorbid depression, diabetes, and their effects on public health in Africa, the overall rate of depression prevalence among patients with diabetes has remained unknown. Meanwhile, there has been an increase in the number of studies on depression prevalence across Africa. The measurement of depression or comorbidity in patients with diabetes can promote society's overall health status; it can avoid negative effect of depression and even prevent diabetes-related complications.
+
+The subtle distinction between the present study and other similar studies is that most previous studies have been carried out in a country. Most importantly, no study has been conducted on this issue across Africa, which can provide a comparative lens. It is germane to comprehend the prevalence and spreading of depression at the regional level of Africa to expand health outcomes of individuals with depression due to comorbidities in diabetes mellitus. We have repossessed and reviewed publications related to diabetes in Africa's broader scope in the present meta-analysis study. The accurate global and regional level estimates and projections of depression prevalence among diabetic patients are practically essential for holistic prevention and treatment policies to be strategic. It can provide a useful barometer for checking and assessing regional contributions to accomplishing the set targets for a global action plan of non-communicable diseases and sustainable development goals. Consequently, this study's cardinal objective was to summarize the estimates that have reported depression prevalence among patients with diabetes mellitus across African countries. The outcome of this study may help health policy makers to develop improved control and prevention plans that can minimize the menace emanating from the disease on means of support for citizens.
+
+Materials and methods
+
+Study design and search strategy
+
+Flow diagram of database searches based on PRISMA standard.
+
+Figure 1
+
+Literature search was conducted to identify all published studies that have reported an incidence of depression prevalence among diabetes mellitus in Africa. The literature search strategy, selection of publications, data extraction, and reporting results were executed following the guidelines of preferred reporting items for systematic reviews and meta-analyses (PRISMA). In this meta-analysis, we searched scholastic databases of Web of Science, Scopus, and PubMed for relevant published articles. These databases were searched for English papers published between 2010 and 2020. During a comprehensive literature search, the search terms that were used are “depression prevalence among diabetes in Africa,” “depression OR diabetes in Africa,” “depression AND diabetes in Africa.” Moreover, relevant articles were searched using the combinations of medical subject heading (MeSH) terms and text words in PubMed. The specific MeSH search terms include (‘depressive disorder’[MeSH Terms] OR (‘depressive’[All Fields] AND ‘disorder’[All Fields]) OR ‘depressive disorder’[All Fields] OR ‘depression’[All Fields] OR ‘depression’[MeSH Terms]) AND (‘diabetes mellitus’[MeSH Terms] OR (‘diabetes’[All Fields] AND ‘Mellitus’[All Fields]) OR ‘diabetes mellitus’[All Fields] OR ‘diabetes’[All Fields] OR ‘diabetes insipidus’[MeSH Terms] OR (‘diabetes’[All Fields] AND ‘insipidus’[All Fields]) OR ‘diabetes insipidus’[All Fields]) AND (‘Africa’[MeSH Terms] OR ‘Africa’[All Fields]). The search terms were separated or combined using Boolean operators such as “OR” or “AND.” Identified studies by search strategies were imported into EndNote X9. A total of 1200 published articles between 2010 and 2020 were identified (Figure 1). As a complementary procedure, reference lists of relevant studies were checked manually for any citations missed by electronic database searching.
+
+Inclusion criteria
+
+The inclusion criteria for articles were studies conducted to determine the depression prevalence in diabetes patients. A study investigating various aspects of depression and diabetes epidemiology, well-written in English language, published between 2010 and 2020, and conducted with a focus on Africa.
+
+Exclusion criteria
+
+Articles written in languages other than English, published before January 2010, with study designs such as review, letters to editors, editorials, commentaries, expert opinions, books, book chapters, brief reports, and thesis, or with difficulties in calculating prevalence, were excluded. Those in conferences, grey literature, studies conducted outside Africa, and literature that failed to report depression prevalence were excluded.
+
+Quality assessment and critical appraisal
+
+In this meta-analysis, each article's qualities were evaluated using a critical appraisal tool for systematic reviews for prevalence study. The identified methodological quality and eligibility of articles were assessed by two experienced reviewers (REO and OOO), and disagreements among reviewers were fixed accordingly with discussion. A modified version of a Newcastle-Ottawa scale for cross-sectional study adapted from was used to evaluate quality. Studies with no report regarding the number of depressed patients were calculated manually by multiplying the prevalence of depressive disorders by a total of the study population. Depression prevalence was not reported in the whole population but was separately reported in males and females, and the overall prevalence was computed using the weighted mean proportion method.
+
+Data synthesis and statistical analysis
+
+The extracted data were captured into an excel spreadsheet. Statistical analyses were done using the metaprop_one, metareg, and metafunnel of Stata software version 15. A meta-analysis of the prevalence of depression data was analyzed and pooled the estimates and 95% confidence intervals. Pooled effect size (ES) and 95% CI for both were estimated using the random-effects model to reduce weighted effect size alongside every individual study. Because substantial heterogeneity was expected, a random-effects meta-analysis was done to estimate heterogeneity being taken from an inverse-variance model. In the random-effect model, it is assumed that the effect size can fluctuate starting with one study then onto the next, and there is a distribution of effect sizes rather than one actual effect size. In this meta-analysis, the chi-square test statistic (Q) was performed to find the presence of heterogeneity among the studies, τ2 was calculated to find between studies variance, and I2 was premeditated to measure the proportion of variation due to heterogeneity among the included studies.
+
+Sub-group analysis was performed to investigate the heterogeneity among the studies based on region, which was categorized as East, West, North, and South according to the reported studies location. Combining only the published studies may lead to an insignificant or bias result in meta-analysis. Thus, this study used a funnel plot to report publication bias among the included studies. Publication bias is an inevitable problem in systematic review and meta-analysis. It is also one of the main threats to the validity of meta-analysis. It occurs when the outcome of a research study influences whether to publish or not. It can lead to the formulation and testing of hypotheses based on false impressions from the scientific literature. Thus, publication bias's impact should be assessed to conclude the generalizability and limitations of the cumulative findings. Publication bias analysis aims to identify to which degree publication bias influences the summary outcome, thus assesses the validity of the core findings. Therefore, in this study, publication bias was assessed using the Begg & Eggers test and visual inspection of the funnel plot. Meta-regression was used to explore factors possibly contributing to the between-study heterogeneity. Univariate regression analysis was done for variables, study year of publication, and tools used.
+
+Results
+
+A total of 623 studies were identified from the literature search, of which 418 articles with duplicate records were identified and removed. The review of titles and abstracts has resulted in the exclusion of 158 irrelevant articles. After assessing the remaining articles’ full texts, additional 13 articles were excluded because of incomplete data. Moreover, based on the inclusion and exclusion criteria for entry into the study, 14 studies were excluded as they did not meet the inclusion criteria. Finally, 20 relevant articles were found eligible and enrolled in the final meta-analysis.
+
+Publication characteristics
+
+Characteristics of studies included in the systematic review and meta-analysis.
+
+Table 1
+
+ID	Author	Year	Study design	Country	Region	Sample	Prevalence	Tools	Reference	 	1	Akena et al.	2015	Cross-sectional	Uganda	East	437	34.8	-		 	2	Agbir et al.	2010	Cross-sectional	Nigeria	West	60	19.4	DSM-IV		 	3	Camara et al.	2015	Cross-sectional	Guinea	West	491	34.4	HADS		 	4	Akpalu et al.	2018	Cross-sectional	Ghana	West	400	31.3	PHQ-9		 	5	Ellouze et al.	2017	Cross-sectional	Tunisia	North	100	38	MAS		 	6	Igwe et al.	2013	-	Nigeria	West	540	27.8	MINI		 	7	Khan et al.	2019	Cross-sectional	Tanzania	East	353	87	PHQ-9		 	8	Habtewold et al.	2016	Cross-sectional	Ethiopia	East	276	44.7	PHQ-9		 	9	Ramikisson et al.	2016	Cross-sectional	South Africa	South	401	78	PHQ-9		 	10	Shirey et al.	2015	Cross-sectional	Kenya	East	253	20.9	PHQ-2		 	11	Elaaty et al.	2019	-	Egypt	North	400	76	HADS		 	12	Engidaw et al.	2020	Cross-sectional	Ethiopia	East	403	41.2	PHQ-9		 	13	Domingo et al.	2015	-	South Africa	South	388	15.5	KPDS		 	14	Erkie et al.	2013	-	Ethiopia	East	313	61	HDRS		 	15	Jansen et al.	2018	Cross-sectional	South Africa	South	176	46.6	PHQ-9		 	16	Dejene et al.	2014	Cross-sectional	Ethiopia	East	335	43.6	PHQ-9		 	17	Gebre et al.	2020	Cross-sectional	Ethiopia	East	260	41.5	PHQ-9		 	18	Mossie et al.	2017	Cross-sectional	Ethiopia	East	264	17	BDI		 	19	Udedi et al.	2019	Cross-sectional	Malawi	East	323	41	PHQ-9		 	20	Manoudi et al.	2012	Cross-sectional	Morocco	North	187	41.2	MINI
+
+In the current meta-analysis, 20 studies with 6360 participants were included, as summarized in Table 1. It can be seen from the table that of these included studies, four studies were from West Africa, ten studies were from East Africa, and three studies were from each of Southern Africa and North Africa. Depression prevalence from 4 regions of Africa across 12 countries is presented in this current study. The remaining countries were excluded because of the inability to get an article that matched the inclusion criteria. Most included articles (30%) have reported on depression prevalence in Ethiopia, followed by South Africa (15%) followed by Nigeria (10%), while other countries had one publication each. The included studies used different instruments to evaluate depression status. Personal health questionnaire (PHQ-9) (n = 6), DSM-IV (n = 2), Beck depression inventory (BDI) (n = 1), MAS (n = 2), Major depression inventory (MDI) (n=) and Hospital anxiety and depression scale (HADS) (n = 2) were utilized. There were studies that assessed depression status using other validated questionnaires such as Mini-international neuropsychiatric interview, Hamilton depression rating scale (HDRS), and Kessler psychological distress scale (K10) (Table 1).
+
+Meta-analysis
+
+Forest plot of global depression prevalence in patients with diabetes mellitus.
+
+Figure 2
+
+Random-effects model meta-analysis was carried out using total sample size and prevalence based on effect size and standard error of effect size to estimate the depression prevalence among patients with diabetes mellitus in Africa. Between-study variability (residual amount of heterogeneity) was high according to the statistics of τ2 = 0.06, heterogeneity I2 = 99.1% with heterogeneity chi-square (Q) = 2184.85, a degree of freedom = 19 and P = <0.001. The residual amount of heterogeneity indicates the extent of variability as compared with effect size. Besides, the percentage of total variation resulting from heterogeneity across studies is substantial for I2. These findings generally imply that the proportion of total variance among pooled studies can be attributed to accurate heterogeneity in effect sizes. The heterogeneity chi-square test result obtained in this study affirmed the statistical significance of heterogeneity in effect sizes. The high value indicates strong evidence of homogeneity in effect sizes. Individual study prevalence estimates ranged from 1% to 87%, with an overall random pooled prevalence of 40% within a 95% confidence interval (CI) of 29%–51%. Studies weighted roughly similarly, with weights on individual studies ranging from 4.88% to 5.04 %. Figure 2 presents the forest plot derived from the meta-analysis, depicting the studies, effect sizes, CI, and weight.
+
+Sub-group analysis
+
+Subgroup analysis for comparison of depression prevalence in Africa.
+
+Table 2
+
+Region	No. of studies	Prevalence 95% CI	I2%	Q	Heterogeneity test	 	Degrees of freedom	p-value	 	East	10	41 (25–57)	99.07	971.24	9	<0.001	 	West	4	23 (11–34)	96.62	88.79	3	<0.001	 	North	3	52 (25–79)	0.00	0.00	2	<0.001	 	South	3	47 (4–90)	0.00	0.00	2	<0.001	 	Overall	20	40 (29–51)	99.13	2184.85	19	<0.001
+
+The bold mentions the overall statistics show a significant heterogeneity between studies across subgroups based on the regions at p = 0.001.
+
+Subgroup analysis was done for the selected grouping to examine the sources of heterogeneity. The central void of heterogeneity metrics is that they only provide global measures without additional information about heterogeneity sources. The inherent void demands that subgroup analysis be performed to unveil sources of heterogeneity. Subgroup analysis is the splitting of participant data into subgroups to establish comparisons between sub-data. The interpretation of subgroup meta-analysis can lead to informative insights into the moral implication that would not be obtained from the non-subgroup analysis. The subgroup analysis per individual region in Africa indicated large variability in studies reporting depression prevalence among patients with diabetes mellitus. This result is supported by summary statistics, as shown in Table 2. The result for East Africa has shown the Higgins I2 statistic = 99.07% with Heterogeneity chi-square = 971.24, a degree of freedom = 9 and P = <0.001. They are Higgins I2 statistic = 96.62% with Heterogeneity chi-square = 88.79, a degree of freedom = 3 and P = <0.001 for West Africa. In North Africa, they are Higgins I2 statistic = 0.00%, a degree of freedom = 2 and P = 0.00. Finally, for Southern Africa, they are Higgins I2 statistic = 0.00%, a degree of freedom = 2 and P = 0.00.
+
+Comorbid depression in patients with diabetes mellitus by stratification based on regions of Africa.
+
+Figure 3
+
+Figure 3 shows the forest plot of the graphical representation of estimated results of depression prevalence per region. The subtotal random pooled estimate of the prevalence of diabetes mellitus was estimated at 41% with 95% CI of 28%–57% in East Africa, 23% at 95% CI of 11%–34% in West Africa, 52% with 95% CI of 25%–79% in North Africa, and 47% with 95% CI of 4%–90% in Southern Africa.
+
+Meta-regression
+
+Meta-regression model to assess sources of heterogeneity of depression prevalence.
+
+Table 3
+
+Sources of heterogeneity	Estimates	Standard error	95% CI	P-value	 	Year of publication	0.073	0.048	(-0.029, 0.175)	0.151	 	Tools	-0.056	0.076	(-0.218, 0.105)	0.470	 	Constant	-147.373	97.541	-353.167, 53.421)	0.149
+
+The bold mentions the overall statistics show a significant heterogeneity between studies across subgroups based on the regions at p = 0.001.
+
+Meta-regression based on year of publication.
+
+Figure 4
+
+Due to variation in sample size, studies, inclusion criteria, and methodology utilized, heterogeneity examination in meta-analysis becomes inevitable. The value of I2 in this meta-analysis is high, which justifies applying a random effect model to adjust for the observed variability. Besides, there is still the presence of heterogeneity in the sub-group analysis. The last stage of heterogeneity examination was to screen the parameters that are likely to cause heterogeneity, for which the method of meta-regression was deployed. The meta-regression analysis was used to investigate further the sources of heterogeneity, and based on the previous finding; it is preferable to sub-group analysis for heterogeneity examination. It allows for the concomitant assessment of multiple covariates. The parameters of the year of publication and tools applied to conduct the study were examined as moderators in the meta-regression model. All moderators included were not statistically significantly associated with depression prevalence in a linear meta-regression. Hence, we can affirm concretely whether heterogeneity is because of the significant difference in sample size. The final meta-regression analysis result has been summarized in Table 3, and the corresponding meta-regression graph is illustrated in Figure 4.
+
+Publication bias
+
+Funnel plot of depression prevalence among diabetes mellitus patients in Africa.
+
+Figure 5
+
+Publication bias was assessed by funnel plot and Egger test for small-study effects. Literature has recommended evaluating publication bias in meta-analysis to draw a reasonable conclusion about the generalizability of cumulative findings that can be affected by biases. The aim was to identify the degree to which biasedness influences the study outcome to determine the validity of core findings. The funnel plot is a standard visual method for identifying publication bias. It is a scatterplot of log odd ratio against effects size (ES) computed by log odd ratio. The central idea is that studies should be symmetrically spread to the left and right of a vertical line marking the pooled ES if no relevant findings are missing. The funnel plot asymmetrically indicated publication bias because a higher percentage (60%) of studies were outside a triangular region (Figure 5). The vertical and diagonal dashed lines represent pooled effect estimate and 95% CI, respectively, and each point in the plot represents a separate study. The vertical axis represents the standard error; the horizontal axis represents the logit transformed of estimates and the asymmetric of the plot signalizes publication bias. This implies that only a smaller proportion (40%) of studies were within the triangular region.
+
+Egger test for assessment of publication bias.
+
+Table 4
+
+Standard Effect	Coefficient	t-value	95% Confidence Interval	p-value	 	Slope	0.334	1.05	(-0.333, 1.002)	0.306	 	Bias	-11.359	-3.84	(-17.573, -5.145)	0.001
+
+The estimates of effect sizes against its standard error showed publication bias with a p-value of 0.001, as shown in Table 4.
+
+Discussion
+
+The current meta-analysis study was aimed at estimating depression prevalence in patients with diabetes in Arica. There was scarceness of data on depression as a comorbid with other chronic diseases. In the previous meta-analysis, investigators aimed to compare the prevalence of comorbid depression in patients with either type I or type II diabetes and limited their studies to a particular country in their review. Previous reviews of depression in African countries did not focus on the entire continent. This is the meta-analyses on depression prevalence in the continent of Africa to the best of our ability. The results presented in this paper were from the analysis of data obtained through a systematic review of scientific publications on depression prevalence in four regions of African up to the year 2020. The final quantitative and meta-analysis of depression prevalence were done only on 20 articles that met the study inclusion criteria. The random-effect meta-analysis result has shown high variability with Higgin I2, which indicates that variability among studies was not by chance alone. Due to the considerable variability among studies, the random-effects meta-analysis weight of studies was nearly equal. However, the meta-regression analysis moderators were not statistically significant in explaining the variability observed in the current study's findings. The findings of this study have affirmed a higher, statistically significant pooled depression prevalence in Africa.
+
+This study has estimated the prevalence rate of depression among patients with diabetes in Africa to be 40% across African regions, requiring the attention of health policymakers. This finding aligns with previous studies. The intrinsic limitation of their studies is that they did not consider the generality of the Africa continent. Moreover, compared with a global estimate that examined a particular type of diabetes, their findings reported that depression prevalence was lower in Europe (24%), Australia (29%), and Asia (32%) compared to the continent of Africa. In contrast, other studies have reported a similar and higher depression prevalence among diabetic patients than in the current study. A possible explanation for this might be because of strong family affiliation and social support in African society. Besides, the subtle difference can be attributed to sample sizes and socio-demographic characteristics of study participants. This study's main finding has affirmed that depression is a common comorbid condition among diabetes patients in Africa, consistent with other findings worldwide.
+
+This study's findings based on subgroup analysis have affirmed that depression prevalence in Africa's northern region was higher than in other continental regions. This inference is reasonable because the study has investigated a regional comparison. Thus, we can affirm that the variance could be explained by variation in education status, socioeconomic status, healthcare coverage, and other socio-cultural factors between the northern region versus other regions of Africa. Nevertheless, further population-based research would help illuminate the subtle difference in depression prevalence among individuals with diabetes from the northern region against other African regions and appraise factors that might lead to such discrepancies. This would be helpful in the development of primary deterrence policies.
+
+This review has provided valuable information regarding depression prevalence among diabetes patients in Africa. However, some limitations could be addressed in future systematic reviews and meta-analysis studies because of lack of information in many African countries. The implication could lead to the likelihood of inaccuracies in reporting depression prevalence in patients with diabetes in a region. Measurement bias and residual confounding will inevitably influence this meta-analysis using secondary data of a study assessing a different primary outcome. Besides, due to the small sample size of available relevant included studies and samples of most of the studies not being population-based, the prevalence estimate is disposed to be unstable. The other limitation observed from this study is the use of information based on the cross-sectional design. This implies that temporal directions of associations among reciprocally connected variables could not be defined. The other constraint observed was that published articles in English were only included in the meta-analysis, which may exclude critical information reported in other dialects. The meta-analysis included a relevant study of diabetes patients that cut across different regions of Africa and conducted subgroup analysis based on relevant factors. Like other analogous studies, a comprehensive review of available literature provides a systematic identification of gaps and limitations, leading to improved future research designs.
+
+Conclusion
+
+In conclusion, this meta-analysis study has revealed that depression prevalence among diabetes patients in Africa is high. North Africa region has reported the highest depression prevalence among studies conducted and lowest prevalence rates in West Africa. The findings of this study have important policy implications for the African government. It could help improve the decision-making process and make the required data available for planning and providing better care services for those in dare need. The high variability among different studies included in the current meta-analysis may impact estimating pooled prevalence at a regional level. Consequently, the study has indicated that regionally harmonized inhibition and control programs should be in place to reduce the menace of diabetes. Besides, health practitioners should endeavor to incorporate specialized mental healthcare services for patients with diabetes, especially in those communities that have reported high prevalence.
+
+Declarations
+
+Author contribution statement
+
+Ropo Ebenezer Ogunsakin: Conceived and designed the experiments; Performed the experiments; Analyzed and interpreted the data; Contributed reagents, materials, analysis tools or data; Wrote the paper.
+
+Oludayo O. Olugbara Conceived and designed the experiments; Contributed reagents, materials, analysis tools or data; Wrote the paper.
+
+Sibusiso Moyo: Conceived and designed the experiments; Wrote the paper.
+
+Connie Israel: Contributed reagents, materials; Wrote the paper.
+
+Funding statement
+
+This research did not receive any specific grant from funding agencies in the public, commercial, or not-for-profit sectors.
+
+Data availability statement
+
+Data included in article/supplementary material/referenced in article.
+
+Declaration of interests statement
+
+The authors declare no conflict of interest.
+
+Additional information
+
+No additional information is available for this paper.
+
+References
+
+Depression among medical outpatients with diabetes: a cross-sectional study at Jos University Teaching Hospital, Jos, Nigeria
+
+The association between depression, quality of life, and the health care expenditure of patients with diabetes mellitus in Uganda
+
+Depression and glycaemic control among type 2 diabetes patients: a cross-sectional study in a tertiary healthcare facility in Ghana
+
+Associations of foot ulceration with quality of life and psychosocial determinants among patients with diabetes; a case-control study
+
+The prevalence of comorbid depression in adults with diabetes: a meta-analysis
+
+Centers for disease control and prevention guideline for the prevention of surgical site infection, 2017
+
+A basic introduction to fixed-effect and random-effects models for meta-analysis
+
+Prevalence of anxiety and depression among diabetes African patients in Guinea: association with HbA1c levels
+
+Predictors of long-term prognosis of depression
+
+Depression and diabetes in jimma university specialized hospital, Southwest Ethiopia
+
+Meta-analysis in clinical trials
+
+Investigating the association between diabetes mellitus, depression and psychological distress in a cohort of South African teachers
+
+Diabetes and depression: global perspectives
+
+Assessment of comorbid mild cognitive impairment and depression in patients with type 2 diabetes mellitus
+
+Depression in Tunisian type 2 diabetes patients: prevalence and association to glycemic control and to treatment compliance
+
+Prevalence of depression and its associated factors among patients with diabetes mellitus at Tirunesh-Beijing general hospital, Addis Ababa, Ethiopia
+
+Magnitude, clinical and socio-demographic correlate of depression in diabetic patients, Addis Ababa, Ethiopia
+
+Depression and its predictors among diabetes mellitus patients attending treatment in Hawassa university comprehensive specialized hospital, Southern Ethiopia
+
+The health and productivity cost burden of the “top 10” physical and mental health conditions affecting six large US employers in 1999
+
+Depression and diabetes treatment nonadherence: a meta-analysis
+
+Explanatory models of adult patients with type 2 diabetes mellitus from urban centers of central Ethiopia
+
+Screening, evaluation and management of depression in people with diabetes in primary care
+
+Quantifying heterogeneity in a meta-analysis
+
+Factors associated with depression and suicide among patients with diabetes mellitus and essential hypertension in a Nigerian teaching hospital
+
+Anxiety and depressive symptoms as predictors of all-cause mortality among people with insulin-naïve type 2 diabetes: 17-year follow-up of the second Nord-Trøndelag health survey (HUNT2), Norway
+
+Major depressive disorder in patients with diabetes mellitus in Pietermaritzburg, South Africa
+
+Depression, anxiety and stress symptoms among diabetics in Malaysia: a cross sectional study in an urban primary care setting
+
+The prevalence of comorbid depression in patients with type 2 diabetes: an updated systematic review and meta-analysis on huge number of observational studies
+
+Prevalence of depression and associated factors among diabetes patients in an outpatient diabetes clinic
+
+Diagnosis, classification, and pathogenesis of diabetes mellitus
+
+Undertreatment of mental health problems in adults with diagnosed diabetes and serious psychological distress: the behavioral risk factor surveillance system, 2007
+
+Maltreatment in childhood substantially increases the risk of adult depression and anxiety in prospective cohort studies: systematic review, meta-analysis, and proportional attributable fractions
+
+Does diabetes-related distress explain the presence of depressive symptoms and/or poor self-care in individuals with Type 1 diabetes?
+
+Health transition in Africa: practical policy proposals for primary care
+
+Depressive disorders in diabetic patients at the Mohammed VI university hospital in Marrakech, Morocco
+
+Projections of global mortality and burden of disease from 2002 to 2030
+
+Screening for depression in patients with diabetes mellitus
+
+Depression and type 2 diabetes in low-and middle-income countries: a systematic review
+
+The projected effect of increasing physical activity on reducing the prevalence of common mental disorders among Canadian men and women: a national population-based community study
+
+The projected effect of risk factor reduction on major depression incidence: a 16-year longitudinal Canadian cohort of the National Population Health Survey
+
+Depression and type 2 diabetes over the lifespan: a meta-analysis
+
+Preferred reporting items for systematic reviews and meta-analyses: the PRISMA statement
+
+Prevalence of depression and associated factors among diabetic patients at Mekelle City, North Ethiopia
+
+The development of a critical appraisal tool for use in systematic reviews addressing questions of prevalence
+
+Meta-evaluation of meta-analysis: ten appraisal questions for biologists
+
+Indian diabetes risk score for screening of undiagnosed diabetic subjects of Bhopal city
+
+Anxiety, depression and sleep disorders in patients with diabetes neuropathic pain: a systematic review
+
+Type 2 diabetes mellitus as a risk factor for the onset of depression: a systematic review and meta-analysis
+
+Increased risk of incident chronic kidney disease, cardiovascular disease, and mortality in patients with diabetes with comorbid depression
+
+Does diabetes double the risk of depression?
+
+Should we screen for emotional distress in type 2 diabetes mellitus?
+
+Anxiety, depression and psychological well-being in a cohort of South African adults with Type 2 diabetes mellitus
+
+The relation between eating-and weight-related disturbances and depression in adolescence: a review
+
+Clinical differences between early and late remission in depressive patients
+
+Symptoms of depression among patients attending a diabetes care clinic in rural western Kenya
+
+The validity of the patient health Questionnaire-9 to screen for depression in patients with type-2 diabetes mellitus in non-communicable diseases clinics in Malawi
+
+Comorbid anxiety disorders in late-life depression: results of a cohort study
+
+Depression and risk of mortality in people with diabetes mellitus: a systematic review and meta-analysis
+
+Advanced methods in meta-analysis: multivariate approach and meta-regression
+
+A 30-year study of 3 generations at high risk and low risk for depression
+

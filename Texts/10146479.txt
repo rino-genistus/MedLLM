@@ -1,0 +1,896 @@
+TITLE: Time to diabetic neuropathy and its predictors among adult type 2 diabetes mellitus patients in Amhara regional state Comprehensive Specialized Hospitals, Northwest Ethiopia, 2022: A retrospective follow up study
+
+Background
+
+Diabetic neuropathy is the primary cause of foot ulcers and amputations in both industrialized and poor countries. In spite of this, most epidemiological research on diabetic neuropathy in Ethiopia have only made an effort to estimate prevalence, and the information underlying the condition’s beginning is not well-established. Therefore, determining the time to diabetic neuropathy and its variables among adult patients with type 2 diabetes mellitus at the Compressive Specialized Hospitals of the Amhara region was the aim of this study.
+
+Methods
+
+An institutional-based retrospective follow-up study was undertaken among 669 newly recruited adult patients with type 2 diabetes mellitus who were diagnosed between the first of March 2007 and the last day of February 2012. Patients with diabetic neuropathy at the time of the diagnosis for type 2 diabetes mellitus (T2DM), patients without a medical chart, patients with an unknown date of DM diagnosis, and patients with an unknown date of diabetic neuropathy diagnosis were excluded from the study. All newly diagnosed type 2 diabetes mellitus (T2DM) patients aged 18 years and older who were enrolled from 1st March 2007 to 28th February 2012 in selected hospitals were included in this study. Cox proportional hazard model was fitted to determine predictors of time to diabetic neuropathy, and the Kaplan Meier survival curve was used to assess the cumulative survival time. Variables with a p-value < 0.05 were considered to be statistically significance at 95% confidence interval.
+
+Results
+
+The restricted mean survival time of this study was 179.45 (95% CI: 173.77–185.14) months. The overall incidence rate of diabetic neuropathy was 2.14 cases per 100 persons-years. Being aged > 60 years [AHR = 2.93(95% CI: 1.29–6.66)], having diabetic retinopathy [AHR = 2.76(95% CI: 1.84–4.16)], having anemia [AHR = 3.62 (95% CI: 2.46–5.33)], having hypertension [AHR = 3.22(95% CI: 2.10–4.93)], and baseline fasting blood sugar > 200 mg/dl [AHR = 2.56(95% CI: 1.68–3.92)] were the predictors of diabetic neuropathy.
+
+Conclusion
+
+The risk of occurrence of diabetic neuropathy among type two diabetes mellitus patients was high in the early period. Age > 60 years, diabetic retinopathy, anemia, baseline fasting blood sugar level > 200 mg/dl, and hypertension were the main predictors of incidence of diabetic neuropathy. Therefore, early detection and appropriate interventions are important for patients with old age, diabetic retinopathy, anemia, hypertension, and FBS > 200mg/dl.
+
+Background
+
+Diabetes mellitus is a group of metabolic disorders that affect the metabolism of fat, carbohydrates, and proteins and are defined by hyperglycemia brought on by impaired insulin production, insulin action, or both. It is in charge of both sudden and recurring difficulties. Hypoglycemia, diabetic ketoacidosis, and hyperosmolar hyperglycemia syndrome are all part of the acute complication. Both macro-vascular complications, which affect big and medium-sized blood vessels, and micro-vascular complications, which impact small blood vessels, are classified as chronic complications. Atherosclerosis, cerebrovascular disease, stroke, hypertension, and coronary heart disease are among the macro-vascular complications of diabetes mellitus.
+
+After all other causes have been ruled out, diabetic neuropathy (DN) is defined as any sort of nerve injury linked to diabetes. Diabetic neuropathies occur in a variety of forms, including proximal, autonomic, focal, and peripheral neuropathy. One of the most significant micro vascular consequences of DM and the most frequent reason for foot ulceration and amputation is diabetic neuropathy.
+
+Diabetic Neuropathy (DN) is a global health care problem for both developed and developing countries. It is estimated that every 30 seconds somewhere in the world, a lower limb or part of the lower limb is lost due to diabetes. Diabetic Neuropathy accounts for 80% of foot ulceration and 50–60% of non-traumatic limb amputations performed due to diabetic neuropathy and the problem is growing. Globally, the pooled prevalence of diabetic neuropathy among patients with diabetes ranges from 22–46.5%. In Africa 22–66% of diabetic patients developed diabetic neuropathy and in Ethiopia it ranges from 52.2–53.6%. The prevalence of diabetic neuropathy is high in developing countries due to late diagnosis, scarcity of screening and diagnosing resources, poor control of blood glucose, rise in the cost of health expenditures, poor medical facilities, and lack of adequate service for diabetic care. In addition to this patients with DN suffer from severe pain, frequent disturbance of sleep, decrease work productivity, increase the cost of treatment due to prolonged hospitalization, inability to work due to physical limitation and frequent hospitalization, patient quality of life seriously affected due to impact on social and psychological well-being of the individual.
+
+The most common risk factors for the development of diabetic neuropathy are the duration of diabetes mellitus, age, body mass index, hypertension, diabetic retinopathy, and fasting blood sugar level.
+
+Early recognition and detection of diabetic neuropathy, modification of risk factors, education of the patient, adequate glycemic control, keeping blood pressure under control, maintaining a healthy weight, and regular physical activities are strategies settled to reduce the complication and morbidity due to diabetic neuropathy. To date, most epidemiological research on diabetic neuropathy in Africa including Ethiopia has been limited to prevalence estimation from cross-sectional studies. Estimating the time to diabetic neuropathy and early detection of the risk factors is important for the prevention of DN. Therefore, this study aimed to determine time to diabetic neuropathy and its predictors among adult type 2 diabetes mellitus patients in Amhara region Compressive Specialized Hospitals, Northwest Ethiopia. The study’s hypotheses were as follows:
+
+Patients with type 2 diabetes mellitus have a different onset period for diabetic neuropathy.
+
+Patients with type 2 diabetes mellitus are at risk for developing diabetes neuropathy due to certain risk factors.
+
+Methods
+
+Study design and settings
+
+An institutional-based retrospective follow up study was conducted from 1st March 2007 to 28th February 2022 at Debre Markos Specialized hospital, Debre Tabor Specialized hospital and Felege-Hiwot Specialized Hospital. These hospitals are the referral site for chronic diseases in Amhara regional state.
+
+The study participants were enrolled from 1 March 2007 to 28 February 2022, and the follow-up time was from their enrollment until the development of the event. Study participants who were lost to follow-up, died, transferred out before developing the event, or were event-free at the end of the study were censored. At the time of the initial T2DM diagnosis, the baseline data measurement was initiated. All newly diagnosed type 2 diabetes mellitus (T2DM) patients aged 18 years and above who were enrolled from 1st March 2007 to 28th February 2012 in selected hospitals were included in this study while Patients who had diabetic neuropathy at the time of the diagnosis for T2DM, patients who had no medical chart, patients with an unknown date of DM diagnosis, and patients with unknown date of diabetic neuropathy diagnosis were excluded from the study.
+
+Sample size and sampling procedures
+
+The sample size was determined using the proportional allocation freedman principle formula , Number of , Probability of the event = 1-(ps1 (t) +qs2 (t)) by assuming 95% CI, 5% margin of error, HR (= 0.43), design effect 1.5 and 80% power. The final sample size was 669. Simple random sampling method was used to select study participants. Initially, three specialized hospitals (30 percent of specialized hospitals found in the Amhara region) were selected using lottery method. Then, proportional allocation of sample was done among selected hospitals based their patient flow by under taking preliminary data ((371 (NDTCSH), 589 (NFHCSH), and 424 (NDMCSH)). Finally, study participants (nDTCSH = 179, nFHCSH = 285 and nDMCSH = 205) were selected by computer generated random sampling technique using their medical registration number as a sampling frame.
+
+Variables
+
+Time to diabetic neuropathy were outcome variable of this study. Socio-demographic variables (sex, age, and place of residence), clinical variables (family history of complications of Diabetes mellitus, type of DM treatment ((oral(Glibenclamide)or injectable)), and family history of Diabetes mellitus), Biochemical variables (fasting blood glucose level at baseline, proteinuria, micro-albuminuria, triglyceride level, low-density lipoprotein level, high-density lipoprotein level, total cholesterol, and creatinine level at baseline), and Comorbidity-related variables (diabetic retinopathy, diabetic nephropathy, cardiovascular disease, hypertension at baseline, and anemia at baseline) were the study’s independent variables.
+
+Operational definition
+
+Diabetic neuropathy: After ruling out other potential explanations, the hospital doctors considered the existence of symptoms and/or indications of peripheral nerve damage among diabetic patients using EMG (Electromyography), nerve conduction velocity (NCV) tests to confirmed diabetic neuropathy.
+
+Time to diabetic neuropathy: the time between newly diagnoses of type 2 diabetic Mellitus until the first episode of diabetic neuropathy (in months).
+
+Event: Diabetic neuropathy.
+
+Censored: was considered, be lost to follow-up, died, transfer out before developing the event, or be event-free at the end of the study.
+
+Hypertension: is defined as systolic blood pressure (SBP)> 130mmHg and/or diastolic blood pressure > 8ommHg or current use of anti-hypertensive medication.
+
+Anemia: A patient’s hemoglobin level below 12.0 g/dl for females and below 13 g/dl for males was classified as anemia.
+
+Cardiovascular disease: This study was considered cardiac heart disease, stroke, or peripheral arterial disease diagnosed by physicians based on the clinical assessments and confirmed using the diagnostic test.
+
+High blood glucose levels: fasting plasma glucose levels 126mg/dl or more, or random plasma glucose or 2-hour post-load glucose levels more than 200 mg/dl.
+
+Data collection tools and procedure
+
+The data was collected using a structured English version data abstraction checklist which was prepared by reviewing different literatures. The actual data from both DM patient’s registration book and medical history registration card. Two BSc nurses as data collector and one public health professional as supervisor was recruited for each selected hospital.
+
+Data quality assurance
+
+Prior to data collection, one day training was given to supervisors and data collectors on objective, data collection procedure, and data collection process and extraction checklist of the study. During data collection, daily monitoring was carried out by supervisors and principal investigator. The consistency and completeness of data were checked by the principal investigator and supervisors on daily basis.
+
+Data processing and analysis
+
+The data were checked for completeness, coded, and entered into Epi-data version 3.1; and exported to Stata/SE 14.0 for data cleaning and analysis. Continuous data were reported with a mean (standard deviation) and median (interquartile range). The data with categorical nature was described with frequency and proportion. The outcomes of study participants were dichotomized into (code ‘1’) as an event (developing diabetic neuropathy) and (code ‘0’) as a censor. Some continuous variables were categorized for ease of analysis and otherwise used as continuous. The variance inflation factor (VIF) and correlation matrix were used to assess multi-collinearity.
+
+The Kaplan Meier survival curve was used to estimate survival time, and a log-rank test was used to compare the survival curves of categorical variables. The necessary assumption of the Cox-proportional hazard regression model was checked using the Schoenfeld residual test, the graphical methods, and the presence of a time-dependent covariate. The overall model adequacy and fineness were assessed using the Cox-Snell residuals and global fit test, respectively. The Log likelihood ratio was used to select the final variables of the model and also bi-variable Cox-regression was computed for each predictor variable and a P-value of <0.25 was used as a cut-off point to enter variables to multi-variable Cox-regression. The variables were selected through backward stepwise procedures. The confounding effect was minimized using proper inclusion and exclusion criteria and a multi-variable analysis. Since, the median survival time of adult type two diabetic patients was undetermined; because the largest observed analysis time was censored and the survival curve does not drop below 0.5. As the result, in this study, the restricted mean survival time of adult type two diabetic patients was estimated.
+
+Restricted mean survival time (RMST) is suggested as a novel alternative measure in survival analyses and may be useful when proportional hazards assumption cannot be made or when event rate is low. It is defined as the area under the survival curve up to a specific time point and is generally more reliably estimable than mean or median survival times. In the case of crossing survival curves, the efficacy of an intervention may be demonstrated by showing a difference in RMST between two curves although the log-rank test may fail to detect differences. The result of the final model was expressed in terms of adjusted hazard ratio (AHR) with 95% confidence intervals. The significant association was declared with a p-value less than 0.05 in a multivariable Cox regression model. Finally, the result of this study is presented with tables, graphs, or text narrations.
+
+Ethical consideration
+
+The ethical approval letter was obtained from Debre Markos University College of Health Sciences Research and Ethical Review Committee (Ref.No/ HSR /R/C/Ser/ PG/co/ 106/ 11/ 14). As the study was conducted through a review of medical records, the individual patient was not subject to harm and the official letter of co-operation to Felege Hiwot specialized hospital, Debre Tabor Specialized hospital and Debre Markos specialized hospital was taken from Debre Markos University. Permission was taken from each study hospital managers and medical ward unit leaders. According to the research review committee of College of Health Sciences, written consent was not required as confidentiality and anonymity were strictly maintained. To keep the confidentiality, name and other identifiers of patients and health care professionals were not recorded on the data extraction format. Confidentiality was maintained through anonymity and privacy measures were taken to preserve the right of the participants throughout the research work including publication. This study was conducted in accordance with the Declaration of Helsinki.
+
+Results
+
+Socio-demographic characteristics of study participants
+
+A total of 669 charts of adult type 2 DM patients who were enrolled from March 1, 2007 to February 28, 2012 of study area hospitals were reviewed and included in the final analysis. About three hundred ninety-six (59.19%) of the study participants were males. More than three-fourth 524 (78.33%) participants were urban. The mean age of study participants at the time of diagnosis of T2DM was 54.8(±10.9) years (Table 1).
+
+Socio-demographic characteristics of type 2 DM patients at Amhara region Comprehensive Specialized Hospital, Northwest Ethiopia (n = 669).
+
+Variables	Category	Status at last contact	Total (%)	 	Diabetic neuropathy (%)	Censored (%)	 	Sex	Male	81 (20.4)	315 (79.6)	396 (59.19)	 	Female	57 (20.9)	216 (79.1)	273 (40.81)	 	Age in years	≤ 40	7 (9.3)	68 (90.7)	75 (11.21)	 	41–60	58 (15.2)	324 (84.8)	382 (57.10)	 	> 60	73 (34.4)	139 (65.6)	212 (31.69)	 	Residence	Urban	99 (18.9)	425 (81.1)	524 (78.33)	 	Rural	39 (26.9)	106 (73.1)	145 (21.67)
+
+Clinical and comorbidity characteristics of the study participants
+
+Nearly three-fourths (74.44%) of study participants were taking an oral medication, and more than one-third (37.07%) of the individuals had hypertension at the time of the study. One hundred twenty-six (18.83 percent) of the study participants had diabetic retinopathy, and nearly one-fifth (19.58 percent) had anemia. One hundred nine (16.29%) of the study participants had diabetic nephropathy at the time of their diagnosis, and one hundred one (15.55%) had cardiovascular disease (Table 2).
+
+Clinical and comorbidity characteristics of type 2 DM patients at Amhara region Comprehensive Specialized Hospital, Northwest Ethiopia (n = 669).
+
+Variables	Category	Status at last contact	Total (%)	 	Diabeticneuropathy (%) (%)	Censored (%)	 	Family history of DM	Yes	47 (19.7)	192 (80.3)	239 (35.72)	 	No	91 (21.2)	339 (78.8)	430 (64.28)	 	Type of treatment	Oral	90 (18.1)	408 (81.9)	498 (74.44)	 	Insulin	34 (30.3)	78 (69.6)	112 (16.74)	 	Mixed	14 (23.7)	45 (76.3)	59 (8.82)	 	Family history of complication of DM	Yes	16 (20.8)	61 (79.2)	77 (11.51)	 	No	122 (20.6)	470 (79.4)	592 (88.49)	 	Diabetic retinopathy	Yes	70 (55.5)	56 (44.5)	126 (18.83)	 	No	68 (12.5)	475 (87.5)	543 (81.17)	 	Diabetic nephropathy	Yes	26 (23.9)	83 (76.1)	109 (16.29)	 	No	112 (20)	448 (80)	560 (83.71)	 	Cardiovascular disease	Yes	32 (30.8)	72 (69.2)	104 (15.55)	 	No	106 (18.8)	459 (81.2)	565(84.45)	 	Hypertension	Yes	97 (39)	152 (61)	249 (37.07)	 	No	41 (9.8)	379 (89.2)	420 (62.93)	 	Anemia	Yes	79 (60.3)	52 (39.7)	131 (19.58)	 	No	59 (11)	479 (89)	538 (80.42)
+
+Biochemical characteristics of the study participants
+
+In this study, the mean fasting blood sugar level was 200±60 mg/dl. Of the total participants, three hundred thirty-two (49.63%) had LDL levels≥ 100mg/dl, three hundred eighty-three (57.25%) had triglyceride levels≥ 150mg/dl. and one hundred twenty-two (18.24%) had high-density lipoprotein level < 40mg/dl. Of the total respondents, one hundred forty-five (21.67%), one hundred nine (16.29%) were develop proteinuria and albuminuria respectively (Table 3).
+
+Biochemical characteristics of type 2 DM patients at Amhara region Comprehensive Specialized Hospital, Northwest Ethiopia (n = 669).
+
+Variables	Category	Status at last contact (%)	Total (%)	 	Diabetic neuropathy (%)	Censored (%)	 	FBS	≤ 200mg/dl	38 (8.9)	390 (91.1)	428 (63.98)	 	> 200mg/dl	100 (41.5)	141 (58.5)	241 (36.02)	 	LDL	< 100mg/dl	45 (14.3)	292 (86.7)	337 (50.37)	 	≥ 100mg/dl	93 (28)	239 (72)	332 (49.63)	 	HDL	< 40mg/dl	37 (30.3)	85 (69.7)	122 (18.24)	 	≥ 40mg/dl	101 (18.5)	446 (81.5)	547 (81.76)	 	TG	< 150mg/dl	28 (9.5)	258 (90.5)	286 (42.75)	 	≥ 150mg/dl	110 (29.4)	273 (70.6)	383 (57.25)	 	CR	≤ 1.1mg/dl	114 (21.6)	413 (78.4)	527 (78.77	 	> 1.1mg/dl	24 (17)	118 (83)	142 (21.23)	 	TC	< 200mg/dl	31 (10.5)	265 (89.5)	296 (44.25)	 	≥ 200mg/dl	107 (28.7)	266 (71.3)	373 (55.75)	 	Proteinuria	Positive	40 (27.6)	105 (72.4)	145 (21.67)	 	Negative	98 (18.7)	426 (81.3)	524 (78.33)	 	Albuminuria	Positive	34 (31.2)	75 (68.8)	109 (16.29)	 	Negative	104 (18.6)	456 (81.4)	560 (83.71)
+
+Abbreviations: FBS, Fasting Blood Sugar, HDL, High-Density Lipoprotein, LDL, Low-Density Lipoprotein, CR, creatinine, TG, Triglyceride, TC, Total Cholesterol, mg/dl, Milligram Deciliter
+
+Diabetic neuropathy adult type two diabetes mellitus patients
+
+During the follow-up period of the study, one hundred thirty-eight (20.63%) T2DM patients developed diabetic neuropathy, and five hundred thirty-one (79.37%) were censored (Fig 1).
+
+Outcomes of adult type two diabetes mellitus patients Amhara region Comprehensive Specialized Hospital, Northwest Ethiopia, 2022 (n = 669).
+
+Survival experiences of type 2 DM patients
+
+Statistical difference in survival time between different categorical variables was tested using the Log-rank test. There was a significant difference in survival experiences among type of treatment, diabetic retinopathy, diabetic nephropathy, cardiovascular disease, hypertension, anemia, proteinuria, and albuminuria at a p-value < 0.05. However, there is no significant difference among categories of sex, residence family history of DM, and family history of complications of DM. The restricted mean survival time to develop diabetic neuropathy for T2DM patients who were treated with oral treatment was longer [182 months (95% CI: 176.18–188.43)] than for those treated with Insulin and mixed medication. The restricted mean survival time to develop diabetic neuropathy for T2DM patients with diabetic retinopathy was shorter [107 months (95% CI: 97.36–118.44)] than for those who had no diabetic retinopathy [193 months (95% CI: 187.34–198.39)] (Table 4).
+
+Restricted mean survival time of type 2 DM patients at Amhara region Comprehensive Specialized Hospital, Northwest Ethiopia (n = 669).
+
+Variables	Category	RMST, in months (95% CI)	Log-rank test	 	X2	p-value	 	Sex	Male	179.6 [172.24, 187.12]	1.08	0.701	 	Female	177.5 [169.65, 185.40]	 	Residence	Urban	156.1 [152.09, 160.25]	1.96	0.162	 	Rural	172.2 [160.32, 184.11]	 	Family history of DM	Yes	182.7 [175.31, 190.21]	1.32	0.250	 	No	176.2 [168.43, 184.13]	 	Type of treatment	Oral	182.3 [176.18, 188.43]	15.59	0.004*	 	Insulin	158.9 [143.47, 174.34]	 	Mixed	147.5 [134.42, 160.64]	 	Family history of complications of DM	Yes	155.5 [145.44, 165.58]	1.21	0.863	 	No	178.8 [172.62, 185.06]	 	Diabetic retinopathy	Yes	107.9 [97.36, 118.44]	176.57	< 0.001*	 	No	193.1 [187.34, 198.39]	 	Diabetic nephropathy	Yes	142.3 [187.67, 198.67]	4.24	0.039*	 	No	181.3 [175.33, 187.26]	 	Cardiovascular disease	Yes	136.1 [124.60, 147.77]	16.03	0.001*	 	No	184.7 [179.59, 189.93]	 	Hypertension	Yes	142.2 [131.68, 152.75]	131.96	< 0.001*	 	No	195.8 [190.33, 201.27]	 	Anemia	Yes	110.0 [100.36, 119.66]	191.32	< 0.001*	 	No	196.7 [192.37, 201.15]	 	Proteinuria	Positive	140.3 [131.52, 149.26]	10.95	0.009*	 	Negative	183.4 [177.40, 189.46]	 	Albuminuria	Positive	132.8 [122.28,143.38]	18.61	< 0.001*	 	Negative	183.6 [177.76,189.51]
+
+* indicates the significantly associated categorical variables at p < 0.05 in the Log-rank test for equality of survivor functions with a 95% confidence level.
+
+The restricted mean survival time to develop diabetic neuropathy for T2DM patients with anemia was shorter [110 months (95% CI: 100.36–119.66)] than for those who had no anemia [196 months (95% CI: 192.37–201.15)]. The restricted mean survival time to develop diabetic neuropathy for T2DM patients with Hypertension had shorter [142 months (95% CI: 131.68–152.75)] than for those who had no hypertension (Table 4).
+
+The log-rank test shows a significant difference between insulin treatment and oral treatment in survival experience to develop diabetic neuropathy. Patients who were treated with Insulin at diagnosis had a shorter survival probability to develop diabetic neuropathy than those treated with oral medication and Mixed (p = 0.004) (Table 4). Diabetic patients who had hypertension at diagnosis had a shorter survival probability to develop diabetic neuropathy than those DM patients who had no hypertension (p = 0.001) (Table 4).
+
+The log-rank test shows a significant difference between anemia and anemia-free T2DM patients’ survival experience to develop diabetic neuropathy. Patients who had anemia at diagnosis had a shorter survival probability to develop diabetic neuropathy than those DM patients who had no anemia (p = 0.001) (Table 4). In addition, patients who had diabetic retinopathy at diagnosis had a longer survival probability than patients who had no diabetic retinopathy (p = 0.001). Furthermore, the log-rank test shows a significant difference between cardiovascular disease and cardiovascular disease-free T2DM patients’ survival experience to develop diabetic neuropathy. DM patients who had cardiovascular disease at diagnosis had a shorter survival probability to develop diabetic neuropathy than those DM patients who had not a cardiovascular disease (p = 0.001) (Table 4).
+
+Overall survival of adult type two diabetes mellitus patients
+
+In this study, 669 Adult type two diabetes mellitus patients were followed for a minimum of 13 months and a maximum of 215 months. The median follow-up time and the restricted mean survival time of this study were 124 [IQR: 85.9, 148.5] and 179 [95% CI: 173.7, 185.1] months, respectively. The overall estimated survival rate of Adult type two diabetes mellitus patients was 68.45% at 215 months of follow-up. The estimated cumulative survival probability of T2DM Patients was 98.8%, 93.4%, 81.98%, and 68.76%, at the end of the two years, five years, ten years, and fifteen years respectively. About half (50.7%) of diabetes mellitus developed diabetic neuropathy within the 6 years of follow-up. The incidence rate of DN among patients with DM in this study was 2.14 per 100 person-years for 6432.88 person-years of observation. While the median survival time was undetermined because the largest observed analysis time was censored, the survivor function does not go to zero; in this case, the restricted mean is the best estimate of survival time (Fig 2).
+
+Overall the Kaplan-Meier survival curves comparing survival time of adult type two DM patients in Amhara region Comprehensive Specialized Hospital, Northwest Ethiopia, 2022 (n = 669).
+
+Predictors of time to diabetic neuropathy among Type 2 diabetic patients
+
+Variables like age, residence, type of treatment, diabetic retinopathy, cardiovascular disease, hypertension, anemia, fasting blood sugar, low-density lipoprotein level, high-density lipoprotein level, triglyceride level, total cholesterol level, proteinuria, and albuminuria were having a p-value < 0.20 in the bi-variable analysis and candidate for multivariable Cox regression analysis.
+
+The necessary assumption of the Cox-proportional hazard regression model was checked using the Schoenfeld residual test (0.057 to 0.886, with a global P-value of 0.726), the graphical methods, and the presence of a time-dependent covariate. The Cox Snell residual plot showed the goodness of fitness of the model was satisfied because the cumulative hazard plot follows 45 degrees or a straight line through the origin with slope one (Fig 3).
+
+Cox-Snell residual graph, based on the Kaplan–Meier estimated survivor function, to test the overall adequacy of the cox proportional hazard model of time to diabetic neuropathy and its predictors of type 2 DM patients at Amhara region Comprehensive Specialized Hospital, Northwest Ethiopia (n = 669).
+
+As shown in Fig 3 Nelson-Aalen cumulative hazard functions follows the 45-degree line very closely except for some large values of time, so that the final model fits the data well. After controlling the effect of other variables, the multivariable Cox regression analysis, baseline age in years, diabetic retinopathy, hypertension, anemia, and baseline fasting blood sugar level were predictors of the time to development of diabetic neuropathy.
+
+The risk of developing diabetic neuropathy among type two diabetes mellitus patients with an age > 60 years was 2.9 times higher as compared to age ≤ 40 years [AHR: 2.93 (95% CI: 1.29–6.66)]. The risk of developing diabetic neuropathy among diabetic retinopathy type two diabetes mellitus patients was 2.7 times higher than their counterparts [AHR: 2.76 (95% CI: 1.84–4.16)]. The risk of developing diabetic neuropathy among hypertensive type two diabetes mellitus patients was 3.2 times higher than that of non-hypertensive patients [AHR: 3.22(95% CI: 2.10–4.93)]. The risk of developing diabetic neuropathy among anemic type two diabetes mellitus patients was 3.6 times higher than that of non- anemic diabetes mellitus patients [AHR: 3.62 (95% CI: 2.46–5.33)]. Moreover, risk of developing diabetic neuropathy among type two diabetic patients with baseline fasting blood sugar level of above 200 mg/dl were 2.56 times higher than their counter parts [AHR: 2.56 (95% CI: 1.68–3.92)] (Table 5).
+
+Result of the bi-variable and multi-variable cox regression analysis of adult T2DM in Amhara region compressive specialized hospital Northwest Ethiopia, 2022 (n = 669).
+
+Variables	Category	Diabetic neuropathy N (%)	Censored N (%)	Bi-variable CHR (95% CI)	Multi-variable CHR (95% CI)	 	Age at diagnosis	≤ 40	7 (1.04)	68(10.16)	1	1	 	41–60	58 (8.67)	324 (48.43)	1.74(0.7–3.8)	1.59(0.7–3.5)	 	> 60	73 (10.9)	139 (20.77)	5.31(2.4–11.5)	5.31(2.4–11.5)	 	Residence	Urban	99 (14.79)	425 (63.53)	0.76 (0.5–1.1)	1.16(0.7–1.7)	 	Rural	39 (5.83)	106 (15.85)	1	1	 	Type of treatment	Oral	90 (13.48)	408 (60.98)	1	1	 	Insulin	34 (5.08)	78 (11.65)	2.15(1.4–3.1)	1.34(0.8–2.0)	 	Mixed	14 (2.09)	45 (6.72)	1.49(.8–2.6)	1.34 (0.7–2.4)	 	Diabetic retinopathy	Yes	70 (10.46)	56 (8.37)	7.16(5.1–10.0)	2.76 (1.8–4.1)	 	No	68 (10.16)	475 (71.01)	1	1	 	Diabetic nephropathy	Yes	26 (3.88)	83 (12.4)	1.56(1.0–2.3)	1.28(0.7–2.1)	 	No	112 (16.74)	448 (66.98)	1	1	 	Cardiovascular disease	Yes	32 (4.70)	72 (10.76)	2.20(1.4–3.2)	1.03(0.6–1.5)	 	No	106 (15.84)	459 (68.70)	1	1	 	Hypertension	Yes	97 (14.49)	152 (22.72)	6.70(4.6–9.7)	3.22(2.1–4.9)	 	No	41 (6.13)	379 (56.66)	1	1	 	Anemia	Yes	79 (11.80)	52 (7.77)	7.64(5.4–10.7)	3.62(2.4–5.3)	 	No	59 (8.81)	479 (72.62)	1	1	 	FBS	FBS≤200 mg/dl	38 (5.68)	390 (58.30)	1	1	 	FBS > 200 mg/dl	100 (14.94)	141 (21.08)	5.73(3.9–8.3)	2.56 (1.6–3.9)	 	HDL	HDL < 40 mg/dl	37 (5.53)	85 (12.70)	2.32(1.5–3.3)	1.18(0.7–1.8)	 	HDL ≥40 mg/dl	101(15.10)	446 (66.67)	1	1	 	LDL	LDL < 100 mg/dl	45 (6.72)	292 (43.64)	1	1	 	LDL ≥ 100 mg/dl	93 (13.90)	239 (35.74)	2.39(1.6–3.4)	1.09(0.7–1.6)	 	TG	TG < 150 mg/dl	28 (4.20)	258 (38.56)	1	1	 	TG ≥ 150 mg/dl	110 (16.44)	273 (40.8)	3.52(2.3–5.3)	0.92 (0.5–1.5)	 	TC	TC < 200 mg/dl	31 (4.63)	265 (39.61)	1	1	 	TC ≥200 mg/dl	107 (15.99)	266 (39.77)	3.23 (2.1–4.8)	1.37 (0.8–2.2)	 	Protein urea	Positive	40 (5.98)	105 (15.69)	1.84 (1.2–2.6)	0.90 (0.5–1.5)	 	Negative	98 (14.64)	426 (63.69)	1	1	 	Albumin urea	Positive	34 (5.08)	75 (11.21)	2.29(1.5–3.3)	1.15(.6–2.0)	 	Negative	104 (15.54)	456 (68.17)	1	1
+
+Note:
+
+* indicates the variables significantly associated with the outcome variable at < 0.05 in multivariable analysis with a 95% confidence level
+
+Discussion
+
+This study aimed to assess the time to diabetic neuropathy and predictors among adult type two diabetic patients who were free at baseline in the Amhara region compressive specialized hospitals. The present study revealed that restricted mean time to develop diabetic neuropathy was 179.5 [95% CI: 173.7, 185.1] months which, means that the average time of type 2 Diabetes mellitus patients living without developing diabetic neuropathy was 179.5 months. During the follow-up, 20.6% of T2DM patients developed diabetic neuropathy. About half (50.7%)of the event of interest (Diabetic neuropathy) occurs within the 6 years of follow-up, making the overall incidence rate 2.14 cases per 100 person-year of follow-up. This finding was in line with that of the study conducted in the university of Gondar compressive specialized hospital, in Ethiopia (2.01 cases per 100 person-year of follow-up), and in the United States of America (26.9 per 1000 person-years). This might be because diabetic patients receive nearly identical medical care. The follow-up time for the study conducted in the United States of America and this study was nearly same, at over 15 years and 16 years, respectively. This may account for the similar incidence of diabetic neuropathy. However, the finding of the current study was lower than the findings of study done in Karachi-Pakistan (106.2 per 1000 person-years). This finding was higher than that of the study conducted at the University of Gondar compressive specialized hospital (44% by the end of the follow-up period). This difference might be due to the follow-up period included in the study; our study included 16 years T2DM patients’ data whereas the study conducted in the University of Gondar compressive specialized hospital study used 19 years T2DM patients’ data.
+
+The hazard of developing Diabetic neuropathy among type two diabetic patients with retinopathy was higher than in type two DM patients without diabetic retinopathy. This finding is consistent with the findings of studies conducted in Sri Lanka, Netherlands, Jordan, Singapore, and china. The clinical stages of diabetic retinopathy, the ongoing disturbance of the neurovascular unit, and the loss of auto-regulation may all be to blame for this. Therefore, changes to the retinal neurovascular unit in diabetes are a component of a wider range of impacts on the nervous system that also includes cognitive impairment and sensory and autonomic neuropathies, and also some evidence shows that oxidative stress, the formation of advanced glycation end products (AGEs), and hemodynamic changes have been specifically implicated in neuro-degeneration during Diabetic retinopathy.
+
+This study also found that the hazard of developing Diabetic neuropathy among T2DM patients with hypertension was higher than their counter parts. This finding is consistent with previous studies conducted in Gamo Gofa, Ethiopia, Tanzania, Burkina Faso, and Netherland. This might be due to inflammation, oxidative stress, activation of the immune system, thickening of the blood vessels which results reduce blood flow to the nerve, conduction slowing, and axonal atrophy. Nonetheless, the finding of this study was inconsistency with the study conducted in Brazil. This might be due to difference in study design, health-seeking behavior, socio-economic and socio-demographic characteristics and sample size; the former study was cross-sectional while this study was retrospective follow up. In addition, compared to T2DM patients under the age of 40, patients with T2DM who were older than 60 had a higher chance of developing diabetic neuropathy.
+
+This finding is consistent with previous studies conducted in Jima compressive specialized hospital, UGCSH, Tanzania, Egypt, Uganda, India, Singapore, and China. This could be the result of aging brought on by fat accumulation, oxidative stress, activation of counter-regulatory signaling pathways, and mitochondrial malfunction, all of which contribute to increased inflammation and damage to the peripheral nerves. T2DM patients who had baseline fasting blood sugar levels above 200 mg/dl had a 2.5-fold increased chance of developing diabetic neuropathy compared to those who had baseline fasting blood sugar levels below 200 mg/dl. This is consistent with a case-control study conducted in Gamo Gofa, Ethiopia. The possible explanation is that uncontrolled high blood sugar damages nerves and interferes with their ability to send signals, leading to diabetic neuropathy. This association holds true but is lesser than a study conducted in Egypt and Iran. This might due to difference in study design, health-seeking behavior, and the socio-demographic characteristics.
+
+Furthermore, this study identified that T2DM patients with anemia significantly increased the hazard of diabetic neuropathy development as compared to non-anemic patients. This finding is consistent with the previous study conducted at University of Gondar specialized hospital and China. The possible explanation might be that anemia is considered to be associated with oxidative stress which is also an important mechanism of diabetic neuropathy.
+
+Limitations of the study
+
+Despite thorough efforts to mitigate the study’s potential flaws, the current study have some limitations; due to the retrospective nature of our study, this study was unable to investigate the role of some socio-demographic and behavioral factors, such as level of education, alcohol consumption, smoking status, income level, and exercise in diabetic neuropathy due to a lack of data. In addition, due to incomplete data, in this study, broader risk factors such as body mass index were unable to consider.
+
+Conclusion
+
+The restricted mean survival time of this study was 179.4 months which is a relatively short time and the risk of occurrence of diabetic neuropathy among type two diabetes mellitus patients was high in the early period and the incidence density rate of diabetic neuropathy was relatively high.
+
+Variables like age in years, diabetic retinopathy, anemia, baseline fasting blood sugar level> 200 mg/dl, and hypertension were significantly associated with diabetic neuropathy. Therefore, Amhara Region Comprehensive Specialized Hospitals need to strengthen the follow-up T2DM patients with Hypertension, high fasting blood sugar, anemia, old age, and patients who had diabetic retinopathy to reduce the risk of diabetic neuropathy.
+
+Abbreviations
+
+AHR
+
+Adjusted Hazard Ratio
+
+BMI
+
+Body Mass Index
+
+CHR
+
+Crude Hazard Ratio
+
+DMCSH
+
+Debre Markos Compressive Specialized Hospital
+
+DTCSH
+
+Debre Tabor Compressive Specialized Hospital
+
+FBS
+
+Fasting Blood Sugar
+
+FHCSH
+
+Felege Hiwot Compressive Specialized Hospital
+
+HDL
+
+High Density Lipoprotein
+
+LDL
+
+Low Density Lipoprotein
+
+OPD
+
+Out Patient Department
+
+RMST
+
+Restricted Mean Survival Time
+
+T2DM
+
+Type 2 Diabetes Mellitus
+
+TC
+
+Total Cholesterol
+
+References
+
+Definition, classification and diagnosis of diabetes mellitus
+
+Definition, classification and diagnosis of diabetes, prediabetes and metabolic syndrome
+
+Microvascular and macrovascular complications of diabetes
+
+Classification, pathophysiology, diagnosis and management of diabetes mellitus
+
+Microvascular and macrovascular complications of diabetes
+
+Diabetic neuropathies: update on definitions, diagnostic criteria, estimation of severity, and treatments
+
+Kasper, D., et al., Harrison’s principles of internal medicine, 19e. Vol. 1. 2015: Mcgraw-hill New York, NY, USA:.
+
+Prevalence and risk factors for diabetic peripheral neuropathy in type 2 diabetic patients from 14 countries: estimates of the INTERPRET-DD study
+
+Prevalence of diabetic peripheral neuropathy in Africa: a systematic review and meta-analysis
+
+Global and regional diabetes prevalence estimates for 2019 and projections for 2030 and 2045: Results from the International Diabetes Federation Diabetes Atlas
+
+The prevalence of diabetic peripheral neuropathy and related factors
+
+Diabetic peripheral neuropathy in type 2 diabetes mellitus in Korea
+
+Meta-analysis and meta-regression of the prevalence of diabetic peripheral neuropathy among patients with type 2 diabetes mellitus
+
+Prevalence and characteristics of painful diabetic neuropathy in a large community-based diabetic population in the UK
+
+Prevalence and incidence of diabetic peripheral neuropathy in Latin America and the Caribbean: A systematic review and meta-analysis
+
+Point prevalence of painful diabetic neuropathy in the Middle East and North Africa region: a systematic review with meta-analysis
+
+Diabetes in Sub Saharan Africa 1999–2011: epidemiology and public health implications. A systematic review
+
+Abdissa, D., et al., Prevalence and determinants of peripheral neuropathy among type 2 adult diabetes patients attending Jimma University Medical Center, Southwest Ethiopia, 2019, an Institutional-Based Cross-Sectional Study. Journal of Diabetes Research, 2020.
+
+Peripheral Sensory Neuropathy and associated factors among adult diabetes mellitus patients in Bahr Dar, Ethiopia
+
+The prevalence, patterns and predictors of diabetic peripheral neuropathy in a developing country
+
+Prevalence and determinants of diabetic polyneuropathy in a sub-Saharan African referral hospital
+
+Yirga, T. and Y.A. Aynalem, Prevalence of diabetic peripheral neuropathy in Africa: A systematic review and meta-analysis.
+
+Humanistic and economic burden of painful diabetic peripheral neuropathy in Europe: a review of the literature
+
+Clinical and economic burdens experienced by patients with painful diabetic peripheral neuropathy: an observational study using a Japanese claims database
+
+Determinants of peripheral neuropathy among diabetic patients under follow-up in chronic care clinics of public hospitals at Gamo and Gofa zones, southern Ethiopia
+
+Time to diabetic neuropathy and its predictors among newly diagnosed type 2 diabetes mellitus patients in Northwest Ethiopia
+
+The risk factors for diabetic peripheral neuropathy: a meta-analysis
+
+Current strategies for the management of painful diabetic neuropathy
+
+Ministry of Health of Ethiopia Guidelines on Clinical and Programmatic Management of Major Non Communicable Diseases. 2016.
+
+LP, S. and T. College Station. Stata and Glossary and Index-Release 14. 2015; https://www.scribd.com/document/379053388/Stata-and-Glossary-and-Index-release-14.
+
+Gold Standard for Diagnosis of DPN
+
+Blood pressure and the new ACC/AHA hypertension guidelines
+
+Diagnosing and classifying anemia in adult primary care
+
+American Heart Association. Cardiovascular Disease. 2017; https://www.heart.org/en/health-topics/consumer-healthcare/what-is-cardiovascular-disease.
+
+Eisenstein, M., Diabetes Care is a journal for the health care practitioner, Michael Eisenstein, 2018, American Diabetes Association. 2018: American Diabetes Association.
+
+Prevalence and incidence of microvascular and macrovascular complications over 15 years among patients with incident type 2 diabetes
+
+Incidence of microvascular complications of type 2 diabetes: a 12 year longitudinal study from Karachi-Pakistan
+
+Risk Factors for Developing Diabetic Peripheral Neuropathy: a Meta-analysis
+
+The prevalence and risk factors of peripheral neuropathy among patients with type 2 diabetes mellitus
+
+Prevalence of diabetic peripheral neuropathy in patients with type 2 diabetes mellitus at a tertiary referral centre in Singapore
+
+Neurodegeneration in diabetes mellitus
+
+Oxidative stress and diabetic retinopathy: pathophysiological mechanisms and treatment perspectives
+
+Frequency, Risk Factors and Clinical Forms of Neuropathies in Diabetics in Hospitals in Burkina Faso
+
+Hypertension-induced peripheral neuropathy and the combined effects of hypertension and diabetes on nerve structure and function in rats htn 2nd reson
+
+Prevalence and factors associated with peripheral neuropathy in individuals with diabetes mellitus
+
+Prevalence, patterns, and factors associated with peripheral neuropathies among diabetic patients at tertiary Hospital in the Kilimanjaro Region: descriptive cross-sectional study from north-eastern Tanzania
+
+Risk Factors Associated with Peripheral Neuropathy in Type II Diabetic Patients
+
+Prevalence, severity and factors associated with peripheral neuropathy among newly diagnosed diabetic patients attending Mulago hospital: a cross-sectional study
+
+Assessment of incidence of peripheral diabetic neuropathy in diabetic patients
+
+Strelitz Diabetes Institutes, D.o.I.M., Eastern Virginia Medical School, 855 West Brambleton Avenue, Norfolk, VA 23510, USA,. Diabetic neuropathy in older adults. 2008; https://europepmc.org/articles/PMC2706706/.
+
+Communicabel Diseases Control. Diabetes and Nerve Damage. 2021; https://www.cdc.gov/diabetes/library/features/diabetes-nerve-damage.html.
+
+Peripheral neuropathy in type-II diabetic patients attending diabetic clinics in Al-Azhar University Hospitals
+
+The prevalence of diabetic peripheral neuropathy and related factors, FBS
+
+Anemia: an independent risk factor of diabetic peripheral neuropathy in type 2 diabetic patients
+
+Oxidative stress in anemia
+
+10.1371/journal.pone.0284568.r001
+
+Decision Letter 0
+
+Nyirenda
+
+James
+
+This is an open access article distributed under the terms of the Creative Commons Attribution License, which permits unrestricted use, distribution, and reproduction in any medium, provided the original author and source are credited.
+
+21 Nov 2022
+
+PONE-D-22-25165
+
+Time to Diabetic Neuropathy and Its Predictors among Adult Type 2 Diabetes Mellitus Patients in Amhara Regional State Comprehensive Specialized Hospitals, Northwest Ethiopia, 2022: A Retrospective Follow up Study
+
+PLOS ONE
+
+Dear Dr. Alamneh,
+
+Thank you for submitting your manuscript to PLOS ONE. After careful consideration, we feel that it has merit but does not fully meet PLOS ONE’s publication criteria as it currently stands. Therefore, we invite you to submit a revised version of the manuscript that addresses the points raised during the review process.
+
+Please submit your revised manuscript by Jan 05 2023 11:59PM. If you will need more time than this to complete your revisions, please reply to this message or contact the journal office at plosone@plos.org. When you're ready to submit your revision, log on to https://www.editorialmanager.com/pone/ and select the 'Submissions Needing Revision' folder to locate your manuscript file.
+
+Please include the following items when submitting your revised manuscript:
+
+A rebuttal letter that responds to each point raised by the academic editor and reviewer(s). You should upload this letter as a separate file labeled 'Response to Reviewers'.
+
+A marked-up copy of your manuscript that highlights changes made to the original version. You should upload this as a separate file labeled 'Revised Manuscript with Track Changes'.
+
+An unmarked version of your revised paper without tracked changes. You should upload this as a separate file labeled 'Manuscript'.
+
+If you would like to make changes to your financial disclosure, please include your updated statement in your cover letter. Guidelines for resubmitting your figure files are available below the reviewer comments at the end of this letter.
+
+If applicable, we recommend that you deposit your laboratory protocols in protocols.io to enhance the reproducibility of your results. Protocols.io assigns your protocol its own identifier (DOI) so that it can be cited independently in the future. For instructions see: https://journals.plos.org/plosone/s/submission-guidelines#loc-laboratory-protocols. Additionally, PLOS ONE offers an option for publishing peer-reviewed Lab Protocol articles, which describe protocols hosted on protocols.io. Read more information on sharing protocols at https://plos.org/protocols?utm_medium=editorial-email&utm_source=authorletters&utm_campaign=protocols.
+
+We look forward to receiving your revised manuscript.
+
+Kind regards,
+
+James Nyirenda
+
+Academic Editor
+
+PLOS ONE
+
+Journal Requirements:
+
+When submitting your revision, we need you to address these additional requirements.
+
+1. Please ensure that your manuscript meets PLOS ONE's style requirements, including those for file naming. The PLOS ONE style templates can be found at
+
+https://journals.plos.org/plosone/s/file?id=wjVg/PLOSOne_formatting_sample_main_body.pdf and
+
+https://journals.plos.org/plosone/s/file?id=ba62/PLOSOne_formatting_sample_title_authors_affiliations.pdf
+
+2. In the ethics statement in the manuscript and in the online submission form, please provide additional information about the patient records/samples used in your retrospective study. Specifically, please ensure that you have discussed whether all data/samples were fully anonymized before you accessed them and/or whether the IRB or ethics committee waived the requirement for informed consent.
+
+3. In your Data Availability statement, you have not specified where the minimal data set underlying the results described in your manuscript can be found. PLOS defines a study's minimal data set as the underlying data used to reach the conclusions drawn in the manuscript and any additional data required to replicate the reported study findings in their entirety. All PLOS journals require that the minimal data set be made fully available. For more information about our data policy, please see http://journals.plos.org/plosone/s/data-availability.
+
+"Upon re-submitting your revised manuscript, please upload your study’s minimal underlying data set as either Supporting Information files or to a stable, public repository and include the relevant URLs, DOIs, or accession numbers within your revised cover letter. For a list of acceptable repositories, please see http://journals.plos.org/plosone/s/data-availability#loc-recommended-repositories. Any potentially identifying patient information must be fully anonymized.
+
+Important: If there are ethical or legal restrictions to sharing your data publicly, please explain these restrictions in detail. Please see our guidelines for more information on what we consider unacceptable restrictions to publicly sharing data: http://journals.plos.org/plosone/s/data-availability#loc-unacceptable-data-access-restrictions. Note that it is not acceptable for the authors to be the sole named individuals responsible for ensuring data access.
+
+We will update your Data Availability statement to reflect the information you provide in your cover letter.
+
+[Note: HTML markup is below. Please do not edit.]
+
+Reviewers' comments:
+
+Reviewer's Responses to Questions
+
+Comments to the Author
+
+1. Is the manuscript technically sound, and do the data support the conclusions?
+
+The manuscript must describe a technically sound piece of scientific research with data that supports the conclusions. Experiments must have been conducted rigorously, with appropriate controls, replication, and sample sizes. The conclusions must be drawn appropriately based on the data presented.
+
+Reviewer #1: Yes
+
+Reviewer #2: Yes
+
+Reviewer #3: Partly
+
+**********
+
+2. Has the statistical analysis been performed appropriately and rigorously?
+
+Reviewer #1: Yes
+
+Reviewer #2: Yes
+
+Reviewer #3: No
+
+**********
+
+3. Have the authors made all data underlying the findings in their manuscript fully available?
+
+The PLOS Data policy requires authors to make all data underlying the findings described in their manuscript fully available without restriction, with rare exception (please refer to the Data Availability Statement in the manuscript PDF file). The data should be provided as part of the manuscript or its supporting information, or deposited to a public repository. For example, in addition to summary statistics, the data points behind means, medians and variance measures should be available. If there are restrictions on publicly sharing data—e.g. participant privacy or use of data from a third party—those must be specified.
+
+Reviewer #1: Yes
+
+Reviewer #2: Yes
+
+Reviewer #3: No
+
+**********
+
+4. Is the manuscript presented in an intelligible fashion and written in standard English?
+
+PLOS ONE does not copyedit accepted manuscripts, so the language in submitted articles must be clear, correct, and unambiguous. Any typographical or grammatical errors should be corrected at revision, so please note any specific errors here.
+
+Reviewer #1: Yes
+
+Reviewer #2: Yes
+
+Reviewer #3: No
+
+**********
+
+5. Review Comments to the Author
+
+Please use the space provided to explain your answers to the questions above. You may also include additional comments for the author, including concerns about dual publication, research ethics, or publication ethics. (Please upload your review as an attachment if it exceeds 20,000 characters)
+
+Reviewer #1: Abstract:
+
+Abstract is written well with clear background, objectives, methods, and conclusion. It reflected the content of the manuscript.
+
+Introduction:
+
+The background of the study was presented clearly and supported with relevant recent citations. The problem statement and rationale of the study were clear. The length of the introduction was appropriate compared to the length of the manuscript.
+
+Methods:
+
+The study design matches the study objectives. However, the time frame for participant enrolment and time frame for follow up need to be clearly stated.
+
+The type of oral antidiabetic therapy used to treat the patients should be specified bearing in mind that some antidiabetic drugs (e.g., metformin) promote development of neuropathy on chronic use.
+
+It is not clear why co-morbidities and biochemical markers such as blood glucose, cholesterol, and creatinine were only measured at baseline. Please provide justification for this!
+
+There was no mention of measurement of long-term glycemic control during the follow up period for a project that lasted more than 10 years!!
+
+Results:
+
+Table and figure titles should be separated from main text.
+
+In table 3, what is the basis for categorizing FBS based on a value of 200 mg/dl, cholesterol 200 mg/dl, and LDL 100 mg/dl?
+
+In table 3 still, total number with “proteinuria” was 145, while total number with “albuminuria” was 109. How did you distinguish between proteinuria and albuminuria?
+
+In table 4, explain RSMT (restricted mean survival time) as a footnote.
+
+Discussion:
+
+Interpretations of the findings and conclusions to be drawn from the data presented should consider the concerns raised in this review.
+
+References:
+
+Your list of references did not comply with PLOS One specifications (Vancouver style) and there are obvious errors in many of the entries.
+
+Reviewer #2: Overall interesting study. Time to Diabetic Neuropathy and Its Predictors among Adult Type 2 Diabetes Mellitus Patients in Amhara Regional State Comprehensive Specialized Hospitals, Northwest Ethiopia, 2022: A Retrospective Follow up Study. However, the manuscript does not provide a clear overview of their work.
+
+• Please make sure that the structure for citing published literature in the text, as well as the style of references in the References section, are consistent with the journal's style (see Instructions to Authors).
+
+• English language needs revision for style and syntax.
+
+• Abstract must be rewritten. I suggest focusing the abstract on your study and your results.
+
+• Include more characteristics of participants.
+
+• Please specify inclusion/exclusion criteria. The experimental protocol is not clear.
+
+• Please add the originality of the study and add hypothesis at the end of the introduction section. Be please be more specific.
+
+• Did authors perform other statistical analysis? Further details on statistical analysis are needed. Please be more specific.
+
+• Figure 2 (axis) not clear. Tables must be more representative
+
+• Please discuss the results of the study in relation to the previous studies.
+
+Reviewer #3: The study by Alamneh et al., titled ‘Time to diabetic neuropathy and its predictors among adult type 2 diabetes mellitus patients in Amhara Regional State Comprehensiv Specialized Hospitals, Northwest Ethiopia, 2022: A retrospective follow up study’ aimed to evaluate the time to diabetic neuropathy and its determinants. The authors analyzed data of 669 newly diagnosed with T2D during the 5 year enrollment period and followed up for a median 125 month. They found the overall incidence rate of diabetic neuropathy as 2.1 cases per 100 persons-year. They identified age (>60 years), diabetic retinopathy, anemia, hypertension, and hyperglycemia (FPG>200 mg/dl) as predictors of incident diabetic neuropathy.
+
+Major comments:
+
+1. The manuscript should be written in a more fluent fashion and be more concise and comprehensive. There are too unnecessary repetitions, many grammatical errors, irrelevant decimals (for example instead of 179,45 months, an expression of 179 months may be easier and better for the reader). Overall, it needs an extensive editing
+
+2. It seems that the definition of diabetic retinopathy is based on subjective, but not objective criteria (such as EMG).
+
+3. What kind of anemia? Iron deficiency? Vitamin B 12 deficiency? Folate deficiency? Chronic disease anemia? Thalassemia trait? Sickle cell trait?
+
+4. Were vitamin B12 levels measured?
+
+5. What kind of oral treatments were used? Metformin? Sulfonylureas? Pioglitazone? SGLT2 inh? DPPIV inh.?
+
+6. Was not Injectable GLP-1 analogues available during the study period?
+
+7. What kind of insulins were used? Basal, basal-bolus, mixed?
+
+8. Did the authors monitor glycemic status of the patients? For example, glycemic fluctuations are one of the major contributors to the diabetic neuropathy development. Was there hypoglycemia episodes during the study, did the authors consider this parameter when performing the analysis?
+
+**********
+
+6. PLOS authors have the option to publish the peer review history of their article (what does this mean?). If published, this will include your full peer review and any attached files.
+
+If you choose “no”, your identity will remain anonymous but your review may still be made public.
+
+Do you want your identity to be public for this peer review? For information about this choice, including consent withdrawal, please see our Privacy Policy.
+
+Reviewer #1: Yes: Christian Chinyere Ezeala
+
+Reviewer #2: No
+
+Reviewer #3: No
+
+**********
+
+[NOTE: If reviewer comments were submitted as an attachment file, they will be attached to this email and accessible via the submission site. Please log into your account, locate the manuscript record, and check for the action link "View Attachments". If this link does not appear, there are no attachment files.]
+
+While revising your submission, please upload your figure files to the Preflight Analysis and Conversion Engine (PACE) digital diagnostic tool, https://pacev2.apexcovantage.com/. PACE helps ensure that figures meet PLOS requirements. To use PACE, you must first register as a user. Registration is free. Then, login and navigate to the UPLOAD tab, where you will find detailed instructions on how to use the tool. If you encounter any issues or have any questions when using PACE, please email PLOS at figures@plos.org. Please note that Supporting Information files do not need this step.
+
+10.1371/journal.pone.0284568.r002
+
+Author response to Decision Letter 0
+
+19 Feb 2023
+
+Pont by point response
+
+Reviewers' comments:
+
+Reviewer's Responses to Questions
+
+Comments to the Author
+
+1. Is the manuscript technically sound, and do the data support the conclusions? The manuscript must describe a technically sound piece of scientific research with data that supports the conclusions. Experiments must have been conducted rigorously, with appropriate controls, replication, and sample sizes. The conclusions must be drawn appropriately based on the data presented.
+
+Reviewer #1: Yes
+
+Reviewer #2: Yes
+
+Reviewer #3: Partly
+
+Authors’ response: we have appreciated the insight of the reviewers and amended the revised manuscript as per standard of writing a conclusion.
+
+2. Has the statistical analysis been performed appropriately and rigorously?
+
+Reviewer #1: Yes
+
+Reviewer #2: Yes
+
+Reviewer #3: No
+
+Authors’ response: Thank you for the comments. We have checked the analysis of this study thoroughly and it is appropriate for the collected data. In addition we have tried to elaborate the analysis part in the section methods part of the revised manuscript.
+
+3. Have the authors made all data underlying the findings in their manuscript
+
+fully available? The PLOS Data policy requires authors to make all data underlying the findings
+
+described in their manuscript fully available without restriction, with rare exception (please refer to the Data Availability Statement in the manuscript PDF file). The data should be provided as part of the manuscript or its supporting information, or deposited to a public repository. For example, in addition to summary statistics, the data points behind means, medians and variance
+
+measures should be available. If there are restrictions on publicly sharing data e.g. participant privacy or use of data from a third party those must be specified.
+
+Reviewer #1: Yes
+
+Reviewer #2: Yes
+
+Reviewer #3: No
+
+Authors’ response: we made the data available as per the request and the data is fully available at the hand of the principal investigator.
+
+4. Is the manuscript presented in an intelligible fashion and written in Standard English?
+
+PLOS ONE does not copyedit accepted manuscripts, so the language in submitted articles must be clear, correct, and unambiguous. Any typographical or grammatical errors should be corrected at revision, so please note any specific errors here.
+
+Reviewer #1: Yes
+
+Reviewer #2: Yes
+
+Reviewer #3: No
+
+Authors’ response: We really admire the comments regarding manuscript presentation and grammar standards. We have checked the entire document carefully and amended accordingly in the revised manuscript and highlighted.
+
+5. Review Comments to the Author
+
+Please use the space provided to explain your answers to the questions above.
+
+You may also include additional comments for the author, including concerns
+
+about dual publication, research ethics, or publication ethics. (Please upload
+
+your review as an attachment if it exceeds 20,000 characters)
+
+Reviewer #1: Abstract:
+
+Abstract is written well with clear background, objectives, methods, and
+
+conclusion. It reflected the content of the manuscript.
+
+Authors’ response: Accepted
+
+Introduction: The background of the study was presented clearly and supported with relevant
+
+recent citations. The problem statement and rationale of the study were clear. The length of the introduction was appropriate compared to the length of the manuscript.
+
+Authors’ response: Accepted
+
+Methods: The study design matches the study objectives. However, the time frame for
+
+participant enrolment and time frame for follow up need to be clearly stated.
+
+Authors’ response: We really noted the raised issue. Regarding time of enrollment and follow up, we have clearly stated in the revised manuscript. See line 101-102.
+
+The type of oral antidiabetic therapy used to treat the patients should be specified bearing in mind that some antidiabetic drugs (e.g., metformin) promote development of neuropathy on chronic use.
+
+Authors’ response: Yes, as you stated metformin will contribute for the development of neuropathy in long time usage but the study participants of this study was treated by oral Gliben clamide and insulin.
+
+It is not clear why co-morbidities and biochemical markers such as blood glucose, cholesterol, and creatinine were only measured at baseline. Please provide justification for this!
+
+Authors’ response: The objective of this study was to assess time to diabetic neuropathy and determinant factors by using retrospective study design. As we know in longitudinal study design our study participants will be selected by their exposure status and we follow until the development of the outcome. Particularly for this study both the outcome and exposure status was gained from the patients’ registration book and medical history as the study was conducted using secondary data. Therefore, our aim was knowing the exposure status at the beginning of the study (baseline biochemical markers and comorbidity, then follow them until the development of neuropathy i.e. does the risk is high in exposed group or in non-exposed).
+
+There was no mention of measurement of long-term glycemic control during the
+
+follow up period for a project that lasted more than 10 years!!
+
+Authors’ response: We appreciate the intension but our objective was not on measuring the glycemic control rather time to diabetic neuropathy. Despite it is one factor for the development of diabetic neuropathy, we were un able to measure the long term glycemic control due to the nature of our data source i.e. secondary data and the objective of this study was not measuring it. We strongly recommend to consider this variable for the next researchers using prospective cohort study design.
+
+Results:
+
+Table and figure titles should be separated from main text.
+
+Authors’ response: we done it. See in the revised manuscript.
+
+In table 3, what is the basis for categorizing FBS based on a value of 200 mg/dl,
+
+cholesterol 200 mg/dl, and LDL 100 mg/dl?
+
+Authors’ response: As usual when we categorize a certain variable there should be standard or it should be biologically plausible or there should be previous literatures. Hence we categorized the above variable based on the previous literatures and biological plausibility, if the FBS is above 200 it will lead to complication, LDL of 100mg/dl level is standard cut off point. Related Literatures are listed here
+
+https://www.hindawi.com/journals/jdr/2020/9562920/ Prevalence and Determinants of Peripheral Neuropathy among Type 2 Adult Diabetes Patients Attending Jimma University Medical Center, Southwest Ethiopia, 2019, an Institutional-Based Cross-Sectional Study
+
+https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0246722 Determinants of peripheral neuropathy among diabetic patients under follow-up in chronic care clinics of public hospitals at Gamo and Gofa zones, southern Ethiopia
+
+https://www.ncbi.nlm.nih.gov/pmc/articles/PMC7569060/ Incidence of Diabetic Foot Ulcer and Its Predictors among Diabetes Mellitus Patients at Felege Hiwot Referral Hospital, Bahir Dar, Northwest Ethiopia: A Retrospective Follow-Up Study
+
+In table 3 still, total number with “proteinuria” was 145, while total number with
+
+“albuminuria” was 109. How did you distinguish between proteinuria and
+
+albuminuria?
+
+Authors’ response: As we know assessing for proteinuria, an established marker for chronic kidney disease (CKD). Higher protein levels are associated with more rapid progression of CKD to end-stage renal disease and increased risk for cardiovascular events and mortality in both the nondiabetic and diabetic populations. Monitoring proteinuria levels can also aid in evaluating response to treatment whereas Albuminuria is a very common (though not universal) finding in CKD patients; is the earliest indicator of glomerular diseases, such as diabetic- glomerulosclerosis; and is typically present even before a decrease in the glomerular filtration rate (GFR) or a rise in the serum creatinine. Hence knowing both proteinuria and albuminuria is very important. We were distinguish it through laboratorial results since our study was conducted at Health facilities having advanced laboratory setup.
+
+In table 4, explain RSMT (restricted mean survival time) as a footnote.
+
+Authors’ response: really we appreciated it. In the revised manuscript, we tried to explain the RSMT very well in the analysis part of the method section. See line 185-191 of the revised manuscript.
+
+Discussion:
+
+Interpretations of the findings and conclusions to be drawn from the data presented should consider the concerns raised in this review.
+
+Authors’ response: we have done it accordingly.
+
+References:
+
+Your list of references did not comply with PLOS One specifications (Vancouver
+
+style) and there are obvious errors in many of the entries.
+
+Authors’ response: yes, we have checked it and managed the reference part.
+
+Reviewer #2: Overall interesting study. Time to Diabetic Neuropathy and Its
+
+Predictors among Adult Type 2 Diabetes Mellitus Patients in Amhara Regional
+
+State Comprehensive Specialized Hospitals, Northwest Ethiopia, 2022: A
+
+Retrospective Follow up Study. However, the manuscript does not provide a
+
+clear overview of their work.
+
+Authors’ response: we have tried to see it thoroughly and made it clear.
+
+• Please make sure that the structure for citing published literature in the text,
+
+as well as the style of references in the References section, are consistent with
+
+the journal's style (see Instructions to Authors).
+
+Authors’ response: we admired your comments regarding the referencing and corrected it.
+
+• English language needs revision for style and syntax.
+
+Authors’ response: we addressed the language related issue. See the revised manuscript.
+
+• Abstract must be rewritten. I suggest focusing the abstract on your study and your results. Include more characteristics of participants.
+
+Authors’ response: revised accordingly.
+
+• Please specify inclusion/exclusion criteria. The experimental protocol is not
+
+clear.
+
+Authors’ response: we made it clear accordingly.
+
+• Please add the originality of the study and add hypothesis at the end of the
+
+introduction section. Be please be more specific.
+
+Authors’ response: We tried to add the hypothesis at the end of the introduction part of the revised manuscript.
+
+• Did authors perform other statistical analysis? Further details on statistical
+
+analysis are needed. Please be more specific.
+
+Authors’ response: we have clearly explained the analysis part at the method section of the revised manuscript. See line 163-194.
+
+• Figure 2 (axis) not clear. Tables must be more representative
+
+Authors’ response: we have checked it and corrected it.
+
+• Please discuss the results of the study in relation to the previous studies.
+
+Authors’ response: Discussed accordingly.
+
+Reviewer #3: The study by Alamneh et al., titled ‘Time to diabetic neuropathy and its predictors among adult type 2 diabetes mellitus patients in Amhara Regional State Comprehensive Specialized Hospitals, Northwest Ethiopia, 2022: A retrospective follow up study’ aimed to evaluate the time to diabetic neuropathy and its determinants. The authors analyzed data of 669 newly diagnosed with T2D during the 5 year enrollment period and followed up for a median 125 month. They found the overall incidence rate of diabetic neuropathy as 2.1 cases per 100 persons-year. They identified age (>60 years), diabetic retinopathy, anemia, hypertension, and hyperglycemia (FPG>200 mg/dl) as predictors of incident diabetic neuropathy.
+
+Major comments:
+
+1. The manuscript should be written in a more fluent fashion and be more concise and comprehensive.
+
+Authors’ response: we tried a lot to make it concise.
+
+There are too unnecessary repetitions, many grammatical errors, irrelevant decimals (for example instead of 179,45 months, an expression of 179 months may be easier and better for the reader). Overall, it needs an extensive editing
+
+Authors’ response: This comment contributes a lot for the betterment of our revised manuscript. We have seen the whole document and we got a lot of redundant statements and we totally avoid irrelevant repetitions.
+
+2. It seems that the definition of diabetic retinopathy is based on subjective, but not objective criteria (such as EMG).
+
+Authors’ response: we really appreciated this issue. But the diagnosis for diabetic neuropathy was done by objective criteria Nerve conduction velocity (NCV), electromyography (EMG) tests and other investigation modality by senior physians. Hence the dx for DN was not subjective.
+
+3. What kind of anemia? Iron deficiency? Vitamin B 12 deficiency? Folate
+
+deficiency? Chronic disease anemia? Thalassemia trait? Sickle cell trait?
+
+Authors’ response: all types of anemia was considered as having anemia
+
+4. Were vitamin B12 levels measured?
+
+Authors’ response: really very important variable for diabetic neuropathy and at the beginning of our study, we were considered as a variable but there was no data regarding this variable.
+
+5. What kind of oral treatments were used? Metformin? Sulfonylureas?
+
+Pioglitazone? SGLT2 inh? DPPIV inh.?
+
+Authors’ response: Gliben clamide was use.
+
+6. Was not Injectable GLP-1 analogues available during the study period?
+
+Authors’ response: was not available
+
+7. What kind of insulins were used? Basal, basal-bolus, mixed?
+
+Authors’ response: all were used based on the circumstance.
+
+8. Did the authors monitor glycemic status of the patients? For example, glycemic fluctuations are one of the major contributors to the diabetic neuropathy development. Was there hypoglycemia episodes during the study, did the authors consider this parameter when performing the analysis?
+
+Authors’ response: We appreciate the intension but our objective was not on measuring the glycemic control rather time to diabetic neuropathy. Despite it is one factor for the development of diabetic neuropathy, we were un able to measure the long term glycemic control due to the nature of our data source i.e. secondary data and the objective of this study was not measuring it. We strongly recommend to consider this variable for the next researchers using prospective cohort study design.
+
+10.1371/journal.pone.0284568.r003
+
+Decision Letter 1
+
+Nyirenda
+
+James
+
+This is an open access article distributed under the terms of the Creative Commons Attribution License, which permits unrestricted use, distribution, and reproduction in any medium, provided the original author and source are credited.
+
+4 Apr 2023
+
+Time to Diabetic Neuropathy and Its Predictors among Adult Type 2 Diabetes Mellitus Patients in Amhara Regional State Comprehensive Specialized Hospitals, Northwest Ethiopia, 2022: A Retrospective Follow up Study
+
+PONE-D-22-25165R1
+
+Dear Dr. %Bekalu Endalew Alamneh%,
+
+We’re pleased to inform you that your manuscript has been judged scientifically suitable for publication and will be formally accepted for publication once it meets all outstanding technical requirements.
+
+Within one week, you’ll receive an e-mail detailing the required amendments. When these have been addressed, you’ll receive a formal acceptance letter and your manuscript will be scheduled for publication.
+
+An invoice for payment will follow shortly after the formal acceptance. To ensure an efficient process, please log into Editorial Manager at http://www.editorialmanager.com/pone/, click the 'Update My Information' link at the top of the page, and double check that your user information is up-to-date. If you have any billing related questions, please contact our Author Billing department directly at authorbilling@plos.org.
+
+If your institution or institutions have a press office, please notify them about your upcoming paper to help maximize its impact. If they’ll be preparing press materials, please inform our press team as soon as possible -- no later than 48 hours after receiving the formal acceptance. Your manuscript will remain under strict press embargo until 2 pm Eastern Time on the date of publication. For more information, please contact onepress@plos.org.
+
+Kind regards,
+
+James Nyirenda
+
+Academic Editor
+
+PLOS ONE
+
+Additional Editor Comments (optional):
+
+Reviewers' comments:
+
+10.1371/journal.pone.0284568.r004
+
+Acceptance letter
+
+Nyirenda
+
+James
+
+This is an open access article distributed under the terms of the Creative Commons Attribution License, which permits unrestricted use, distribution, and reproduction in any medium, provided the original author and source are credited.
+
+20 Apr 2023
+
+PONE-D-22-25165R1
+
+Time to Diabetic Neuropathy and Its Predictors among Adult Type 2 Diabetes Mellitus Patients in Amhara Regional State Comprehensive Specialized Hospitals, Northwest Ethiopia, 2022: A Retrospective Follow up Study
+
+Dear Dr. Alamneh:
+
+I'm pleased to inform you that your manuscript has been deemed suitable for publication in PLOS ONE. Congratulations! Your manuscript is now with our production department.
+
+If your institution or institutions have a press office, please let them know about your upcoming paper now to help maximize its impact. If they'll be preparing press materials, please inform our press team within the next 48 hours. Your manuscript will remain under strict press embargo until 2 pm Eastern Time on the date of publication. For more information please contact onepress@plos.org.
+
+If we can help with anything else, please email us at plosone@plos.org.
+
+Thank you for submitting your work to PLOS ONE and supporting open access.
+
+Kind regards,
+
+PLOS ONE Editorial Office Staff
+
+on behalf of
+
+Dr. James Nyirenda
+
+Academic Editor
+
+PLOS ONE
+

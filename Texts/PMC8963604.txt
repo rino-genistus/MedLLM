@@ -1,0 +1,152 @@
+TITLE: Effectiveness of lifestyle modification on quality of life among uncontrolled diabetics and hypertensives in India – Community based intervention study
+
+Background:
+
+Diabetes and hypertension contribute to more than half of morbidity, mortality and years lived with disability in developing countries like India. It impacts the quality of life (QoL) of patients and their family. Management of these diseases is in infancy and emphasis is laid on pharmacological interventions. Though nonpharmacological measures are crucial for management, their implementation is questionable. Hence, this study was conducted to measure the effectiveness of lifestyle modifications on QoL among uncontrolled hypertensives and diabetics in rural India.
+
+Methods:
+
+An interventional study was done in 3 villages with 100 participants each, where village one received lifestyle modification as intervention and village two physical activity and village three control receiving standard care. The baseline data included socio-demographic characteristics such as awareness of hypertension, diabetes, lifestyle pattern and physical activity, and WHO QoL. The participants were trained, followed up, and assessed after 12 months following intervention. QoL scores between groups and pre- and post-intervention in the group were compared using Mann–Whitney U and Wilcoxon signed-rank test, respectively.
+
+Results:
+
+In this study, there was a significant improvement in overall QoL and in all the four domains, namely physical, psychological, social relationship, and environmental domains in both the intervention villages. QoL was significantly better in both the intervention groups following intervention than compared to the control group.
+
+Conclusions:
+
+QoL improves with intervention on uncontrolled diabetics and hypertensives. It is time to emphasize on the collaboration among physicians and on the holistic integrative health services delivery for non-communicable diseases.
+
+Introduction
+
+Non-communicable diseases (NCDs), also known as lifelong diseases, have long duration and commonly slow progression. The most important NCDs are heart diseases, cancers, chronic respiratory diseases, and diabetes. Each year, 15 million people die from NCD between the ages of 30 and 69 years; over 80% of these “premature” deaths occur in low- and middle-income countries. Worldwide disability-adjusted life years has increased to 5.07% and 24% from 1990 for diabetes and hypertension, respectively. NCDs pose a major public health problem in India, amounting to 62% of the total burden of foregone disability-adjusted life years and 53% of total deaths. Out-of-pocket expenditure associated with the acute and long-term effects of NCDs is high, resulting in catastrophic health expenditure for the households. A large national survey in India found that spending on NCDs accounted for 5.17% of household expenditure. Hypertension leading to cardiovascular diseases and diabetes are the top two causes of morbidity and mortality in India.
+
+Quality of life (QoL) refers to a person’s individual perception of physical, emotional, and social status. Diabetes and Hypertension are chronic diseases, and they could cause many serious short-term and long-term consequences that affect both health and QoL. These patients have great pressure to treat themselves, and they have lower QoL than healthy persons. For chronic diabetes patients, a complete cure cannot be achieved. Clinical measures can provide a good estimate of disease control, but the ultimate aim of chronic disease management is to prevent the patient’s QoL from worsening. Understanding the predictors and identifying risk factors of QoL is important and these factors may then be targeted for prevention.
+
+In most countries, 15%–30% of the adult population and more than 50% of the elderly suffer from chronic problems such as diabetes and high blood pressure, making it a clear general public health problem. The majority of the patients with diabetes and hypertension are treated by primary care physicians. Tobacco use, unhealthy diet, insufficient physical activity, and harmful use of alcohol are the four major risk factors leading to NCDs. These risk factors, leading to diabetes, hypertension, and dyslipidemia, are an important feature leading to cardiovascular diseases, which are responsible for nearly 30% of deaths worldwide. Large prospective population study has proven that a substantial reduction in the burden of NCDs could be achieved by adherence to a healthy lifestyle pattern. Studies have shown significant improvement in the QoL following lifestyle modification by implementing Dietary Approaches to Stop Hypertension Trial (DASH) diet in lowering blood pressure. However, there is a dearth of studies that looked at change in QoL following interventions among uncontrolled hypertensives and diabetics. Hence, we took this study with the objectives to measure the change of QoL with lifestyle modifications among uncontrolled hypertensives and diabetics.
+
+Methods
+
+This is an interventional study measuring the change in QoL among patients with uncontrolled hypertension and diabetes. Three large villages of coastal Karnataka were selected for intervention in large. Village one received lifestyle modification intervention, village two only physical activity, and village was the control village where people received standard regular care (Name- Central ethical committee- Nitte University, Number- NU/CEC/2017-2018/0164, Date of approval: October 2018).
+
+Sample size and sampling- The change in QoL is expected to be 5-point change, with QoL being 36 and applying that to the change after intervention with lifestyle modifications, and the standard deviation to be 1/3rd of the mean. When the sample size was calculated with a change in the mean, the sample comes to around 99 and we rounded to 100; 101 was the final sample in each village at the end of the study in each group.
+
+Methodology: The baseline data, which included the awareness of hypertension, diabetes, lifestyle pattern, and physical activity, will be taken along with QoL among the village level known hypertensives of the village in which inclusion criteria of diagnosed hypertension whose systolic blood pressure of >130 mmHg and diastolic blood pressure of 90 mmHg and diabetics whose Hb1AC of >7 Hg were enrolled into the study. It was a community trial, having 105 participants in each village; 5 participants in each group dropped out arriving at a final sample of 100. Among the three one village had full lifestyle module and another village with only exercise. Third village was the control village. We screened around 400 patients in each village to get our sample who completed the inclusion and exclusion criteria. Later we initiated intervention as per our modules into these people for a month and continued to follow up and train them on lifestyle modification in one village, exercise in the other. The participants were trained, followed up, and assessed after 12 months with lifestyle modifications. The training in lifestyle modifications and physical activity was done on a prepared module which was created using age-based intervention and focusing more on moderate activity mostly locally feasible to change the activity pattern as a whole. The food incorporated the mode of eating at the local level and changes for that were considered. The information for lifestyle modification and physical activity was collected from materials books, magazines, journals, other projects, and a trainers module prepared; we also prepared a health worker module. In the module, we put up information on hypertension, DASH diet, physical activity for hypertension. and diabetes, diabetic diet, physical activity for the diabetics. Lifestyle module was prepared stickers and booklet (hypertension, diabetes, and physical activity and diet plan for patients) for hypertension and diabetic patients in the village. The QoL was assessed between villages and before and after intervention. The QoL change before and after intervention was assessed.
+
+Statistical Analysis: Proportions were calculated for qualitative variables and mean with standard deviation was calculated for quantitative variables. Normality of data was assessed using Kolmogorov–Smirnov test. All tests were two-tailed, with a significance level of P < 0.05. Statistical analysis was performed using Epi info 08 software. Median and interquartile range (IQR) was calculated for overall QoL scores for each domain and question. Pre and Post QoL scores were compared for statistical significance by Wilcoxon signed-rank test and between groups were compared using Mann–Whitney U test.
+
+Results
+
+In intervention village 1, there were 100 people enrolled between 23–90 (Mean ± S.D = 55.9 ± 12.4) years consisting of 70 females and 30 males participants. In intervention village 2, there were 100 people enrolled between 36 and 82 (Mean ± S.D = 59.0 ± 10.3) years consisting of 56 females and 44 males participants. In the control village, there were 105 people enrolled between 38–83 (Mean ± S.D = 61.2 ± 10.8) years consisting of 67 females and 38 males participants.
+
+Table 1 shows the effect of diet and exercise counseling intervention among uncontrolled hypertensives and diabetics. Post intervention, a significant improvement in median scores was observed in overall QoL, social relationship, and environmental domains of QoL. There was an improvement in physical domain scores; however, no change was observed in the psychological domain of QoL. When post-intervention scores of village 1 were compared with baseline scores of the control village, there was a significant difference in overall QoL scores, scores of physical, psychological, social relationship, and environmental domains.
+
+Quality of life among the uncontrolled hypertensives and diabetics and its outcome on introduction of diet and exercise counseling
+
+Domains	Village-1 Median score (IQR) before intervention	Village-1 Median score (IQR) after intervention	Statistical significance Within village (Wilcoxon signed-rank)	Control Village median score (IQR)	Statistical significance between villages (Mann-Whitney U)	 	Physical	84 (80-92)	88 (80-95)	0.14	100 (92-108)	<0.001	 	Psychological	72 (68-76)	72 (68-76)	0.5	80 (73-88)	<0.001	 	Social relationship	36 (32-40)	40 (36-44)	<0.001	48 (36-48)	<0.001	 	Environment	96 (88-104)	104 (96-112)	<0.001	108 (100-120)	0.001	 	Overall quality of life	292 (272-308)	304 (288-316)	<0.001	338 (305-366)	<0.001
+
+Table 2 shows the effect of only exercise counseling intervention among uncontrolled hypertensives and diabetics. Post intervention, a significant improvement in median scores was observed in overall QoL and all the four domains scores of QoL. When post-intervention scores of village 2 were compared with baseline scores of the control village, there was a significant difference in overall QoL scores, scores of physical, psychological, social relationship, and environmental domains.
+
+Quality of life among the uncontrolled hypertensives and diabetics and its outcome on introduction of exercise counseling
+
+Domains	Village-2 Median score (IQR) before intervention	Village-2 Median score (IQR) after intervention	Statistical significance Within village (Wilcoxon signed-rank)	Control Village median score (IQR)	Statistical significance between village (Mann-Whitney U)	 	Physical	92 (84-100)	84 (78-92)	<0.001	100 (92-108)	<0.001	 	Psychological	76 (68-84)	72 (68-80)	0.02	80 (73-88)	<0.001	 	Social relationship	44 (36-48)	40 (32-44)	<0.001	48 (36-48)	<0.001	 	Environment	104 (92-116)	96 (88-104)	<0.001	108 (100-120)	<0.001	 	Overall quality of life	312 (286-344)	292 (270-312)	<0.001	338 (305-366)	<0.001
+
+Table 3 shows the improvement of different components of QoL in both the intervention villages. Following diet and exercise intervention among people with uncontrolled diabetes and hypertension, they claimed a significant improvement in the overall QoL. The extent of feeling that physical pain prevents from doing needful things, the way they enjoyed life, accepted their bodily appearance, their ability to get around significantly improved following intervention. Participants expressed significantly better satisfaction in their personal relationships, sex life, support from friends, condition of living place, access to health services, and transport facilities.
+
+Average scores in different components of QoL before and after intervention
+
+Questions	Village-1 Median score (IQR) before intervention	Village-1 Median score (IQR) after intervention	P (Wilcoxon signed- rank)	Village -2 Median score (IQR) before intervention	Village -2 Median score (IQR) after intervention	P (Wilcoxon signed- rank)	 	How would you rate your quality of life?	3 (3-3)	4 (4-4)	<0.001	4 (3-4)	3 (3-4)	0.03	 	How satisfied are you with your health?	3 (3-4)	3 (3-4)	0.6	4 (3-4)	3 (2-4)	<0.001	 	To what extent do you feel that physical pain prevents you from doing what you need to do?	3 (3-4)	3 (2-4)	<0.001	4 (3-4)	3 (2-3.5)	<0.001	 	How much do you need any medical treatment to function in your daily life?	3 (3-4)	3 (2.25-4)	0.15	3 (3-4)	3 (2-4)	<0.001	 	How much do you enjoy life?	3 (2-3)	3 (2-3)	0.03	3 (3-4)	3 (3-4)	0.03	 	To what extent do you feel your life to be meaningful?	3 (3-3)	3 (2-3)	0.3	3 (3-4)	3 (3-4)	0.05	 	How well are you able to concentrate?	3 (3-3)	3 (2-3)	0.45	3 (3-4)	3 (3-3)	0.17	 	How safe do you feel in your daily life?	3 (2-3)	3 (2-4)	0.17	3 (3-4)	3 (2-4)	0.03	 	How healthy is your physical environment?	3 (3-3)	3 (3-3)	0.2	3 (3-4)	3 (3-3)	0.07	 	Do you have enough energy for everyday life?	3 (3-3)	3 (3-4)	0.41	3 (2-3)	3 (3-3)	0.62	 	Are you able to accept your bodily appearance?	3 (2-3)	3 (2-4)	0.01	3 (2-3)	3 (2-4)	0.88	 	Have you enough money to meet your needs?	3 (3-4)	3 (3-4)	1	3 (2-3.5)	3 (2-3)	0.53	 	How available to you is the information that you need in your day-to-day life?	3 (2-3)	3 (2-4)	0.69	3 (2.5-4)	3 (2-3)	0.07	 	To what extent do you have the opportunity for leisure activities?	3 (3-3)	3 (2.25-4)	0.09	3 (3-4)	3 (3-4)	0.08	 	How well are you able to get around?	3 (3-3)	4 (3-4)	<0.001	4 (3-4)	3 (3-4)	0.22	 	How satisfied are you with your sleep?	3 (3-4)	3 (3-4)	0.29	3 (3-4)	3 (3-4)	0.44	 	How satisfied are you with your ability to perform your daily living activities?	3 (3-4)	3 (3-4)	1	3 (3-4)	3 (3-4)	0.03	 	How satisfied are you with your capacity for work?	3 (3-4)	3 (3-4)	1	3 (3-4)	3 (3-3)	<0.001	 	How satisfied are you with yourself?	3 (3-4)	3 (3-4)	0.08	3 (3-4)	3 (3-4)	<0.001	 	How satisfied are you with your personal relationships?	3 (3-3.75)	3 (3-4)	<0.001	4 (3-4)	3 (3-4)	<0.001	 	How satisfied are you with your sex life?	3 (3-3)	3 (3-4)	0.004	4 (3-4)	3 (3-4)	<0.001	 	How satisfied are you with the support you get from your friends?	3 (2-3.75)	3 (3-4)	0.04	4 (3-4)	3 (3-4)	0.01	 	How satisfied are you with the conditions of your living place?	3 (3-4)	4 (3-4)	<0.001	4 (3-4)	3 (3-4)	<0.001	 	How satisfied are you with your access to health services?	3 (2.25-3)	4 (3-4)	<0.001	4 (3-4)	3 (3-3)	<0.001	 	How satisfied are you with your transport?	3 (3-4)	4 (3-4)	<0.001	4 (3-4)	3 (3-4)	<0.001	 	How often do you have negative feelings such as blue mood, despair, anxiety, depression?	3 (3-3)	4 (3-4)	0.1	3 (3-3)	3 (2-3)	0.44
+
+Similar observations were also observed in village 2, where the intervention was only exercise among people with uncontrolled hypertension and diabetes. The need for any medical treatment to function in their daily life significantly reduced and they felt safer following intervention. Participants were significantly satisfied with their ability to perform daily activities, capacity of their work, and with themselves. Following intervention, both the groups did not report improvement in the ability to concentrate or enjoy life or experience life being meaningful. Both the groups did not show improvement in their physical environment condition or having energy in their everyday life.
+
+Discussion
+
+In this study, there was a significant improvement in overall QoL and in all the four domains, namely physical, psychological, social relationship, and environmental domains in both the intervention villages. QoL was significantly better in both the intervention groups flowing intervention than compared to the control group. People with type 2 diabetes compared with the general population tend to report poorer QoL and few cross-sectional studies done among people with type 2 diabetes have shown that higher levels of physical activity are associated with an improved QoL.
+
+In a systematic review done by van der Heijden et al. on the effect of exercise intervention on QoL among diabetes patients, five studies with lesser sample sizes found no significant effects of combined training on QoL compared with usual care. However, larger studies found positive effects of exercise on all subscales of QoL. Fritz et al. evaluated a 4-month walking intervention and found significant positive effects compared with usual care on two of 13 subscales, i.e. ”satisfaction with physical health” and “sleep.” Reid et al. reported a significant positive effect favoring usual care compared with 6 months’ training on exercise machines. Four smaller studies reported no significant effects of aerobic training on QoL compared with usual care or health education immediately post intervention. Because of the small number of studies and heterogeneity of scales being used concerning well-being, these results should be interpreted with caution.
+
+In a study done by Gusmão et al. on hypertensive patients with and without complications, the patients without complications had a significantly better QoL compared to complicated patients in most domains. A similar interventional study done in China by Miao et al. showed that at baseline, there was no statistical difference in QoL scores between interventional and control groups, while at follow-up, the intervention group scored significantly higher in overall scores than the control group. These results are similar to the study results of our study. Similar results of improved QoL were observed in studies conducted by Looman et al., which conducted a three-month integrated care program to evaluate the effects of the integrated care delivered by general practitioners on QoL in frail elderly patients.
+
+This study brings to light that any lifestyle intervention in NCDs improves the QoL in all dimensions, namely physical, psychological, social relationship, and environmental. Hypertension and type 2 diabetes are the most common chronic conditions managed in primary care settings. American Diabetic Association and Joint National Committee-7 (JNC-7) suggest simple self-care measures mainly involving lifestyle modifications to control diabetes and hypertension which is proven to be effective by various studies. Primary care physicians and their health team being closely accessible and available in the community play a crucial role in improving QoL through lifestyle modifications.
+
+The non-communicable disease control programs in middle- and low-income countries are in an infantile phase where diseases are detected in the final stage; not much emphasis being given on treatment adherence or preventive measures added to the insufficiency of the public sector in managing this burden. Lifestyle interventions by primary care physicians increases improve health outcomes and QoL for patients with NCDs and decrease hospital admissions. Countries should invest in implementing lifestyle changes in their primary care to improve access and outcomes from NCDs. Strong and sustained advocacy is needed at different management and policy levels to change the perception that hospitals and sub-specialized health facilities are the best way to improve healthcare for NCDs. Public education about the benefits of primary care as well as strengthening of the services provided can build people’s trust in primary care for the management of NCDs. Global agencies such as the WHO should continue their efforts to prevent and control NCDs, while individual countries need to devote further attention to NCDs and their risk factors in global health. One method is to create global NCD prevention and control programs. It is necessary to emphasize the collaboration among primary care physicians and on the integrative health services delivery for NCDs.
+
+Financial support and sponsorship
+
+This is part of a funded project for PHRI Fellowship to Dr. Rashmi Kundapur by IIPHG Gandhi Nagar Gujarat through PHFI-DST funding.
+
+Conflicts of interest
+
+There are no conflicts of interest.
+
+References
+
+A comparative risk assessment of burden of disease and injury attributable to 67 risk factors and risk factor clusters in 21 regions, 1990–2010:A systematic analysis for the Global Burden of Disease Study 2010
+
+Measuring the global, regional, and national burden of type 2 diabetes and the attributable risk factors in all 194 countries
+
+Worldwide trends in prevalence, mortality, and disability-adjusted life years for hypertensive heart disease from 1990 to 2017
+
+A review on Noncommunicable Diseases (NCDs) burden, its socio-economic impact and the strategies for prevention and control of NCDs in India
+
+Social and economic implications of noncommunicable diseases in India
+
+An overview of the burden of non-communicable diseases in India
+
+Health-related quality of life in diabetes:The associations of complications with EQ-5D scores
+
+Predictors of quality of life in type 2 diabetes patients with schizophrenia, major mood disorder, and without mental illness
+
+Depression and quality of life in patients with diabetes:A systematic review from the European depression in diabetes (EDID) research consortium
+
+Emotional and quality-of-life aspects of diabetes management
+
+Assessment of health-related quality of life of Bangladeshi patients with type 2 diabetes using the EQ-5D:A cross-sectional study
+
+Lifestyle changes in the management of non-communicable diseases in low and middleincome countries
+
+Maternal mortality due to arterial hypertension in São Paulo City (1995–1999)
+
+Quality of life and its association with cardiovascular risk factors in a community health care program population
+
+Physical exercise improves the functional capacity and quality of life in patients with heart failure
+
+Adherence to a healthy lifestyle and all-cause and cause-specific mortality in Chinese adults:A 10-year prospective study of 0.5 million people
+
+The combined impact of adherence to five lifestyle factors on all-cause, cancer and cardiovascular mortality:A prospective cohort study among Danish men and women
+
+The dietary approaches to stop hypertension (DASH) clinical trial:Implications for lifestyle modifications in the treatment of hypertensive patients
+
+Quality of life and diabetes
+
+Quality of life and associated characteristics in a large national sample of adults with diabetes
+
+Determinants of quality of life in type 2 diabetes population:The inclusion of personality
+
+Impact of regular exercise and attempted weight loss on quality of life among adults with and without type 2 diabetes mellitus
+
+Effects of exercise training on quality of life, symptoms of depression, symptoms of anxiety and emotional well-being in type 2 diabetes mellitus:A systematic review
+
+Effects of Nordic walking on health-related quality of life in overweight individuals with type 2 diabetes mellitus, impaired or normal glucose tolerance
+
+Effects of aerobic exercise, resistance exercise or both, on patient-reported health status and well-being in type 2 diabetes mellitus:A randomised trial
+
+Effects of aerobic exercise on selected physiological parameters and quality of life in patients with type 2 diabetes mellitus
+
+Effects of Nordic walking and exercise in type 2 diabetes mellitus:A randomized controlled trial
+
+Influence of combined exercise training on indices of obesity, diabetes and cardiovascular risk in type 2 diabetes patients
+
+Health-related quality of life and blood pressure control in hypertensive patients with and without complications
+
+Improving health related quality of life among rural hypertensive patients through the integrative strategy of health services delivery:A quasi-experimental trial from Chongqing, China
+
+The short-term effects of an integrated care model for the frail elderly on health, quality of life, health care use and satisfaction with care
+
+Role of self-care in COVID-19 pandemic for people living with comorbidities of diabetes and hypertension
+
+Effectiveness of diabetes self-management educational programs for type 2 diabetes mellitus patients in middle east countries:A systematic review
+
+Diabetes self-care in primary health facilities in India-Challenges and the way forward
+
+The impact of primary care:A focused review
+

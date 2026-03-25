@@ -1,0 +1,534 @@
+TITLE: Patient and Health Care Provider Knowledge of Diabetes and Diabetic Microvascular Complications: A Comprehensive Literature Review
+
+Diabetic retinopathy, neuropathy, and nephropathy occur in more than 50% of people with diabetes, contributing substantially to morbidity and mortality. Patient understanding of these microvascular complications is essential to ensure early recognition and treatment of these sequalae as well as associated symptoms, yet little is known about patient knowledge of microvascular sequalae. In this comprehensive literature review, we provide an overview of existing knowledge regarding patient knowledge of diabetes, retinopathy, neuropathy, and nephropathy. We also discuss health care provider’s knowledge of these sequalae given that patients and providers must work together to achieve optimal care. We evaluated 281 articles on patient and provider knowledge of diabetic retinopathy, neuropathy, and nephropathy as well as predictors of improved knowledge and screening practices. Results demonstrated that patient and provider knowledge of microvascular sequalae varied widely between studies, which may reflect sociocultural or methodologic differences. Knowledge assessment instruments varied between studies with limited validation data and few studies controlled for confounding. Generally, improved patient knowledge was associated with greater formal education, longer diabetes duration, and higher socioeconomic status. Fewer studies examined provider knowledge of sequalae, yet these studies identified multiple misconceptions regarding appropriate screening practices for microvascular complications and the need to screen patients who are asymptomatic. Further investigations are needed that use well validated measures, control for confounding, and include diverse populations. Such studies will allow identification of patients and providers who would benefit from interventions to improve knowledge of microvascular complications and, ultimately, improve patient outcomes.
+
+Introduction
+
+The global prevalence of diabetes has reached epidemic proportions. In 2019, 463 million people worldwide had either type 1 (T1D) or type 2 (T2D) diabetes, placing substantial socioeconomic burdens on health care systems globally. If trends persist, 700 million people will be affected by diabetes by 2045. The reasons for this growth are manifold. An increase in diabetes risk factors, such as obesity and a sedentary lifestyle, against the setting of aging conspire to increase diabetes onset and prevalence. Socioeconomic forces and demographic factors are also contributing to the rise in diabetes. Countries with growing economies, income levels, and populations, such as in the Middle East, North Africa, and Asia, are driving an increase in T2D prevalence. By 2045, Pakistan will overtake the United States as the third largest population with diabetes.
+
+Diabetes causes several microvascular complications, including retinopathy, nephropathy, and neuropathy, which increase morbidity and mortality. Diabetic retinopathy is the leading cause of moderate and severe vision impairment in working age adults. Neuropathy similarly can impact as many as half of individuals with diabetes, which impairs gait and stability and increases the risk of foot ulcers, ultimately leading, if left untreated, to non-traumatic lower amputations. Diabetic kidney disease (DKD), i.e., diabetic nephropathy, has an estimated prevalence of 25% of T1D and 30 to 40% of T2D patients, and can lead, in the end-stages, to death. Indeed, in 2019, 4.2 million people worldwide died from diabetes-related complications.
+
+Unfortunately, the growing diabetes prevalence is driving an increase in diabetes-related complications. Long-term diabetic complications can be present at the time of or occur shortly after diabetes diagnosis. Since early treatment of diabetes is essential for preventing disability and death, it is important for patients to understand diabetes and its related complications. Knowledge can enhance self-management behaviors, ultimately improving outcomes among patients with diabetes. However, little is known about patients’ knowledge of diabetes sequalae, particularly microvascular complications. Health care providers can educate patients and recommend screening and treatment options for microvascular complications, helping patients with their medical care choices. Yet, up to one-third of physicians do not recognize the signs of diabetic peripheral neuropathy, even in symptomatic patients. Thus, characterizing health care provider knowledge of diabetic microvascular complications, particularly in low- and middle-income countries where diabetes prevalence is increasing most rapidly, can identify changes needed to health care systems to improve patient outcomes.
+
+The aim of this literature review is to summarize knowledge of diabetes and diabetic microvascular complications among patients with diabetes and health care providers. This includes recent studies examining predictors of improved patient and provider knowledge as well as predictors of improved diabetic microvascular screening practices. Our goal, also, is to identify gaps in patient and provider knowledge to facilitate further studies of the relationship between patient and provider knowledge of diabetic microvascular complications.
+
+Methods
+
+We searched three electronic databases, PubMed, Cochrane, and CINAHL from 14 July 2021 to 20 July 2021 for articles published from the date of database inception until the end of search period, 20 July 2021. The key terms and synonyms used alone or in combination were: “patient”, “caregiver”, “individual”, “provider”, “doctor”, “health care worker”, “understanding”, “knowledge”, “diabetes”, “neuropathy”, “retinopathy”, “nephropathy”, and “kidney disease”. Additional searches were conducted by scanning the references lists and citations of included articles to ensure all relevant studies were identified. Only peer-reviewed articles that investigated patient or health care provider knowledge of diabetic neuropathy, retinopathy, or nephropathy were included. Studies were excluded if the patient population did not have diabetes (i.e., community-wide sample), unless results from patients with diabetes could be separated using the data provided.
+
+The search identified 13,128 potentially eligible studies once duplicates were removed. After screening based on title, abstract, and keywords, the eligibility of 358 full text articles was assessed, of which 102 were excluded. An additional 28 articles were identified by screening reference lists, resulting in a final literature sample of 284, as shown in PRISMA diagram (Figure 1).
+
+Patient knowledge of diabetes
+
+Diabetes knowledge is generally assessed via multiple choice surveys, either self-administered or interviewer-administered, covering topics ranging from metabolic facts, hypoglycemia and hyperglycemia symptoms, medication usage, diet and exercise, among others. Studies suggest that diabetes knowledge varies widely between study populations. In an early Scottish study, only 27/182 patients (15%) answered 11 questions correctly that investigators deemed essential diabetes knowledge. Participants generally scored better on medication management questions than general metabolic and diabetes facts. The opposite was shown among patients with diabetes in Mexico who had a better knowledge of diabetes concepts than blood glucose self-monitoring and diabetes-related medication. Diabetes knowledge was markedly better in a recent US study of 17 patients, with an average knowledge score of 60%. Of note, however, the study was underpowered to assess predictors of diabetes knowledge.
+
+A good body of evidence suggests that improved patient knowledge of diabetes is associated with better self-management of disease. This has been demonstrated using overall glucose control and medication adherence as surrogates of diabetes self-management. In a US study of 44 patients, those with better scores on a diabetes medication knowledge questionnaire had significantly lower HbA1c (p<0.0001). This relationship between diabetes knowledge and diabetes control may also be upheld in select populations, such as patients with diabetes on dialysis. Diabetes knowledge also aids in stricter adherence to medication, which is critical for disease management. Overall, indications are that improved patient knowledge of diabetes can translate to better glycemic control and medication adherence, which likely reduce disease progression. Therefore, raising awareness and knowledge of diabetes could exert a meaningful and beneficial impact on disease self-management.
+
+To identify patients with diabetes that would benefit from diabetes education, and hence improved disease control, it is essential to identify determinants of low diabetes knowledge. There are several parameters that potentially influence patients’ knowledge of diabetes. Age is a well- and long-established predictor of diabetes knowledge. This relationship between greater diabetes knowledge and younger age has been noted in various populations, including in Mexico, Costa Rica, Kuwait, United Arab Emirates, and Singapore.
+
+Additional clinical and/or demographic variables are linked to diabetes knowledge. Longer diabetes duration is implicated in better knowledge scores by some studies, but not by others, possibly due to confounding parameters. There is also discordance in studies investigating the impact of sex; diabetes knowledge was greater in females or males depending on the study, and one found no difference. However, overall, studies failed to adjust for education level and other confounding variables, which may have varied in these countries. Race/ethnicity is a possible contributor; studies to date suggest that patients who self-identify as White are likelier to have broader diabetes knowledge compared to some minorities. While this may indicate areas to improve through outreach in these populations, it is important to emphasize that most of these studies do not adjust for confounding, particularly by socioeconomic status, which limits interpretation of this association. Further, some studies categorized participants by nationality, rather than by ethnicity. Overall, there is a need for better quality studies that adjust for confounding, to better identify predictive factors affecting diabetes knowledge to launch education campaigns likely to benefit those patients at highest risk.
+
+As might be anticipated, formal education, income, and health literacy influence diabetes knowledge. Importantly, delivering focused diabetes education can raise diabetes knowledge, paving a way forward for patients with lower knowledge on a trajectory for better disease control.
+
+Knowledge of diabetic complications
+
+Uncontrolled diabetes, i.e., elevated HbA1c and fasting blood glucose, is a significant risk factor for developing microvascular complications, including retinopathy, nephropathy, and neuropathy. Several additional risks factors, such as obesity and dyslipidemia, which are frequent comorbidities in patients with diabetes, also raise the risk of microvascular complications, especially in patients with T2D. Therefore, lack of knowledge of diabetes leading to suboptimal self-care and poor disease control could potentially also increase the risk of diabetic complications. Indeed, just as patient knowledge of diabetes is generally suboptimal, recognition of diabetic complications, including microvascular complications, was less than 50% in some settings.
+
+In addition, and compounding the issue, providers do not universally address diabetic microvascular complications in patients, even in patients clearly exhibiting symptoms e.g., neuropathy. Since provider recommendations significantly influence patient care choices in diabetes microvascular complications, it is important to understand the level of provider knowledge of microvascular complications. However, just as for patients, there is no comprehensive review of provider knowledge and predictors of provider knowledge of these diabetic complications. Herein, we provide our findings from a thorough literature review of both patient and provider knowledge, covering retinopathy, neuropathy, and nephropathy.
+
+Retinopathy
+
+Diabetic retinopathy is a leading global cause of preventable vision impairment and blindness. The damaging effects of diabetes on the eye can be prevented by early detection of retinopathy through screening and timely treatment of sight-threatening complications. Therefore, it is critical to identify approaches that improve patient knowledge leading to better health choices and care seeking behavior. We found literature regarding patient knowledge of retinopathy from many world regions, although the preponderance of data was from Saudi Arabia and India with some studies from the US. They highlight critical gaps in patient knowledge. Even in countries with provider guidelines, for instance by the American Diabetes Association (ADA), to ensure retinopathy is evaluated in timely manner, patient adherence to screening is suboptimal, of which lack of knowledge of the potential harms of retinopathy may be a contributing cause. In a nationwide US study of 204,073 patients with diabetes, only 71.1% adhered to the retinal screening recommendations during a median 4.8-year follow-up. Therefore, it is important to characterize the determinants leading to poor adherence, such as knowledge of retinopathy.
+
+Instruments to assess retinopathy knowledge
+
+Several formal Knowledge, Attitudes, and Practices (KAP) surveys have been developed to assess patient knowledge of retinopathy. A KAP survey is a quantitative or qualitative method to address a predefined question, what are patient and provider understanding of diabetic complications in this instance, through a standardized questionnaire. The goal of KAP surveys is to reveal misconceptions or misunderstandings, which pose an obstacle to desirable activities or behaviors, i.e., screening, self-care, and appropriate management of diabetic complications in this review. KAP surveys can be structured, e.g., multiple choice, guided questions, or semi-structured, i.e., relatively more open-ended interviews. The KAP survey may be conducted by the investigator, either in-person or over the phone, or may be self-administered, online or by mail. To assess whether the KAP surveys will evaluate the intended topic, they are tested for internal consistency, reliability, and face validity and frequently pretested in a pilot group characteristic of the target population. Cronbach’s alpha coefficient is a measure of test reliability or internal consistency for a set of scales or test items. The coefficient ranges from 0 to 1; the coefficient is 0 when test items are independent from one another, but approaches 1 when test items have high covariances, i.e., they measure the same underlying concept, KAP in these instances. A Cronbach’s alpha coefficient minimum of 0.65 and 0.8 is recommended.
+
+KAP surveys for retinopathy span structured and semi-structured self- and investigator-administered questionnaires. The internal consistency of some KAP surveys has been assessed and found to be acceptable with Cronbach’s alpha coefficients ranging from 0.6 to 0.8. Some studies have evaluated face validity by consulting an expert panel, whereas other have developed questionnaires based on reviews of the literature. Pretesting by leveraging a pilot group of volunteers outside of the study area or study cohort is a relatively widely adopted validation method. Unfortunately, little information using the same retinopathy KAP survey in multiple settings or in multi-center studies is available therefore it is unclear how these measures perform across different patient populations.
+
+Far less literature has been published regarding KAP surveys of retinopathy knowledge among providers. A search of the literature yields both self- and investigator- administered structured questionnaires, all pretested in separate participant groups. One study evaluated KAP survey internal consistency with a moderate Cronbach’s alpha coefficient (0.64). More commonly, informal surveys of provider knowledge of retinopathy using short one- or two-question queries are documented in the literature. A couple of reports lack details regarding the instrument used. Thus, overall, there are few KAP survey instruments developed to assess provider knowledge of retinopathy.
+
+Patient knowledge of retinopathy
+
+KAP surveys of patient knowledge of diabetic complications suggest that retinopathy is the most recognized complication. Among Irish patients with diabetes, 92% of those with T1D and 83% with T2D knew retinopathy was a diabetes-related complication, compared to 71% of T1D and 53% of T2D for neuropathy. Despite this, some populations, such as American Indians and Alaskan Natives, were unaware of the connection between retinopathy and diabetes whereas other populations held misconceptions regarding causes, e.g., watching too much TV or bad luck (Table 1). There is also a limited understanding by patients that retinopathy can be asymptomatic, including in select populations, such a 50% of females surveyed in New York City. This belief may hold patients back from attending screening if they are unaware that they may be in the early asymptomatic stages of retinopathy. Indeed, in this survey of 150 low-income diabetic females from New York City, a fifth were unfamiliar with the type of provider required for an eye exam and 17% were unaware that annual eye exams were recommended. Of those aware of the annual screening recommendation, only approximately a quarter had knowledge regarding the need for dilation of the pupils as a critical component of the eye exam. In a survey of patients with diabetes in rural India, less than a third were aware that eyes must be assessed on a regular basis.
+
+In addition to knowledge gaps concerning causes and screening for retinopathy, there is a lack of knowledge regarding treatment options. Early surveys of urban populations suggest a significant proportion of patients with diabetes are unfamiliar with treatment options, with only around a fifth of respondents demonstrating correct knowledge. This proportion was even lower, 5%, in a recent rural study in India. It is unclear from our literature review whether knowledge has improved in urban populations in recent years. Furthermore, there is a low level of knowledge regarding the preventative, rather than curative, nature of treatments, such as laser and glucose control, which are erroneously thought to be curative.
+
+Previous studies also examined predictors of retinopathy knowledge, spanning demographic, clinical, and socioeconomic factors. Studies are discordant regarding age, with findings of greater knowledge in younger versus older patients with diabetes. In surveys that examined sex, being female was associated with greater knowledge of retinopathy. In addition, patients with a longer duration of disease were more likely to understand diabetic retinopathy, and this was confirmed in multiple recent surveys. Further, patients with a prior eye exam also had a greater knowledge of retinopathy. Examination of socioeconomic factors reveals some anticipated correlations with greater retinopathy knowledge, such as higher formal education, literacy, urban residency, and income. Additionally, speaking English, were English was not the persons first language, was also linked to greater knowledge of retinopathy. Only ten studies controlled for confounding. Among those that did, the following predictors of retinopathy knowledge remained significant: younger age, duration of diabetes, a prior eye exam, higher income, urban residency, and greater formal education. Six studies found no significant demographic or clinical predictors of increased retinopathy after controlling for confounding.
+
+Moreover, surveys have examined predictors of engaging in retinopathy screening behavior, which were multifactorial. From the literature we identified the main determinants for attending screening were younger age, female sex, and White ethnicity. Diabetes characteristics also play a role in whether patients seek screening, such as more severe diabetes and comorbidities such as hypertension and hyperlipidemia, and, overwhelmingly, longer disease duration, although one study noted the opposite. As might be expected, previous attendance for an eye exam, receiving a physician recommendation to attend for screening, and better knowledge of diabetes and retinopathy also increase screening adherence. Lastly, as for determinants of retinopathy knowledge, greater formal education, urban residency, higher income, and linkage into care/health insurance was associated with an increased likelihood of screening attendance. Again, few studies adjusted for potential confounding.
+
+Overall, our literature review identifies crucial gaps in patients’ diabetic retinopathy knowledge. These span lack of awareness of the relationship of retinopathy to diabetes, occurrence of early asymptomatic disease, misconceptions regarding causes, and paucity of knowledge regarding therapies. Surveys have revealed several determinants of low retinopathy knowledge and screening, such as demographics (age, sex, ethnicity), diabetes duration, prior behavior, physician recommendations, and various socioeconomic factors. This could help identify patient populations, which would benefit from retinopathy education and outreach. Of note, several studies identified from urban, Western countries were conducted over two decades ago, and we could not ascertain whether patient KAP have since changed in the intervening years.
+
+Provider knowledge of retinopathy
+
+Provider knowledge of retinopathy is crucial for ensuring patients’ optimal eye care because multiple studies support that physician recommendations are strong determinants of patients’ adherence to screening guidelines. Sixty to 100 percent of physicians and 50%−75% of nurses and midlevel providers know diabetes can adversely affect the eyes. However, overall retinopathy knowledge can be poor among providers in some geographic areas. A survey of private sector non-ophthalmic providers (n=355) in Saudi Arabia found a good level of diabetic retinopathy knowledge was only present in 54.3% of interviewees, along with a positive attitude among 31.3% and excellent practice among only 40.8% of interviewees. We did not identify any studies that compared provider knowledge globally. We did, however, find evidence that ophthalmic specialists outperform non-specialists for detecting proliferative retinopathy from seven-view stereo fundus photographs and review of medical charts; therefore, suboptimal retinopathy knowledge may be more of an issue among general doctors than eye experts. Since most patients receive their medical care first from their primary care physician, they must be knowledgeable of retinopathy to determine when a referral to an ophthalmologist is necessary.
+
+Our search of the literature identified several points of provider knowledge limitations. These included a lack of awareness concerning what part of the eye diabetes affects, uncertainty regarding the tests used to diagnose retinopathy, as well as misconceptions regarding contraindications to diabetic fundoscopic exams, e.g., hypertension. As we had identified for patients, a small KAP survey also found lack of knowledge among providers regarding the existence of asymptomatic disease. This was noted by a small study of physicians (n=22) and village health workers (n=25) in rural China, which found most providers did not conduct a pupil dilation exam if the patient had no symptoms. Similarly, a KAP survey of primary care physicians in Saudi Arabia (n=216) found that only 46% were aware that patients initially exhibit no symptoms in the early stages of retinopathy. An early investigation of KAP among Canadian general practitioners (n=1,038) found that 27% overestimated the benefits of treatment, i.e., a false belief that laser photocoagulation improved rather than stabilize disease progression. Lastly, we identified provider gaps in knowledge regarding gestational diabetes. Family-practice physicians (n=224) were more likely to examine the eyes of patients with gestational diabetes for retinopathy compared to obstetrics/gynecology physicians (n=184), as surveyed by mail. In
+
+We found only scant information regarding predictors of greater provider knowledge of retinopathy. As might be anticipated, specialist training correlates with greater knowledge or ability to detect retinopathy, e.g., retinal specialists versus internists, diabetologists, and medical residents or additional subspeciality training. Longer duration of practice was also a determinant of greater knowledge. Patient characteristics also contributed, with providers demonstrating better knowledge regarding the connection of retinopathy and T2D versus T1D and, as a result, providers more frequently referred patients with T2D versus T1D to ophthalmology. In a KAP survey of medical students in Saudi Arabia, males scored higher on knowledge and practice whereas females scored better on attitude.
+
+Cumulatively, our search of the literature revealed some investigation of provider KAP, although recent studies were limited in scope and geographic location. Moreover, carefully adjusted studies for confounding factors are scarce.
+
+Neuropathy
+
+Peripheral neuropathy is an injury of the nerves, generally in a symmetric distal to proximal fashion, initiating in the feet and progressing to the calves. In the later stages, the hands may also be affected. Neuropathy can impair gait and stability, increasing susceptibility to falls and secondary injury. Moreover, peripheral neuropathy can lead to non-healing foot ulcers, which may ultimately require lower limb amputation. Thus, it can significantly increase disability and lower quality of life, making it essential for patients to understand neuropathy. We searched the literature for studies that examined patient knowledge of neuropathy. Most studies were conducted in India and China, although studies were conducted across multiple other countries. Patient populations comprised both inpatients with diabetic ulcers as well as outpatients with diabetes lacking neuropathy symptoms. One 2000 US study of patients who were ADA members in an urban setting found that 27% of respondents reported they had not been advised or educated on diabetic neuropathy and foot complication by their health care provider. Thus, gaps in patient knowledge of neuropathy may be substantial, even in patients belonging to an organization advocating and supporting diabetes research.
+
+Instruments to assess neuropathy knowledge
+
+We identified several instruments assessing neuropathy knowledge in the literature. The majority were KAP surveys focused on foot care and foot ulcer knowledge and practice, rather than neuropathy more broadly. KAP surveys were both in structured and interview format questionnaires, either self- or investigator-administered. In one study, the questionnaire was investigator-administered when the respondent was illiterate or physically unable to complete the survey but self-administered by the remainder of participants. A few administered KAP surveys were adapted from prior surveys, whereas a few were utilized in multiple studies or used prior instruments. Moreover, we found a KAP instrument that split the survey into basic and extended foot care practices. The Patient Interpretation of Neuropathy (PIN) questionnaire evaluated both misperceptions about foot complications, patient knowledge of neuropathy and its link to complications, and foot self-care efficacy beliefs, among other concepts related to patient understanding of neuropathy.
+
+A few studies evaluated parameters of KAP surveys for capturing patient knowledge. Several KAP surveys we identified were pretested, although one study was pretested in medical students instead of a population meeting the criteria of the study population. Regarding, internal consistency of KAP surveys, they had Cronbach’s alpha coefficients ranging from 0.72 to 0.86, which is rated as acceptable. A couple of studies assessed face validity of the utilized KAP survey by a panel of medical experts. In addition to KAP surveys, we also found papers that leveraged scoring and/or scaling instruments to assess patient knowledge of diabetic foot care. These included diabetic knowledge and foot care scores. Finally, one study report provided no information regarding the employed instrument.
+
+We found far fewer neuropathy KAP instruments for providers; however, they spanned structured and semi-structured questionnaires, which were self- or investigator- administered. We noted some surveys were pretested, were assessed for face validity by experts, and evaluated for internal consistency by Cronbach’s alpha coefficients (0.72 for junior doctors, 0.81 for nurses). Additionally, studies used previously validated instruments about KAP towards diabetes more broadly, e.g., Diabetes Self-Report Tool, Diabetes Basic Knowledge Tool.
+
+Patient knowledge of neuropathy
+
+Overall, evidence suggests patient knowledge of neuropathy ranges from 10–60% compared to 60–92% for retinopathy, which may also be the case in providers, e.g., nurses. Of the papers we assessed, we found a broad range of patient level knowledge and practice behaviors in neuropathy, i.e., diabetic foot (Table 2). Many reported less than adequate foot care behavior in diverse populations worldwide, urban and rural. Moreover, some studies highlighted a disconnect in knowledge and practice. In a Saudi Arabian study of patients with T2D (n=360), although 70% had knowledge of diabetic foot care, only 41.7% examined their feet, 41.4% washed them with warm water, 31.4% carefully dried them between the toes, and 33.1% used moisturizer. We also noted some misconceptions regarding foot care; for example, qualitative interviews with people with diabetes in Jordan revealed the belief that there is no need to examine the feet if participants had no ulcers. Appropriate education on diabetic neuropathy can have tangible effects on care adherence. A study of T2D patients with diabetic neuropathy (n=104) found that foot care education enhanced attendance at yearly check-ups, as well as moisturizer use and appropriate shoe wear (all p<0.05). Another study in Saudi Arabia similarly found that foot care practice was superior in T2D patients that received physician recommendations to examine their feet. Therefore, it is essential for patients to understand neuropathy to adopt practices that improve foot care.
+
+Across the studies, we identified multiple predictors of patient knowledge, which included demographic, clinical, and socioeconomic factors. The literature findings regarding sex were mixed. We found reports that found neuropathy knowledge was greater in females and, conversely, in males, and one study that did not find a relationship between neuropathy knowledge and sex. Older age also associated with deeper knowledge of diabetic foot and neuropathy. Additionally, in a large Chinese study of patients with T2D (n=5,961), disease characteristics had an influence on patient knowledge, including positive correlations with diabetes duration and regular diabetes care following multiple regression analysis. Prior foot complications may impact neuropathy knowledge. In a Thai study, knowledge was lower among T2D patients with (n=55) versus without ulcers (n=110), which did not correlate with either foot care score or diabetes duration. Conversely, a UK study of amputees at a foot clinic found a high level of foot care knowledge, which did not differ between patients with unilateral (n=121) or bilateral (n=22) amputations. No differences were noted in KAP between patients with (n=89) versus without (n=121) amputation in a St. Kitts and Nevis. We also identified that prior education on foot care and prior physician advice was associated with greater neuropathy knowledge. As might be anticipated, multiple studies also found that higher levels of formal education enhanced knowledge of diabetic foot disease. Lastly, higher socioeconomic status was linked to a greater knowledge.
+
+Although knowledge scores can correlate with practice behavior, as noted above, better neuropathy knowledge does not always lead to better foot care. Thus, we also combed the literature for determinants of good foot self-care. Female sex was associated with greater foot self-care (p<0.035), an association that persists after controlling for confounders in the US, China, and Ethiopia. Younger age is also a predictor of better care, though one study noted no effect of age based on a 50-year-old cutoff. Studies that identified predictors of greater knowledge through multiple regression analysis indicated a weak association of age with knowledge in a US study, but a strong association in other studies. A few studies examined the influence of ethnicity; analysis of T2D US participants from the Diabetes Attitudes, Wishes and Needs 2 study found that Black Americans spent more time on foot self-exam per week versus White or Chinese Americans, after controlling for income, age, education and diabetes type (p<0.05). A US study of veterans with diabetes confirmed this association, with higher adherence to foot care among Black Americans as well as Hispanic patients when compared to White patients, in multiple regression analysis, as did a UK study across the general T2D population.
+
+As with neuropathy knowledge, previous experiences with foot ulcers or amputations may also influence self-care practice. In the study of US veterans, neuropathy symptoms, a foot ulcer in the previous year, or a prior amputation independently predicted more meticulous foot care. Several studies highlighted that better diabetic foot education and attention from a foot care professional also improved self-care practices. Finally, socioeconomic forces played a role in self-care behavior, including a higher formal education, urban residency, and income. Factors may modify these relationships. For instance, in the US veteran study, years of schooling did not remain significant after multiple regression analysis, although it did in a Chinese study. This emphasizes the importance of correcting for confounding factors in KAP surveys, as well the presence of additional potential contributors that may explain study differences.
+
+Provider knowledge of neuropathy
+
+Our comprehensive literature review found there were far fewer KAP studies of provider neuropathy knowledge versus of patients, and some studies were relatively small. Overall, the studies revealed significant knowledge gaps and misconceptions. A nationwide US study of health care professionals, which comprised general doctors (n=250), specialists (n=150), and nurses and/or physician assistants (n=100), found 53% of survey participants held the belief that adequate glucose control could reverse peripheral neuropathy, despite the progressive nature of the disease and the presence of additional risk factors, such as central obesity. Encouragingly, however, over half of providers expressed a desire for more information regarding several aspects of neuropathy, including its cause and how it induces pain or numbness. In a UK study, junior doctors and nurses scored poorly with regards to foot care, although they scored well on general diabetes knowledge, indicating a potential disconnect in understanding the link between diabetes and neuropathy. Moreover, neuropathy was the least recognized diabetes complication out of several micro- and macrovascular complications, including retinopathy and nephropathy, by nurses in Australia. Conversely, a study of nurses in Saudi Arabia found neuropathy was recognized 76% of participants, and most by nurses belonging to critical care units.
+
+Our survey of the literature also uncovered a few trends in practice. A small 1997 study in Cape Town found that doctors and primary health care nurses (n=22) did not usually assess for peripheral neuropathy (insensate foot, ulcers), unless the patient voiced a complaint. A more recent KAP survey of pharmacists in Qatar found most counselled patients on foot exams and screening for neuropathic pain. In a study that showed footage of a “patient” displaying signs of emerging peripheral neuropathy, only 42.2% of participating US primary care physicians (n=192) indicated they would perform all essential components of a foot examination, whereas 21.9% stated they would perform none. Additionally, providers were more likely to recommend all parts of a foot exam in male versus female, older versus younger, higher versus lower socioeconomic status patients, and in patients with signs of neuropathy compared to those without signs of neuropathy. We could not ascertain more current practices overall due to a lack of studies.
+
+Nephropathy
+
+Objectively, nephropathy, otherwise known as diabetic kidney disease (DKD), may be considered the most serious of diabetic microvascular complications. DKD is the progressive loss of kidney function secondary to diabetes, which manifests as microalbuminuria and renal inflammation. In very advanced disease, the so-called end-stage renal disease, it can require renal replacement therapy, and, in the cases of failure, lead to death. Therefore, it is essential for patients with diabetes to be aware of DKD and take measures to prevent onset and/or slow progression. Unfortunately, our literature search did not yield many studies of nephropathy KAP, either among patients or providers. Therefore, this is a significant knowledge gap that requires addressing.
+
+Instruments to assess nephropathy knowledge
+
+Since we identified a few KAP studies of nephropathy in patients with diabetes in the literature, there were only a few instruments, some of which had been previously used to assess knowledge regarding kidney disease not necessarily related to diabetes. Only one mentioned face and content validity and internal consistency. The scenario was similar for provider KAP instruments; some noted pretesting and assessment of internal consistency and employed a previously published tool, but there was little data available overall. The lack of validated instruments hinders our ability to accurately assess KAP related to DKD and compare across populations.
+
+Patient knowledge of nephropathy
+
+Among the sparse studies we found, evidence suggests patient knowledge of nephropathy is less than that of retinopathy. Moreover, there was a lack of studies regarding KAP in patients with diabetes and none adjusted for potential confounding (Table 3). A study in Malaysia of patients diagnosed with diseases at risk of chronic kidney disease (diabetes, hypertension, heart diseases, obesity, n=103), nephropathy knowledge was associated with being male, younger, formally educated, married, and of higher income (all p<0.05), although none except marital status remained significant for practice behavior. However, it was unclear from that study what the level of nephropathy knowledge and practice was specifically among patients with diabetes. A Fiji study of T2D patients with chronic kidney disease (n=225) found KAP to be relatively good among participants, with high knowledge, attitude, and practice scores in 61.8%, 63.6%, and 88.4% survey respondents, respectively. It is possible KAP scores were high due to the selected nature of participants, involving those with known T2D and nephropathy recruited from study site providing care for these specific conditions. In fact, patient KAP overall may be low. A study in India of only T2D patients (n=323) found nephropathy knowledge was poor in 79% of survey respondents, and was associated with poor literacy, low socioeconomic status, and limited family income. An Ethiopian study of patients with diabetes and hypertension (n=208) found nephropathy knowledge to be low in 63.5% of participants. Finally, one Australian study of patients with T1D (9%) and T2D (88%) and chronic kidney disease (n=316) investigated the barriers to seeking appropriate care, which included inadequate knowledge of diabetes and nephropathy.
+
+Provider knowledge of nephropathy
+
+Nephropathy is relatively well recognized as a diabetes complication by Australian nurses (75% of survey participants), nearing their knowledge of retinopathy (89%) and far outpacing that of neuropathy (48%) and foot ulcers (43%). A KAP survey of Ethiopian health care professionals (n=326) indicated 91% were aware of the association of diabetes and hypertension with chronic kidney disease, although there were some gaps, such as only 59% were aware that assessment of enhanced glomerular filtration rate was superior to serum creatinine alone for assessing nephropathy severity. However, the KAP instrument used by this study only had a Cronbach’s alpha coefficient of >0.62; therefore, it may not have accurately captured KAP. The association between diabetes and nephropathy was also recognized by 88% of general practitioners in a Pakistani study. Overall, there is a lack of studies investigating DKD KAP in providers and only one adjusted for potential confounders using logistic regression.
+
+With regards to DKD practices, in a small Cape Town study, 82% of doctors and primary health care nurses assessed nephropathy by urine protein, whereas only 27% assessed serum creatinine. Moreover, providers were unaware that controlling hypertensive nephropathy is essential for reducing the risk of DKD. A 1999 US study of primary care physicians recruited from the American Medical Association database (n=211) found nearly 98% of physicians assessed proteinuria and microalbuminuria at least as frequently or more frequently as the recommended guidelines at the time of the study, yet 39% chose an inappropriate test for monitoring.In addition, an Australian study found patients with DKD did not always receive the guideline recommended care, with nearly 40% of patients with a blood pressure >140/90 mmHg despite strict blood pressure recommendations among patients with DKD. However, further investigation into the reasons for this, including patient compliance with physician recommendations, was not provided.
+
+Conclusions
+
+Microvascular complications contribute to substantial morbidity and mortality among patients with diabetes, yet our comprehensive literature review found that studies examining patient and health care provider knowledge of these complications varies widely between microvascular complication and settings. Retinopathy had the largest number of studies and appears to be the most widely studied diabetic microvascular complication, yet nephropathy, which is a significant driver of diabetes-related mortality, is the topic of substantially fewer studies. Addressing this knowledge gap is essential to reduce mortality among patients with diabetes.
+
+The current literature does offer insight into possible interventions for this patient population. Our literature review found that patients and providers often did not see the need to seek healthcare or screen for microvascular complications unless there are symptoms clearly consistent with diabetic sequalae. This is a clear missed opportunity to reduce morbidity among patients with diabetes. As patients frequently cite health care providers as sources of information, improving provider knowledge of diabetic microvascular complications and addressing barriers to patient education and risk factor modification may provide one avenue for improving patient outcomes.
+
+Yet, it is challenging to know whether these interventions would be effective as our literature review noted significant discordance in findings across studies. This could be due to the relatively small sample sizes of most studies, lack of adjusting for potential confounding parameters in most cases, or sociocultural differences between study sites. While there were studies that recruited from multiple cities or from organizational or national databases, we did not identify any studies that recruited from more than one country. Therefore, it is difficult to draw firm conclusions whether differences in patient and provider knowledge are setting specific or related to methodology. Instruments used to assess patient and provider knowledge of microvascular complications varied substantially between studies and, while some authors included detailed regarding instrument validation, this was only moderately implemented. Consistent use of well-validated measures between study sites would address concerns regarding methodology as well as begin to highlight sociocultural differences between settings. Lastly, studies conducted in high-income settings have not been updated and there are few studies that have included the same study site over time. Therefore, we were unable to draw conclusions regarding temporal changes in patient and provider knowledge. To move forward and identify patient and provider populations that would benefit most from educational programs, updated studies using well-validated KAP surveys with results analyzed using more refined statistical tools are essential.
+
+Conflicts of Interest: The authors have no conflicts of interest to disclose.
+
+Abbreviations
+
+ADA
+
+American Diabetes Association
+
+CI
+
+confidence interval
+
+CKD
+
+chronic kidney disease
+
+DKD
+
+diabetic kidney disease
+
+GP
+
+general practitioner
+
+HbA1c
+
+hemoglobin A1C
+
+KAP
+
+knowledge attitudes and practices
+
+OR
+
+odds ratio
+
+PRISMA
+
+preferred reporting items for systematic reviews and meta-analysis
+
+T1D
+
+type 1 diabetes
+
+T2D
+
+type 2 diabetes
+
+UK
+
+United Kingdom
+
+US
+
+United States
+
+References
+
+Global Prevalence of Diabetic Retinopathy and Projection of Burden through 2045: Systematic Review and Meta-analysis
+
+Diabetic neuropathy
+
+Diabetes and chronic kidney disease: an increasingly common multi-morbid disease in need of a paradigm shift in care
+
+Effectiveness of Diabetes Self-management Education Intervention Elements:A Meta-analysis
+
+Incentives and barriers to retinopathy screening among African-Americans with diabetes
+
+An additional cause of health care disparities: the variable clinical decisions of primary care doctors
+
+Do diabetics remember all they have been taught? A survey of knowledge of insulin-dependent diabetics
+
+Diabetes knowledge and its determinants in a Mexican population
+
+Relationship Between Diabetes Knowledge, Glycemic Control, and Associated Health Conditions
+
+Evaluation of a structured outpatient group education program for intensive insulin therapy
+
+Association between diabetes patients’ knowledge about medications and their blood glucose control
+
+Evaluating the Effect of Knowledge, Attitude, and Practice on Self-Management in Type 2 Diabetic Patients on Dialysis
+
+Patient-provider communication: understanding diabetes management among adult females
+
+Predictors of diabetes-specific knowledge and treatment satisfaction among Costa Ricans
+
+Socio-demographic features and knowledge of diabetes mellitus among diabetic patients in Kuwait
+
+Knowledge, attitude and practices of diabetic patients in the United Arab Emirates
+
+Lack of awareness amongst community patients with diabetes and diabetic retinopathy: the Singapore Malay eye study
+
+Knowledge of self-care among type 2 diabetes patients in two states of Nigeria
+
+Diabetes knowledge -- are patients getting the message?
+
+Diabetes beliefs among low-income, white residents of a rural North Carolina community
+
+Diabetes knowledge, beliefs and practices among people with diabetes attending a university hospital in Karachi, Pakistan
+
+Knowledge of complications of diabetes mellitus among patients visiting the diabetes clinic at Sampa Government Hospital, Ghana: a descriptive study
+
+Association of Demographic Variables with the Awareness of Type 2 Diabetes Mellitus Patients (T2DM) among the Northwest Population in Saudi Arabia
+
+Knowledge, attitude and practices of Qatari patients with type 2 diabetes mellitus
+
+Factor associated with diabetic control and utilization patterns in a low-income, older adult population
+
+Diabetes knowledge and sources of information among African American and white older women
+
+Asian diabetics attending a British hospital clinic: a pilot study to evaluate their care
+
+Ethnic differences and socio-demographic predictors of illness perceptions, self-management, and metabolic control of type 2 diabetes
+
+A cross-sectional assessment of diabetes self-management, education and support needs of Syrian refugee patients living with diabetes in Bekaa Valley Lebanon
+
+The relationship between health literacy and diabetes knowledge and readiness to take health actions
+
+Diabetes Self-Care and Clinical Care Among Adults With Low Health Literacy
+
+Global prevalence and major risk factors of diabetic retinopathy
+
+The emerging role of dyslipidemia in diabetic microvascular complications
+
+Enhanced glucose control for preventing and treating diabetic neuropathy
+
+Central Obesity is Associated With Neuropathy in the Severely Obese
+
+Diabetes care: the rural patient perspective: rural patient knowledge and perceived barriers to care…proceedings of the Communicating Nursing Research Conference and WIN Assembly, ‘Responding to Societal Imperatives Through Discovery and Innovation’, held April 10–12, 2003, Scottsdale, Arizona
+
+Staff knowledge, attitudes and practices in public sector primary care of diabetes in Cape Town
+
+Knowledge, attitude and practice among non-ophthalmic health care providers regarding eye management of diabetics in private sector of Riyadh, Saudi Arabia
+
+Measuring the diabetes knowledge of nurses in long-term care facilities
+
+Examining perceived and actual diabetes knowledge among nurses working in a tertiary hospital
+
+Factors that influence the patient uptake of diabetic retinopathy screening
+
+The National Eye Health Education Program: increasing awareness of diabetic eye disease among American Indians and Alaska Natives
+
+12. Retinopathy, Neuropathy, and Foot Care: Standards of Medical Care in Diabetes-2022
+
+Adherence to the American Diabetes Association retinal screening guidelines for population with diabetes in the United States
+
+Thanks coefficient alpha, we’ll take it from here
+
+Knowledge, attitude and practice regarding eye complications and care among Omani persons with diabetes - A cross sectional study
+
+Assessment of awareness of diabetic retinopathy and utilization of eye care services among Turkish diabetic patients
+
+Changing Clinical Presentation, Current Knowledge-Attitude-Practice, and Current Vision Related Quality of Life in Self-Reported Type 2 Diabetes Patients with Retinopathy in Eastern India: The LVPEI Eye and Diabetes Study
+
+Knowledge, Beliefs and Practices of Patients with Diabetic Retinopathy at the University Hospital of the West Indies, Jamaica
+
+Ocular knowledge and practice among type 2 diabetic patients in a tertiary care hospital in Bangladesh
+
+Awareness and practices regarding eye diseases among patients with diabetes: a cross sectional analysis of the CoDiab-VD cohort
+
+Diabetes and Diabetic Retinopathy: Knowledge, Attitude, Practice (KAP) among Diabetic Patients in A Tertiary Eye Care Centre
+
+Knowledge, Awareness, and Eye Care-Seeking Behavior in Diabetic Retinopathy: A Cross-Sectional Study in Jeddah, Kingdom of Saudi Arabia
+
+Awareness of diabetic retinopathy among diabetic patients
+
+Diabetics Retinopathy Knowledge and Awareness Assessment among the Type 2 Diabetics
+
+Barriers for Adherence to Diabetic Retinopathy Screening among Saudi Adults
+
+Knowledge about diabetic retinopathy, eye check-up practice and associated factors among adult patients with diabetes mellitus attending at debark hospital, Northwest Ethiopia
+
+Awareness and knowledge of diabetic retinopathy and associated factors in Goa: A hospital-based cross-sectional study
+
+Awareness and practices on eye effects among people with diabetes in rural Tamil Nadu, India
+
+Awareness of diabetic retinopathy among people with diabetes in Jeddah, Saudi Arabia
+
+Awareness of eye complications and prevalence of retinopathy in the first visit to eye clinic among type 2 diabetic patients
+
+Diabetic retinopathy: Knowledge, awareness and practices of physicians in primary-care centers in Riyadh, Saudi Arabia
+
+Knowledge, attitude, and practice of diabetic retinopathy among physicians in Northwestern Nigeria
+
+Screening for diabetic retinopathy. Do family physicians know the Canadian guidelines?
+
+Knowledge of Primary Prevention of Diabetic Retinopathy among General Ophthalmologists, Mid Level Eye Care Personnel and General Physicians in Oman
+
+Knowledge levels of diabetic eye disease in people with diabetes: results of a descriptive survey
+
+Knowledge and practices regarding diabetic retinopathy among diabetic patients registered in a chronic disease management system in eastern China
+
+Compliance with Eye Screening Examinations among Diabetic Patients at a Tanzanian Referral Hospital
+
+Awareness of diabetic retinopathy among patients with type 2 diabetes mellitus in primary health care in security forces hospital Riyadh, Saudi Arabia
+
+Knowledge and practices of fundoscopy among general practitioners in Qassim Province, Saudi Arabia, for the management of diabetic retinopathy and diabetic macular edema: A cross-sectional study
+
+Knowledge, Perceptions and Concerns of Diabetes -Associated Complications Among Individuals Living with Type 1 and Type 2 Diabetes Mellitus
+
+Predictors for attending annual eye screening for diabetic retinopathy amongst patients with diabetes in an urban community of Beijing
+
+Awareness of diabetic retinopathy and its association with attendance for systematic screening at the public primary care setting: a cross-sectional study in Hong Kong
+
+Awareness of diabetic retinopathy and barriers for eye screening among adults with type 2 diabetes mellitus attending tertiary care teaching hospital, Davanagere, Karnataka
+
+Ophthalmic knowledge and beliefs among women with diabetes
+
+Patient attitudes and awareness of diabetic eye disease
+
+Awareness of diabetic retinopathy among people who attended a diabetic retinopathy screening program
+
+Knowledge, attitude and practice regarding diabetic retinopathy screening and its management among diabetic patients at a private hospital of Riyadh, Saudi Arabia
+
+The Impact of Multimedia Education on Uptake of Comprehensive Eye Examinations in Rural China: A Randomized, Controlled Trial
+
+Awareness and Attitude of Diabetic Patients on Diabetic Eye Complications in Port Harcourt, Nigeria
+
+Awareness, knowledge, and practices related to diabetic retinopathy among diabetic patients in primary healthcare centers at Riyadh, Saudi Arabia
+
+Assessment of Awareness of Diabetic Retinopathy Among the Diabetics Attending the Peripheral Diabetic Clinics in Melaka, Malaysia
+
+Use of eye care services among diabetic patients in urban Indonesia
+
+Use of Eye Care Services among DiabeticPatients in Urban and Rural China
+
+Patterns of adherence to diabetes vision care guidelines: baseline findings from the Diabetic Retinopathy Awareness Program
+
+Eye Care for Elderly Americans with Diabetes Mellitus: Failure to Meet Current Guidelines
+
+Diabetic retinopathy screening in patients with diabetes mellitus in primary care: Incentives and barriers to screening attendance
+
+Awareness of diabetic eye disease among general practitioners and diabetic patients in Yangon, Myanmar
+
+Factors associated with participation in a diabetic retinopathy screening program in a rural district in Bangladesh
+
+Eye Care in African Americans with Type 1 Diabetes: The New Jersey 725
+
+Diabetes knowledge of nurses providing community care for diabetes patients in Auckland, New Zealand
+
+Diagnosis of diabetic eye disease
+
+Retinal examination of diabetic patients: knowledge, attitudes and practices of physicians in Oman
+
+Local survey of optometrists about dilated funduscopic examinations for patients with diabetes: making use of phone book yellow-page listings
+
+Attitudes of physicians, patients, and village health workers toward glaucoma and diabetic retinopathy in rural China: a focus group study
+
+Care of diabetic pregnant women by primary-care physicians. Reported strategies for managing pregestational and gestational diabetes
+
+Patterns of referral and examination for retinopathy in pregnant women with diabetes by primary care physicians
+
+Knowledge, attitudes, and practices regarding diabetic retinopathy among primary health care physicians in Al-Hasa, Saudi Arabia
+
+The knowledge attitude and practice regarding diabetes and diabetic retinopathy among the final year medical students of King Faisal University Medical College of Al Hasa region of Saudi Arabia: a cross sectional survey
+
+Barriers to podiatric care among diabetic patients in the San Francisco Bay area
+
+Personal and treatment factors associated with foot self-care among veterans with diabetes
+
+Knowledge, Risk Factors and Behaviors Associated with Lower-Limb Complications in Patients with Diabetes on Hemodialysis
+
+Knowledge and practices regarding foot care in diabetic patients visiting diabetic clinic in Jinnah Hospital, Lahore
+
+Diabetic foot care: Self reported knowledge and practice among patients attending three tertiary hospital in Nigeria
+
+Knowledge and practice of foot care in Iranian people with type 2 diabetes
+
+Knowledge and practice of foot self-care among Jordanians with diabetes: An interview-based survey study
+
+A study to determine the knowledge and practice of foot care in patients with chronic diabetic ulcer
+
+Knowledge & Attitude of Diabetic Patients Regarding Diabetic diet, Exercise and Foot care
+
+Foot care practice - the key to prevent diabetic foot ulcers in India
+
+Foot care knowledge and practices and the prevalence of peripheral neuropathy among people with diabetes attending a secondary care rural hospital in southern India
+
+Knowledge and practice of foot care in people with diabetes
+
+The current status of foot self-care knowledge,behaviours, and analysis of influencing factors inpatients with type 2 diabetes mellitus in China
+
+KNOWLEDGE AND APPLICATION OF FOOT CARE: A STUDY OF DIABETIC PATIENTS IN MAURITIUS
+
+Patient Interpretation of Neuropathy (PIN) questionnaire: an instrument for assessment of cognitive and emotional factors associated with foot self-care
+
+Knowledge, attitudes and practices for the prevention of diabetic foot
+
+Knowledge and Practices of Diabetes Foot Care and Risk of Developing Foot Ulcers in México May Have Implications for Patients of Méxican Heritage Living in the US
+
+Diabetic Foot Care Knowledge and Behaviors of Individuals with Diabetes Mellitus in Indonesia
+
+Factors associated with diabetic foot ulceration in Thailand: a case-control study
+
+A foot care program for diabetic unilateral lower-limb amputees
+
+Assessing foot care knowledge in a rural population with diabetes
+
+A randomized pilot study of improving foot care in home health patients with diabetes
+
+A study of risk factors associated with diabetic foot, knowledge and practice of foot care among diabetic patients
+
+Factors influencing the awareness of diabetic foot risks
+
+Painful diabetic peripheral neuropathy: results of a survey characterizing the perspectives and misperceptions of patients and healthcare practitioners
+
+A comparison of general nurses’ and junior doctors’ diabetes knowledge
+
+Diabetes care in Qatar: a survey of pharmacists’ activities, attitudes and knowledge
+
+Perceived and actual level of knowledge of diabetes mellitus among nurses
+
+Awareness of diabetes complications in an Irish population
+
+Prevalence of diabetic comorbidities and knowledge and practices of foot care among diabetic patients: a cross-sectional study
+
+Foot care within the Jordanian healthcare system: a qualitative inquiry of patient’s perspectives
+
+The importance of education in diabetic foot care of patients with diabetic neuropathy
+
+Knowledge and Practice of Diabetic Foot Care in an InPatient Setting at a Tertiary Medical Center
+
+Foot care knowledge, attitudes and practices among patients with diabetic foot and amputation in St. Kitts and Nevis
+
+Diabetic foot care: knowledge and practice
+
+Diabetes Foot Self-care Practices in a Rural, Triethnic Population
+
+Knowledge and Practice on Diabetic Foot Self-Care and Associated Factors Among Diabetic Patients at Dessie Referral Hospital, Northeast Ethiopia: Mixed Method
+
+A community-based study of diabetes-related skills and knowledge in elderly people with insulin-requiring diabetes
+
+US ethnic group differences in self-management in the 2nd diabetes attitudes, wishes and needs (DAWN2) study
+
+Factors associated with foot ulcer self‐management behaviours among hospitalised patients with diabetes
+
+Diabetic Kidney Disease: Challenges, Progress, and Possibilities
+
+Management of Type 2 Diabetes and Chronic Kidney Disease in Fiji in 2018: Knowledge, Attitude, and Practice of Patients
+
+Limited Knowledge of Chronic Kidney Disease among Type 2 Diabetes Mellitus Patients in India
+
+Physician knowledge and practice patterns relating to diabetic nephropathy
+
+General practitioners’ knowledge and approach to chronic kidney disease in Karachi, Pakistan
+
+Knowledge, attitude and practices of the risk for chronic kidney disease among patients in a tertiary teaching hospital
+
+Patient Awareness, Prevalence, and Risk Factors of Chronic Kidney Disease among Diabetes Mellitus and Hypertensive Patients at Jimma University Medical Center, Ethiopia
+
+Gaps and barriers in health-care provision for co-morbid diabetes and chronic kidney disease: a cross-sectional study
+
+Knowledge, attitude, and practices toward chronic kidney disease among care providers in Jimma town:cross-sectional study
+
+Assessment of Knowledge Level and Training Needs about Diabetic Foot Care Practices of Diabetic Patients Undergoing Hemodialysis
+
+Awareness of diabetic retinopathy among patients with type 2 diabetes mellitus in Jordan
+
+Knowledge of the ocular effects of diabetes among the general population of Australia and the members of Diabetes Australia
+
+Knowledge, Attitude and Practice of Diabetic Retinopathy amongst the Diabetic Patients of AlJouf and Hail Province of Saudi Arabia
+
+Knowledge, Attitude, and Practices (KAP) of Diabetics Towards Diabetes and Diabetic Retinopathy in Riyadh, Saudi Arabia: Cross-Sectional Study
+
+Knowledge of diabetes and its associated ocular manifestations by diabetic patients: A study at Korle-Bu Teaching Hospital, Ghana
+
+Awareness about eye diseases among diabetic patients: a survey in South India
+
+Awareness of diabetic retinopathy among physicians and optometrists in a district of West Bengal
+
+A pilot study on awareness of diabetic retinopathy among non-medical persons in South India. The challenge for eye care programmes in the region
+
+Knowledge and attitude of general practitioners towards diabetic retinopathy practice in South India
+
+Changes in attitudes and practices of optometrists in their management of diabetic retinopathy after the release of NHMRC guidelines. National Health and Medical Research Council
+
+Risk factors for amputation in patients with diabetes mellitus. A case-control study
+
+Evaluation of screening and prevention program for diabetic foot complications
+
+Knowledge of foot care in people with diabetes in a tertiary care setting
+
+The reliability and validity of a brief diabetes knowledge test
+
+Development and validation of a cross-cultural knowledge, attitudes, and practices survey instrument for chronic kidney disease in a Swahili-speaking population
+
+Limited knowledge of chronic kidney disease among primary care patients–a cross-sectional survey
+
+Flow diagram of study inclusions. PRISMA criteria were adopted
+
+Summary of studies that investigated retinopathy knowledge among patients with diabetes and health care providers
+
+Study	Country	Study Type & Population	Measure	Main Findings	 	Patients with Diabetes	 	Addoor 2011	Malaysia	Cross-sectional 351 from 1 ophthalmology clinic	Study-created KAP survey	87% aware diabetes affects eye. Predictors of knowledge: duration of diabetes (p<0.01), eye exam in last 6 months (p<0.04)	 	Adriono 2011	Indonesia	Cross-sectional 196 from 3 primary care clinics	Study-created KAP survey	38% aware diabetes causes blindness. Prior exam linked to better knowledge (p=0.002).	 	Ahmed 2017	Bangladesh	Cross-sectional 122 from 1 diabetes clinic	Study-created KAP survey	24% with poor knowledge about the effect of diabetes on the eye.	 	Al-Asbali 2020	Saudi Arabia	Cross-sectional 200 from 1 endocrine and 1 ophthalmology clinic	Study-created KAP survey	45% excellent knowledge. Predictors of knowledge: duration diabetes (p=0.03).	 	AlHargan 2019	Saudi Arabia	Cross-sectional 280 from 2 primary care clinics	Adapted KAP survey 	88% knew diabetes affects the retina. Predictors of knowledge: formal education (p<0.01), higher income (p<0.05).	 	Almalki 2018	Saudi Arabia	Cross-sectional 253 T2D from 1 endocrinology clinic	KAP survey adapted from prior study 	64% knew diabetes affects the eye.	 	Alsaidan 2019	Saudi Arabia	Cross-sectional 174 T2D from 1 primary care clinic	Details not provided	82% aware diabetes affects eye. Predictors of knowledge: male gender (p=0.045), well controlled T2D (p=0.021).	 	Alwazae 2019	Saudi Arabia	Cross-sectional 404 from 4 clinics	Study-created KAP survey	73.5% with adequate knowledge.	 	Al-Yahya 2020	Saudi Arabia	Cross-sectional 313 from 52 primary care clinics	Validated KAP survey 	53% knew diabetes affects the eye. Predictors of knowledge: higher income (p<0.02).	 	Alzahrani 2018	Saudi Arabia	Cross-sectional 377 from 38 primary care clinics	Study-created KAP survey	82% knew diabetes affects the eye.	 	Al Zarea 2016	Saudi Arabia	Cross-sectional 439 from 5 clinics	Study-created KAP survey	75% aware diabetes can cause eye disease.	 	Assem 2020	Ethiopia	Cross-sectional 230 from 1 diabetes clinic	Study-created KAP survey	52% with poor knowledge. Predictors of knowledge: urban residence (p<0.05), income, diabetes (p<0.05), duration (p<0.01),	 	Bakkar 2017	Jordan	Cross-sectional 237 T2D randomly selected from 3 cities	Study-created KAP survey	88% aware diabetes can affect the eyes. Predictors of eye knowledge: more than high school education (p<0.01).	 	Balasubramanian 2016	India	Cross-sectional 105 from 1 clinic	Details not provided	76% aware diabetes affects the eye. Predictors of knowledge: education (p<0.05)	 	Çetin 2013	Turkey	Cross-sectional 437 seen at 1 ophthalmology and 1 endocrinology clinic	Study-created questionnaire	88% knew diabetes affects eyes. 25% thought eye exams only necessary if having troubled vision or poorly controlled diabetes.	 	Das 2016	India	Cross-sectional 240 from 1 ophthalmology clinic	Study-created KAP survey	65% knew diabetic retinopathy affects the eyes. 42% disagreed that eyes could be affected, even if blood sugar was controlled. Predictors of eye knowledge: none significant	 	Duan 2020	China	Cross-sectional 1972 in 1 community health system	Study-created KAP survey	62% knew diabetes affects eyes. Predictors of knowledge: younger age, male sex, higher education, longer diabetes duration (all p<0.01).	 	Fallatah 2918	Saudi Arabia	Cross-sectional 380 from 1 ophthalmology clinic	Study-created KAP survey	92% aware diabetes affects eyes. Predictors of knowledge: formal education (p<0.05), urban residence (p>0.05).	 	Gillibrand 2000	UK	Cross-sectional 2,815 community patients not engaged in eye care	One knowledge question	18.3% did not know diabetes affects eyes.	 	Khandekar 2010	Oman	Cross-sectional 750 in 1 region	Study-created KAP survey	61% aware diabetes affects eyes.	 	Konstantinidis 2017	Switzerland	Cross-sectional 323 recruited from community pharmacies	Study-created questionnaire	96% aware diabetes can cause eye disease. 98% knew good glycemic control could prevent occurrence or deterioration of eyes.	 	Lian 2018	Hong Kong	Cross-sectional 2,593 at 2 clinics	Study-created questionnaire	11.5% knew retinopathy could be asymptomatic.	 	Livingston 1998	Australia	Cross-sectional 205 urban, 240 rural	Study-created knowledge score	37% aware eye problems can occur. Predictors of increased awareness: younger age: rural OR 2.89 [95% CI 1.36–6.06] urban OR 2.32 [95% CI 1.24–4.22]; eye exam in last 2 years: rural OR 1.89 [95% CI 1.04–3.42] urban OR 2.43 [95% CI 1.29–4.57].	 	Manu 2018	India	Cross-sectional 150 T2D from 1 hospital	Details not provided	58% aware diabetes affects the eye. No significant predictors of knowledge.	 	Mueke 2008	Myanmar	Cross-sectional 480 cared for by surveyed GPs	Study-created questionnaire	80.6% knew diabetes affects eyes. 90.4% agreed patients with diabetes should see an eye specialist.	 	Mumba 2007	Tanzania	Cross-sectional 316 at 1 diabetes clinic	One knowledge question	34% knew diabetes can damage eye.	 	Nathaniel 2015	Nigeria	Cross-sectional 225 at 1 endocrinology clinic	Study-created questionnaire	57% knew diabetes can affect eye.	 	Ovenseri-Ogbomo 2013	Ghana	Cross-sectional 360 at 1 diabetes clinic	Study-created questionnaire	49% knew diabetes can affect eye. No significant predictors of knowledge.	 	Pasagian-Macaulay 1997	US	Cross-sectional 150 women from 1 medical center	Study-created knowledge and belief score	17% did not know required frequency of eye exams. 40% knew controlling glucose was important. Formal education linked to greater knowledge.	 	Rizwan 2004	Pakistan	Cross-sectional 132 from 1 ophthalmology clinic	Details not provided	57% knew diabetes affects the eye. 22% reported eye exams should occur once vision was affected.	 	Saikumar 2007	India	Cross-sectional 1,000 at 1 clinic	Study-created awareness score	84% aware diabetes can affect the eye. 46.9% knew related to glucose control. 50% thought routine eye exams not necessary.	 	Schmid 2003	Australia	Cross-sectional 68 T1D, 187 T2D in Diabetes Australia	Study-created questionnaire	96.2% knew diabetes causes eye problems.	 	Schoenfeld 2001	US	Cross-sectional 2,308 in 1 county	Study-created questionnaire	47% knew eye examinations were needed for people with diabetes.	 	Srinivasan 2017	India	Cross-sectional 288 from 1 ophthalmology clinic	Study created questionnaire	58% had poor knowledge.	 	Tajunisah 2011	Malaysia	Cross-sectional 137 from 1 ophthalmology clinic	Details not provided	86% aware diabetes can affect the eye. Predictors of knowledge: formal education (p>0.05).	 	Vanugopal 2020	India	Cross-sectional 350 from 1 hospital	Study-created questionnaire	34% had adequate knowledge of diabetic retinopathy. Predictors of knowledge: formal education (p<0.001).	 	Walker 1997	US	Cross-sectional 67 Black Americans with diabetes in New York	Study-created questionnaire	87% believed diabetic eye problems were symptomatic. 21% thought there were effective treatments.	 	Wang 2010	China	Cross-sectional 53 T1D 836 T2D from 1 endocrine and 1 general clinic	Study-created KAP survey	77% aware diabetes affects eyes. Prior exam linked to better knowledge (p<0.001).	 	Whiting 1998	Australia	Cross-sectional 121 patients with retinopathy from 1 ophthalmology clinic	Study-created questionnaire	95% knew diabetes affects the eyes	 	Zou 2017	China	Cross-sectional 519 with diabetes in 1 community	Study-created questionnaire	95% aware diabetes affects the eye, 12% aware it can be asymptomatic.	 	Health Care Providers	 	Abdulsalam 2018	Nigeria	Cross-sectional 105 physicians from 4 hospitals	Study-created KAP survey	36% perform eye exams, 90% do not use dilating eye drops	 	Abu-Amara 2019	Saudi Arabia	Cross-sectional 182 GPs, 115 internists	Study-created KAP survey	45% with poor knowledge.	 	Al Rasheed 2017	Saudi Arabia	Cross-sectional 142 family, 10 pediatric, 8 internists, 56 GPs	Study-created questionnaire	Knowledge linked to: family medicine subspeciality training (p<0.01), years of practice (p<0.01).	 	Al-Rashidi 2020	Saudi Arabia	Cross-sectional 76 GPs in 1 province	Previously used KAP survey 	37% performed dilated fundus exams.	 	Alhejji 2020	Saudi Arabia	Cross-sectional 141 GPs from 63 centers	Study-created questionnaire	56% with good knowledge.	 	Al-Wadaani 2012	Saudi Arabia	Cross-sectional 73 medical students	Study-created KAP survey	Moderate overall KAP score, linked to male sex (p=0.02). 66% knew correct timing for eye exams.	 	Daly 2014	New Zealand	Cross sectional 287 nurses	Study-created survey	89% identified retinopathy as a diabetes complication. Predictors of knowledge: level of training (p=0.006).	 	Delorme 1998	Canada	Cross-sectional 648 GPs, 96 trainees	Study-created questionnaire	Correct timing for screening in T1D: 74% vs T2D: 82%. 33% knew macular edema could be asymptomatic.	 	Foster 1996	US	Cross-sectional 23 optometrists	Study-created survey	Low level of knowledge regarding need for dilated fundus exams.	 	Ghosh 2007	India	Cross-sectional 36 optometrists, 241 GPs	Study-created questionnaire	<23% optometrists and <33% GPs had acceptable knowledge regarding risk factors and management of diabetic retinopathy.	 	Goodman 1997	South Africa	Cross-sectional 12 doctors, 23 nurses	Study-created survey	100% knew diabetes affected the eye.	 	Khandekar 2008	Oman	Cross-sectional 42 ophthalmologists, 33 mid-levels, 12 GPs	Study-created questionnaire	Acceptable knowledge: 71% ophthalmologists, 54% mid-levels, 33% GPs.	 	Mueke 2008	Myanmar	Cross-sectional 100 GPs	Study-created questionnaire	Correct timing for screening in T1D: 2% vs T2D: 93%.	 	Namperumalsamy 2004	India	Cross-sectional 199 paramedical personnel	Study-created questionnaire	88.5% knew diabetes could affect eyes. 20% knew uncontrolled diabetes is a risk factor. 75.9% unaware of treatments for retinopathy.	 	Raman 2006	India	Cross-sectional 159 GPs	Study-created questionnaire	54% aware patients with diabetes should have annual dilated eye exams.	 	Wright 2001	Australia	Cohort 310 optometrists	Study-created questionnaire	74.5% perform dilated exams on new patients with known diabetes.	 	Yan 2012	China	Focus groups 22 physicians, 25 village health workers	Study-created interview guide	Good overall knowledge, physicians did not dilate pupils to detect asymptomatic disease.
+
+Studies arranged alphabetically. Abbreviations: CI, confidence interval; GP general practitioner; KAP knowledge attitudes and practices; OR, odds ratio; T1D, type 1 diabetes; T2D, type 2 diabetes.
+
+Summary of studies that investigated neuropathy knowledge among patients with diabetes and health care providers.
+
+Study	Country	Study Type & Population	Measure	Main Findings	 	Patients with Diabetes	 	Abu-Qamar 2014	Jordan	Qualitative interviews 7 patients with burn injuries	Study-created interview guide	Participants did not believe they needed regular food exams in the absence of ulcers.	 	Bohorquez Robles 2017	Mexico	Cross-sectional 200 T2D from 1 primary care clinic	Foot Care Knowledge and Practice Questionnaire 	52% had poor knowledge of foot self-care.	 	Chellan 2012	India	Cross-sectional 203 from 1 podiatry clinic	Previously validated KAP survey	Patients with foot ulcers more likely to have poor knowledge (p=0.001).	 	Corbett 2003	US	Randomized control trial 40 T2D with home care	Foot Care Knowledge Questionnaire 	Moderate baseline foot care knowledge. Educational intervention improved knowledge (p<0.01).	 	De Sá Pilocarpo 2014	Brazil	Cross-sectional study 85 T2D from 2 primary care clinics	Previously used KAP questionnaire 	49.5% with limited foot care knowledge.	 	Desalu 2011	Nigeria	Cross-sectional 352 from 3 tertiary hospitals	Pre-tested questionnaire	46% with poor knowledge of diabetic foot care.	 	Foolchand 2013	Mauritius	Qualitative interviews 120 from 5 hospitals	Study-created interview guide	75% unaware of need for annual foot screening.	 	Hanley 2020	St. Kitts and Nevis	Cross sectional 210 from multiple health care settings	Adapted KAP questionnaire 	Average knowledge reported. No difference in knowledge based on amputation status.	 	Hasnain 2009	Pakistan	Cross-sectional 150 from 1 diabetic clinic	Study-created questionnaire	29.3% with good knowledge. Predictors of knowledge: formal education (p<0.01)).	 	Jain 2012	India	Cross-sectional 251 from multiple hospitals	Study-created questionnaire	62% had poor foot care knowledge.	 	Jinadasa 2011	Sri Lanka	Cross-sectional 110 with diabetic foot ulcers	Study-created questionnaire	52.7% with good footcare knowledge.	 	Khamseh 2007	Iran	Cross-sectional 148 T2D from 1 diabetes clinic	Study-created questionnaire	Predictors of knowledge: higher formal education (p<0.01).	 	Lamchahab 2011	Morocco	Cross-sectional 91 hospitalized patients	Details not provided	85% did not pay attention to “warning signs” of foot injuries. Predictors of knowledge: formal education, socioeconomic status (both P<0.01).	 	Li 2014	China	Cross-sectional 5,961 T2D from 144 hospitals	Summary of Diabetes Self-Care Activities	Overall medium level of foot care knowledge. Multivariate predictors of knowledge: female sex, older age, formal education, diabetes duration, regular diabetes care, prior education regarding diabetes complications (all p<0.001).	 	Muhammad-Lutfi 2014	Malaysia	Cross-sectional 157 admitted with foot infections.	Previously used questionnaire 	58% with poor foot knowledge.	 	Naicker 2009	Malaysia	Cross-sectional 100 from 1 hospital	Preventative Measure Scale 	Poor overall foot knowledge.	 	Pollock 2004	UK	Cross-sectional 365 from a population-based diabetes register	Study-created questionnaire	Moderate overall knowledge. Predictors of knowledge: female gender (p=0.04).	 	Pourkazemi 2020	Iran	Cross-sectional 375 T2D from 1 clinic	Study-created questionnaire	15% with good knowledge. Predictors of knowledge: female gender, duration of diabetes, urban residents, formal education, prior diabetic foot ulcer, prior amputation (all p<0.05).	 	Rheeder 2008	South Africa	Cross-sectional 120 from 1 diabetes clinic	Modified questionnaire 	Participants with ulcer at-risk feet were less likely to inspect their feet daily (p=0.025)	 	Sulistyo 2017	Thailand	Cross-sectional 81 from 1 clinic	Modified Diabetic Foot Care Knowledge Questionnaire 	58% with moderate, 39.5% poor knowledge.	 	Tuha 2021	Ethiopia	Cross-sectional 344 from 1 hospital	Details not provided	72.7% knew to inspect their feet for ulcers.	 	Health Care Providers	 	Alotaibi 2017	Saudi Arabia	Cross-sectional 423 nurses at 1 hospital	Diabetes Basic Knowledge Test 	75.6% mean number of questions right regarding diabetic foot care.	 	El Hajj 2018	Qatar	Cross-sectional 126 pharmacists	Michigan Diabetes Research and Training Center Diabetes Knowledge Test 	25% with moderately poor knowledge.
+
+Studies arranged alphabetically. Abbreviations: ADA American Diabetes Association; KAP, Knowledge, Attitudes, and Practices; T2D, type 2 diabetes.
+
+Summary of studies that investigated nephropathy knowledge among patients with diabetes and health care providers.
+
+Study	Country	Study Type & Population	Measure	Main Findings	 	Patients with Diabetes	 	Alvis Zibran 2019	Fiji	Cross-sectional 225 with T2D and CKD from 1 hospital	Previously used KAP questionnaire 	61.8% with high knowledge.	 	Hussain 2019	India	Cross-sectional 323 T2D from 1 endocrinology clinic	Adapted CKD awareness questionnaire 	21.4% had good knowledge. Predictors of knowledge: literacy, income, socioeconomic status (p<0.05).	 	Kumela Goro 2019	Ethiopia	Cross-sectional 208 with hypertension and diabetes from 1 hospital	Study-created questionnaire	63.5% with poor knowledge	 	Lo 2017	Australia	Cross-sectional 308 patients with CKD and diabetes from 4 hospitals	Study-created questionnaire	43.5% cited inadequate knowledge of CKD and poor education about CKD as a barrier to care.	 	Health Care Providers	 	Wolide 2020	Ethiopia	Cross-sectional 325 providers at 1 hospital and 3 private clinics	Study- created questionnaire	Predictors of knowledge: subspecialist provider (p<0.05).	 	Wong 1999	US	Cross-sectional 216 GPs	Study- created questionnaire	91.4% with good risk factor knowledge.	 	Yaqub 2013	Pakistan	Cross-sectional 232 GPs in 1 city	Study-created questionnaire	80% knew risk factors for CKD, 41% were unsure when to refer to nephrology
+
+Studies arranged alphabetically. Abbreviations: CKD, chronic kidney disease; GP, general practitioner; T2D, type 2 diabetes.
+

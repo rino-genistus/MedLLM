@@ -1,0 +1,278 @@
+TITLE: Response to pioglitazone in non-alcoholic fatty liver disease patients with vs. without type 2 diabetes: A meta-analysis of randomized controlled trials
+
+Background
+
+Pioglitazone is considered a potential therapy for non-alcoholic fatty liver disease (NAFLD). However, different effects of pioglitazone on NAFLD have been demonstrated in diabetic and non-diabetic patients. Herein, a meta-analysis of randomized, placebo-controlled trials was carried out to indirectly compare pioglitazone in NAFLD patients with vs. without type 2 diabetes.
+
+Methods
+
+Randomized controlled trials (RCTs) of pioglitazone vs. placebo involving NAFLD patients with or without type 2 diabetes/prediabetes collected from databases were enrolled into this analysis. Methodological quality was employed to evaluate the domains recommended by the Cochrane Collaboration. The analysis covered the changes in histology (fibrosis, hepatocellular ballooning, inflammation, steatosis), liver enzymes, blood lipids, fasting blood glucose (FBS), homeostasis model assessment-IR (HOMA-IR), weight and body mass index (BMI) before and after treatment, and adverse events.
+
+Results
+
+The review covered seven articles, with 614 patients in total, of which three were non-diabetic RCTs. No difference was found in patients with vs. without type 2 diabetes in histology, liver enzymes, blood lipids, HOMA-IR, weight, BMI, and FBS. Moreover, no significant difference was revealed in adverse effects between NAFLD patients with diabetes and without DM, except the incidence of edema that was found to be higher in the pioglitazone group than in the placebo group in NAFLD patients with diabetes.
+
+Conclusions
+
+Pioglitazone could exert a certain effect on alleviating NAFLD, which was consistent between non-diabetic NAFLD patients and diabetic NAFLD patients in improving histopathology, liver enzymes, and HOMA-IR and reducing blood lipids. Furthermore, there were no adverse effects, except the incidence of edema which is higher in the pioglitazone group in NAFLD patients with diabetes. However, large sample sizes and well-designed RCTs are required to further confirm these conclusions.
+
+Introduction
+
+The overall prevalence of non-alcoholic fatty liver disease (NAFLD) is globally estimated at 25%–40%, which has been considered a major disease burden worldwide with a rising trend. Non-alcoholic steatohepatitis (NASH) will be developed in approximately 25% of NAFLD patients, of whom one-fourth will develop liver failure and hepatocellular carcinoma (HCC) with higher rates of progression to cirrhosis. Indeed, a study in the US has already demonstrated that NAFLD is the most common risk factor for HCC (24%), in contrast to HCV (23%) and hepatitis B (19.3%). NAFLD could exhibit a close correlation with metabolic syndrome, a range of risk factors for type 2 diabetes mellitus, and end-stage vascular disease, with cardiovascular disease being the most common burden of death in patients with NAFLD. Lifestyle interventions, such as calorie restriction and exercise therapy, are demonstrated to play a central role in treating NAFLD, which, however, are difficult to achieve and maintain. Despite several pharmacologic interventions to treat NAFLD, there is still no approved drug for its effective treatment.
+
+Pioglitazone as a peroxisome proliferator-activated receptor (PPAR) agonist could increase plasma adiponectin levels, which are associated with insulin sensitivity improvement, exerting anti-inflammatory and antifibrotic effects on NAFLD. Della et al. discovered that treatment with pioglitazone at low dosage significantly improved liver inflammation and alleviated insulin resistance in NAFLD patients with type 2 diabetes mellitus (T2DM). Bril et al. found that pioglitazone discontinuation in patients with biopsy-proven NASH was associated with biochemical worsening of the disease, and pioglitazone therapy in patients with NASH should be considered as a long-term treatment. These studies suggest that pioglitazone has a certain role in the treatment of NAFLD. As a result, pioglitazone may be recommended for treating NAFLD as verified by the improvement of liver histology and some biochemical indexes in several studies. These studies have explored the efficacy of pioglitazone in NAFLD patients, primarily by comparing the effect of pioglitazone and all other drugs for NAFLD together. Furthermore, these studies have not compared NAFLD patients with T2DM to non-diabetic patients, and there are varying opinions among these studies. For this reason, it is of significance to investigate whether pioglitazone will exert different effects between diabetic and non-diabetic individuals, so as to treat different types of NAFLD more efficiently.
+
+This meta-analysis was carried out to compare the efficacy and safety of pioglitazone in treating NAFLD with vs. without T2DM. Nevertheless, few studies have compared pioglitazone with placebo in patients with NAFLD between T2DM and normal glucose tolerance; therefore, we conducted this study to try to replenish this gap.
+
+Materials and methods
+
+Retrieval strategy
+
+The major databases PubMed, Embase, Web of Science, WangFang Data, CNKI, and Medline were systematically searched for literature to retrieve eligible studies without language restriction by two reviewers from inception to May 2022, and additional information or raw data were asked by the corresponding authors through email. The keywords “nonalcoholic steatohepatitis” OR “nonalcoholic fatty liver disease” OR “NASH” OR “NAFLD” AND “pioglitazone” were employed. At the same time, a wide scanning of relevant references listed in the retrieved articles was also conducted to seek other articles of possible eligibility. The research selection process is provided in  Figure 1 .
+
+Flowchart of study information.
+
+Inclusion and exclusion criteria
+
+Randomized controlled trials of pioglitazone vs. placebo involving patients with NAFLD confirmed by liver biopsy or ultrasound, with or without T2DM/prediabetes, were included. The exclusion criteria were as follows: i) non-randomized placebo-controlled trials; ii) trials without raw data; iii) leading articles, abstracts, letters, animal experiments, case reports, meta-analysis, expert opinion, conference papers, and book sections; iv) no clear validity of whether NAFLD patients were complicated with diabetes; v) patients with severe renal failure, heart failure, malignant tumor, or secondary hepatic fat accumulation such as viral hepatitis or significant alcohol consumption; and vi) trials that did not present data on pioglitazone alone.
+
+Methodological quality assessment
+
+Each randomized controlled trial was evaluated for methodological quality using Cochrane Collaboration’s tool, which involved sequence generation, allocation hiding, the blinding method in the selection of participants and personnel and result evaluators, processing of data results, and the lack of other deviation sources, determining the high, low, or unclear deviation risk of the research. The assessment of the enrolled studies is presented in  Figure 2 .
+
+Methodological quality (A) and risk of bias (B) for trials included in systematic review.
+
+Outcome measures
+
+The primary outcomes referred to histological variables such as fibrosis, steatosis, inflammation, and hepatocellular ballooning, and the secondary outcomes included changes in alanine transaminase (ALT), aspartate aminotransferase (AST), FBS, blood lipids, HOMA-IR, weight, and BMI. In addition, the impact on adverse events was evaluated.
+
+Data extraction
+
+Data were extracted by two reviewers independently and summarized into a standardized spreadsheet in duplicate after the studies have been confirmed to meet the predetermined criteria. Disagreements were resolved by negotiated solutions or mutual discussion, and the quality of the trials was assessed by kappa statistics scoring. The following variables were extracted from each study: i) general information (name of the first author, year, study design, presence of diabetes); ii) treatment details (dosage, frequency, duration, lifestyle changes throughout the trial); iii) histological variables (baseline and at the end of the study): fibrosis, steatosis, inflammation, and hepatocellular ballooning; iv) laboratory and anthropometric tests (baseline and at the end of the study), covering ALT, AST, blood lipids, FBS, HOMA-IR, weight, and BMI; and v) adverse events.
+
+Data analysis
+
+All data were analyzed on R software v3.6.1 (R Foundation for Statistical Computing, Vienna, Austria). The “Meta” package was employed in the meta-analysis. Mean differences were calculated by the following formula: (mean value of treatment at baseline − mean value of treatment at the end of the study) − (mean value of control at baseline − mean value of control at the end of the study). The mean differences for the intervention and control groups were either directly provided by the research results or calculated by the mean values before and after treatment. To calculate the SD of the change in means for those studies, it was imputed applying a modified method by Follmann et al.: SDchange in means = sq root [(SDpre)2 + (SDpost)2 − (2(q)·SDpre·SDpost)]. The change in means (SDchange in means) was obtained using the SD of the preintervention mean (SDpre) and the SD of the postintervention mean (SDpost) as well as the within-participant correlation (q) of the outcome measures. Sensitivity analysis was conducted to exclude studies that influence the stability of research results and to assess heterogeneity. Publication bias was evaluated with funnel plot analysis and Egger’s and Begg’s tests. The level of statistical significance was 0.05, and the statistical heterogeneity across studies was represented by I 2 statistics. Improvement was determined by a reduction of 1 point or more in the pathology score. The fixed-effects model will be employed in the statistical analysis when P ≥0.05 and I 2 ≤50%; otherwise, the random-effects model was applied. Dichotomous and continuous variables were expressed as odds ratios (ORs), mean differences (MDs), and 95% confidence intervals (CIs), respectively.
+
+Result
+
+Study characteristics
+
+After the primary screening, 26 studies were included for the subsequent full-text review until May 2022. Seven articles without placebo-controlled data, 10 articles from the same clinical trial, one article without a clear statement of whether NAFLD patients were complicated with diabetes, and one article that did not present data on pioglitazone alone were removed. Ultimately, a total of seven studies deemed eligible were included, covering 614 patients, three of which were non-diabetic RCTs, each being extracted for outcomes. The subjects of four studies included patients with NASH, and three studies included patients with NAFLD. The mean age of the patients with diabetes or prediabetes vs. without diabetes or prediabetes was found to be 51.1 ± 8.4 vs. 49.3 ± 11 years, and the male sex distribution was 59.3% vs. 49.1%. The main characteristics of the RCTs involved in the network meta-analysis are summarized in  Table 1  and  Supplementary Table 1 . The flowchart in  Figure 1  describes the selection process of the literature and the final selection of the studies. The dose of pioglitazone ranged from 15 to 45 mg/day, and the duration of pioglitazone or placebo treatment ranged from 3 to 24 months.
+
+Patient and trial characteristics of the included studies.
+
+Study	N	Intervention, dose	Comparator(s)	Duration	Diabetes or prediabetes	NASH or NAFLD	Country	NASH/NAFLD assessment in results	 	Aithal,	74	Pioglitazone, 30 mg/day	Placebo	12 months	No	NASH	United Kingdom	Histology	 	Anushiravani,	60a	Lifestyle + pioglitazone, 15 mg/day	Lifestyle + placebo	3 months	No	NAFLD	Iran	Ultrasound	 	Sanyal,	163a	Pioglitazone, 30 mg/day	Placebo	24 months	No	NASH	America	Histology	 	Belfort,	47a	Hypocaloric diet + pioglitazone, 45 mg/day	Hypocaloric diet + placebo	6 months	Yes	NASH	America	Histology	 	Cusi,	101	Pioglitazone, 45 mg/day	Placebo	18 months	Yes	NASH	America	Histology	 	Kamolvisit,	98	Pioglitazone, 45 mg/day	Placebo	18 months	Yes	NAFLD	Thailand	Ultrasound	 	Chehrehgosha,	71a	Pioglitazone, 30 mg/day	Placebo	6 months	Yes	NAFLD	Iran	Ultrasound
+
+Represents patients in the trial arms of interest only.
+
+Study quality assessment
+
+The risk of bias (such as selection bias, performance bias, detection bias, attrition bias, and reporting bias) was assessed using Cochrane Collaboration’s tool. All data were derived from randomized studies. The probability of bias was estimated and considered low in most studies and domains ( Figure 2 ).
+
+Changes in liver histology with pioglitazone
+
+The histological changes of the liver were significantly improved in NAFLD patients who received pioglitazone therapy (fibrosis: I 2 = 0, OR = 1.81, 95% CI: 1.15 - 2.83, P = 0.01; hepatocellular ballooning: I 2 = 0, OR = 2.71, 95% CI: 1.71 - 4.31, P < 0.01; lobular inflammation: I 2 = 0, OR = 2.94, 95% CI: 1.89 - 4.59, P < 0.01; steatosis: I 2 = 40%, OR = 4.04, 95% CI: 2.59 - 6.30, P < 0.01;  Figure 3 ). No significant differences in primary outcomes were found in NAFLD patients with diabetes compared with those without diabetes who received pioglitazone therapy (fibrosis: χ 2 = 0.02, P = 0.90; hepatocellular ballooning: χ 2 = 0.68, P = 0.41; lobular inflammation: χ 2 = 0.31, P = 0.57; steatosis: χ 2 = 0.78, P = 0.38;  Figure 3 ).
+
+Changes in histology with pioglitazone: (A) fibrosis, (B) hepatocellular ballooning, (C) lobular inflammation, and (D) steatosis.
+
+The subgroup comparison results revealed no obvious superiority of pioglitazone therapy in fibrosis both in NAFLD patients with diabetes and without diabetes (with DM: OR = 1.87, 95% CI: 0.94 - 3.72, P = 0.08; without DM: OR = 1.76, 95% CI: 0.97 - 3.19, P = 0.06;  Figure 3 ). However, these results suggest that pioglitazone may play a role in the treatment of liver fibrosis, with significant improvements in hepatocellular ballooning (with DM: OR = 3.40, 95% CI: 1.68 - 6.88, P < 0.01; without DM: OR = 2.29, 95% CI: 1.24 - 4.24, P < 0.01;  Figure 3 ), lobular inflammation (with DM: OR = 3.43, 95% CI: 1.70 - 6.92, P < 0.01; without DM: OR = 2.65, 95% CI: 1.49 - 4.71, P < 0.01;  Figure 3 ), and steatosis (with DM: OR = 5.16, 95% CI: 2.56 - 10.39, P < 0.01; without DM: OR = 3.02, 95% CI: 1.01 - 8.97, P = 0.05;  Figure 3 ) compared with placebo.
+
+Changes in liver enzymes with pioglitazone
+
+AST and ALT were confirmed to be significantly decreased in NAFLD patients who received pioglitazone therapy (AST: I 2 = 51%, MD = −6.56, 95% CI: (−11.18) - (−1.94), P < 0.01; ALT: I 2 = 71%, MD = −14, 95% CI: (−23.75) - (−4.26), P < 0.01;  Supplementary Figure 1 ). No significant differences were found in both AST and ALT between NAFLD patients with diabetes and those without diabetes who received pioglitazone therapy (AST: χ 2 = 0.19, P = 0.66; ALT: χ 2 = 0.16, P = 0.69;  Supplementary Figure 1 ).
+
+The subgroup comparison indicated no significant improvements in both AST and ALT in NAFLD patients without diabetes who received pioglitazone therapy compared with those who received placebo [AST: MD = −5.5, 95% CI: (−11.33) - 0.33, P = 0.06; ALT: MD = −17.79, 95% CI: (−38.14) - 2.57, P = 0.09;  Supplementary Figure 1 ], while there was a significant reduction in AST in patients with diabetes [MD = −7.48, 95% CI: (−14.27) - (−0.7), P = 0.03;  Supplementary Figure 1 ], but not in ALT [MD = −12.74, 95% CI: (−26.33) - 0.84), P = 0.07;  Supplementary Figure 1 ].
+
+Changes in metabolism with pioglitazone
+
+HDL and HOMA-IR were confirmed to be significantly improved in NAFLD patients who received pioglitazone therapy; however, the levels of LDL, total cholesterol, triglycerides, and FBS showed no significant changes compared with the placebo groups. No significant differences were found in NAFLD patients with diabetes compared with those without diabetes who received pioglitazone therapy in terms of HDL, LDL, total cholesterol, triglycerides, HOMA-IR, and FBS (HDL: I 2 = 96%, χ 2 = 0.00, P = 0.99; LDL: I 2 = 0%, χ 2 = 0.23, P = 0.63; total cholesterol: I 2 = 0%, χ 2 = 0.91, P = 0.34; triglycerides: I 2 = 40%, χ 2 = 1.53, P = 0.22; HOMA-IR: I 2 = 92%, χ 2 = 1.30, P = 0.25; FBS: I 2 = 81%, χ 2 = 2.42, P = 0.12;  Figure 4  and  Supplementary Figure 2 ).
+
+Changes in metabolism with pioglitazone: (A) HDL, (B) LDL, (C) total cholesterol, and (D) triglycerides.
+
+The subgroup comparison results showed significant improvements in HDL, LDL, total cholesterol, and triglycerides with pioglitazone therapy than with placebo in patients without diabetes [HDL: MD = 2.98, 95% CI: 2.64 - 3.31, P < 0.01; LDL: MD = −2.22, 95% CI: (−3.48) - (−0.96), P < 0.01; total cholesterol: MD = −1.76, 95% CI: (−3.14) - (−0.37), P = 0.01; triglycerides: MD = −13.07, 95% CI: (−15.47) - (−10.66), P < 0.01;  Figure 4 ], while there were no significant improvements in both FBS and HOMA-IR [FBS: MD = −6.16, 95% CI: (−22.14) - 9.81, P = 0.45; HOMA-IR: MD = −0.43, 95% CI: (−2.06) - 1.2, P = 0.60;  Supplementary Figure 2 ]. However, no significant improvements were found in NAFLD patients with diabetes in HDL, LDL, and total cholesterol [HDL: MD = 1.87, 95% CI: (−0.77) - 4.52, P = 0.16; LDL: MD = −3.59, 95% CI: (−8.97) - 1.79, P = 0.19; total cholesterol: MD = −4.54, 95% CI: (−10.08) - 1.00, P = 0.11;  Figure 4 ]. Significant improvements were revealed in triglycerides, FBS, and HOMA-IR in NAFLD patients with diabetes [triglycerides: MD = −38.61, 95% CI: (−76.17) - (−1.06), P = 0.04; FBS: MD = −21.84, 95% CI: (−23.06) - (−20.63), P < 0.01; HOMA-IR: MD = −1.82, 95% CI: (−3.57) - (−0.07), P = 0.04;  Figure 4  and  Supplementary Figure 2 ].
+
+Changes in weight and BMI with pioglitazone
+
+Weight and BMI showed no significant differences in patients who received pioglitazone therapy and those who received a placebo. No significant differences were found in both weight and BMI between NAFLD patients with diabetes and those without diabetes who received pioglitazone therapy (weight: I 2 = 0%, χ 2 = 1.15, P = 0.28; BMI: I 2 = 0%, χ 2 = 0.07, P = 0.79;  Supplementary Figure 3 ).
+
+The subgroup comparison results revealed significant increases in both weight and BMI compared with the placebo groups in patients without diabetes (weight: MD = 4.15, 95% CI: 2.14 - 6.17, P < 0.01; BMI: MD = 0.84, 95% CI: 0.03 - 1.65, P = 0.04;  Supplementary Figure 3 ). No significant difference in BMI [MD = 0.64, 95% CI: (−0.58) - 1.87, P = 0.30] or weight [MD = 1.77, 95% CI: (−2.09) - 5.63, P = 0.37;  Supplementary Figure 3 ] was found in NAFLD patients with diabetes.
+
+Adverse effects of pioglitazone compared with placebo
+
+No significant differences were revealed in terms of adverse effects between NAFLD patients with diabetes and those without diabetes who received pioglitazone therapy (I 2 = 61%, χ 2 = 3.44, P = 0.06;  Supplementary Figure 4 ).
+
+No significant difference was found in terms of adverse effects between pioglitazone and placebo in NAFLD patients with or without diabetes. The mean differences and 95% CI for patients with diabetes and without diabetes with NAFLD were calculated as follows: DM: OR = 1.61, 95% CI: 0.82 - 3.16, P = 0.17; without DM: OR = 0.47, 95% CI: 0.16 - 1.42, P = 0.18 ( Supplementary Figure 4 ). The incidence of edema was significantly increased in the pioglitazone group than in the placebo group in NAFLD patients with DM. No statistical significance was found in specific adverse effects comparing the pioglitazone group with the corresponding placebo group ( Table 2 ).
+
+Reported adverse events and withdrawals during the treatment period.
+
+Adverse Events	NAFLD with DM	NAFLD without DM	 	Placebo(n = 141)	Pioglitazone(n = 152)	P	Placebo(n = 120)	Pioglitazone(n = 111)	P	 	Cardiovascular	9	4	0.116	14	10	0.507	 	Gastrointestinal	17	14	0.429	7	4	0.423	 	Hypoglycemic	9	5	0.213	8	15	0.081	 	Neurologic	6	9	0.516	6	2	0.173	 	Gynecologic	2	2	0.94	0	1	0.225	 	Urologic	4	7	0.423	0	0	-	 	Edema	3	12	0.02	0	0	-	 	Musculoskeletal	21	23	0.955	4	4	0.911	 	Hepatotoxicity	1	0	0.226	6	4	0.601	 	Bone fractures	0	0	-	5	3	0.541	 	Cancer	1	0	0.226	0	0	-	 	Total number of withdrawals	3	2	0.591	7	6	0.888
+
+Sensitivity analysis and publication bias
+
+We conducted a sensitivity analysis and publication bias analysis on the research studies with significant heterogeneity. Running the sensitivity analysis by excluding some high-risk studies showed a remarkable effect on the results of the analysis. Excluding the studies of Chehrehgosha et al. in the ALT analysis, Anushiravani et al. in the HDL analysis, Kamolvisit et al. in the FBS analysis, and Cusi et al. in HOMA-IR changes the substantiation of the corresponding results of the meta-analysis ( Supplementary Figure 5 ). The analysis of the funnel plot for publication bias is shown in  Supplementary Figure 6 . Furthermore, Begg’s test showed no publication bias in ALT, FBS, HDL, and HOMA-IR analysis (all P > 0.05).
+
+Discussion
+
+The present guidelines state the promising role of pioglitazone in liver histology in NASH patients as confirmed by liver biopsy, whether or not suffering from T2DM; however, the safety of long-term treatment should also be considered. Tokushige et al. recommend pioglitazone for NASH patients with insulin resistance. A prospective study aiming at adults with biopsy-proven NASH (49 with prediabetes and 52 with T2DM) suggested pioglitazone for NASH patients with prediabetes as well as for NASH patients with T2DM to achieve metabolic and histologic benefits. However, this head-to-head observational study may lead to erroneous results with inconsistent baselines. Previous meta-analyses have explored the efficacy of pioglitazone in the treatment of NAFLD, primarily by comparing the effect of pioglitazone and all other drugs for NAFLD together and obtaining similar conclusions that pioglitazone has effects on NAFLD patients with T2DM or non-diabetes. Furthermore, studies have not compared NAFLD patients with T2DM to NAFLD patients without diabetes. As a result, no convincing conclusions about pioglitazone in the treatment of NAFLD patients without diabetes can be indeed drawn. In order to obtain a better understanding of the effects of pioglitazone in non-diabetes and diabetes NAFLD, RCTs on pioglitazone in the treatment of diabetes or non-diabetes NAFLD were searched and compared with placebo, so as to achieve an indirect comparison of pioglitazone in the treatment of NAFLD with vs. without diabetes, comprehending the efficacy and adverse effects of pioglitazone in the treatment of NAFLD patients.
+
+The improvement of liver fibrosis is of crucial significance for the treatment of NAFLD as it is associated with higher rates of cirrhosis as well as overall mortality. Mahady et al. have stated that pioglitazone can optimize histological variables, such as fibrosis, hepatocellular ballooning, lobular inflammation, and steatosis. As Musso et al. stated, pioglitazone can contribute to reversing advanced fibrosis in NASH, even in non-diabetic patients. However, the article has not compared the effects of non-diabetes NAFLD with diabetes NAFLD, but only compared pioglitazone with different drugs. We demonstrated the outcomes of pioglitazone in NAFLD patients on improvements in fibrosis, hepatocellular ballooning, lobular inflammation, and steatosis, which were similar to the results of the placebo group. The subgroup comparison results revealed the association of pioglitazone with significant improvements in hepatocellular ballooning, lobular inflammation, and steatosis both in NAFLD patients with diabetes and without diabetes compared with placebo. Though no significant improvements in fibrosis were found both in NAFLD patients with diabetes and without diabetes, it may be related to the relatively limited sample size, and both groups have trends of improvement.
+
+Van et al. reported that pioglitazone can improve liver biochemistry in mice deficient in phosphatidylethanolamine N-methyltransferase by activating PPARγ, which redirects the flux of fatty acids toward the adipose tissue away from the liver. Mahady et al. concluded that thiazolidinediones can improve liver biochemistry by lowering ALT. In this review, we discovered the same effects of pioglitazone on improvements in both ALT and AST compared with diabetes NAFLD. The subgroup comparison results showed significant reductions in AST only in patients with diabetes (P = 0.003), while improvement was exhibited in the liver enzymes in both groups. The absence of statistical significance may be attributed to the high heterogeneity, limited sample size, and the calculated SD value.
+
+The effect of pioglitazone on blood lipids varies among patients with NAFLD. Aithal et al. confirmed the inhibitory role of pioglitazone in LDL but not in TC and HDL. Anushiravani et al. concluded that pioglitazone can reduce LDL and TC. Pioglitazone can elevate plasma adiponectin levels, which is conducive to improving insulin sensitivity. We observed no significant differences in HDL, LDL, total cholesterol, triglycerides, FBS, and HOMA-IR between NAFLD patients with diabetes and those without diabetes who received pioglitazone therapy. Subgroup analysis showed a reduction of blood lipids to some extent in NAFLD patients with or without diabetes by pioglitazone. The higher baseline FBS values and greater room for improvement of patients with diabetes may affect the statistical results.
+
+Pioglitazone serves as a prominent regulator of adipocyte differentiation and adipogenesis, which can lead to weight gain and obesity with chronic stimulation. Similar to previous results, in terms of variations in weight and BMI, we revealed significant differences in the two indexes between non-diabetes patients treated with pioglitazone and those with a placebo. However, an increase in weight can be found in NAFLD patients with diabetes, and the results showed no significant difference. The increase in weight caused by pioglitazone may be related to water–sodium retention and increased fat content. These results still need to be studied with a larger sample size.
+
+Drug safety is one of the key factors in the practicability of a drug. As a hypoglycemic drug, the application of pioglitazone in non-diabetes patients remains controversial. Some studies have suggested the contributed development of bladder cancer by the long-term use of pioglitazone, but others argued otherwise. A meta-analysis revealed the increased risk of congestive heart failure by the use of glitazones, and another article indicated its contribution to the increased risks of bone fracture. However, the patients involved in these articles are mainly diabetes patients, who require a long-term administration of pioglitazone, and the observed patients are the same. In the meta-analysis, pioglitazone could be well tolerated, and no major adverse events were found in the relevant literature. We noticed no significant adverse effects between NAFLD patients who received pioglitazone therapy and those who received a placebo. No statistical significance was found in the specific adverse effects of most groups compared with the corresponding placebo group, including cancer, congestive heart failure, and bone fracture. The incidence of edema was found to be higher in the pioglitazone group than in the placebo group in NAFLD patients with diabetes. Although pioglitazone has the risk of causing water and sodium retention, however, the higher risk of edema in the diabetes group is more likely due to the combination of insulin use in most diabetes patients. Some studies suggest that pioglitazone combined with insulin has a significantly higher probability of edema than pioglitazone alone. Although pioglitazone may be associated with water and sodium retention, it can also reduce the risk of myocardial infarction and ischemic stroke. A small sample size and a relatively short follow-up time may not reveal the entire spectrum of side effects; thus, the side effects of pioglitazone on NAFLD patients require a larger sample size and a longer follow-up time to get relatively true results.
+
+The limitations of the article are related to the research design and the biochemical and histological parameters. In terms of the research design, the doses of pioglitazone medication varied among studies (15, 30, and 45 mg/day), as well as the treatment courses (3, 6, 12, 18, and 24 months). Some studies implemented strict diet and exercise regimens, while some did not provide any information about lifestyle. In addition, the inclusion criteria were also inconsistent among studies: some trials enrolled only type 2 diabetics, while others also included prediabetics. Some prediabetic NAFLD patients may be included in the non-diabetic NAFLD patients. The proportion of gender differences between diabetes and non-diabetes patients was relatively different. As for the explanation of biochemical parameters, some articles did not cover the research indicators, accompanied by inconsistent units of results, and some studies did not list an average of changes before and after treatment, resulting in insufficiently accurate results. Due to the limitation of the number of studies, we included NASH and NAFLD for analysis. The involvement of both NAFLD and NASH in the present study also enhanced the heterogeneity of the research.
+
+In conclusion, this systematic review suggests the same efficacy of pioglitazone in non-diabetic and diabetic NAFLD patients in alleviating histopathology, liver enzymes, and HOMA-IR and reducing blood lipids. Furthermore, it did not elicit extra adverse effects. Large sample sizes and well-designed RCTs are required to further confirm these conclusions.
+
+Data availability statement
+
+The raw data supporting the conclusions of this article will be made available by the authors, without undue reservation.
+
+Author contributions
+
+YJ, MX and GL designed the study. ZW and HD performed the research and carried out the statistical analysis. YR, YZ, CM and HC wrote the manuscript. JT, CX and ML read and checked the paper. All authors co ntributed to the article and approved the submitted version.
+
+Abbreviations
+
+NAFLD, non-alcoholic fatty liver disease; CNKI, China National Knowledge Infrastructure; RCTs, randomized controlled trials; FBS, fasting blood glucose; BMI, body mass index; AST, aspartate transaminase; ALT, alanine aminotransferase; HDL, high-density lipoprotein; NASH, non-alcoholic steatohepatitis; PPARγ, peroxisome proliferator-activated receptor-γ; T2DM, type 2 diabetes mellitus; ORs, odds ratios; MDs, mean differences; CIs, confidence intervals; OR, odds ratio; TC, total cholesterol; FFAs, free fatty acids; HOMA-IR, homeostasis model assessment of insulin resistance.
+
+Conflict of interest
+
+The authors declare that the research was conducted in the absence of any commercial or financial relationships that could be construed as a potential conflict of interest.
+
+Publisher’s note
+
+All claims expressed in this article are solely those of the authors and do not necessarily represent those of their affiliated organizations, or those of the publisher, the editors and the reviewers. Any product that may be evaluated in this article, or claim that may be made by its manufacturer, is not guaranteed or endorsed by the publisher.
+
+Supplementary material
+
+The Supplementary Material for this article can be found online at: https://www.frontiersin.org/articles/10.3389/fendo.2023.1111430/full#supplementary-material
+
+References
+
+Changes in the global burden of chronic liver diseases from 2012 to 2017: The growing impact of NAFLD
+
+Non-alcoholic fatty liver disease: a review of epidemiology, risk factors, diagnosis and management
+
+Nonalcoholic steatohepatitis: A review
+
+Prevalence of nonalcoholic steatohepatitis-associated cirrhosis in the united states: An analysis of national health and nutrition examination survey data
+
+Nonalcoholic steatohepatitis is the most rapidly growing indication for liver transplantation in patients with hepatocellular carcinoma in the U.S
+
+The global epidemiology of NAFLD and NASH in patients with type 2 diabetes: A systematic review and meta-analysis
+
+Management of patients with non-alcoholic steatohepatitis (NASH) in real life
+
+Roles of PPARs in NAFLD: potential therapeutic targets
+
+Pioglitazone even at low dosage improves NAFLD in type 2 diabetes: clinical and pathophysiological insights from a subgroup of the TOSCA.IT randomised trial
+
+Pioglitazone discontinuation in patients with nonalcoholic steatohepatitis is associated with disease recurrence
+
+A placebo-controlled trial of pioglitazone in subjects with nonalcoholic steatohepatitis
+
+Long-term pioglitazone treatment for patients with nonalcoholic steatohepatitis and prediabetes or type 2 diabetes mellitus: A randomized trial
+
+Meta-analysis: pioglitazone improves liver histology and fibrosis in patients with non-alcoholic steatohepatitis
+
+Meta-analysis: insulin sensitizers for the treatment of non-alcoholic steatohepatitis
+
+Pioglitazone for NAFLD patients with prediabetes or type 2 diabetes mellitus: A meta-analysis
+
+Variance imputation for overviews of clinical trials with continuous response
+
+Effects of metformin, pioglitazone, and silymarin treatment on non-alcoholic fatty liver disease: a randomized controlled pilot study
+
+A randomized controlled trial comparing efficacy of pentoxifylline and pioglitazone on metabolic factors and liver histology in patients with non-alcoholic steatohepatitis
+
+Efficacy of berberine in patients with non-alcoholic fatty liver disease
+
+A pilot study of vitamin e versus vitamin e and pioglitazone for the treatment of nonalcoholic steatohepatitis
+
+Comparison of fenofibrate and pioglitazone effects on patients with nonalcoholic fatty liver disease
+
+Gender differences in the efficacy of pioglitazone treatment in nonalcoholic fatty liver disease patients with abnormal glucose metabolism
+
+Pioglitazone in the treatment of NASH: the role of adiponectin
+
+Importance of changes in adipose tissue insulin resistance to histological response during thiazolidinedione treatment of patients with nonalcoholic steatohepatitis
+
+Use of metabolic syndrome severity to assess treatment with vitamin e and pioglitazone for non-alcoholic steatohepatitis
+
+Relationship between adipose tissue insulin resistance and liver histology in nonalcoholic steatohepatitis: a pioglitazone versus vitamin e versus placebo for the treatment of nondiabetic patients with nonalcoholic steatohepatitis trial follow-up study
+
+Pioglitazone versus vitamin e versus placebo for the treatment of non-diabetic patients with non-alcoholic steatohepatitis: PIVENS trial design
+
+Improvements in histologic features and diagnosis associated with improvement in fibrosis in nonalcoholic steatohepatitis: Results from the nonalcoholic steatohepatitis clinical research network treatment trials
+
+PPAR-gamma-induced changes in visceral fat and adiponectin levels are associated with improvement of steatohepatitis in patients with NASH
+
+Pioglitazone treatment increases whole body fat but not total body water in patients with non-alcoholic steatohepatitis
+
+Effect of pioglitazone on bone mineral density in patients with nonalcoholic steatohepatitis: A 36-month clinical trial
+
+NASH resolution is associated with improvements in HDL and triglyceride levels but not improvement in LDL or non-HDL-C levels
+
+First-in-Asian double-blind randomized trial to assess the efficacy and safety of insulin sensitizer in nonalcoholic steatohepatitis patients
+
+Role of vitamin e for nonalcoholic steatohepatitis in patients with type 2 diabetes: A randomized controlled trial
+
+Randomized, placebo-controlled trial of pioglitazone in nondiabetic subjects with nonalcoholic steatohepatitis
+
+Treatment options for nonalcoholic fatty liver disease: a double-blinded randomized placebo-controlled trial
+
+Pioglitazone, vitamin e, or placebo for nonalcoholic steatohepatitis
+
+Pioglitazone for the treatment of metabolic-associated fatty liver disease in people living with HIV and prediabetes
+
+Empagliflozin improves liver steatosis and fibrosis in patients with non-alcoholic fatty liver disease and type 2 diabetes: A randomized, double-blind, placebo-controlled clinical trial
+
+The diagnosis and management of nonalcoholic fatty liver disease: Practice guidance from the American association for the study of liver diseases
+
+EASL-EASD-EASO clinical practice guidelines for the management of non-alcoholic fatty liver disease
+
+Evidence-based clinical practice guidelines for nonalcoholic fatty liver disease/nonalcoholic steatohepatitis 2020
+
+Response to pioglitazone in patients with nonalcoholic steatohepatitis with vs without type 2 diabetes
+
+Thiazolidinediones and advanced liver fibrosis in nonalcoholic steatohepatitis: A meta-analysis
+
+Meta-analysis of randomized controlled trials of pharmacologic agents in non-alcoholic steatohepatitis
+
+Thiazolidinediones for nonalcoholic steatohepatitis: A meta-analysis of randomized clinical trials
+
+Drugs improving insulin resistance for non-alcoholic fatty liver disease and/or non-alcoholic steatohepatitis
+
+The role of thiazolidinediones in non-alcoholic steatohepatitis - a systematic review and meta analysis
+
+Pioglitazone attenuates hepatic inflammation and fibrosis in phosphatidylethanolamine n-methyltransferase-deficient mice
+
+Anti-NASH drug development hitches a lift on PPAR agonism
+
+Efficacy and tolerability of pioglitazone in patients with type 2 diabetes mellitus: comparison with other oral antihyperglycaemic agents
+
+Diet/Exercise versus pioglitazone: effects of insulin sensitization with decreasing or increasing fat mass on adipokines and inflammatory markers
+
+Pioglitazone and bladder cancer risk: a systematic review and meta-analysis
+
+Pioglitazone and risk of bladder cancer: a meta-analysis of controlled studies
+
+Pioglitazone use and risk of bladder cancer in patients with type 2 diabetes: retrospective cohort study using datasets from four European countries
+
+An updated meta-analysis of pioglitazone exposure and bladder cancer and comparison to the drug's effect on cardiovascular disease and non-alcoholic steatohepatitis
+
+The risk of heart failure associated with the use of noninsulin blood glucose-lowering drugs: systematic review and meta-analysis of published observational studies
+
+Effects of anti-diabetic drugs on fracture risk: A systematic review and network meta-analysis
+
+Thiazolidinediones, peripheral edema, and type 2 diabetes: incidence, pathophysiology, and clinical implications
+
+Pioglitazone after ischemic stroke or transient ischemic attack
+

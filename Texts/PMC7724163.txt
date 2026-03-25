@@ -1,0 +1,246 @@
+TITLE: Evaluation of glycemic control status and its associated factors among diabetes patients on follow-up at referral hospitals of Northwest Ethiopia: A cross-sectional study, 2020
+
+Introduction
+
+Diabetes mellitus is one of the rapidly growing global health concerns of the twenty-first century ravaging millions of individuals from all across the world. The aim of this study is to evaluate glycemic control status and its associated factors among diabetes patients on follow-up at referral hospitals of Northwest Ethiopia.
+
+Materials and methods
+
+A cross-sectional study was conducted among diabetes patients between February and June 2020. Four hundred twenty-three randomly selected adult patients were enrolled. Using standardized questionnaire, sociodemographic, behavioral and clinical data were collected. Lipid profiles, fasting blood sugar, glycated hemoglobin, and anthropometric indicators were determined. Bivariate and multivariate binary logistic regression analysis was performed.
+
+Result
+
+The magnitude of suboptimal glycemic control was 73.5% (95% CI: 69.29%, 77.71%) among diabetic patients. Marital status [AOR (95% CI) 0.45 (0.20, 0.99), p < 0.05], medication non-adherence [poor: AOR (95% CI) 3.55 (1.81, 6.98)], duration with diabetes mellitus [AOR (95% CI) 3.16 (1.89, 5.28), p < 0.05], type of diabetes (type II referent) [AOR (95% CI) 2.53 (1.47,4.37), p < 0.05], and no use of other drugs [AOR (95% CI) 1.76 (1.05,2.96), p < 0.05] were significantly associated with suboptimal glycemic control.
+
+Conclusion
+
+A considerable number of patients with diabetes had suboptimal glycemic control. The suboptimal glycemic control has been contributed by marital status, medication non-adherence, duration with diabetes mellitus, type of diabetes and use of other drugs. These highlights the need for tailored management focusing on the identified associated factors to maintain good glycemic control.
+
+Biochemistry; Endocrinology; Laboratory medicine; Magnitude; Glycemic control; Associated factors; Diabetes mellitus; Ethiopia
+
+Introduction
+
+Diabetes mellitus (DM) is one of the rapidly growing global health concerns of the twenty-first century ravaging millions of individuals from all across the world. Hence, it is likely to become one of the economically important and most prevalent diseases of the century. More than 80% of people with diabetes live in low- and middle-income countries. Ethiopia has the highest number of people (2,652,129 people) with diabetes in Africa where it has been projected to have the highest proportional rise by 2045.
+
+The development of microvascular and macrovascular complications due to chronic hyperglycemia is a great challenge in the management of diabetes. Suboptimal glycemic control in diabetes is related with prolonged dysfunction, damage, and failure of different vital organs. This is potentially attributed to accumulation of advanced glycation end products, metabolic imbalances, lipid aberrations as well as oxidative stress. Clinical trials have shown that optimal glycemic control reduces the occurrence of diabetic complications. Therefore, better management of diabetes needs maintenance of optimum glucose levels to prevent and early diagnose the complications.
+
+By virtue of the complexity of the factors affecting blood glucose level, the reason for the suboptimal glycemic control status is multifactorial. Health professional and patient-related factors such as poor adherence to treatment, poor health education, diet, lipid abnormalities, and exercise may affect glycemic control.
+
+In Ethiopia, some studies, including a systematic review and meta-analysis, were conducted evaluating the status of glycemic control and some factors associated with it. The systematic review and meta-analysis determined suboptimal glycemic control to be about 76.8% in Ethiopia. However, modifiable cardiovascular risk factors such as dietary factors, smoking, physical inactivity, obesity, and dyslipidemia were not studied well in diabetic patients in the study area in particular. Therefore, this study was aimed to evaluate glycemic control status and its associated factors among diabetes patients on follow-up at referral hospitals of Northwest Ethiopia.
+
+Materials and methods
+
+Study design, setting, population, and period
+
+The participants in this laboratory-based cross-sectional study were patients living with diabetes mellitus and attending the treatment centers of Debre Markos Referral Hospital and Felege Hiwot Referral Hospital in Northwest Ethiopia. There are three referral hospitals in Northwest Ethiopia. An estimated number of over 6000 diabetic patients were on follow up at the three hospitals. The two hospitals were selected purposively based on patient flow and catchment area and the study participants were recruited during their routine follow-up visits using their registration book as a frame. The study was conducted between February and June, 2020.
+
+Inclusion and exclusion criteria
+
+All diabetic patients aged 18 years old and above with least 3 or more consecutive months measurements (follow up) of fasting blood sugar were included in the study. Only ambulatory patients who were not seriously ill were included in the study. Patients who could not be cooperative and willing to participate were deemed to be excluded from the study.
+
+Sample size determination and sampling technique
+
+A sample size of 423, the highest sample size obtained among the objectives, was taken using a single population proportion formula with the following assumption: 50% prevalence of suboptimal glycemic control from similar study enough to represent the target population required for the objectives of this study, 5% margin of error, 95% confidence interval, and 10 % for non-response. Using sampling frame of the diabetic patients' record book, simple random sampling technique was used to select the study participants.
+
+Variables of the study
+
+Glycemic control status (coded as suboptimal or good.) was considered as an outcome variable. Sociodemographic (age, gender, educational level, income, occupation), cardiometabolic factors (body mass index, waist circumference, hip circumference, blood pressure, lipid profile), diseases related (comorbidities, complications), behavioral related (drug use, lifestyle modification), and drug/therapy related factors (concomitant drug therapy) were considered as predictor variables.
+
+Data collection procedure
+
+An English version of the data collection tool adapted from the World Health Organization STEPwise approach to chronic disease risk factor surveillance and the patient charts were used to design the data collection tool. Data were collected on socio-demographic and clinical variables both from patients and their charts. The patient's charts review was followed by collecting all necessary information about the patient. Any missed data were filled and corrected by close supervision. The tools used to collect data on variables such as anthropometric (weight, height, waist circumference) and blood pressure were standardized prior to be used for actual patient data collection. All measurements were conducted under the standard operating procedure by trained nurses with strict supervision of the principal investigator.
+
+Information about smoking and alcohol consumption was collected and the level of physical activity was categorized as active and less active. Blood pressure (BP) was measured as the average of the last two of three measurements with the Omron Automatic Inflation Blood Pressure Monitor taken at intervals longer than 2 min after the patient had been sitting for at least 30 min. Anthropometric measurements waist circumference (WC) were measured with a flexible inelastic tape placed on the midpoint between the lower rib margin and the iliac crest in a perpendicular plane to the long axis of the body. The height was determined without shoes using a portable stadiometer. Weight was measured using a Tanita scale; patients were fully dressed, without heavy clothing or shoes. Similarly, biochemical measurements such as fasting blood sugar (FBS), hemoglobin A1c (HbA1C), and blood lipids were conducted following laboratory standard operating procedures by a trained laboratory technologist. Blood samples were collected from each participant on the next appointment after fasting for 8 h using vacutainer blood collection system to determine FBS, HbA1C, and lipid profiles. Five milliliters of blood were drawn from each patient's cubital vein. Laboratory analysis of sample was done by laboratory technologists. Serum samples were analyzed for lipid profile [total cholesterol (TC), high-density lipoprotein cholesterol (HDL-c), low-density lipoprotein cholesterol (LDL-c) and triglycerides (TGs)] using ABX Pentra 400 machine. Enzymatic colorimetric assay method was used for the measurement of total cholesterol (CHODPAP method) and triglyceride (GPO-PAP method), while the direct homogeneous enzymatic colorimetric assay technique was utilized for the measurement of HDL-c and LDLc. FBS level was measured by glucose oxidase method (GOD-PAP).
+
+Data processing, analysis, and presentation
+
+The data were cleaned, coded, and entered into Epi Data version 3.1 and exported to the Statistical Package for Social Science (SPSS) version 25 for analysis. Descriptive statistics using frequency distribution were performed for socio-demographic, epidemiological, clinical, and laboratory values. The association for the predictors and outcome variables was assessed using logistic regression analysis. The factors with P < 0.25 in the bivariate analysis were included in multivariate logistic regression analysis. Multivariate analysis using logistic regression was performed to control the effect of confounding variables and to identify the independent predictors of glycemic control. Predictor variables with a p-value of <0.05 were used to declare statistical significance.
+
+Operational definition
+
+Patients with an average FBS level of <130 mg/dl and >70 mg/dl or patients with an HbA1C level of <7% were considered to have good glycemic control. On the other hand, patients with an average FBS level of 130 mg/dl and above or patients with an HbA1C level of 7% and more were considered to have suboptimal glycemic control as per the guidelines on glycemic targets for diabetes control. FBS is blood glucose measured from venous blood after 8 hours of overnight fasting or longer. Average FBS level was computed from the reading of three consecutive months because HbA1C reflects average glycemia over approximately 3 months.
+
+The NCEP-ATP III 2001 guidelines define MS as having 3 or more of the following criteria: abdominal obesity (WC ≥ 102 cm for men and ≥88 cm for women); TG ≥ 150 mg/dl or specific treatment for this lipid abnormality; HDL-c ≤ 40 mg/dL in men and ≤50 mg/dL in women or on specific treatment for this lipid abnormality; BP ≥ 130/85 mmHg or on treatment for hypertension; and FBS level of ≥110 mg/dL or on treatment for diabetes. With IDF 2005 criteria, individuals are considered to have metabolic syndrome if they have abdominal obesity (defined as waist circumference of ≥94 cm for men and ≥80 cm for women) plus 2 of any of the following risk factors: (i) elevated triglycerides (≥150 mg/dl) or specific treatment for this lipid abnormality; (ii) reduced HDL-C (<40 mg/dl in men and <50 mg/dL in women) or specific pharmacological treatment for this lipid abnormality; (iii) elevated BP (systolic BP ≥ 130 or diastolic BP ≥ 85 mm Hg) or pharmacological treatment of previously diagnosed hypertension; (iv) impaired fasting serum glucose (≥100 mg/dl) or previously diagnosed with type 2 diabetes.
+
+Data quality control
+
+The data were collected by using a validated structured interview-based questionnaire that is adapted from World Health Organization STEPwise approach tool prepared in English and translated to Amharic carefully by two persons to check the consistency of the questions. The questionnaires will be back translated in different literatures. To assure data quality, high emphasis was given to minimize error, the questionnaire was pretested at 5% (n = 22) of the population at Finote Selam Hospital prior to one week and subsequent correction and modification was done when any doubt or difficulty had appeared. The collected data were checked for completeness, clarity and consistency.
+
+Ethical consideration
+
+An ethical clearance letter was obtained from Debre Markos University, school of medicine ethical review committee, with a letter serial number, SOMRCS/09/03/19, and date, 11/19/2019. Then, permission was obtained from the medical directors of the hospitals before data collection. Informed consent was taken from the study participants. The participants were informed that they have the full right to discontinue or refuse. The laboratory analysis was performed free of charge, and results were given to clinicians for the betterment of patients' management. The investigators keep or protect the confidentiality of the information provided by the respondents as well as other basic ethical principles.
+
+Results
+
+Socio-demographic and behavioral characteristics of participants
+
+Socio-demographic and behavioral characteristic of diabetic patients on follow-up at referral hospitals of Northwest Ethiopia, 2020 (n = 423).
+
+Table 1
+
+Variables	Category	Frequency (%)	 	Age	18–28	105 (24.8)	 	29–39	72 (17.0)	 	≥40	246 (58.2)	 	Gender	Male	238 (56.3)	 	Female	185 (43.7)	 	Educational status	No education	150 (35.5)	 	Elementary	100 (23.6)	 	High school	86 (20.3)	 	Diploma	35 (8.3)	 	Degree/above	52 (12.3)	 	Marital status	Single	78 (18.4)	 	Married	280 (66.2)	 	Separated	28 (6.6)	 	Divorced	15 (3.5)	 	Widowed	22 (5.2)	 	Main work status	Employed	82 (19.4)	 	Merchant	54 (12.8)	 	Farmer	65 (15.4)	 	Student	20 (4.7)	 	No job	133 (31.4)	 	Others	69 (16.3)	 	Monthly income (ETB)	<2000 ETB	273 (64.5)	 	2000–5000	91 (21.5)	 	>5000	59 (14.0)	 	Residence	Urban	299 (70.7)	 	Rural	124 (29.3)	 	Alcohol intake	Yes	91 (21.5)	 	No	332 (78.5)	 	Type of diet taken	Vegetable often	203 (48.0)	 	Vegetable rare	220 (52.0)	 	Smoking	Yes	12 (2.8)	 	No	411 (97.2)	 	Physical Exercise	Active	141 (33.3)	 	Less active	282 (66.7)
+
+ETB: Ethiopian Birr.
+
+Among 423 study participants included in the analysis, 238 (56.3%) were males. The majority of the study participants (58.2%) were 40 years old and above. In addition, about 35.5% of the study participants were not engaged in formal education and most of the participants (66.2%) were married. One third of the participants had no any work and most of the patients had monthly income of <2000 ETB (64.5%) and live in urban area (70.7%). Also, about 52.0% of the study participants used vegetables rarely. While about 21.5% of the participants had history of alcohol drinking behavior, only 2.8% of them did smoke cigarette and majority of them (66.7%) were less active in regular physical activity (Table 1).
+
+Diabetic control and other clinical as well as anthropometric related characteristics
+
+Clinical and anthropometric related characteristics of diabetic patients at referral hospitals of Northwest Ethiopia, 2020 (n = 423).
+
+Table 2
+
+Variable	Category	Frequency (%)	 	Body Mass Index (kg/m2)	Underweight	36 (8.5)	 	Normal	252 (59.6)	 	Overweight	98 (23.2)	 	Obese	37 (8.7)	 	Waist circumference	Elevated (≥94cm, ≥80cm)	228 (53.9)	 	Not elevated	195 (46.1)	 	Waist to hip ratio	Elevated (≥0.9, 0.85)	319 (75.4)	 	Not elevated	104 (24.6)	 	Type of diabetes	Type I	195 (46.1)	 	Type II	228 (53.9)	 	Comorbidity state	Yes	150 (35.5)	 	No	273 (64.5)	 	Family history of diabetes	Yes	94 (22.2)	 	No	329 (77.8)	 	Diabetes complications	No	225 (53.2)	 	Neuropathy	32 (7.6)	 	Nephropathy	12 (2.8)	 	Retinopathy	88 (20.8)	 	Cardiac	12 (2.8)	 	Others	54 (12.8)	 	Another drug therapy	Yes	175 (41.4)	 	No	248 (58.6)	 	Antidiabetic drug	Insulin	244 (57.7)	 	Oral tablet	167 (39.5)	 	Both	12 (2.8)	 	Drug adherence	Poor	90 (21.3)	 	Medium	193 (45.6)	 	Good	140 (33.1)	 	Duration of diabetes	<5 Years	185 (43.7)	 	5–10 Years	132 (31.2)	 	>10 Years	106 (25.1)	 	Glycemic control	Good	112 (26.5)	 	Suboptimal	311 (73.5)	 	Low density lipoprotein-cholesterol (n = 300)	≥100 mg/dl	146 (48.7)	 	<100 mg/dl	154 (51.3)	 	Triglyceride (n = 300)	≥150 mg/dl	94 (31.3)	 	<150 mg/dl	206 (68.7)	 	Total cholesterol (n = 300)	≥200 mg/dl	69 (23.0)	 	<200 mg/dl	237 (77.0)	 	Metabolic syndrome (n = 119)	Yes	73 (61.9)	 	No	45 (38.1)
+
+In this study, it has been found that the magnitude of suboptimal glycemic control (using FBS and HbA1c) and metabolic syndrome among diabetic patients were 73.5% (95% CI: 69.29%, 77.71%) and 61.9%, respectively. About one tenth of the participants were underweight and 31.9 % of the patients were either overweight or obese. Concerning the regional distribution of fat, more than half of the participants had waist circumference above the cut-off value and about 75.4 % of the patients had elevated waist to hip ratio which is a better indicator of regional fat distribution. About 54% of the participants were type II diabetic patients with 22% of the participants having family history of diabetes and 35.5% of the study subjects had comorbidity. In addition, about 41.4% of the diabetic patients used drugs other than antidiabetic drugs and 46.8% of the patients had different diabetic complications. Moreover, only one third of the patients had good drug adherence with 56.3% of the patients with diabetes duration of more than five years and the most frequent antidiabetic drug was insulin. Finally, serum TC, TG and LDL levels were elevated in 23.0%, 31.3%, and 48.7% of the patients, respectively (Table 2).
+
+Factors associated with suboptimal glycemic control
+
+In bivariate analysis age, marital status, residence, alcohol intake, BMI, waist circumference, wait to hip ratio, type of antidiabetic drugs, type of diabetes mellitus, comorbidity state, other drugs used, adherence of antidiabetic drugs and duration of diabetes had P value <0.25 and included in multivariate logistic regression analysis.
+
+Bivariate and multivariate logistica regression analyses of socio-demographic, anthropometric and clinical risk factors associated glycemic control status of diabetic patients on follow-up at referral hospitals of Northwest Ethiopia, 2020 (n = 423).
+
+Table 3
+
+Variable	Category	Glycemic control	Bivariate analysis	Multivariate analysis	 	Suboptimal	Good	COR (95% CI)	P-value	AOR (95% CI)	P-value	 	Marital status	Single	69	9	1	-	1	-	 	Married	194	86	0.29 (0.14, 0.62)	0.001∗	0.45 (0.20, 0.99)	0.05∗	 	Separated	20	8	0.33 (0.11, 0.96)	0.041∗	0.40 (0.12, 1.27)	0.12	 	Divorced	11	4	0.36 (0.09, 1.37)	0.133	0.56 (0.13, 2.38)	0.43	 	Widowed	17	5	0.44 (0.13, 1.50)	0.190	0.94 (0.25, 3.59)	0.93	 	Drug Adherence	Good	81	59	1	-	1	-	 	Moderate	155	38	2.97 (1.82, 4.84)	0.000∗	3.16 (1.89, 5.28)	0.000∗	 	Poor	75	15	3.64 (1.91, 6.96)	0.000∗	3.55 (1.81, 6.98)	0.000∗	 	Duration of DM	<10 years	225	92	1	-	1	-	 	≥10 years	86	20	1.76 (1.02, 3.03)	0.04∗	2.12 (1.09, 4.12)	0.027∗	 	Type of DM	Type II	146	82	1	-	1	-	 	Type I	165	30	3.09 (1.92, 4.96)	0.000∗	2.53 (1.47,4.37)	0.001∗	 	Other drugs	Yes	111	64	1	-	1	-	 	No	200	48	2.40 (1.55, 3.73)	0.000∗	1.76 (1.05,2.96)	0.03∗
+
+∗Statistically significant.
+
+Hosmer and Lemeshow Model Fitness Test (p-value: 0.875).
+
+In the multivariable analysis, marital status was significantly associated with suboptimal glycemic control. Married subjects as compared to single ones were 55% less likely to have suboptimal glycemic level, [AOR (95% CI) 0.45 (0.20, 0.99), p < 0.05]. Patients with diabetes mellitus for more than ten years were about 2 times more likely to have suboptimal glycemic status as compared to their less than ten years counterparts, [AOR (95% CI) 2.12 (1.09, 4.12), p < 0.05]. As far as drug adherence is concerned, patents with poor adherence [AOR (95% CI) 3.55 (1.81, 6.98), p < 0.05] and moderate adherence [AOR (95% CI) 3.16 (1.89, 5.28), p < 0.05] were more likely to be at a risk for suboptimal glycemic control as compared to those with good adherence. In addition, type I diabetic patients were more likely to have suboptimal glycemic control as compared to patients with type II diabetic patients [AOR (95% CI) 2.53 (1.47,4.37), p < 0.05]. Finally, those diabetic patients who did not take drugs for other diseases were about 1.76 times more likely to have suboptimal glycemic control as compared to their counterparts, [AOR (95% CI) 1.76 (1.05,2.96), p < 0.05] (Table 3).
+
+Discussion
+
+Favorable glycemic control is the key goal of diabetes management to prevent and delay complications of the disease so that related morbidity and mortality decreases. This study, therefore, aimed to assess the magnitude of suboptimal glycemic level and its associated factors among diabetic patients at referral hospitals of Northwest Ethiopia. Using FBS and HbA1c tests, the finding of this study showed that about three-fourth (73.5%) of patients with diabetes had suboptimal glycemic status.
+
+The observed magnitude of suboptimal glycemic control status in this study is comparable with previous related studies conducted among diabetic patients in southwest parts of Ethiopia. The finding of this study is also similar to the result of a systematic review and meta-analysis study carried in Ethiopia and Costa Rica. On the other hand, the magnitude of glycemic control in the current study was higher than other related primary studies carried out in Ethiopia, Kenya, and Zambia. However, the finding in the present study was lower than those studies reported by other studies in Ethiopia. The discrepancy between the present study and other studies can be justified that it could be due to differences in the method of glucose measurements, genetic, clinical, economical, anthropometric, and socio-demographic characteristics of the study participants.
+
+Marital status, drug adherence, duration with diabetes mellitus, type of diabetes and use of other drugs for other ailments were significantly associated with suboptimal glycemic control status. Married subjects as compared to single ones were 55% less likely to have suboptimal glycemic level. This could partially be explained that there could be awareness difference about glycemic control and higher levels of marital intimacy might be related to better diabetes-specific and general quality of life. Patients with longer diabetes mellitus duration were more likely to have suboptimal glycemic status. Different related studies support this finding. By virtue of the chronicity of diabetes, the response to intensive glucose control worsens over time making it difficult to maintain good glycemic control. This could happen due to the progressive impairment of insulin secretion as a result of β-cell failure. In line with similar studies, poor or moderate medication adherence was more likely to be at a risk for suboptimal glycemic control as compared to good adherence. Suboptimal outcome of patients who did not comply with the prescribed clinical regimen is inevitable calling for interventions that improve medication adherence to bring about a positive impact on glycemic control.
+
+In addition, suboptimal glycemic control is significantly higher in type I diabetic patients as compared to patients with type II diabetes. This is in line with similar studies. Adherence to oral hypoglycemic agents might be more than adherence to insulin self-injection because of different factors. While milder type II diabetes patients are more easily controlled by diet and/or oral hypoglycemic medications, patients with type I diabetes are usually treated by insulin or combination therapy in more severe cases seeking more aggressive treatment to control their disease. Finally, those diabetic patients who did not take drugs for other diseases were more likely to have suboptimal glycemic control as compared to their counterparts. This could be because of the reason that the presence of comorbidity in diabetes patients worsens the long-term course of diabetic control.
+
+Strength and limitation of the study
+
+This study did HbA1-c test which is one of the main techniques to evaluate the effectiveness of the treatment plan of glycemic control. Data on the type of diabetes (type I and type II) were taken from patients' chart and no confirmatory test such as glutamic acid decarboxylase 65 antibody was done as a biomarker of type I diabetes to differentiate it from type II. Due to the cross-sectional nature of the study cause–effect relationship of the independent variables to the outcome variable could not be made. Because the study is institution based, generalizability for other diabetic patients could be affected. Recall bias might also be the problem during measuring self-report of medication to adherence and other variables.
+
+Conclusion and recommendation
+
+In conclusion, a considerable number of patients with diabetes had suboptimal glycemic control. The suboptimal glycemic control has been contributed by marital status, medication non-adherence, duration with diabetes mellitus, type of diabetes and use of other drugs for other ailments. These findings highlight the need for tailored management of patients focusing on the associated factors identified for suboptimal glycemic control to maintain good glycemic control. In addition, modification in the approach and strategies in diabetes care in achieving the intended glycemic target could be devised.
+
+Declarations
+
+Author contribution statement
+
+A. Gebrie: Conceived and designed the experiments; Performed the experiments; Analyzed and interpreted the data; Wrote the paper.
+
+B. Tesfaye: Conceived and designed the experiments; Analyzed and interpreted the data; Contributed reagents, materials, analysis tools or data.
+
+M. Sisay: Performed the experiments; Contributed reagents, materials, analysis tools or data.
+
+Funding statement
+
+This work was supported by .
+
+Data availability statement
+
+Data included in article/supplementary material/referenced in article.
+
+Declaration of interests statement
+
+The authors declare no conflict of interest.
+
+Additional information
+
+No additional information is available for this paper.
+
+References
+
+Diabetes knowledge and glycemic control among patients with type 2 diabetes in Bangladesh
+
+Microvascular and macrovascular complications of diabetes
+
+Diagnosis and classifcation of diabetes mellitus
+
+Diabetic neuropathies: update on definitions, diagnostic criteria, estimation of severity, and treatments
+
+Intensive blood-glucose control with sulphonylureas or insulin compared with conventional treatment and risk of complications in patients with type 2 diabetes (UKPDS 33)
+
+The effect of intensive treatment of diabetes on the development and progression of long-term complications in insulin-dependent diabetes mellitus
+
+Glucose control and cardiovascular disease in type-2 diabetes: a meta-analysis
+
+The reality of glycaemic control in insulin treated diabetes: defining the clinical challenges
+
+Determinants of poor glycemic control among adult patients with type 2 diabetes mellitus in Jimma University Medical Center, Jimma zone, south west Ethiopia: a case control study
+
+Glycemic control and diabetes complications among diabetes mellitus patients attending at University of Gondar Hospital, Northwest Ethiopia
+
+Predictors of poor glycemic control among patients with type 2 diabetes on follow-up care at a tertiary healthcare setting in Ethiopia
+
+Magnitude of glycemic control and its associated factors among patients with type 2 diabetes at Tikur Anbessa Specialized Hospital, Addis Ababa, Ethiopia
+
+Factors associated with glycemic control among diabetic adult out-patients in Northeast Ethiopia
+
+Glycemic control and associated factors among type 2 diabetic patients at Shanan Gibe Hospital, Southwest Ethiopia
+
+Factors associated with glycemic control among adult patients with type 2 diabetes mellitus: a cross-sectional survey in Ethiopia
+
+Glycemic control among diabetic patients in Ethiopia: a systematic review and meta-analysis
+
+Factors associated with poor glycemic control among patients with type 2 diabetes mellitus in Ambo Hospital, Ambo; Ethiopia
+
+The burden of hypertension, diabetes mellitus, and cardiovascular risk factors among adult Malawians in HIV care: consequences for integrated services
+
+6. Glycemic targets: standards of medical care in Diabetesd2020
+
+Executive summary of the third report of the National Cholesterol Education Program (NCEP) expert panel on detection, evaluation, and treatment of high blood cholesterol in adults (Adult Treatment Panel III)
+
+Metabolic syndrome—a new world-wide definition. A consensus statement from the international diabetes federation
+
+Risk factors for cardiovascular diseases among diabetic patients in southwest Ethiopia
+
+Assessment of quality of care given to diabetic patients at Jimma University Specialized Hospital diabetes follow-up clinic, Jimma, Ethiopia
+
+Metabolic control in a nationally representative diabetic elderly sample in Costa Rica: patients at community health centers vs. patients at other health care settings
+
+Assessment of glycemic control using glycated hemoglobin among diabetic patients in Jimma University specialized hospital, Ethiopia
+
+Glycemic control and its associated factors among diabetes mellitus patients at Ayder comprehensive specialized hospital, Mekelle-Ethiopia
+
+Quality of glycaemic control in ambulatory diabetics at the out-patient clinic of Kenyatta National Hospital, Nairobi
+
+Glycaemic control and associated self-management behaviours in diabetic outpatients: a hospital based observation study in Lusaka, Zambia
+
+Self-care practice and glycaemic control amongst adults with diabetes at the Jimma University Specialized Hospital in south-west Ethiopia: a cross-sectional study
+
+Determinants of glycemic control among insulin treated diabetic patients in Southwest Ethiopia: hospital based cross sectional study
+
+Prevalence and determinants of selected cardio-metabolic risk factors among people living with HIV/AIDS and receiving care in the South West Regional Hospitals of Cameroon: a cross-sectional study
+
+Knowledge, attitude, and practice towards glycemic control and its associated factors among diabetes mellitus patients
+
+The marital relationship and psychosocial adaptation and glycemic control of individuals with diabetes
+
+The prevalence and determinants of poor glycemic control among adults with type 2 diabetes mellitus in Saudi Arabia
+
+Glycemic control among primary care patients with type 2 diabetes mellitus in the Gaza Strip, Palestine
+
+Glycaemic control in the diabetes and Lifestyle Cohort Twente: a cross-sectional assessment of lifestyle and pharmacological management on Hba1c target achievement
+
+Glycaemic control in type 2 diabetes patients and its predictors: a retrospective database study at a tertiary care diabetes centre in Ningbo, China
+
+The duration of diabetes affects the response to intensive glucose control in type 2 subjects: the VA Diabetes Trial
+
+Factors associated with poor glycemic control among patients with type 2 diabetes
+
+Factors associated with glycemic control among adult patients with type 2 diabetes mellitus: a cross-sectional survey in Ethiopia
+
+Glycemic control and diabetes complications among diabetes mellitus patients attending at University of Gondar Hospital, Northwest Ethiopia
+
+Level of sustained glycemic control and associated factors among patients with diabetes mellitus in Ethiopia: a hospital-based cross-sectional study
+
+Glycemic control and its correlates in patients with diabetes in Venezuela: results from a nationwide survey
+
+The effect of comorbidity on glycemic control and systolic blood pressure in type 2 diabetes: a cohort study with 5 Year follow-up in primary care
+

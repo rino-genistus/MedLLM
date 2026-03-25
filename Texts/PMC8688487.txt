@@ -1,0 +1,232 @@
+TITLE: Undiagnosed diabetes mellitus and associated factors among adults in Ethiopia: a systematic review and meta-analysis
+
+Diabetes has become a major public health problem, with 4.6 million deaths annually. The number of people living with undiagnosed diabetes is on the rise and has a diverse prevalence. Thus, this systematic review and meta-analysis was aimed to synthesize the pooled estimate prevalence of undiagnosed diabetes mellitus, impaired fasting glucose and its associated factors in Ethiopia. The databases Medline, Hinari, Google Scholar, and Google search were used to find potential studies published from January 2013 until January 2021. Extracted data were entered into the excel spreadsheet. The random effects model with Der Simonian-Laird weights was used to assess the pooled estimate of prevalence of undiagnosed diabetes, impaired fasting glucose, and its associated factors. The Cochrane Q-test and I2 statistics were used to screen for statistical heterogeneity. A funnel plot and Egger's statistical test were also used to search for any publication bias (small study effect). After extensive searching of articles on different databases, a total of nine studies were included for this systematic review and meta-analysis. In random effects model, the pooled prevalence of undiagnosed diabetes mellitus and impaired fasting glucose was 5.75%, 95% CI (3.90–7.59%), and 8.94%, 95% CI (2.60–15.28%), respectively. Regarding the associated factors, participants family history of diabetes was significantly associated with diabetes status. The pooled odds of developing diabetes mellitus among participants with a family history of diabetes mellitus were about 3.56 times higher than those without a family history of diabetes mellitus (OR = 3.56, 95% CI (2.23, 5.68)). In this review, the higher prevalence of undiagnosed diabetes mellitus and impaired fasting glucose was observed among adults in Ethiopia. Family history of diabetes was found to have an association with increased risk of diabetes mellitus. Our finding highlights the need of screening at the community level, with special focus on adults with family history of diabetes mellitus.
+
+Introduction
+
+Diabetes mellitus (DM) is a metabolic condition caused by irregularities in insulin secretion, insulin function, or both, which causes chronic hyperglycemia. It is a broad term for a group of diseases caused by a variety of causes. The term pre-diabetes is a form of metabolic syndrome marked by elevated blood sugar levels that are below the diabetes mellitus diagnostic threshold. Hemoglobin A1C, fasting glucose, or a glucose tolerance test can all be used to diagnose pre-diabetes. Impaired fasting glucose (IFG) is a disorder in which fasting blood glucose levels are higher than what is considered normal.
+
+According to world health organization (WHO) global status report, diabetes mellitus is one of the top ten causes of disease in the world. If nothing is intervening, the number of diabetics is expected to increase from 366 million in 2011 to 552 million by 2030. Diabetes is linked to a number of chronic noncommunicable illnesses (NCDs), including neuropathy, heart disease, kidney disease, and vision impairment, as well as depression and amputation. Costs are projected to rise as the diabetes pandemic spreads. The medical costs of managing diabetes-related complications and comorbidities are one cause for such high diabetes-related spending. Diabetes complications have also been shown to reduce the quality of life of diabetic patients and increase their risk of disability or death. Moreover, it has a negative impact on productivity and human growth. Evidences revealed that many adults in developing countries including Ethiopia are suffering from the disease without ever being diagnosed. The economic burden of diabetes has an impact on the health-care system, as well as on the affected individuals and their families. DM imposes a catastrophic out-of-pocket personal expenditure from loss of income owing to disability and premature death, in addition to the fiscal load on the health-care system and the national economy. Population-based survey carried out in China, revealed that prevalence of DM was 4.19% and proved that early detection and proactive treatment are undeniably important to prevent new cases from emerging. Previous studies in Turkey and Nigeria showed that prevalence of undiagnosed diabetes was 1.1 % and 0.8% respectively.
+
+The estimated prevalence of DM in adult population of Ethiopia is 1.9%. Another study conducted in north Ethiopia showed that the prevalence of IFG were 12%. Previous Studies conducted in different areas showed that age, family history of diabetes, hypertension, overweight, low physical exercise activity and alcohol consumption were considered as risk factors for the development of diabetes mellitus.
+
+To the best of our knowledge, there is a scarcity of systematically synthesized data on the prevalence of undiagnosed diabetes mellitus and its associated factors, especially in Ethiopia. he implications behind this review include providing public health professionals with detailed knowledge to deliver health promotion and disease prevention strategies, as well as enabling the early identification of adults at risk of diabetes mellitus in the future. It will also provide researchers with knowledge to help them identify research gaps and direct future research progress. Thus, The aim of this systematic review and meta-analysis was to provide the most up-to-date scientific evidence on the pooled prevalence of undiagnosed diabetes mellitus, IFG, and its related factors in Ethiopia.
+
+Methods and materials
+
+Study setting and searching strategies
+
+All methods were performed in accordance with the relevant guidelines and regulations. We conducted a literature search on Medline, Hinari, Google Scholar, and Google databases for studies published from January 2013 up to January 2021. In addition to looking for unpublished theses, certain research centers and libraries sources have been searched out. All searches were restricted to English-language studies. Medical subject heading (MeSH) terms ((((("Magnitude") OR "prevalence") AND "Undiagnosed diabetes mellitus") OR "impaired fasting glucose") AND "Associated factors") AND Ethiopia AND Human) were used in various combinations as primary search keywords.
+
+Eligibility criteria
+
+For prevalence studies, we used the CoCoPop (Condition, Context, and Population) method to announce inclusion and exclusion criteria.
+
+Inclusion criteria and exclusion criteria
+
+All studies conducted in Ethiopia on the prevalence and factors linked to undiagnosed diabetes mellitus and impaired fasting glucose were included. Furthermore, all full-text English-language publications with research conducted among adults aged 18 and above, as well as studies published after January 1, 2013, were qualified to be included in this systematic review and meta-analysis. Studies with no prevalence study on undiagnosed diabetes mellitus, studies with insufficient data on desired information, and studies conducted on known DM patients were omitted from this analysis. We contacted authors when necessary and manually checked all listed publications' reference lists as well as recent systematic reviews. On the topic, books, chapters, and review articles were also consulted.
+
+Measurement of the outcome variables
+
+The primary outcome of interest for this review was to estimate the pooled prevalence of undiagnosed DM and its associated factors in Ethiopia. Undiagnosed DM was defined as an individual whose diabetes has not been diagnosed by a physician but whose plasma glucose levels satisfy established criteria for diabetes, for instance a fasting blood glucose level of greater than or equal to 126 mg/dl as per WHO classification.
+
+Study selection and data collection
+
+Endnote version X9.2 (Thomson Reuters, Philadelphia, PA, USA) program was used to combine, export, and handle all of the studies found across various databases. All duplicate studies were deleted, and the full text of the papers was manually and electronically searched using Endnote software. Individual article eligibility was determined independently by the reviewers (GY, GW, MT, DG, WA, ES, SA & AA) based on a review of the title, abstract, and full text. Discussion and consultation with a third reviewer resolved the difference between reviewers.
+
+Data extraction
+
+The following information was gathered and documented on a standardized form that was used to document related items and entered into a database (Microsoft Excel): the proportion of participants with undiagnosed DM and IFG with standard error, research characteristics (authors, year of publication, region, study design, environment, mean age of participants, gender) were reported. Another reviewer double-checked the accuracy of the extracted data.
+
+Quality assessment of individual studies
+
+Quality assessment of individual studies included in systematic review and meta-analysis on prevalence and associated factors of Undiagnosed DM in Ethiopia, 2021.
+
+Authors	1	2	3	4	5	6	7	8	9	10	11	 	Target group representative	Study pop representative	Census or random	Low non-response bias	Primary data collection	Acceptable case definition	Appropriate instrument measurement	same model of data collection was used	Proper calculation of prevalence	Total 'yes'	Overall risk of bias	 	Bantie et al.	Yes	Yes	Yes	Yes	Yes	Yes	Yes	Yes	Yes	9	0	 	Abebe et al.	Yes	Yes	Yes	Yes	Yes	Yes	Yes	Yes	yes	9	0	 	Ayele et al.	Yes	No	Yes	Yes	Yes	Yes	Yes	Yes	yes	8	1	 	Endris et al.	Yes	Yes	Yes	Yes	Yes	Yes	Yes	Yes	yes	9	0	 	Wolde et al.	Yes	Yes	Yes	Yes	Yes	Yes	Yes	Yes	no	8	1	 	Worede et al.	Yes	Yes	Yes	Yes	Yes	Yes	Yes	Yes	yes	9	0	 	Dereje et al.	No	Yes	Yes	Yes	Yes	Yes	Yes	Yes	yes	8	1	 	Tesfaye et al.	No	Yes	Yes	Yes	Yes	Yes	Yes	Yes	Yes	8	1	 	Wondimagegn et al.	Yes	Yes	Yes	Yes	Yes	Yes	Yes	Yes	Yes	9	0
+
+The quality of included studies were assessed using the modified version of a quality assessment tool for prevalence studies which is validated in the previous study. Reviewers (SA, FT, FY, AT, AD, TJ, GA & WA) independently assess the quality of the included studies. The discrepancy between the reviewers were managed trough discussion and articles were included after consensus. The quality assessment tool measures a total of nine questions. Based on the score of the quality assessment tool, the highest score from nine questions declared low risk of bias. Overall scores 0–3, 4–6, and 7–9 were declared low, moderate, and high risk of bias respectively (Table 1).
+
+Statistical analysis
+
+A format prepared in Microsoft Excel spreadsheet was used to extract the appropriate details from each original report. For further review, the extracted data was exported to STATA/MP version 16.0 software. The random effects model with Der Simonian-Laird weights was used to assess the pooled estimate of prevalence of undiagnosed DM, IFG, and its related factors. The Cochrane Q-test and I2 statistics were used to screen for statistical heterogeneity. Subgroup analysis based on the mean age of the participants was used to reduce the variance of point estimates between primary studies. A sensitivity analysis was also performed to see how single studies affected the pooled estimate. A funnel plot and Egger's statistical test were used to search for publication bias (small study effect). The existence of a small study effect is treated by non-parametric trim and fill analysis using the random effects model when the p-value is less than 0.05. The pooled effect was expressed as an odds ratio to classify variables linked to the outcome variable.
+
+Results
+
+Characteristics of the studies
+
+PRISMA flow diagram of article selection for systematic review and meta-analysis of magnitude of undiagnosed DM and associated factors in Ethiopia, 2021.
+
+A total of 352 articles were identified in the literatures search. After removing duplicates 115 articles were left. Further screening by title and abstract against the review objectives and inclusion criteria, 95 articles had been excluded. The full texts of the remaining 36 articles were again excluded. Finally, 9 studies were included in the current systematic review and meta-analysis. The flow diagram of the study search and selection process are depicted using Preferred reporting items for systematic reviews and meta-analyses (PRISMA) (Fig. 1).
+
+Characteristics of the studies included for systematic review and meta-analysis on prevalence and associated factors of Undiagnosed DM in Ethiopia, 2021.
+
+S. no	Author	Publication year	Region	Sample size	Diabetes assessment Criteria	Prevalence of undiagnosed DM	Quality score	 	1	Endris et al.	2021	Amhara	587	WHO	4.9	7	 	2	Dereje et al.	2020	SNNP	634	WHO	2.05	6.5	 	3	Wolde et al.	2020	Amhara	773	WHO	5.1	6.5	 	4	Ayele et al.	2020	Dire Dawa	872	WHO	6.2	7	 	5	Bantie et al.	2018	Amhara	607	WHO	10.2	7	 	6	Worede et al.	2017	Amhara	392	WHO	2.3	7	 	7	Tesfaye et al.	2016	Addis Ababa	936	WHO	3.41	6.5	 	8	Wondimagegn et al.	2016	Amhara	722	WHO	11.5	6.5	 	9	Abebe et al.	2014	Amhara	2141	WHO	7.2	7
+
+Many of the studies included in this review were conducted after 2013 and are cross-sectional in nature. The overall sample size for the studies was 7664, with all participants being over the age of 18. The published sample sizes for the minimum and maximum sample sizes were 392 and 2141, respectively. Undiagnosed DM prevalence was registered as low as 2.05% and as high as 11.5% in the SNNP and Amhara regions, respectively. For this systematic review and meta-analysis, potential studies were retrieved from only four regions. Six from Amhara, one from SNNP, one from Dire Dawa and one from Addis Ababa were included (Table 2).
+
+Prevalence of undiagnosed diabetes mellitus in Ethiopia
+
+Forest plot of pooled prevalence of undiagnosed diabetes mellitus in Ethiopia, 2021.
+
+Forest plot of pooled prevalence of impaired fasting glucose in Ethiopia, 2021.
+
+To estimate the pooled prevalence of undiagnosed diabetes mellitus in Ethiopia, nine studies were included. In random effects model, the pooled prevalence of undiagnosed diabetes mellitus in Ethiopia was 5.75 (95% CI 3.9–7.59). Significant heterogeneity was observed among studies (I2 = 92.91, p-value < 0.001). The highest weight among studies was observed from studies conducted by Dereje et al., and Abebe et al., (Fig. 2). Egger's statistical test was used to analyze a small study effect (publication bias). The included studies passed Egger's statistical test with a p-value of 0.165, indicating that there was no publication bias. On the otherhand, five studies have been included to estimate the pooled prevalence of IFG in Ethiopia. In random effects model, the pooled prevalence of impaired fasting glucose in Ethiopia was 8.94 (95% CI 2.6–15.28) (Fig. 3). Although there was significant heterogeneity among studies (I2 = 98.66, p-value 0.001), sensitivity analysis revealed that no single study influenced the pooled estimated prevalence of IFG in Ethiopia.
+
+Handling heterogeneity
+
+Sensitivity analysis of the studies included in systematic review and meta analysis on prevalence of undiagnosed diabetes mellitus in Ethiopia, 2021.
+
+Subgroup analysis of the studies included in systematic review and meta-analysis on prevalence of undiagnosed DM in Ethiopia, 2021.
+
+Subgroup pooled prevalence of undiagnosed DM based on age of the participant in Ethiopia, 2021 (n = 9).
+
+Variables	Included studies	Sample size	Prevalence (95%CI)	Heterogeneity (I2, p-value)	 	By mean age	 ≤ 40	4	2316	6.08 (95%CI 2.75, 9.4)	91.99%, p < 0.001	 	 > 40	5	5348	6.34 (95%CI 3.82, 8.86)	92.24%, p < 0.001
+
+The pooled estimate from the random effects model revealed substantial heterogeneity. For the pooled estimation of undiagnosed DM, sensitivity analysis and subgroup analysis were performed to account for this heterogeneity. From the random effects model, there are no studies excessively influenced the overall pooled estimate of prevalence of undiagnosed DM among the included studies (Fig. 4). Despite subgroup analysis was performed based on the participants' mean age, the heterogeneity between studies did not change. The pooled estimate prevalence of undiagnosed DM was 6.08 (95% CI 2.75, 9.4) among study groups younger than 40 years old, whereas it was 6.34 (95% CI 3.82, 8.86) among study groups older than 40 years old, according to the subgroup review (Fig. 5). In the subgroup analysis, the highest prevalence of undiagnosed DM were observed in Abebe et al. followed by Tesfaye et al. (Table 3).
+
+Factors associated with undiagnosed diabetes mellitus
+
+Summary of the pooled effects of factors associated with undiagnosed DM among adults in Ethiopia, 2021.
+
+Variables	OR (95% CI)	Heterogeneity (I2, p-value)	Egger’s p-value	Number of studies	Sample size	 	Family Hx of DM	No	1					 	Yes	3.56(2.23, 5.68)*	48.94%, 0.08	0.7	6	5571	 	BMI	18.5–24.5	1	1				 	 < 18.5	1.34 (0.97, 1.84)*	0.85%, 0.35	0.6	6	5571	 	 > 24.5	1.36 (0.72, 2.1)	26.4%, 0.25	0.9	 	Sex	Male	1	1				 	Female	1.81 (0.71, 4.01)	70.2%, < 0.001	0.56	9	7664	 	Age	Below 40	1	1				 	 ≥ 40	3.6 (0.99, 7.8)	87%, < 0.001	0.8	9	7664
+
+A separate random effects model pooled estimate analysis was employed on the extracted factors (family history of DM, age, sex and BMI) to identify the determinant factors of undiagnosed DM in Ethiopia. However, only family history of DM was found significant associated with the development of DM (Table 4).
+
+Forest plot for the association between family history of DM and diabetes mellitus, a systematic review and meta analysis in Ethiopia, 2021.
+
+Six studies were included in the analysis to see whether there was an association between participants' diabetes status and their family history of diabetes. Two of the six studies found no association between diabetes and participants family history. The pooled odds of developing diabetes mellitus among participants with a family history of DM were 3 times higher than those without a family history of DM, according to random effects model estimates (OR = 3.56, 95% CI 2.23, 5.68) (Fig. 6). There was no statistically significant heterogeneity between studies (I2 = 48.94%, p-value = 0.08) There is no small study effect (p-value = p = 0.29) and no single study that affects the pooled estimate from sensitivity analysis, according to Egger's statistical test calculation.
+
+Discussion
+
+There is also overwhelming evidence that the prevalence of diabetes is rapidly increasing in many developing countries in which undiagnosed diabetes is more likely to be associated with severe diabetic complications including diabetic neuropathy, cardiovascular disease and diabetic retinopathy. Therefore, this systematic review and meta-analysis aimed to give updated pooled prevalence of undiagnosed DM and IFG in Ethiopia.
+
+This systematic review and meta-analysis revealed that the pooled prevalence of undiagnosed DM in Ethiopia was 5.75, 95% CI (3.9–7.59). The pooled estimate of DM was in line with previous studies conducted in Canada 5.6%, pooled estimate of African population 5.37%, Teheran, Iran 4% and Qatar 5.9%. The prevalence detected in this study (5.75%) was also greater than Ethiopia's projected countrywide prevalence (3.32%) published by the IDF in 2012. This may be associated with the global increase in the trend of DM and the predicated epidemic in developing countries.
+
+However, the finding of this meta-analysis was lower than a previous studies in East Gojjam zone, (11.5%),Germany (8.2%), Malaysia (8.9%), and Kenya (14%).The difference could be attributable to the sociodemographic and lifestyle variation between the study areas. In addition, the measurement tool used to determine fasting blood glucose level by the other studies was HbA1c, which was more reliable, whereas in our case Ethiopia, it was based on a single measurement, which might fluctuate due to different factors.
+
+On the other hand, the pooled prevalence of Undiagnosed DM in Ethiopia was higher than previous study conducted in Koladiba (2.3%), Sothern Ethiopia (2.05), Nigeria 0.8%, and Congo 1.5%. This could partly be due to differences in the composition of study population. Additionally, the inconsistency would be related with the sample size used to conduct the study.
+
+This systematic review and meta-analysis also identified that the pooled estimate of magnitude of IFG was 8.94, 95% CI (2.6,15.28), showing that unless appropriate interventions were made, the individuals might develop diabetes. The finding was consistent with population based study in Qatar (12.5%), Bahirdar (12.8%). In contrary to this, the pooled estimate of IFG in Ethiopia is lower than previous study in Uganda (20%), Indonesia (58.8%), and Brazil (18.4%) while it is higher than previous study in Qatar (1.3%).This could be due to the age difference and the study setting where in Ethiopia only urban residents are included in the study.
+
+The subgroup analysis showed that the pooled estimate prevalence of undiagnosed DM was higher among group of studies which with mean age greater than 40 years of age which is 6.34 (95% CI 3.82, 8.86). This is due to the fact that as age increase the likelihood of developing chronic illness is higher.
+
+This systematic review and meta-analysis also identified the determinant factors of undiagnosed DM in Ethiopia. In random effects model pooled estimates, family history of diabetes mellitus (FHDM) was significantly associated with the development of DM. From the random effects model estimate, the pooled odds of developing DM among participants with family history of DM were nearly 3.5 times higher than those participants without FHDM. This is supported with many studies conducted in different parts of the world including China, Uganda, USA and Canada. The reason for the association will be the nature of the disease where DM is primarily a genetic disease.
+
+Our finding suggests that the magnitude of undiagnosed DM in Ethiopia needs the attention of public health agencies and efforts should be directed to design a feasible means of establishing a system that enables community screening specifically targeted on those with family history of DM, which is useful for early diagnosis and prevention of premature death from complications due to undiagnosed DM. This study is mostly useful for health care workers and planners who want to invest time and other resources in minimizing community deaths due to undetected diabetes, as well as increasing productivity by maintaining population health and lowering health-care costs. If we are unable to do so, it will have a negative impact on people's quality of life and, as a result, on the country's economic progress.
+
+Limitation of the study
+
+Sub-group analysis could not identify the source of heterogeneity. Studies published in English language included which might not have traced all studies.
+
+Conclusion
+
+In this review, the pooled prevalence of undiagnosed DM and impaired fasting glucose was significantly high. Family history of DM was statistically significant factors for diabetes mellitus. Based on the findings of this study, we suggest devising a feasible method for developing a community screening system that is explicitly aimed at those with a family history of diabetes, which is useful for early detection and preventing premature death from complications caused by undiagnosed diabetes.
+
+Publisher's note
+
+Springer Nature remains neutral with regard to jurisdictional claims in published maps and institutional affiliations.
+
+Author contributions
+
+From the beginning of the review to data extraction, data processing, interpretation, drafting, and revising the text G.Y., G.W., M.T., D.G.,W.A., E.S. and S.A. were involved. The project management, principal supervision, and final manuscript revision were done by S.A., F.Y., A.D., T.J., G.A., A.A. and W.A. The final manuscript was read and accepted by all contributors.
+
+Data availability
+
+All data is available in the manuscript.
+
+Competing interests
+
+The authors declare no competing interests.
+
+References
+
+Prediabetes: A high-risk state for diabetes development
+
+The pros and cons of diagnosing diabetes with A1C
+
+WHO. Definition and diagnosis of diabetes mellitus and intermediate hyperglycemia. Int Diabet Fed. (2006).
+
+Global report on diabetes
+
+Diabetes mellitus type 2 and other chronic non-communicable diseases in the central region, Saudi Arabia (Riyadh cohort 2): A decade of an epidemic
+
+The impact of comorbid chronic conditions on diabetes care
+
+The impact of diabetes on employment and work productivity
+
+High hidden burden of diabetes mellitus among adults aged 18 years and above in urban northwest Ethiopia
+
+Economic burden of diabetes mellitus in the WHO African region
+
+Prevalence of impaired fasting glucose, type 2 diabetes and associated risk factors in undiagnosed Chinese rural population: The Henan Rural Cohort Study
+
+The prevalence of diabetes and impaired glucose tolerance in Sivas, Central Anatolia, Turkey
+
+Prevalence and risk factors for diabetes mellitus in Nigeria: A systematic review and meta-analysis
+
+Prevalence of diabetes mellitus and associated factors in southern Ethiopia: A community based study
+
+The prevalence of impaired fasting glucose and undiagnosed diabetes mellitus and associated risk factors among adults living in a rural Koladiba town, northwest Ethiopia
+
+Combined lifestyle factors and risk of incident type 2 diabetes and prognosis among individuals with type 2 diabetes: A systematic review and meta-analysis of prospective cohort studies
+
+Physical activity/exercise and diabetes: A position statement of the American Diabetes Association
+
+Obesity and type 2 diabetes in children: Epidemiology and treatment
+
+Assessing risk of bias in prevalence studies: Modification of an existing tool and evidence of interrater agreement
+
+Meta-analysis in clinical trials
+
+Assessing heterogeneity in meta-analysis: Q statistic or I 2 Index?
+
+A nonparametric, “Trim and Fill” method of accounting for publication bias in meta-analysis
+
+Preferred reporting items for systematic reviews and meta-analyses: The PRISMA statement
+
+Diabetes mellitus in North West Ethiopia: A community based study
+
+Prevalence and associated factors of diabetes mellitus in Hosanna Town, Southern Ethiopia
+
+Undiagnosed diabetes mellitus and related factors in East Gojjam (NW Ethiopia) in 2016: A community-based study
+
+Prevalence of diabetes mellitus, prediabetes and its associated factors in Dessie Town, Northeast Ethiopia: A community-based study
+
+Prevalence of undiagnosed diabetes mellitus and associated factors among adult residents of Bahir Dar city, northwest Ethiopia: A community-based cross-sectional study
+
+Prevalent, uncontrolled, and undiagnosed diabetes mellitus among urban adults in Dire Dawa, Eastern Ethiopia: A population-based cross-sectional study
+
+Prevalence and factors associated with diabetes mellitus and impaired fasting glucose level among members of federal police commission residing in Addis Ababa
+
+Type 2 diabetes mellitus unawareness, prevalence, trends and risk factors: National Health and Nutrition Examination Survey (NHANES) 1999–2010
+
+Increasing prevalence of diabetes mellitus in Oman
+
+Prevalence of prediabetes and undiagnosed diabetes in Canada (2007–2011) according to fasting plasma glucose and HbA1c screening criteria
+
+Undiagnosed diabetes mellitus and associated factors among psychiatric patients receiving antipsychotic drugs at The University of Gondar Hospital, Northwest Ethiopia
+
+Epidemiology of diabetes mellitus, pre-diabetes, undiagnosed and uncontrolled diabetes in Central Iran: Results from Yazd health study
+
+Prevalence of diagnosed and undiagnosed diabetes mellitus and its risk factors in a population-based study of Qatar
+
+Prevalence of undiagnosed diabetes mellitus and its risk factors in elected institutions at Bishoftu town, East Shoa, Ethiopia
+
+Prävalenz und zeitliche Entwicklung des bekannten Diabetes mellitus: Ergebnisse der Studie zur Gesundheit Erwachsener in Deutschland (DEGS1)
+
+Ministry of Health Malaysia. Malaysia Health Systems Research Report. Vol. I (Ministry of Health Malaysia, 2016).
+
+Prevalence of undiagnosed diabetes and pre-diabetes among hypertensive patients attending Kiambu district Hospital, Kenya: A cross-sectional study
+
+Prevalence of diabetes mellitus and its associated risk factors in age group of 20 years and above in Kashmir, India
+
+Diabetes and intermediate hyperglycaemia in Kisantu, DR Congo: A cross-sectional prevalence study
+
+Diabetes and pre-diabetes among persons aged 35 to 60 years in Eastern Uganda: Prevalence and associated factors
+
+Challenges in diabetes management in Indonesia: A literature review
+
+Prevalence of people at risk of developing type 2 diabetes mellitus and the involvement of community pharmacies in a national screening campaign: A pioneer action in Brazil
+
+Prevalence of diagnosed and undiagnosed type 2 diabetes mellitus among us adolescents: Results from the continuous NHANES, 1999–2010
+

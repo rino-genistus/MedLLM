@@ -1,0 +1,1306 @@
+TITLE: Patient, family member, and health care provider perspective on barriers and facilitators to diabetic retinopathy screening in Thailand: A qualitative study
+
+Objectives
+
+Diabetic retinopathy (DR) can cause significant visual impairment which can be largely avoided by early detection through proper screening and treatment. People with DR face a number of challenges from early detection to treatment. The aim of this study was to investigate factors that influence DR screening in Thailand and to identify barriers to follow-up compliance from patient, family member, and health care provider (HCP) perspectives.
+
+Methods
+
+A total of 15 focus group discussions (FGDs) were held, each with five to twelve participants. There were three distinct stakeholders: diabetic patients (n = 47) presenting to a diabetic retinopathy clinic in Thailand, their family members (n = 41), and health care providers (n = 34). All focus group conversations were transcribed verbatim. Thematic analysis was used to examine textual material.
+
+Results
+
+Different themes emerged from the FGD on knowledge about diabetes, self-care behaviors of diabetes mellitus (DM), awareness about DR, barriers to DR screening, and the suggested solutions to address those barriers. Data showed lower knowledge and awareness about diabetes and DR in both patients and family members. Long waiting times, financial issues, and lack of a person to accompany appointments were identified as the major deterrents for attending DR screening. Family support for patients was found to vary widely, with some patients reporting to have received adequate support while others reported having received minimal support. Even though insurance covered the cost of attending diabetes/DR screening program, some patients did not show up for their appointments.
+
+Conclusion
+
+Patients need to be well-informed about the asymptomatic nature of diabetes and DR. Communication at the patient level and shared decision-making with HCPs are essential. Family members and non-physician clinicians (such as diabetes nurses, diabetes educators, physician assistants) who work in the field of diabetes play a vital role in encouraging patients to attend diabetes and DR follow-ups visits regularly.
+
+Introduction
+
+Diabetes mellitus (DM) is a global public health problem. In 2019 it was estimated that there were 463 million people living with diabetes, and the number is projected to rise to 578 million by 2030. In Thailand, the prevalence of diabetes increased from 6.9% to 8.9% from 2009 to 2014 and is expected to rise to 9.8% by 2030. Although a large number of diabetic patients are correctly identified and treated in Thailand, poor control of blood glucose levels has been reported.
+
+Patients who are unable to control their blood glucose levels are more likely to develop major complications including diabetic retinopathy (DR). DR is a condition that damages blood vessels in the retina. These blood vessels can leak, causing vision loss or even blindness. Nearly 1.4% of blindness in Southeast Asia (including Thailand) is due to DR, and 24–31% of people with type 2 diabetes have DR (21–23% with non-proliferative DR and 2.3–9.4% with a proliferative DR, which is a more severe form). According to Euswas N et al, the prevalence of DR in the Thai population ranges from 5.0 to 6.9%.
+
+Blindness due to DR can be reduced by proper screening and timely treatment of DR, and by adopting healthy lifestyle modifications. Qualitative studies from the United States, Canada, the United Kingdom, and Africa using focus group discussions have identified several barriers to DR screening. These pertained to poor knowledge and awareness about DR, lack of skilled manpower and facilities for performing DR examination, inadequate interaction between hospital staff and patients, non-integration of DR screening with other health screening programs during the same visit, ethnic diversity, fear of having dilated fundus examination, religious beliefs that divine justice will prevail, and delay in decision-making to attend DR screening.
+
+A recent community-based study from Thailand reported that less than 50% of diabetic patients underwent annual DR screening. However, there are limited data pertaining to the barriers to DR screening and its uptake in Thailand. The purpose of this study was to identify barriers to attending follow-up appointments for DR examination from the perspective of the patients, health care providers (HCPs), and family members, and to identify factors that influence patient compliance with attending DR screening and follow-up visits.
+
+Methods
+
+This descriptive qualitative study was conducted between August and December 2019. Focus group discussions (FGDs) were performed in five DR outpatient clinics by three authors (VN, WP, and MT who were trained in qualitative research methods by PC). Each hospital examines patients from the five different regions of Thailand (north, northeast, west, central, and south). The study was approved by the institutional review board, the Ethics Committee, Rajavithi Hospital (approval no: 076/2561), and adhered to the tenets of the declaration of Helsinki.
+
+Inclusivity in global research
+
+Additional information regarding the ethical, cultural, and scientific considerations specific to inclusivity in global research is included in the S1 Text.
+
+Sampling
+
+Using the maximum variation sampling, a minimum of five to a maximum of 12 participants were recruited in each group. The stakeholders included patients, family members, and health care providers. There were 3 FGDs from each outpatient clinic, making a total of 15 FGDs. The selection of a varied group of participants enabled us to obtain diverse perceptions on the study topic which was to understand, perceptions and awareness about DR, the need for regular eye screening, perceived barriers in seeking eye care, in addition to awareness about diabetes and diabetic-related complications.
+
+Data collection
+
+A focus group agenda (S1 Text) was designed based on the literature and prior interactions with patients, family members, and HCPs. Around thirty-four HCPs from various departments were recruited who had 5 or more years of experience working with diabetic patients. Prior to the FGD, all participants were briefed about the study. Written informed consent was obtained from every participant. The information gathered from the participants included an understanding of diabetes, their experiences of living with diabetes, lifestyle changes, care-seeking behaviors, understanding of barriers to DR and the importance of attending DR screening, and possible suggestions for improving compliance with DR screening.
+
+Patients were invited to take part while attending the DR screening at the hospital. Patients were invited to participate if they were 18 years or older, had type 1 or 2 DM, and were excluded if they had no perception of light in either eye, were unwell to participate, or had a physical or mental disability. Family members who accompanied patients to their hospital appointment were invited to take part, forming the second stakeholder group.
+
+Each group discussion session lasted 45–60 minutes. The data were collected in the Thai language. The entire conversation was audio-recorded and transcribed verbatim, translated into English by the general practitioners, and double-checked. The transcribed data were re-read several times, and the original recordings were listened to several times to ensure the accuracy of the transcription. Several issues/themes emerged from the focus group discussion, including management of diabetes, DR awareness, and DR screening compliance. To protect participant confidentiality, all data was anonymized.
+
+Of the total 122 participants, 27.04% were males. The mean age and standard deviation (SD) for the participants in the individual focus group are provided in Table 1. The mean duration of diabetes was 9.23 (±9.49) years (self-reported).
+
+Characteristics of patients, family members and health care givers.
+
+Characteristics of Patients	n(%)	Characteristics of Family members	n(%)	 	Gender	Gender	 	Male	15 (31.91)	Male	9 (22)	 	Female	32 (68.05)	Female	32(78)	 	Age	57.61 ±12.95	Age	49.60 ± 13.84	 	Duration of diabetes in years	9.23 ± 9.49		 	 	Occupation	Occupation	 	Businessman	1 (2.12)	Accountant	1 (2.43)	 	Driver	1 (2.12)	Businessman	4 (9.75)	 	Employee	6 (12.76)	Civil servant	2 (4.87)	 	Factory worker	1 (2.12)	Farmer	15 (36.58)	 	Farmer	6 (12.76)	General contractor	2 (4.87)	 	General worker	4 (8.51)	General employee	1 (2.43)	 	Housekeeping	8 (17.02)	House Keeper	2 (4.87)	 	Housemaid	4 (8.51)	Housekeeping	4 (9.75)	 	Retired	5 (10.63)	None	2 (4.87)	 	Routine work	1 (2.12)	Office work	1 (2.43)	 	Salesman	8 (17.02)	Public Servant	1 (2.43)	 	Security officer	1 (2.12)	Retired	1 (2.43)	 	Welder	1 (2.12)	Salesmen	5 (12.19)	 	Characteristics of Health care providers	n(%)		 	 	Gender			 	 	Male	9 (26.47)		 	 	Female	25 (73.52)		 	 	Age	41.55±9.45		 	 	Year of experience	17.10±11.16		 	 	Occupation			 	 	Nurse	9 (26.47)		 	 	Nurse aid	8(23.52)		 	 	Nutritionist	1 (2.94)		 	 	Ophthalmologist	2(5.88)		 	 	Pharmacist	2(5.88)		 	 	Physical therapist	1 (2.94)		 	 	Registered Nurse	6(17.64)		 	 	Registrator	1 (2.94)		 	 	Technician	1 (2.94)		 	 	Traditional Medicine Doctor	1 (2.94)		 	 	Laboratory scientist	1 (2.94)		 	 	Clerk	1 (2.94)
+
+Data analysis
+
+Data analysis followed the framework analytical approach. Management and interpretation of qualitative data following an iterative data handling process was undertaken by gaining familiarity with each of the transcripts through repeated readings. We carried out a systematic method of organizing our data into spreadsheets, keeping in mind our research objectives, and listed out several categories such as ‘knowledge about diabetes, ‘behaviors to DM care’, ‘awareness about DR care’, and ‘barriers to DR screening’. We then extracted relevant text from each FGD related to these categories and went through a process of indexing or sifting through the data; sorting and selecting quotes and placing them under the appropriate categories. By comparing and contrasting the data and identifying the categories that might be usefully merged and those that stood alone, we were able to refine our categories and lay the groundwork for theme creation. In developing themes, we looked for patterns and made decisions on what specific themes would best explain our data and provided important insights.
+
+Results
+
+Various themes that best explained the data and addressed our research questions were knowledge of DM, behaviors of DM care, awareness about diabetic retinopathy, barriers to DR screening, and suggestions to improve DR screening attendance. The findings are discussed below, along with the supporting quotes.
+
+Knowledge of diabetes
+
+The majority of the patients were diagnosed after they experienced symptoms including exhaustion, frequent urination, foot numbness, leg pain, and weight loss. Minimal patients reported being diagnosed with DM at a regular annual health examination. Four participants were incidentally diagnosed with diabetes when they attended eye check-ups for cataracts. The primary sources from which patients reported receiving information about diabetes included volunteers, doctors, nurses, and posters.
+
+“I urinated every hour. I went to the hospital and the doctor said that my 72-kg body weight was obese, and my blood sugar was high. The doctor told me to lose 10 kilograms of weight. After I had lost 10 kgs, I went back to see the doctor and he told me that I had diabetes. (FGD 2)”
+
+“I was a truck driver. I came to the hospital for eye surgery, but my blood pressure was very high, so I could not have surgery. After having blood tests, I was diagnosed with hypertension and diabetes. I have never received a check-up before, but my vision was poor, so I first came to the hospital to have an eye examination. (FGD 1)”
+
+Seven patients were worried about diabetic symptoms such as polyuria, fatigue, tiredness, and sleep disorder. Others accepted the inevitability of acquiring the disease. One patient was distressed after learning she was diabetic, but she eventually accepted after learning that diabetes is a common disease. A small number of patients compared diabetes with another disease such as cancer or having an accident but only one patient reported to being aware of the fact that diabetes can affect the eyes and kidneys. Patients whose blood sugar levels did not improve even after taking medication appeared unwilling to return for the follow-up care, making them seek treatment at another hospital.
+
+“At first, I was upset but then I realized that many other people also have diabetes too, and that made me feel better. (FGD 1)”
+
+“I have been diagnosed with diabetes for 4 years. I also had frequent urination and itching vagina. I also feel fatigue. My blood sugar was over 200. I went to see a doctor at private hospital but the medications there did not lower my blood sugar, so I changed to this hospital. The doctor gave me NPH here and it worked well with me. I used to have a Mixtard but it didn’t work well. (FGD 3)”
+
+Family members reported feelings of sympathy, empathy, frustration, and worry for diabetic patients. Many family members also echoed fear of death, blindness, and the possibility of diabetic patient’s legs being amputated. They reported concerns around delayed wound healing, impaired vision, and joint stiffness.
+
+“A known diabetic patient passed away who lived far away from the hospital. Getting him to the hospital was difficult, we sympathise for him. His excessive blood sugar level caused numbness in his hands and feet. (FGD 3)”
+
+“My dad had history of diabetes and he was very cautious to avoid wounds. He had an ulcer in leg, then he passed away due to diabetes (FGD 5).”
+
+Behaviors of DM care
+
+The majority of patients preferred changing their eating habits and adopting a healthy lifestyle to control their diabetes rather than depending on only medication. The doctor’s advice appeared to have substantially boosted the patients’ attitude towards a positive state of mind during the consultation. While some participants reported maintaining healthy blood glucose levels by a combination of medication and adhering to a strict diet as suggested by the doctor, others reported controlling their blood sugar levels by solely drinking plenty of water. One patient seemed determined about maintaining her health through strict dietary restrictions over the fear of developing DR and neuropathy.
+
+“The doctor said I nearly had diabetes and asked me to follow a controlled diet and come for the follow up for 1 month. If the blood sugar was still rising, I would need to take medications. I had tried diet control. (FGD 1)”
+
+“I was diagnosed with diabetes, but I ignored it for two years until I had numbness. I didn’t come (to hospital) because I had no symptoms. (FGD 3)”
+
+“I try to drink water only since I realize that uncontrolled blood sugar would lead to many illnesses and my relatives would be affected too. I also realize that diabetes can lead to shock, so I regularly take medications and restrict my diet. (FGD 2)”
+
+Most of the family members reported actively supporting and caring for patients with diabetes and shared responsibilities of disease management including providing blood sugar measuring devices, reminding patients of appointments, providing social and emotional support to cope with diabetes, and helping to change to a healthy diet. They remind patients about issues such as lifestyle changes and adhering to medication regimes as instructed by the doctor. While a few family members had no trouble monitoring the patient’s health because the patients themselves were diligent in keeping on track by eating well, taking medications on time, and following the doctor’s advice, there were others who had difficulty dealing with patients who were stubborn towards following the advice from the doctors.
+
+“I am very confident because I take care of her by myself. Now she doesn’t have diabetes. (FGD 1)”
+
+“My mother feels like she knew everything. She always comes to visit clinic, but she sometimes takes medication. Her blood sugar varies from 170 to 240. After buying her a blood sugar measuring machine, she increased her self-awareness. I tried to prepare medication for her, but she refuses. She eats a lot of rice and boiled vegetable. She refuses to take herbal drugs. (FGD 4)”
+
+HCPs reported that there were two categories of patients: 1) Those who understood the necessity of diabetic treatment and who therefore attended follow-up appointments for diabetes on a regular basis, and 2) patients who did not understand or were uninformed of the importance of diabetic treatment and blamed themselves for not benefiting from follow-up appointments. Therefore physician and non-physician clinicians felt that patients should be given a guidebook, posters, books, videos, or brochures with the necessary information reminding them about the possible complications of uncontrolled diabetes in eyes, feet, etc. Illiterate patients may benefit from being frequently reminded of the complications verbally or through diagrams/photos/videos.
+
+Awareness about DR
+
+There was lower awareness around DR, for example, participants did not know the difference between DR and glaucoma. One participant thought that DR would always reduce their vision, reporting that DR is present only when the vision is blurred and does not improve after wiping the spectacles. The majority of patients were aware that DR is linked to abnormal blood sugar levels, but only a few knew that DR could lead to vision impairment. Only two participants appeared to be aware of laser treatment and injections for DR management. Interestingly, one patient stated that she will do internet research on DR and then share her knowledge with other diabetic patients to help them understand that “uncontrolled blood sugar might lead to blindness”. Two patients expressed gratitude for the DR awareness movies that were played during their visits to the hospital. Patients were found to have differing perspectives on surgical treatment by ophthalmologists. Patient compliance was found to be influenced by the level of trust in doctors. For example, one participant reported to being apprehensive about signing the consent form which stated “ophthalmologists are not responsible for any blindness or complications”, which was the message focused on the risks that were raised, such as the type and effects of the treatment, the results of the surgery, or the patient concerns around the disease prognosis.
+
+“The doctor told me that I had glaucoma, and I am wondering if the glaucoma and diabetic retinopathy is the same entity or not? Do I have a chance to develop diabetic retinopathy? I believe that blood sugar depends on the food we eat. (FGD 1)”
+
+“I study about diabetic retinopathy on YouTube by myself. I also share the information with other diabetic patients and realize that uncontrolled blood sugar would lead to blindness. (FGD 2)”
+
+“Before going to the surgery, you have to sign for the informed consent which stated, “The ophthalmologists are not responsible for any blindness or complications if occur”. I feel frightened since there is no responsible person to take care. (FGD 4)”
+
+Awareness of DR was found to be limited amongst the family members. Very few family members knew how DR is treated, and knew little about drugs, injections, lasers, and surgeries for treating DR. Some family members reported that diabetes is linked to increased intraocular pressure. Only four family members stated that damaged blood vessels due to diabetes cause blurry vision and can lead to blindness.
+
+“High blood sugar can affect blood vessels leading to blindness. Annual screening is required. I know only sugar control is necessary. (FGD 2)”
+
+According to HCPs, a large majority of the patients appeared to be aware of the need for diet control and taking medicine. However, HCPs also reported that patients who had high blood sugar (glycated hemoglobin) levels seemed to adopt strict control of diet only prior to attending hospital appointments. HCPs reported that patients were often tempted to eat unhealthy foods resulting in poor blood sugar control. HCPs reported that patients were not always aware of what to do in an emergency situation (hypo/hyper glycaemic condition) and sometimes would wait for their next appointment despite the need to attend sooner. Moreover, patients tend to use traditional and self-prescribed herbal items to lower blood sugar levels.
+
+“Some patients also lied to us. Sometimes they use to say that they don’t eat any rice or food at all time, but actually they would have had three bananas, one piece of bread, and sweet drinks and some even had the temptation to eat more dessert items. (FGD 1)”
+
+According to HCPs, some patients did not appear to take appropriate steps to lower their blood glucose levels even when they were aware of the normal blood glucose range. HCPs noticed that patients would seek treatment for diabetes as soon as they become aware of their condition because they were concerned it would result in visual loss. HCPs also reported that the majority of participants were anxious about the course of recovery of diabetes or when they were advised to see an ophthalmologist for their eyes.
+
+“Patients know that they should continuously take oral medicine. They understand that diet control is the best method to control blood sugar. Some can’t control blood sugar because they just want to eat. Some, after having good sugar levels, stopped taking medicine on their own. Then, they came back to the hospital with diabetes ketoacidosis. (FGD 2)”
+
+Barriers to DR screening
+
+Barriers to DR screening included a lack of availability of ophthalmologists, long waiting times, financial constraints, transportation problems, the absence of accompanying individuals to attend appointments, and ignorance of DR screening. These challenges were cited by patients as reasons for not going to the hospital. Other reasons included long travel time and forgetting the appointment date.
+
+“Sometimes I went there in the morning and have to wait until the afternoon. (FGD 2)”
+
+“After I just had a laser, both eyes could not see anything. I need people to accompany me [to appointment]. Since I have to come so often [to attend appointments], no one comes with me anymore. (FGD 4)”
+
+Few family members reported that the diabetic patients were able to take care of themselves by complying with the doctor’s suggestions. Few family members reported experiencing financial difficulties since they had to accompany the patients all the time for consultation and for buying medicines. Family members encountered challenges when trying to modify their diets exclusively for diabetic patient.
+
+“My mother is old so I need to take care of her all time. At least one person needs to stay with her. I am afraid of her having an amputation, so I need to take care of her and take more responsibility to take care of her. (FGD 1)”
+
+“A few patients have problems with transportation or a lack of financial support so they decided to follow with their local hospital. (FGD 3)”
+
+Despite screening services for diabetes being covered by insurance scheme, some patients failed to show up for their appointments, according to the HCPs. Some patients only attended the appointments when their diabetic medicines ran out. Additionally, HCPs indicated that patients did not want to spend time on DR screening; patients did not believe it was important, and the patients would inform the HCPs of their diabetes only if it was getting worse. Financial problems and lack of family support to accompany patients to appointments were also suggested as deterrents by HCPs for follow-up appointments for DR screening. Anxiety, depression, and family bereavements also played a part.
+
+“Many patients have the impression that seeing a doctor is a waste of time. If not seriously ill, they will not come at all. They never take care of themselves nor have a health check-up. (FGD 2)”
+
+“There is an old man whose wife just died recently, he does not come to the hospital afterwards and does not take care of himself anymore. It seems like he gives up. His child tries to bring him here but he denies him. (FGD 4)”
+
+Suggestion for DR screening
+
+Most of the patients reported attending follow-up appointments for DR screening if the hospital’s reminder system encouraged or alerted them, or when they received a phone call from the doctors reminding them of their appointment. Patients preferred doctors to answer their questions about diabetes management and improving compliance to DR screening. According to some patients, family members had to remind them when an appointment was due. Patients reported that a confirmation phone call about 2 to 3 days before their appointment date would benefit, which would enable them to reschedule any prior appointments when needed.
+
+“We have a “Line group” (freeware application software to communicate with many patients) for diabetic patients as well, in which we can change our appointment date within 7 days and also consult for the medications. (FGD 5)”
+
+Family members suggested that educating people at the village and community levels by holding large diabetes and diabetic eye camps would improve follow-up for DR. Patients who are unable to travel to the hospital due to distance, financial constraints, or other factors should be screened at a primary care center near their home with the help of non-physician clinicians. Providing reminders via telephone calls, posts, e-mails, or SMS, and an exclusive DR screening clinic would avoid long waiting times and enhance patient compliance to attending DR screening. One caregiver identified social stigma, for example, poorer patients felt ignored by the hospital, and suggested that education should be provided by non-physician clinicians (nurse/nurse aid) to poor and elderly patients.
+
+“I suggest creating activities and meetings to provide knowledge once or twice a year. I would like health care providers from every department to go to the community. The audience can prevent the disease and can tell other people about the knowledge. We need to prevent it before the treatment. Lots of people without any disease are staying outside the hospital and they don’t know about the disease. I would like them to provide knowledge to village and community. In the clinic, there are people to call patients. I told the patients to stick the appointment letter in front of the house. However, I did it and I forgot. (FGD 1)”
+
+“They should separate the diabetic retinopathy clinic from the general eye clinic, so we do not have to wait so long. (FGD 2)”
+
+HCPs felt that there should be a social worker group to take care of patients who are returning home after attending an appointment with the doctor. Patients should be approached with a positive attitude, and sufficient consultation time should be given to them during every visit (at least 30 minutes). HCPs suggested that coordination with sub-district administrative organizations (SAO) and village health volunteers (VHV) to enable a group of patients from the same region to travel to the hospital together would be beneficial. Health-care coverage, such as Universal Health Care (UHC), Civil Servant (and public-sector employee) Medical Benefit Schemes (CSMBS), and the Social Security Scheme (SSS) would aid in improving patient follow-up visits. HCPs suggested that patients who miss appointments must be contacted and followed up after a week if they fail to attend, and then if it continues, community hospital staff should contact and encourage them to attend the appointment.
+
+“There is help from sub-district administration organizations (SAO) and village health volunteers (VHV) to take patients to the hospital. Moreover, we also have a hand-held camera for examining difficult-to-move patients. (FGD 4)”
+
+“We have 70 appointments a day. If any of them don’t come, I call them and then call again one week later. If they finally don’t come, I contact the community hospital to contact patients. Lost follow-up rate is 0.2% because they want to stay in DM clinic. However, hypertension patients lost follow-up rate is 2%. (FGD 5)”
+
+Discussion
+
+A number of barriers were identified by the patients, family members, and HCPs. Patient awareness of the need to have regular health checks was found to be very low. Showing videos on diabetes education or presenting patients with diabetic guidebooks would significantly improve awareness about diabetes and its complications. Some patients reported modifying their lifestyle (e.g., eating a healthy diet, exercising) after the diagnosis of diabetes, whilst others didn’t adopt this approach. There was less evidence of DM self-care and patients appeared to be keener to leave it up to the doctors to manage their diabetes. Some patients reported being in denial about their diabetes and some would not seek appointments even in an emergency. Patients would rather prefer to receive counseling from a doctor on healthy lifestyle modifications. To facilitate patient understanding about diabetes and DR, communication at the patient level and shared decision-making with HCPs should be encouraged.
+
+Similar to the study by Graham-Rowe et al. and Pardhan et al., our study shows a lack of awareness around DR screening, especially if patients believed their diabetes was under control, or if they were not experiencing any symptoms of vision loss. This emphasizes the need to educate patients about the asymptomatic nature of DR. Some patients did not know the difference between DR and glaucoma, highlighting the need for improving DR knowledge.
+
+Involving families in diabetes care is an important factor in improving outcomes of DM self-care. Family members were found to be distressed by their loved ones having diabetes due to their own limited knowledge about diabetes and its control. Changes in patient health have a significant impact on the whole family, and the family members need to know how to best help diabetic patients. Diabetes management interventions need to involve family members and educate them on how to positively influence healthy behaviors in diabetic patients. Flexible appointment systems can facilitate patient attendance to DR follow-up examinations. Diabetes management interventions should target family members so that they are better equipped to support their diabetic loved one.
+
+Limited understanding of vision loss due to DR was also evident among family members. Family members have a major role in improving DR screening uptake, ranging from accompanying patients to the hospital to supporting the cost of travel, treatment, etc. Inadequate support from family members can hinder access to DR screening. The loss to follow-up for DR translates into a lost opportunity to prevent severe retinopathy and eventual blindness. A study by Qiu et al. reported having unpleasant feelings during the conversation as a result of not being able to read nonverbal cues such hand gestures, head nods, eye contact, and facial expressions during face-to-face communication. To more fully understand the challenges experienced in receiving diabetic care, future studies should concentrate on individuals who are blind or have severe vision loss.
+
+Non-physician clinicians (often called clinical officers or surgical technicians), play a vital role as in other developing nations which have a shortage of doctors, and may be critical in managing chronic diseases, but they must be well trained in order to gain patients’ faith in the quality of care they deliver. All non-physician clinicians working in the field of diabetes care in Thailand are trained in relevant programs, and the quality of care is monitored on a regular basis. Our findings suggest that having a counselor speak with each patient and their family members could have a huge impact on motivating patients to attend DR screening. As diabetes is a multi-faceted disease, its management would benefit from input from various specialties, such as community representatives, physicians, technicians, and nurses, who would share knowledge about recent advances in the self-management of diabetes. Such a unit may be vital in disseminating information to patients about diabetes and DR.
+
+Lack of time, long waiting hours, financial problems, and absence of accompaniment were identified as the major deterrents to follow-up for DR screening, agreeing with previous findings. It is vital that policymakers address these deterrents. Increasing health literacy and spending more time with patients would increase the uptake of DR screening. Schemes such as universal health coverage, the social security scheme, and civil servant medical benefit schemes would help to make screening more accessible. The implementation of Thailand’s health policies including the National List of Essential Medicines (NLEM) and Service plan policy covering comprehensive management of DR with a well-established service plan are vital in reducing the burden of blindness due to DR.
+
+This study has highlighted important barriers around knowledge of diabetes and DR, and various barriers that may contribute to the high level of DR in Thailand. Our study has some limitations which do not detract in any way from the important findings. The FGD did not include individuals who were too shy to suggest their opinions, and the majority of the participants were female. Due to the lack of a sampling strategy that guarantees coverage of every region in Thailand, the findings may not be generalizable across the whole country due to potential regional differences in socioeconomic position, healthcare services, and beliefs.
+
+Conclusion
+
+The majority of patients were passive and had great faith in the HCPs. Family participation in DM care can improve health-related behaviors in patients. The involvement of non-physician clinicians working in the field of diabetes has a significant impact on encouraging patients to attend DR screening. Our findings may be useful in designing policies to make DR screening in Thailand more accessible.
+
+Supporting information
+
+References
+
+IDF Diabetes Atlas Committee. Global and regional diabetes prevalence estimates for 2019 and projections for 2030 and 2045: Results from the International Diabetes Federation Diabetes Atlas, 9th edition
+
+Global estimates of the prevalence of diabetes for 2010 and 2030
+
+Prevalence of diabetes and relationship with socioeconomic status in the Thai population: national health examination survey, 2004–2014.
+
+A 4-year prospective study on long-term complications of type 2 diabetic patients: The Thai DMS diabetes complications (DD.
+
+A human-centered evaluation of a deep learning system deployed in clinics for the detection of diabetic retinopathy.
+
+Global estimates on the number of people blind or visually impaired by diabetic retinopathy: a meta-analysis from 1990 to 2010
+
+Assessment and prevalences of diabetic complications in 722 Thai type 2 diabetes patients
+
+The Thai DMS Diabetes Complications (DD.
+
+Retinopathy and macro-albuminuria in type 2 diabetic patients.
+
+Prevalence and associated factors of diabetic retinopathy in Chandrubeksa Hospital, Directorate of Medical services, Royal Thai Air Force.
+
+National trends in the prevalence of diabetic retinopathy among Thai patients with type 2 diabetes and its associated factors from 2014 to 2018
+
+Addressing unmet needs in diabetic retinopathy.
+
+Life Style Intervention Improves Retinopathy Status—The Finnish Diabetes Prevention Study.
+
+Perceived barriers to diabetic eye care: qualitative study of patients and physicians
+
+Identifying Barriers and Enablers to Attending Diabetic Retinopathy Screening in Immigrants to Canada From Ethnocultural Minority Groups: Protocol for a Qualitative Descriptive Study.
+
+Influence of primary care practices on patients’ uptake of diabetic retinopathy screening: a qualitative case study.
+
+Incentives and barriers to retinopathy screening among African-Americans with diabetes
+
+Barriers for adherence to diabetic retinopathy screening among Saudi adults.
+
+A qualitative study on barriers and enablers to uptake of diabetic retinopathy screening by people with diabetes in the Western Province of Sri Lanka
+
+Barriers to and enablers of diabetic retinopathy screening attendance: a systematic review of published and grey literature
+
+Focus-group interview and data analysis
+
+Patient and provider perspectives on barriers to screening for diabetic retinopathy: an exploratory study from southern India
+
+Using the framework method for the analysis of qualitative data in multi-disciplinary health research
+
+Associations between Psychosocial and Physiological Factors and Diabetes Health Indicators in Asian and Pacific Islander Adults with Type 2 Diabetes
+
+Barriers to diabetes awareness and self-help are influenced by people’s demographics: perspectives of South Asians with type 2 diabetes.
+
+Family interventions to improve diabetes outcomes for adults
+
+Spouses’ educational needs and perceptions of health in partners with type 2 diabetes
+
+Attitudes, access and anguish: a qualitative interview study of staff and patients’ experiences of diabetic retinopathy screening
+
+Nonverbal signals for face-to-face communication between the blind and the sighted.
+
+Improving the prevention and management of chronic disease in low-income and middle-income countries: a priority for primary health care
+
+Diabetic Retinopathy: Current Treatment and Thailand Perspective.
+
+10.1371/journal.pone.0289618.r001
+
+Decision Letter 0
+
+Limwattananon
+
+Chulaporn
+
+This is an open access article distributed under the terms of the Creative Commons Attribution License, which permits unrestricted use, distribution, and reproduction in any medium, provided the original author and source are credited.
+
+5 Oct 2022
+
+PONE-D-22-22394Patient, family member, and health care provider perspective on barriers and facilitators to diabetic retinopathy screening in Thailand: A qualitative studyPLOS ONE
+
+Dear Dr. Raman,
+
+Thank you for submitting your manuscript to PLOS ONE. After careful consideration, we feel that it has merit but does not fully meet PLOS ONE’s publication criteria as it currently stands. Therefore, we invite you to submit a revised version of the manuscript that addresses the points raised during the review process.
+
+Please submit your revised manuscript by Nov 19 2022 11:59PM. If you will need more time than this to complete your revisions, please reply to this message or contact the journal office at plosone@plos.org. When you're ready to submit your revision, log on to https://www.editorialmanager.com/pone/ and select the 'Submissions Needing Revision' folder to locate your manuscript file.
+
+A rebuttal letter that responds to each point raised by the academic editor and reviewer(s). You should upload this letter as a separate file labeled 'Response to Reviewers'.
+
+A marked-up copy of your manuscript that highlights changes made to the original version. You should upload this as a separate file labeled 'Revised Manuscript with Track Changes'.
+
+An unmarked version of your revised paper without tracked changes. You should upload this as a separate file labeled 'Manuscript'.
+
+Please include the following items when submitting your revised manuscript:
+
+If you would like to make changes to your financial disclosure, please include your updated statement in your cover letter. Guidelines for resubmitting your figure files are available below the reviewer comments at the end of this letter.
+
+If applicable, we recommend that you deposit your laboratory protocols in protocols.io to enhance the reproducibility of your results. Protocols.io assigns your protocol its own identifier (DOI) so that it can be cited independently in the future. For instructions see: https://journals.plos.org/plosone/s/submission-guidelines#loc-laboratory-protocols. Additionally, PLOS ONE offers an option for publishing peer-reviewed Lab Protocol articles, which describe protocols hosted on protocols.io. Read more information on sharing protocols at https://plos.org/protocols?utm_medium=editorial-email&utm_source=authorletters&utm_campaign=protocols.
+
+We look forward to receiving your revised manuscript.
+
+Kind regards,
+
+Chulaporn Limwattananon, Ph.D.
+
+Academic Editor
+
+PLOS ONE
+
+Journal Requirements:
+
+When submitting your revision, we need you to address these additional requirements.
+
+1. Please ensure that your manuscript meets PLOS ONE's style requirements, including those for file naming. The PLOS ONE style templates can be found at
+
+https://journals.plos.org/plosone/s/file?id=wjVg/PLOSOne_formatting_sample_main_body.pdf and
+
+https://journals.plos.org/plosone/s/file?id=ba62/PLOSOne_formatting_sample_title_authors_affiliations.pdf
+
+2. Please include a complete copy of PLOS’ questionnaire on inclusivity in global research in your revised manuscript. Our policy for research in this area aims to improve transparency in the reporting of research performed outside of researchers’ own country or community. The policy applies to researchers who have travelled to a different country to conduct research, research with Indigenous populations or their lands, and research on cultural artefacts. The questionnaire can also be requested at the journal’s discretion for any other submissions, even if these conditions are not met.  Please find more information on the policy and a link to download a blank copy of the questionnaire here: https://journals.plos.org/plosone/s/best-practices-in-research-reporting. Please upload a completed version of your questionnaire as Supporting Information when you resubmit your manuscript.
+
+3. Thank you for stating the following financial disclosure:
+
+"No"
+
+At this time, please address the following queries:
+
+a) Please clarify the sources of funding (financial or material support) for your study. List the grants or organizations that supported your study, including funding received from your institution.
+
+b) State what role the funders took in the study. If the funders had no role in your study, please state: “The funders had no role in study design, data collection and analysis, decision to publish, or preparation of the manuscript.”
+
+c) If any authors received a salary from any of your funders, please state which authors and which funders.
+
+d) If you did not receive any funding for this study, please state: “The authors received no specific funding for this work.”
+
+Please include your amended statements within your cover letter; we will change the online submission form on your behalf.
+
+4. Thank you for stating the following in the Acknowledgments Section of your manuscript:
+
+"This study was supported by Lions Club International Foundation. SFP2050/UND. The authors thank Dr. Robin Driscoll for administration support."
+
+We note that you have provided funding information that is not currently declared in your Funding Statement. However, funding information should not appear in the Acknowledgments section or other areas of your manuscript. We will only publish funding information present in the Funding Statement section of the online submission form.
+
+Please remove any funding-related text from the manuscript and let us know how you would like to update your Funding Statement. Currently, your Funding Statement reads as follows:
+
+"No"
+
+Please include your amended statements within your cover letter; we will change the online submission form on your behalf.
+
+[Note: HTML markup is below. Please do not edit.]
+
+Reviewers' comments:
+
+Reviewer's Responses to Questions
+
+Comments to the Author
+
+1. Is the manuscript technically sound, and do the data support the conclusions?
+
+The manuscript must describe a technically sound piece of scientific research with data that supports the conclusions. Experiments must have been conducted rigorously, with appropriate controls, replication, and sample sizes. The conclusions must be drawn appropriately based on the data presented.
+
+Reviewer #1: Partly
+
+Reviewer #2: Partly
+
+**********
+
+2. Has the statistical analysis been performed appropriately and rigorously?
+
+Reviewer #1: No
+
+Reviewer #2: N/A
+
+**********
+
+3. Have the authors made all data underlying the findings in their manuscript fully available?
+
+The PLOS Data policy requires authors to make all data underlying the findings described in their manuscript fully available without restriction, with rare exception (please refer to the Data Availability Statement in the manuscript PDF file). The data should be provided as part of the manuscript or its supporting information, or deposited to a public repository. For example, in addition to summary statistics, the data points behind means, medians and variance measures should be available. If there are restrictions on publicly sharing data—e.g. participant privacy or use of data from a third party—those must be specified.
+
+Reviewer #1: No
+
+Reviewer #2: No
+
+**********
+
+4. Is the manuscript presented in an intelligible fashion and written in standard English?
+
+PLOS ONE does not copyedit accepted manuscripts, so the language in submitted articles must be clear, correct, and unambiguous. Any typographical or grammatical errors should be corrected at revision, so please note any specific errors here.
+
+Reviewer #1: Yes
+
+Reviewer #2: No
+
+**********
+
+5. Review Comments to the Author
+
+Please use the space provided to explain your answers to the questions above. You may also include additional comments for the author, including concerns about dual publication, research ethics, or publication ethics. (Please upload your review as an attachment if it exceeds 20,000 characters)
+
+Reviewer #1: 1. Qualitative research required qualify person to be the interviewer or conduct the FGD, please submit CVs of the interviewers to ensure scientific soundness of this articles.
+
+2. Could the authors show the numbers of each participants from each hospital to ensure that the data is not mainly come from one hospital which may not reflect the context of the country?
+
+3. This study exclude patients with no light perception which is the appropriate target group to gain the information about the barrier to access to the health care so the author should discuss this issue in the part of discussion.
+
+4. Please provide the detail of how to sampling the individual key informants because the selection bias might be occurred which can reduce the possibility of generalizability of the study.
+
+Reviewer #2: Dear authors,
+
+Thank you so much for an opportunity to review this manuscript. It is a good study exploring barriers of DR screening as the uptake of the service is apparently low. However, I think the results need to be restructured because the current version does not seem to exhibit barriers and factors influencing compliance to the service. My major and specific comments describe below:
+
+Major comments.
+
+1. The current themes do not represent barriers and facilitators of the DR screening. The current results are predominantly related to awareness/knowledge/behaviors of diabetes/care/DR. However, there is no connection between these findings and the service uptake. This needs to explain more how they affect the service use.
+
+2. There is only one theme ‘Barriers to DR screening’ which is directly related to the objective. While the other themes are likely a background information and situation of patients and care. This is why authors need to restructure the results.
+
+3. Authors currently structure the results by views of different stakeholders. Would it be better to combine the same theme into one and explain it from each perspective? For example: ‘the theme ‘care-seeking practice’ is emerged by all stakeholders, can you combine them into one and expand a little bit more why this impact to the screening uptake.
+
+4. When extracting the data, authors may concern barriers related to service delivery such as human resources, finance, information system, policy, etc. to cover all the barriers comprehensively.
+
+5. Quotations supported for each theme are too many, please be selective. Use only ones that outstanding.
+
+6. I do not quite agree by reporting the percentage of participants by gender or by opinion. This is a qualitative study using FGD. Opinions obtained from FGD are ‘Group’s opinion’, not the opinion of each individual. Although there are some qualitative researchers do that but I think it is not appropriate to show how many percent agree/disagree. Instead, authors should demonstrate all the issues raised by all groups either positive or negative.
+
+7. I must say there are many sentences that are not understandable. I think this manuscript also need an extensive English proof reading.
+
+Specific comments.
+
+Abstract. This need to be revised after the manuscript revision completed.
+
+Introduction.
+
+Line 75: How many diabetic patients have been screened for DR recently? This information should be stated.
+
+Methods:
+
+Line 93-98: Please blind the hospital names and describe them by their characters e.g. hospital type, size, location, etc.
+
+Line 113: As the authors use FGD, the instrument is rather ‘a focus group agenda’, not an interview guide.
+
+Recruitment of health care providers is missed, this should be stated.
+
+Line 116-121: I guess here is a list of questions used in the FGD. These sentences are not completed, some verbs are missed. It might be better to illustrate by table.
+
+Line 146-146: Was the coding text performed? As authors set up some categories prior to analyzing the data, where do these categories come from? Was there any theoretical framework used for data analysis?
+
+Line 151: … thereby setting the stage for 151 theme development … I am not sure what this means?
+
+Line 208-209: Please clarify more how ‘changing hospital’ is related to self-ownership. And How does this link to barriers of the screening.
+
+Line 240-241: ‘ophthalmologists are not responsible for any blindness or complications’ … Is this message a routine practice?
+
+Line 261-263: Barriers for attendance for DR screening …. Do the patients also acknowledge these barriers?
+
+Line 265-266: ‘Doctors-led diabetes management groups to discuss and solve the queries raised by patients were considered an important element in the follow-up of patients’ I am not sure what this means?
+
+Line 269-270: ‘Patients thought a day dedicated to DR screening only would be of benefit.’ I am not sure what this means?
+
+For the theme ‘Care-seeking practice…’ I think the better term to use is ‘behavior’ as I think authors intend to explain behaviour of patients how they seek care.
+
+Discussion
+
+Line 458: Knowing the difference between glaucoma and DR is rather a knowledge, not a health literacy.
+
+The discussion points should also mention issues related to service delivery such as human resources, finance, information systems, or screening policy.
+
+Conclusion need to be revised. The current one does not reflect to the objectives.
+
+**********
+
+6. PLOS authors have the option to publish the peer review history of their article (what does this mean?). If published, this will include your full peer review and any attached files.
+
+If you choose “no”, your identity will remain anonymous but your review may still be made public.
+
+Do you want your identity to be public for this peer review? For information about this choice, including consent withdrawal, please see our Privacy Policy.
+
+Reviewer #1: No
+
+Reviewer #2: No
+
+**********
+
+[NOTE: If reviewer comments were submitted as an attachment file, they will be attached to this email and accessible via the submission site. Please log into your account, locate the manuscript record, and check for the action link "View Attachments". If this link does not appear, there are no attachment files.]
+
+While revising your submission, please upload your figure files to the Preflight Analysis and Conversion Engine (PACE) digital diagnostic tool, https://pacev2.apexcovantage.com/. PACE helps ensure that figures meet PLOS requirements. To use PACE, you must first register as a user. Registration is free. Then, login and navigate to the UPLOAD tab, where you will find detailed instructions on how to use the tool. If you encounter any issues or have any questions when using PACE, please email PLOS at figures@plos.org. Please note that Supporting Information files do not need this step.
+
+10.1371/journal.pone.0289618.r002
+
+Author response to Decision Letter 0
+
+17 Dec 2022
+
+PLOS ONE
+
+Journal Requirements:
+
+When submitting your revision, we need you to address these additional requirements.
+
+1. Please ensure that your manuscript meets PLOS ONE's style requirements, including those for file naming. The PLOS ONE style templates can be found at
+
+https://journals.plos.org/plosone/s/file?id=wjVg/PLOSOne_formatting_sample_main_body.pdf and
+
+https://journals.plos.org/plosone/s/file?id=ba62/PLOSOne_formatting_sample_title_authors_affiliations.pdf
+
+Response: The style and templates have changes as per suggested.
+
+2. Please include a complete copy of PLOS’ questionnaire on inclusivity in global research in your revised manuscript. Our policy for research in this area aims to improve transparency in the reporting of research performed outside of researchers’ own country or community. The policy applies to researchers who have travelled to a different country to conduct research, research with Indigenous populations or their lands, and research on cultural artefacts. The questionnaire can also be requested at the journal’s discretion for any other submissions, even if these conditions are not met. Please find more information on the policy and a link to download a blank copy of the questionnaire here: https://journals.plos.org/plosone/s/best-practices-in-research-reporting. Please upload a completed version of your questionnaire as Supporting Information when you resubmit your manuscript.
+
+Response: Have added the supporting information.
+
+3. Thank you for stating the following financial disclosure:
+
+"No"
+
+At this time, please address the following queries:
+
+a) Please clarify the sources of funding (financial or material support) for your study. List the grants or organizations that supported your study, including funding received from your institution.
+
+b) State what role the funders took in the study. If the funders had no role in your study, please state: “The funders had no role in study design, data collection and analysis, decision to publish, or preparation of the manuscript.”
+
+c) If any authors received a salary from any of your funders, please state which authors and which funders.
+
+d) If you did not receive any funding for this study, please state: “The authors received no specific funding for this work.”
+
+Response: This study was supported by Lions Club International Foundation. SFP2050/UND. The funders had no role in study design, data collection and analysis, decision to publish, or preparation of the manuscript.
+
+Please include your amended statements within your cover letter; we will change the online submission form on your behalf.
+
+Response: Amended statement has been included in the cover letter.
+
+4. Thank you for stating the following in the Acknowledgments Section of your manuscript:
+
+"This study was supported by Lions Club International Foundation. SFP2050/UND. The authors thank Dr. Robin Driscoll for administration support."
+
+We note that you have provided funding information that is not currently declared in your Funding Statement. However, funding information should not appear in the Acknowledgments section or other areas of your manuscript. We will only publish funding information present in the Funding Statement section of the online submission form.
+
+Please remove any funding-related text from the manuscript and let us know how you would like to update your Funding Statement. Currently, your Funding Statement reads as follows:
+
+Response: ‘This study was supported by Lions Club International Foundation. SFP2050/UND. The funders had no role in study design, data collection and analysis, decision to publish, or preparation of the manuscript’.
+
+Please include your amended statements within your cover letter; we will change the online submission form on your behalf.
+
+Response: Amended statement has been now added in the cover letter. Thank you!
+
+[Note: HTML markup is below. Please do not edit.]
+
+Reviewers' comments:
+
+Reviewer's Responses to Questions
+
+Comments to the Author
+
+1. Is the manuscript technically sound, and do the data support the conclusions?
+
+The manuscript must describe a technically sound piece of scientific research with data that supports the conclusions. Experiments must have been conducted rigorously, with appropriate controls, replication, and sample sizes. The conclusions must be drawn appropriately based on the data presented.
+
+Reviewer #1: Partly
+
+Reviewer #2: Partly
+
+Response: Please see our further responses to reviewer’s comments, below.
+
+________________________________________
+
+2. Has the statistical analysis been performed appropriately and rigorously?
+
+Reviewer #1: No
+
+Reviewer #2: N/A
+
+Response: Please see our further responses to reviewer’s comments, below.
+
+________________________________________
+
+3. Have the authors made all data underlying the findings in their manuscript fully available?
+
+The PLOS Data policy requires authors to make all data underlying the findings described in their manuscript fully available without restriction, with rare exception (please refer to the Data Availability Statement in the manuscript PDF file). The data should be provided as part of the manuscript or its supporting information, or deposited to a public repository. For example, in addition to summary statistics, the data points behind means, medians and variance measures should be available. If there are restrictions on publicly sharing data—e.g. participant privacy or use of data from a third party—those must be specified.
+
+Reviewer #1: No
+
+Reviewer #2: No
+
+Response: All the data are provided in the manuscript. Data such as summary statistics, the data points behind means, medians and variance measures are not relevant given the qualitative nature of this study. ________________________________________
+
+4. Is the manuscript presented in an intelligible fashion and written in standard English?
+
+PLOS ONE does not copyedit accepted manuscripts, so the language in submitted articles must be clear, correct, and unambiguous. Any typographical or grammatical errors should be corrected at revision, so please note any specific errors here.
+
+Reviewer #1: Yes
+
+Reviewer #2: No
+
+Response: We have tried our best to improve the language in the revised manuscript.
+
+________________________________________
+
+5. Review Comments to the Author
+
+Please use the space provided to explain your answers to the questions above. You may also include additional comments for the author, including concerns about dual publication, research ethics, or publication ethics. (Please upload your review as an attachment if it exceeds 20,000 characters)
+
+Reviewer #1: 1. Qualitative research required qualify person to be the interviewer or conduct the FGD, please submit CVs of the interviewers to ensure scientific soundness of this articles.
+
+Response: Dr.Shuba Kumar (SK) is a social scientist and founder member of Samarth, an NGO engaged in social science research and training. She is trained in epidemiology and social science, has expertise in research methodology, particularly qualitative research methods and questionnaire validation. SK who is trained in qualitative research conducted a three day training workshop on qualitative research methods which was attended by three of the research team (PC, GK and SV). They observed SK conducting interviews and also carried out mock interviews/FGDs using the study guides. Feedback was provided to them to further improve their techniques following which they commenced doing the FGD. The duration of FGDs varied from 45 to 60 minutes. Under the PC supervision the other authors VN, WP and MT conducted the FGD. The CV of PC has been attached along with his workshop participation certificate.
+
+2. Could the authors show the numbers of each participants from each hospital to ensure that the data is not mainly come from one hospital which may not reflect the context of the country?
+
+Response: Number of participants from each hospital are listed below.
+
+Participants Hospital 1 (Srisangwal Hospital in Mae Hong Sorn province) Hospital 2 (Pakchongnana Hospital in Nakornrajasima province) Hospital 3 (Wiengsra Crown Prince Hospital in Surat Thani province) Hospital 4 (Rajavithi Hospital in Bangkok)
+
+Hospital 5 (Sam Roi Yot Hospital in Prachuap Khiri Khan province)
+
+Patients 9 12 5 11 10
+
+Family members 11 8 6 6 10
+
+Health care providers 6 6 7 7 8
+
+3. This study exclude patients with no light perception which is the appropriate target group to gain the information about the barrier to access to the health care so the author should discuss this issue in the part of discussion.
+
+Response: Thank you. We have discussed this as following in line number 419-423
+
+Although patients with no light perception are the appropriate group to gain information about the barrier, there are obstacles faced by the visually impaired patients due to lack of nonverbal signals such as hand gestures, nods, eye contacts and facial expression in the FGD. A study by Qui et al. reported having unpleasant feelings during the conversation as a result of not being able to read nonverbal cues such hand gestures, nods, eye contact, and facial expressions during face-to-face communication. To completely understand the challenges experienced in receiving diabetic care, future studies must concentrate on individuals who are visually impaired.
+
+4. Please provide the detail of how to sampling the individual key informants because the selection bias might be occurred which can reduce the possibility of generalizability of the study.
+
+Response: The selection of patients was done purposively using maximum variation sampling. We looked at the retinal specialists' appointment schedules with a focus on the obstacles to DR care. We would visit the outpatient department of the particular retinal expert on the day of the appointment as scheduled. We recruited men and women aged 18 years or more with diabetes at least for 5 years or more belonging to different age, education and occupation. Selection of a varied group of participants enabled us to obtain diverse perceptions on the study topic which was to understand, perceptions and awareness about DR, the need for regular eye screening, perceived barriers faced in seeking eye care, in addition to awareness about diabetes and diabetic related complications. Being a qualitative study, generalizations are not possible as the samples are typically small and purposively selected but they enable deeper insights and understanding. This has been now discussed in line number 110-113.
+
+Reviewer #2: Dear authors,
+
+Thank you so much for an opportunity to review this manuscript. It is a good study exploring barriers of DR screening as the uptake of the service is apparently low. However, I think the results need to be restructured because the current version does not seem to exhibit barriers and factors influencing compliance to the service. My major and specific comments describe below:
+
+Major comments.
+
+1. The current themes do not represent barriers and facilitators of the DR screening. The current results are predominantly related to awareness/knowledge/behaviors of diabetes/care/DR. However, there is no connection between these findings and the service uptake. This needs to explain more how they affect the service use.
+
+Response: Thank you for the suggestion. We have now included the following section explaining the connection between our findings and the service uptake in Page number 8-17
+
+2. There is only one theme ‘Barriers to DR screening’ which is directly related to the objective. While the other themes are likely a background information and situation of patients and care. This is why authors need to restructure the results.
+
+Response: We have now reconstructed the result part.
+
+3. Authors currently structure the results by views of different stakeholders. Would it be better to combine the same theme into one and explain it from each perspective? For example: ‘the theme ‘care-seeking practice’ is emerged by all stakeholders, can you combine them into one and expand a little bit more why this impact to the screening uptake.
+
+Response: Thank you for this comment to modify. We have now re-structured the result as following to include your suggestion in page number 10-11.
+
+4. When extracting the data, authors may concern barriers related to service delivery such as human resources, finance, information system, policy, etc. to cover all the barriers comprehensively.
+
+Response: Thank you. These have been now discussed as following in Page number 14-15.
+
+Barriers to DR screening included a lack of availability of ophthalmologists, long waiting times, financial constraints, transportation problems, the absence of accompanying individuals to attend appointment, and ignorance of DR screening. These challenges were cited by patients as reasons for not going to the hospital. Other reasons including long travel time and forgetting the appointment date.
+
+5. Quotations supported for each theme are too many, please be selective. Use only ones that outstanding.
+
+Response: Selective quotes are now added.
+
+6. I do not quite agree by reporting the percentage of participants by gender or by opinion. This is a qualitative study using FGD. Opinions obtained from FGD are ‘Group’s opinion’, not the opinion of each individual. Although there are some qualitative researchers do that but I think it is not appropriate to show how many percent agree/disagree. Instead, authors should demonstrate all the issues raised by all groups either positive or negative.
+
+Response: We agree with your suggestion and we have modified the contents in the result part accordingly.
+
+7. I must say there are many sentences that are not understandable. I think this manuscript also need an extensive English proof reading.
+
+Response: We have tried our best to improve English and simplify the sentences in the revised manuscript.
+
+Specific comments.
+
+Abstract. This need to be revised after the manuscript revision completed.
+
+Response: This has been updated as per the revisions.
+
+Introduction.
+
+Line 75: How many diabetic patients have been screened for DR recently? This information should be stated.
+
+Response: This has been stated in line number 74-75.
+
+Methods:
+
+Line 93-98: Please blind the hospital names and describe them by their characters e.g. hospital type, size, location, etc.
+
+Response: Thank you for the suggestion. We have modified this to address your comment. (line number 97-99)
+
+Line 113: As the authors use FGD, the instrument is rather ‘a focus group agenda’, not an interview guide.
+
+Response: Thank you! We have revised the manuscript as you suggested (line number 115)
+
+Comment: Recruitment of health care providers is missed, this should be stated.
+
+Response: This has been now stated as following in the revised manuscript (line number 116-118)
+
+Line 116-121: I guess here is a list of questions used in the FGD. These sentences are not completed, some verbs are missed. It might be better to illustrate by table.
+
+Response: Have re-framed the lines now. (119-123)
+
+Line 146-146: Was the coding text performed? As authors set up some categories prior to analyzing the data, where do these categories come from? Was there any theoretical framework used for data analysis?
+
+Response: We did use the framework analytical approach which is also termed as thematic analysis or content analysis. Furthermore, our research included young researchers who were not highly experienced in qualitative data analysis. The framework approach which involves a structured and systematic method of organising our data into spreadsheets was something they could understand and undertake. (Line number 143-148)
+
+Line 151: … thereby setting the stage for 151 theme development … I am not sure what this means?
+
+Response: This was a typo. This sentence has been revised as following to add clarity line number (151-153)
+
+Line 208-209: Please clarify more how ‘changing hospital’ is related to self-ownership. And How does this link to barriers of the screening.
+
+Response: Generally when the glucose level is not get controlled patients may have a tendency to visit another hospital for better care. Have rephrased the line. (line number:181-183)
+
+Line 240-241: ‘ophthalmologists are not responsible for any blindness or complications’ … Is this message a routine practice?
+
+Response: It is not used in a routine practice, but the message focuses on the risks that were raised, such as the type and effects of the treatment, the results of the surgery, or the patient concerns around the disease prognosis. The line has rephrased now in the line number 252-257.
+
+Line 261-263: Barriers for attendance for DR screening …. Do the patients also acknowledge these barriers?
+
+Response: Yes, these were the barriers reported by the patient during the FGD (line number:302-306)
+
+Line 265-266: ‘Doctors-led diabetes management groups to discuss and solve the queries raised by patients were considered an important element in the follow-up of patients’ I am not sure what this means?
+
+Response: This sentence has been revised as following in line number 338-339
+
+‘People preferred a discussion group with doctors to address their concerns and questions about managing their diabetes and encourage compliance.’
+
+Line 269-270: ‘Patients thought a day dedicated to DR screening only would be of benefit.’ I am not sure what this means?
+
+Response: This sentence has been revised as following to add clarity in line 341-342
+
+For the theme ‘Care-seeking practice…’ I think the better term to use is ‘behavior’ as I think authors intend to explain behaviour of patients how they seek care.
+
+Response: Thank you! We have renamed the theme as per your suggestion (Page number 10)
+
+Discussion
+
+Line 458: Knowing the difference between glaucoma and DR is rather a knowledge, not a health literacy.
+
+Response: Thank you! We have revised this as per your suggestion (line number 402-403)
+
+The discussion points should also mention issues related to service delivery such as human resources, finance, information systems, or screening policy.
+
+Response: These points have been now discussed in line number 436-438 in the revised manuscript.
+
+Conclusion need to be revised. The current one does not reflect to the objectives.
+
+Response: We have revised the conclusion as following to reflect to the objectives. Line number 453-457.
+
+‘The majority of patients were passive and had great faith in the HCPs. Family participation in DM care can improve health-related behaviors in patients. The involvement of non-physician providers working in the field of diabetes has a significant impact in encouraging patients to attend DR screening. Our findings may be useful in designing policies to make DR screening in Thailand more accessible’
+
+________________________________________
+
+6. PLOS authors have the option to publish the peer review history of their article (what does this mean?). If published, this will include your full peer review and any attached files.
+
+If you choose “no”, your identity will remain anonymous but your review may still be made public.
+
+Do you want your identity to be public for this peer review? For information about this choice, including consent withdrawal, please see our Privacy Policy.
+
+Reviewer #1: No
+
+Reviewer #2: No
+
+10.1371/journal.pone.0289618.r003
+
+Decision Letter 1
+
+Raghuveer
+
+Pracheth
+
+This is an open access article distributed under the terms of the Creative Commons Attribution License, which permits unrestricted use, distribution, and reproduction in any medium, provided the original author and source are credited.
+
+24 Mar 2023
+
+PONE-D-22-22394R1Patient, Family Member, and Health Care Provider Perspective on Barriers and Facilitators to Diabetic Retinopathy Screening in Thailand: A Qualitative StudyPLOS ONE
+
+Dear Dr.,
+
+Thank you for submitting your manuscript to PLOS ONE. After careful consideration, we feel that it has merit but does not fully meet PLOS ONE’s publication criteria as it currently stands. Therefore, we invite you to submit a revised version of the manuscript that addresses the points raised during the review process.
+
+Please submit your revised manuscript by 03 April, 2023. If you will need more time than this to complete your revisions, please reply to this message or contact the journal office at plosone@plos.org. When you're ready to submit your revision, log on to https://www.editorialmanager.com/pone/ and select the 'Submissions Needing Revision' folder to locate your manuscript file.
+
+A rebuttal letter that responds to each point raised by the academic editor and reviewer(s). You should upload this letter as a separate file labeled 'Response to Reviewers'.
+
+A marked-up copy of your manuscript that highlights changes made to the original version. You should upload this as a separate file labeled 'Revised Manuscript with Track Changes'.
+
+An unmarked version of your revised paper without tracked changes. You should upload this as a separate file labeled 'Manuscript'.
+
+Please include the following items when submitting your revised manuscript:If you would like to make changes to your financial disclosure, please include your updated statement in your cover letter. Guidelines for resubmitting your figure files are available below the reviewer comments at the end of this letter.
+
+If applicable, we recommend that you deposit your laboratory protocols in protocols.io to enhance the reproducibility of your results. Protocols.io assigns your protocol its own identifier (DOI) so that it can be cited independently in the future. For instructions see: https://journals.plos.org/plosone/s/submission-guidelines#loc-laboratory-protocols. Additionally, PLOS ONE offers an option for publishing peer-reviewed Lab Protocol articles, which describe protocols hosted on protocols.io. Read more information on sharing protocols at https://plos.org/protocols?utm_medium=editorial-email&utm_source=authorletters&utm_campaign=protocols.
+
+We look forward to receiving your revised manuscript.
+
+Kind regards,
+
+Pracheth Raghuveer, MD, DNB
+
+Academic Editor
+
+PLOS ONE
+
+Journal Requirements:
+
+Please review your reference list to ensure that it is complete and correct. If you have cited papers that have been retracted, please include the rationale for doing so in the manuscript text, or remove these references and replace them with relevant current references. Any changes to the reference list should be mentioned in the rebuttal letter that accompanies your revised manuscript. If you need to cite a retracted article, indicate the article’s retracted status in the References list and also include a citation and full reference for the retraction notice.
+
+[Note: HTML markup is below. Please do not edit.]
+
+Reviewers' comments:
+
+Reviewer's Responses to Questions
+
+Comments to the Author
+
+1. If the authors have adequately addressed your comments raised in a previous round of review and you feel that this manuscript is now acceptable for publication, you may indicate that here to bypass the “Comments to the Author” section, enter your conflict of interest statement in the “Confidential to Editor” section, and submit your "Accept" recommendation.
+
+Reviewer #1: All comments have been addressed
+
+Reviewer #2: All comments have been addressed
+
+**********
+
+2. Is the manuscript technically sound, and do the data support the conclusions?
+
+The manuscript must describe a technically sound piece of scientific research with data that supports the conclusions. Experiments must have been conducted rigorously, with appropriate controls, replication, and sample sizes. The conclusions must be drawn appropriately based on the data presented.
+
+Reviewer #1: Yes
+
+Reviewer #2: Partly
+
+**********
+
+3. Has the statistical analysis been performed appropriately and rigorously?
+
+Reviewer #1: N/A
+
+Reviewer #2: N/A
+
+**********
+
+4. Have the authors made all data underlying the findings in their manuscript fully available?
+
+The PLOS Data policy requires authors to make all data underlying the findings described in their manuscript fully available without restriction, with rare exception (please refer to the Data Availability Statement in the manuscript PDF file). The data should be provided as part of the manuscript or its supporting information, or deposited to a public repository. For example, in addition to summary statistics, the data points behind means, medians and variance measures should be available. If there are restrictions on publicly sharing data—e.g. participant privacy or use of data from a third party—those must be specified.
+
+Reviewer #1: Yes
+
+Reviewer #2: No
+
+**********
+
+5. Is the manuscript presented in an intelligible fashion and written in standard English?
+
+PLOS ONE does not copyedit accepted manuscripts, so the language in submitted articles must be clear, correct, and unambiguous. Any typographical or grammatical errors should be corrected at revision, so please note any specific errors here.
+
+Reviewer #1: Yes
+
+Reviewer #2: No
+
+**********
+
+6. Review Comments to the Author
+
+Please use the space provided to explain your answers to the questions above. You may also include additional comments for the author, including concerns about dual publication, research ethics, or publication ethics. (Please upload your review as an attachment if it exceeds 20,000 characters)
+
+Reviewer #1: (No Response)
+
+Reviewer #2: Dear authors
+
+Thank you for the revised manuscript which has been improved significantly. However, I still have two points which I think it may not be the case:
+
+1. Discussion and conclusion about a need of non-physician clinician involvement, as I do not see this finding mentioned in the result section yet. So, this point of discussion and conclusion is not aligned to the findings. Please check and revise.
+
+2. The point regarding equity of health insurance scheme (line 372-375, 440-441) since the authors have stated in line 323 “Despite screening service for diabetes being free...” which I think the DR screening is included in the routine service for diabetic patients and covered all insurance scheme. Is this correct? If so, then this point may not be the case. Please check and revise.
+
+Abstract
+
+Line 51-52: is this matched to the findings described in maintext?
+
+Line 55-59: Same as point 1 & 2 above.
+
+Grammatic errors and other little things
+
+Line 319: … did not adopted …
+
+Line 345: … that that they could ….
+
+Line 346: … We have a Line group …. An explanation in brackets of “Line” is needed e.g. a chat application popularly used in Thailand or something like this.
+
+Kind regards
+
+**********
+
+7. PLOS authors have the option to publish the peer review history of their article (what does this mean?). If published, this will include your full peer review and any attached files.
+
+If you choose “no”, your identity will remain anonymous but your review may still be made public.
+
+Do you want your identity to be public for this peer review? For information about this choice, including consent withdrawal, please see our Privacy Policy.
+
+Reviewer #1: No
+
+Reviewer #2: No
+
+**********
+
+[NOTE: If reviewer comments were submitted as an attachment file, they will be attached to this email and accessible via the submission site. Please log into your account, locate the manuscript record, and check for the action link "View Attachments". If this link does not appear, there are no attachment files.]
+
+While revising your submission, please upload your figure files to the Preflight Analysis and Conversion Engine (PACE) digital diagnostic tool, https://pacev2.apexcovantage.com/. PACE helps ensure that figures meet PLOS requirements. To use PACE, you must first register as a user. Registration is free. Then, login and navigate to the UPLOAD tab, where you will find detailed instructions on how to use the tool. If you encounter any issues or have any questions when using PACE, please email PLOS at figures@plos.org. Please note that Supporting Information files do not need this step.
+
+10.1371/journal.pone.0289618.r004
+
+Author response to Decision Letter 1
+
+31 Mar 2023
+
+Journal Requirements:
+
+Please review your reference list to ensure that it is complete and correct. If you have cited papers that have been retracted, please include the rationale for doing so in the manuscript text, or remove these references and replace them with relevant current references. Any changes to the reference list should be mentioned in the rebuttal letter that accompanies your revised manuscript. If you need to cite a retracted article, indicate the article’s retracted status in the References list and also include a citation and full reference for the retraction notice.
+
+Response: We have reviewed the reference list as per suggested.
+
+[Note: HTML markup is below. Please do not edit.]
+
+Reviewers' comments:
+
+Reviewer's Responses to Questions
+
+Comments to the Author
+
+1. If the authors have adequately addressed your comments raised in a previous round of review and you feel that this manuscript is now acceptable for publication, you may indicate that here to bypass the “Comments to the Author” section, enter your conflict of interest statement in the “Confidential to Editor” section, and submit your "Accept" recommendation.
+
+Reviewer #1: All comments have been addressed
+
+Reviewer #2: All comments have been addressed
+
+Response: Thank you for your review and insightful comments. We found them very useful in improving our manuscript.
+
+________________________________________
+
+2. Is the manuscript technically sound, and do the data support the conclusions?
+
+The manuscript must describe a technically sound piece of scientific research with data that supports the conclusions. Experiments must have been conducted rigorously, with appropriate controls, replication, and sample sizes. The conclusions must be drawn appropriately based on the data presented.
+
+Reviewer #1: Yes
+
+Reviewer #2: Partly
+
+Response: We have further revised the manuscript to make it technically sound better, wherein data directly support the conclusion. Please see our ‘further responses to reviewer’s comments’, below.
+
+________________________________________
+
+3. Has the statistical analysis been performed appropriately and rigorously?
+
+Reviewer #1: N/A
+
+Reviewer #2: N/A
+
+Response: Thank you.
+
+________________________________________
+
+4. Have the authors made all data underlying the findings in their manuscript fully available?
+
+The PLOS Data policy requires authors to make all data underlying the findings described in their manuscript fully available without restriction, with rare exception (please refer to the Data Availability Statement in the manuscript PDF file). The data should be provided as part of the manuscript or its supporting information, or deposited to a public repository. For example, in addition to summary statistics, the data points behind means, medians and variance measures should be available. If there are restrictions on publicly sharing data—e.g. participant privacy or use of data from a third party—those must be specified.
+
+Reviewer #1: Yes
+
+Reviewer #2: No
+
+Response: All the data are provided in the results and the supplementary materials. The findings will be also deposited in Anglia Ruskin Research Online (ARRO). We have tried our best to cover all the findings in the revised manuscript.
+
+________________________________________
+
+5. Is the manuscript presented in an intelligible fashion and written in standard English?
+
+PLOS ONE does not copyedit accepted manuscripts, so the language in submitted articles must be clear, correct, and unambiguous. Any typographical or grammatical errors should be corrected at revision, so please note any specific errors here.
+
+Reviewer #1: Yes
+
+Reviewer #2: No
+
+Response: We have fixed the typos and tried our best to improve the language in the revised manuscript.
+
+________________________________________
+
+6. Review Comments to the Author
+
+Please use the space provided to explain your answers to the questions above. You may also include additional comments for the author, including concerns about dual publication, research ethics, or publication ethics. (Please upload your review as an attachment if it exceeds 20,000 characters)
+
+Reviewer #1: (No Response)
+
+Reviewer #2: Dear authors
+
+Thank you for the revised manuscript which has been improved significantly. However, I still have two points which I think it may not be the case:
+
+1. Discussion and conclusion about a need of non-physician clinician involvement, as I do not see this finding mentioned in the result section yet. So, this point of discussion and conclusion is not aligned to the findings. Please check and revise.
+
+Response: Thank you for highlighting this important point. Apologies for the missing point, we have included non-physician clinician involvement throughout the ‘Results’ section.
+
+‘Family members and, non-physician clinicians (such as diabetes nurses, diabetes educators, physician assistants) who work in the field of diabetes play a vital role in encouraging patients to attend diabetes and DR follow-ups visits regularly (Abstract, page 3).
+
+‘Therefore physician and, non-physician clinicians felt that patients should be given a guidebook, posters, books, videos, or brochures with the necessary information reminding them about the possible complications of uncontrolled diabetes in eyes, feet, etc. (Page 11, last paragraph).
+
+‘Patients who are unable to travel to the hospital due to distance, financial constraints, or other factors should be screened at a primary care center near their home with the help of non-physician clinicians.’ (Page 16, last paragraph).
+
+‘One caregiver identified social stigma, for example, poorer patients felt ignored by the hospital, and suggested that education should be provided by non-physician clinicians (nurse/nurse aid) to poor and elderly patients.’(Page 16, last paragraph)
+
+‘The involvement of non-physician clinicians working in the field of diabetes has a significant impact on encouraging patients to attend DR screening (Page 20, Conclusion section).
+
+2. The point regarding equity of health insurance scheme (line 372-375, 440-441) since the authors have stated in line 323 “Despite screening service for diabetes being free...” which I think the DR screening is included in the routine service for diabetic patients and covered all insurance scheme. Is this correct? If so, then this point may not be the case. Please check and revise.
+
+Response:. Thank you. The point have been re-phrased as “Despite screening service for diabetes being covered by insurance scheme” in the revised manuscript. (Page number 15, line number 320)
+
+Abstract
+
+Line 51-52: is this matched to the findings described in maintext?
+
+Response: Thank you we have added the relevant text now (Line number 51-52)
+
+Line 55-59: Same as point 1 & 2 above.
+
+Response: We have re-phrased the line now (Line number 55-57)
+
+Grammatic errors and other little things
+
+Line 319: … did not adopted …
+
+Response: Thank you! This was a typo and has been now corrected. (Line number 390)
+
+Line 345: … that that they could ….
+
+Response: Thank you! This was a typo and has been now corrected. (Line number 342)
+
+Line 346: … We have a Line group …. An explanation in brackets of “Line” is needed e.g. a chat application popularly used in Thailand or something like this.
+
+Kind regards
+
+Response: Line group is a freeware application in iOS, android and window software. Instant communication by text, photographs, and voice can be created. The line group comprising many people can be used to communicate in a group. Only invitees can enter to line group. This has been mentioned in the revised manuscript in Page 16, line number 344-345.
+
+‘“We have a “Line group” (freeware application software to communicate with many patients) for diabetic patients as well, in which we can change our appointment date within 7 days and also consult for the medications. (FGD 5)”
+
+________________________________________
+
+7. PLOS authors have the option to publish the peer review history of their article (what does this mean?). If published, this will include your full peer review and any attached files.
+
+If you choose “no”, your identity will remain anonymous but your review may still be made public.
+
+Do you want your identity to be public for this peer review? For information about this choice, including consent withdrawal, please see our Privacy Policy.
+
+Reviewer #1: No
+
+Reviewer #2: No
+
+Response: Thank you.
+
+________________________________________
+
+[NOTE: If reviewer comments were submitted as an attachment file, they will be attached to this email and accessible via the submission site. Please log into your account, locate the manuscript record, and check for the action link "View Attachments". If this link does not appear, there are no attachment files.]
+
+While revising your submission, please upload your figure files to the Preflight Analysis and Conversion Engine (PACE) digital diagnostic tool, https://pacev2.apexcovantage.com/. PACE helps ensure that figures meet PLOS requirements. To use PACE, you must first register as a user. Registration is free. Then, login and navigate to the UPLOAD tab, where you will find detailed instructions on how to use the tool. If you encounter any issues or have any questions when using PACE, please email PLOS at figures@plos.org. Please note that Supporting Information files do not need this step.
+
+10.1371/journal.pone.0289618.r005
+
+Decision Letter 2
+
+Raghuveer
+
+Pracheth
+
+This is an open access article distributed under the terms of the Creative Commons Attribution License, which permits unrestricted use, distribution, and reproduction in any medium, provided the original author and source are credited.
+
+5 Jun 2023
+
+PONE-D-22-22394R2Patient, Family Member, and Health Care Provider Perspective on Barriers and Facilitators to Diabetic Retinopathy Screening in Thailand: A Qualitative StudyPLOS ONE
+
+Dear Dr. Rajiv Raman
+
+Thank you for submitting your manuscript to PLOS ONE. After careful consideration, we feel that it has merit but does not fully meet PLOS ONE’s publication criteria as it currently stands. Therefore, we invite you to submit a revised version of the manuscript that addresses the points raised during the review process.
+
+Please submit your revised manuscript by Jul 20 2023 11:59PM. If you will need more time than this to complete your revisions, please reply to this message or contact the journal office at plosone@plos.org. When you're ready to submit your revision, log on to https://www.editorialmanager.com/pone/ and select the 'Submissions Needing Revision' folder to locate your manuscript file.
+
+A rebuttal letter that responds to each point raised by the academic editor and reviewer(s). You should upload this letter as a separate file labeled 'Response to Reviewers'.
+
+A marked-up copy of your manuscript that highlights changes made to the original version. You should upload this as a separate file labeled 'Revised Manuscript with Track Changes'.
+
+An unmarked version of your revised paper without tracked changes. You should upload this as a separate file labeled 'Manuscript'.
+
+Please include the following items when submitting your revised manuscript:If you would like to make changes to your financial disclosure, please include your updated statement in your cover letter. Guidelines for resubmitting your figure files are available below the reviewer comments at the end of this letter.
+
+If applicable, we recommend that you deposit your laboratory protocols in protocols.io to enhance the reproducibility of your results. Protocols.io assigns your protocol its own identifier (DOI) so that it can be cited independently in the future. For instructions see: https://journals.plos.org/plosone/s/submission-guidelines#loc-laboratory-protocols. Additionally, PLOS ONE offers an option for publishing peer-reviewed Lab Protocol articles, which describe protocols hosted on protocols.io. Read more information on sharing protocols at https://plos.org/protocols?utm_medium=editorial-email&utm_source=authorletters&utm_campaign=protocols.
+
+We look forward to receiving your revised manuscript.
+
+Kind regards,
+
+Pracheth Raghuveer, MD, DNB
+
+Academic Editor
+
+PLOS ONE
+
+Journal Requirements:
+
+Please review your reference list to ensure that it is complete and correct. If you have cited papers that have been retracted, please include the rationale for doing so in the manuscript text, or remove these references and replace them with relevant current references. Any changes to the reference list should be mentioned in the rebuttal letter that accompanies your revised manuscript. If you need to cite a retracted article, indicate the article’s retracted status in the References list and also include a citation and full reference for the retraction notice.
+
+[Note: HTML markup is below. Please do not edit.]
+
+Reviewers' comments:
+
+Reviewer's Responses to Questions
+
+Comments to the Author
+
+1. If the authors have adequately addressed your comments raised in a previous round of review and you feel that this manuscript is now acceptable for publication, you may indicate that here to bypass the “Comments to the Author” section, enter your conflict of interest statement in the “Confidential to Editor” section, and submit your "Accept" recommendation.
+
+Reviewer #1: All comments have been addressed
+
+**********
+
+2. Is the manuscript technically sound, and do the data support the conclusions?
+
+The manuscript must describe a technically sound piece of scientific research with data that supports the conclusions. Experiments must have been conducted rigorously, with appropriate controls, replication, and sample sizes. The conclusions must be drawn appropriately based on the data presented.
+
+Reviewer #1: Yes
+
+**********
+
+3. Has the statistical analysis been performed appropriately and rigorously?
+
+Reviewer #1: Yes
+
+**********
+
+4. Have the authors made all data underlying the findings in their manuscript fully available?
+
+The PLOS Data policy requires authors to make all data underlying the findings described in their manuscript fully available without restriction, with rare exception (please refer to the Data Availability Statement in the manuscript PDF file). The data should be provided as part of the manuscript or its supporting information, or deposited to a public repository. For example, in addition to summary statistics, the data points behind means, medians and variance measures should be available. If there are restrictions on publicly sharing data—e.g. participant privacy or use of data from a third party—those must be specified.
+
+Reviewer #1: Yes
+
+**********
+
+5. Is the manuscript presented in an intelligible fashion and written in standard English?
+
+PLOS ONE does not copyedit accepted manuscripts, so the language in submitted articles must be clear, correct, and unambiguous. Any typographical or grammatical errors should be corrected at revision, so please note any specific errors here.
+
+Reviewer #1: Yes
+
+**********
+
+6. Review Comments to the Author
+
+Please use the space provided to explain your answers to the questions above. You may also include additional comments for the author, including concerns about dual publication, research ethics, or publication ethics. (Please upload your review as an attachment if it exceeds 20,000 characters)
+
+Reviewer #1: please rephrase the sentence in the limitation of the study p20 line 448; because the reason of limited generalizability is no sampling method for choosing the areas of interest to cover all areas in the country which might have different context in healthcare service, believe and socioeconomic status.
+
+**********
+
+7. PLOS authors have the option to publish the peer review history of their article (what does this mean?). If published, this will include your full peer review and any attached files.
+
+If you choose “no”, your identity will remain anonymous but your review may still be made public.
+
+Do you want your identity to be public for this peer review? For information about this choice, including consent withdrawal, please see our Privacy Policy.
+
+Reviewer #1: No
+
+**********
+
+[NOTE: If reviewer comments were submitted as an attachment file, they will be attached to this email and accessible via the submission site. Please log into your account, locate the manuscript record, and check for the action link "View Attachments". If this link does not appear, there are no attachment files.]
+
+While revising your submission, please upload your figure files to the Preflight Analysis and Conversion Engine (PACE) digital diagnostic tool, https://pacev2.apexcovantage.com/. PACE helps ensure that figures meet PLOS requirements. To use PACE, you must first register as a user. Registration is free. Then, login and navigate to the UPLOAD tab, where you will find detailed instructions on how to use the tool. If you encounter any issues or have any questions when using PACE, please email PLOS at figures@plos.org. Please note that Supporting Information files do not need this step.
+
+10.1371/journal.pone.0289618.r006
+
+Author response to Decision Letter 2
+
+9 Jun 2023
+
+Journal Requirements:
+
+Please review your reference list to ensure that it is complete and correct. If you have cited papers that have been retracted, please include the rationale for doing so in the manuscript text, or remove these references and replace them with relevant current references. Any changes to the reference list should be mentioned in the rebuttal letter that accompanies your revised manuscript. If you need to cite a retracted article, indicate the article’s retracted status in the References list and also include a citation and full reference for the retraction notice.
+
+[Note: HTML markup is below. Please do not edit.]
+
+Response: We confirm this.
+
+Reviewers' comments:
+
+Reviewer's Responses to Questions
+
+Comments to the Author
+
+1. If the authors have adequately addressed your comments raised in a previous round of review and you feel that this manuscript is now acceptable for publication, you may indicate that here to bypass the “Comments to the Author” section, enter your conflict of interest statement in the “Confidential to Editor” section, and submit your "Accept" recommendation.
+
+Reviewer #1: All comments have been addressed
+
+Response: Thank you
+
+________________________________________
+
+2. Is the manuscript technically sound, and do the data support the conclusions?
+
+The manuscript must describe a technically sound piece of scientific research with data that supports the conclusions. Experiments must have been conducted rigorously, with appropriate controls, replication, and sample sizes. The conclusions must be drawn appropriately based on the data presented.
+
+Reviewer #1: Yes
+
+Response: Thank you
+
+________________________________________
+
+3. Has the statistical analysis been performed appropriately and rigorously?
+
+Reviewer #1: Yes
+
+Response: Thank you.
+
+________________________________________
+
+4. Have the authors made all data underlying the findings in their manuscript fully available?
+
+The PLOS Data policy requires authors to make all data underlying the findings described in their manuscript fully available without restriction, with rare exception (please refer to the Data Availability Statement in the manuscript PDF file). The data should be provided as part of the manuscript or its supporting information, or deposited to a public repository. For example, in addition to summary statistics, the data points behind means, medians and variance measures should be available. If there are restrictions on publicly sharing data—e.g. participant privacy or use of data from a third party—those must be specified.
+
+Reviewer #1: Yes
+
+Response: Thank you
+
+________________________________________
+
+5. Is the manuscript presented in an intelligible fashion and written in standard English?
+
+PLOS ONE does not copyedit accepted manuscripts, so the language in submitted articles must be clear, correct, and unambiguous. Any typographical or grammatical errors should be corrected at revision, so please note any specific errors here.
+
+Reviewer #1: Yes
+
+Response: Thank you
+
+________________________________________
+
+6. Review Comments to the Author
+
+Please use the space provided to explain your answers to the questions above. You may also include additional comments for the author, including concerns about dual publication, research ethics, or publication ethics. (Please upload your review as an attachment if it exceeds 20,000 characters)
+
+Reviewer #1: please rephrase the sentence in the limitation of the study p20 line 448; because the reason of limited generalizability is no sampling method for choosing the areas of interest to cover all areas in the country which might have different context in healthcare service, believe and socioeconomic status.
+
+Response: Thank you for the suggestions. We have re-phrased the sentence (P20 line 448) in the revised manuscript as following.
+
+‘Due to the lack of a sampling strategy that guarantees coverage of every region in Thailand, the findings may not be generalizable across the whole country due to potential regional differences in socioeconomic position, healthcare services, and beliefs.
+
+________________________________________
+
+7. PLOS authors have the option to publish the peer review history of their article (what does this mean?). If published, this will include your full peer review and any attached files.
+
+If you choose “no”, your identity will remain anonymous but your review may still be made public.
+
+Do you want your identity to be public for this peer review? For information about this choice, including consent withdrawal, please see our Privacy Policy.
+
+Reviewer #1: No
+
+10.1371/journal.pone.0289618.r007
+
+Decision Letter 3
+
+Raghuveer
+
+Pracheth
+
+This is an open access article distributed under the terms of the Creative Commons Attribution License, which permits unrestricted use, distribution, and reproduction in any medium, provided the original author and source are credited.
+
+24 Jul 2023
+
+Patient, Family Member, and Health Care Provider Perspective on Barriers and Facilitators to Diabetic Retinopathy Screening in Thailand: A Qualitative Study
+
+PONE-D-22-22394R3
+
+Dear Dr. Rajiv Raman,
+
+We’re pleased to inform you that your manuscript has been judged scientifically suitable for publication and will be formally accepted for publication once it meets all outstanding technical requirements.
+
+Within one week, you’ll receive an e-mail detailing the required amendments. When these have been addressed, you’ll receive a formal acceptance letter and your manuscript will be scheduled for publication.
+
+An invoice for payment will follow shortly after the formal acceptance. To ensure an efficient process, please log into Editorial Manager at http://www.editorialmanager.com/pone/, click the 'Update My Information' link at the top of the page, and double check that your user information is up-to-date. If you have any billing related questions, please contact our Author Billing department directly at authorbilling@plos.org.
+
+If your institution or institutions have a press office, please notify them about your upcoming paper to help maximize its impact. If they’ll be preparing press materials, please inform our press team as soon as possible -- no later than 48 hours after receiving the formal acceptance. Your manuscript will remain under strict press embargo until 2 pm Eastern Time on the date of publication. For more information, please contact onepress@plos.org.
+
+Kind regards,
+
+Pracheth Raghuveer, MD, DNB
+
+Academic Editor
+
+PLOS ONE
+
+Additional Editor Comments (optional):
+
+Reviewers' comments:
+
+10.1371/journal.pone.0289618.r008
+
+Acceptance letter
+
+Raghuveer
+
+Pracheth
+
+This is an open access article distributed under the terms of the Creative Commons Attribution License, which permits unrestricted use, distribution, and reproduction in any medium, provided the original author and source are credited.
+
+26 Jul 2023
+
+PONE-D-22-22394R3
+
+Patient, Family Member, and Health Care Provider Perspective on Barriers and Facilitators to Diabetic Retinopathy Screening in Thailand: A Qualitative Study
+
+Dear Dr. Raman:
+
+I'm pleased to inform you that your manuscript has been deemed suitable for publication in PLOS ONE. Congratulations! Your manuscript is now with our production department.
+
+If your institution or institutions have a press office, please let them know about your upcoming paper now to help maximize its impact. If they'll be preparing press materials, please inform our press team within the next 48 hours. Your manuscript will remain under strict press embargo until 2 pm Eastern Time on the date of publication. For more information please contact onepress@plos.org.
+
+If we can help with anything else, please email us at plosone@plos.org.
+
+Thank you for submitting your work to PLOS ONE and supporting open access.
+
+Kind regards,
+
+PLOS ONE Editorial Office Staff
+
+on behalf of
+
+Dr. Pracheth Raghuveer
+
+Academic Editor
+
+PLOS ONE
+

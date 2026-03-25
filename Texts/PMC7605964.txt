@@ -1,0 +1,262 @@
+TITLE: Medication Non-Adherence and Associated Factors Among Diabetic Patients Visiting General Hospitals in the Eastern Zone of Tigrai, Northern Ethiopia
+
+Introduction
+
+Medication non-adherence is a major public health problem among diabetes mellitus patients. However, there is a lack of data regarding its magnitude and the factors contributing to Ethiopia’s non-adherence, especially in the Tigrai region. This study was conducted to assess the magnitude of non-adherence and its contributing factors among diabetes mellitus patients in the Eastern Zone of Tigrai, Northern Ethiopia.
+
+Materials and Methods
+
+A hospital-based cross-sectional study was conducted at Adigrat and Wukro General Hospitals using a pre-tested, self-administered, semi-structured questionnaire developed from the relevant literature and a checklist developed to review patient medical cards for the period of the 15th of March to the 15th of July, 2019. Data were analyzed using Statistical Package for Social Sciences version 20. Association between the dependent and the independent variable was performed using logistic regression and a p-value of <0.05 was considered significant.
+
+Results
+
+From a total of 321 study participants, 63.9% of the patients were non-adherent to their medications. Two-month dose issued on each visit (AOR = 2.865, 95% CI 1.380–5.949), dose issued for more than three months (AOR = 4.314, 95% CI 1.526–12.195), monthly income below 500 birr (AOR = 5.048, 95% CI 2.094–12.168), monthly income between 500 and 2000 birr (AOR = 2.593, 95% CI 1.032–6.517), distance greater than 24 kilometers from hospital to home (AOR = 10.091, 95% CI 3.509–29.020), more than four prescribed medications per visit (AOR=7.192, 95% CI= 2.171–23.824), never receiving counseling (AOR=22.334, 95% CI= 9.270–53.810), and diabetes-related admission (AOR=0.248, 95% CI= 0.078–0.789) were significantly associated with patients’ non-adherence to diabetes mellitus medications.
+
+Conclusion
+
+The level of diabetic medication adherence was suboptimal, and our study highlights that better monthly earning, nearby health-care accessibility, fewer prescribed medication, and getting appropriate counseling about diabetes mellitus were predictive of adherence to medications. Hence, an urgent intervention targeting the development of guidelines that involve these determinates should be employed to improve health care.
+
+Introduction
+
+Diabetes mellitus (DM) is a metabolic disorder characterized by hyperglycemia or elevated blood glucose level, which occurs due to defective insulin secretion, insulin activity, or both. DM requires life-long treatment to avert or delay long term and serious complications. It is associated with a potential loss of vision (retinopathy), possible renal failure (nephropathy), peripheral neuropathy that results in hazard of foot ulceration and amputations, as well as autonomic neuropathy that brings in the possibility of gastrointestinal, genitourinary, and cardiovascular symptoms along with sexual dysfunction.
+
+Historically, diabetes has been considered as a disease that mainly affects developed countries and wealthy people. However, recently, it has been recognized as a global public health challenge, particularly in developing countries. Ethiopia, as a developing country, has increasingly experienced the global burden of the DM epidemic due to the growth of the aging population, consumption of unhealthy diets (western-style diet), urbanization, obesity, and poor education and sedentary lifestyles.
+
+Inadequate medication adherence is a major factor leading to poor and suboptimal glycemic control among patients with DM, which catalyzes the magnitude of this problem and leads to the development of diabetic-related complications. This scenario potentiates the progression of the disease, hospitalization, pre-mature disability, and mortality. The World Health Organization (WHO) defines adherence to medication as the degree to which a person’s behavior, including taking medications, complements recommendations from a health-care provider. This report also showed that adherence to long-term treatment for chronic illnesses like DM in developed countries reaches 50% of those affected, while the rate is lower in developing countries.
+
+In chronic diseases, a failure to take medications as prescribed, or the use of less than 80% of the prescribed treatment is termed as non-adherence. Low adherence to prescribed anti-diabetes medicines are responsible for 30% to 50% of treatment failures. This aberrant behavior compromises the effectiveness of treatment, which, in turn, leads to reduced treatment benefits from the perspective of quality of life and can have a negative financial burden on both the individual patients and the society at large.
+
+Previous studies have shown that different factors contributed significantly to medication non-adherence. These factors can be categorized into four major categories including socio-demographic factors (such as age, sex, marital status, educational level, occupation, and income), medication-related factors (multiple drugs, long duration of treatment, and side effects of the drugs), disease-related factors (stage of the disease, presence of co-morbid condition and complication), and patient-provider communication factors.
+
+Although non-adherence to medication is a universal worry, it is even worse in developing countries such as Ethiopia, where there is economic instability, low literacy level, and insufficient access to health-care facilities. Lack of medication adherence is associated with poor glycemic control, which, in turn, potentially contributes to the development of uncontrolled diabetes. A study done in Ethiopia indicated that 75% of diabetes patients required admission due to uncontrolled diabetes directly or indirectly. However, there is a paucity of data regarding the magnitude and factors affecting non-adherence to diabetic treatment in Ethiopia, specifically in the Tigrai Region. With this background, the present study was undertaken to assess the magnitude of non-adherence and the factors affecting the adherence of diabetic patients to their diabetic medication in the Eastern Zone of Tigrai, Northern Ethiopia.
+
+Materials and Methods
+
+Study Design, Period, and Area
+
+A hospital-based cross-sectional study was conducted in two general public Hospitals (Adigrat and Wukro General Hospitals) located in the Eastern Zone of Tigrai, Northern Ethiopia, from the 15th of March to the 15th of July 2019. Eastern Zone is one of the zones found in the Regional Government of Tigrai, Northern Ethiopia. Based on the Central statistical Agency census 2017 Report, the zone has a population size of 963,432, which is about 20% of the regional population. The zone is located in the North tip of Ethiopia and bordered on the East by the Afar region, on the South by the South-East zone, on the West by the Central zone of Tigrai, and bordered on the North by Eritrea. This zone comprises seven rural districts (“Woreda” in local Amharic/Tigrigna language) and two city administrations (Adigrat and Wukro). There are 116 health posts in this zone, 38 health centers, and seven public hospitals (five primary and two general hospitals). The data obtained from the hospitals’ annual reports show that an average of 866 and 379 ambulatory diabetes patients attend the chronic follow-up clinics of Adigrat and Wukro General Hospitals, respectively.
+
+Population and Eligibility Criteria
+
+The source population for this study was all diabetic patients who received anti-diabetic treatment in Adigrat and Wukro general hospitals follow-up clinic, while the study population includes all diabetic patients receiving antidiabetic drugs in the chronic follow-up unit during the study period. Diabetic patients who have been on anti-diabetic drugs for more than six months, 18 years of age and older, who had at least three or more measurements of fasting blood sugar (FBS) level, and patients who attended the diabetic clinic during the study period and gave informed consent to participate in the study were included in the study. Whereas patients, who were seriously ill, newly diagnosed with diabetes, and patients with obvious psychiatric problems were excluded from this study.
+
+Sample Size Determination and Sampling Techniques
+
+The sample size was calculated by using the single population proportion formula by taking the proportion of non-adherence to anti-diabetics medication, 45.2% from a previous study conducted in Zewditu Memorial Hospital, Addis Ababa, Ethiopia, 5% margin of error, 95% confidence interval (CI), and by adding 10% of non-response rate. A total of 321 participants were included in the study. The sample size was calculated using the formula below.
+
+where n = the required minimum sample size, Z = the critical value from standard normal distribution considering 95% confidence in the estimate of the prevalence of adherence (1.96), p = proportion of patients with non-adherence to anti-diabetic treatment (0.452), and d = precision of measurement (acceptable, marginal error=0.05)
+
+By employing the formula above the sample size was obtained to be 381. However, the source population was <10,000, that is, 1245. Therefore, the sample size was adjusted by using the correction formula as follows:
+
+where nf = final sample size when a population is <10,000, n = is initial sample size when the population is >10,000, and N = total source population.
+
+nf =292
+
+By estimating and adding a 10% non-response rate to this, the final sample size became 321. The sample size was then proportionally allocated to each hospital according to the average number of patients who received diabetic care services in each hospital. Therefore, the sample size required in Adigrat and Wukro general hospitals was 223 and 98, respectively. Individual patients were selected using a systematic random sampling technique for data collection after obtaining a sampling frame (using patient medical registration number) of the DM patients registered in the outpatient follow-up clinic in each general hospital that year. On each day of the study, the first patient was selected randomly, and every 4th patient that meets the selection criteria was included in the study.
+
+Study Variables
+
+Dependent Variables
+
+Non-adherence to medication
+
+Independent Variable
+
+Socio-demographic factors (such as age, sex, marital status, educational level, occupation, and income)
+
+Medication-related factors (numbers of prescribed medication, duration on treatment, and adverse effect of the drugs)
+
+Disease-related factors (complication, co-morbidity, stage of the disease, and admission)
+
+Patient-provider relationship
+
+Data Collection Instrument and Procedure
+
+A pre-tested, semi-structured questionnaire and a checklist developed by reviewing relevant literature were used to collect the relevant data. The socio-demographic characteristics, non-adherence level, patient-provider relationship, disease and drug-related variable for eligible study participants were collected through face-to-face patient interviews by two trained nurses working in the respective hospitals. Simultaneously, the patient’s medical card review was performed using a data abstracting tool (checklist) to assess the number of prescribed medications, glycemic control levels, DM-related complications, DM co-morbid conditions, and diabetes-related admissions. Evaluation of medication adherence was done by asking the patients a set of medication adherence-related questions adopted from relevant literature. Response choices were “yes” or “no” for the asked questions (eight in number), and each “no” response was rated as 0, and each “yes” response was rated as 1. The questions used in this questionnaire to assess adherence were adopted from an already validated adherence tool in the study set up by Tandon et al.
+
+Data Management and Quality Assurance
+
+In order to ensure the quality of the data obtained from the questionnaire and checklist, pre-testing was conducted on 5% of the sample size among patients in Hawzien hospital, and appropriate training was given to the data collectors. The questionnaire that was initially prepared in English and translated to Tigrigna, the local language, and again back retranslated to English by independent language experts to maintain the consistency of the questionnaire. A research team consisting of five clinical pharmacists and an epidemiologist was established to face validate the local language version of the questionnaire. Patients who participated in the pre-test were asked to read the local language version of the questionnaire and then replay to the main author with their feedback on the clarity of each question. Accuracy and completeness of data were checked on a daily base after data collection time.
+
+Ethical Concerns
+
+This study complied with the Declaration of Helsinki.
+
+Ethical clearance was obtained from the Adigrat University institutional review board. Besides, official letters of permission were obtained from the regional and zonal health offices prior to conducting the study. Prior to data collection, written informed consent was obtained from the patients after a detailed explanation of the aim and objectives of the study. Confidentiality was maintained, thought the study and participation were voluntary.
+
+Data Processing and Analysis
+
+Data analysis was carried out using the Statistical Package for Social Sciences (SPSS) version 20 software. Descriptive statistics such as frequencies and percentages in the form of tables have been used to summarize categorical variables. The association between the dependent variables and the independent variable was performed using logistic regression. Univariate logistic regression was employed to determine the association of each explanatory variable with the medication non-adherence. Furthermore, independent variables with a p-value of less than 0.25 at 95% CI in the univariate logistic regression were considered for multivariable logistic regression, and a p-value of <0.05 at 95% CI was considered as statistically significant. Internal consistency reliability test was assessed using the Kuder–Richardson 20 test (KR-20) in SPSS as the KR-20 is used to estimate reliability for dichotomous (ie, yes/no; true/false) response scales. A KD-20 reliability values of 0.70 or higher is considered acceptable reliability in SPSS as per the criteria prescribed by Nunnally and Bernstein.
+
+Operational Definitions
+
+Adherents
+
+Were patients who score 0 out of eight when asked medication adherence-related questions or those who responded “No” to the entire eight medication adherence-related questions because the adherence-related questions were negatively coded.
+
+Non-Adherent
+
+Were patients who score 1–8 based on the sum of their response to the asked medication adherence-related questions or those with at least one “yes” to any of the eight medication adherence-related questions.
+
+Controlled Glycemic Level
+
+An average fasting blood glucose (FBG) of 70 to 130 mg/dl from the last three FBG reading retrieved from patients’ records.
+
+Uncontrolled Glycemic Level
+
+An average FBG of >130 mg/dl and <70 mg/dl from the last three FBG reading retrieved from patients’ records.
+
+Results
+
+Socio-Demographic Characteristics of the Participants
+
+Socio-Demographic Characteristics of Study Participants at the General Hospital of Eastern Zone of Tigrai, Ethiopia, from the 15th of March to the 15th of July 2019 (n=321)
+
+Socio-Demographic Characteristics	Adherent	Non-Adherent	Total [Frequency (Percent (%)]	 	Sex of respondents				 	 Male	65	102	167 (52%)	 	 Female	51	103	154 (48%)	 	Age of respondents				 	 18–30	19	37	56 (17.4%)	 	 31–40	29	43	72 (22.4%)	 	 41–50	23	32	55 (17.1%)	 	 51–60	17	44	61 (19.0%)	 	 >60	28	49	77 (24.0%)	 	Marital status				 	 Unmarried	18	39	57 (17.8%)	 	 Married	64	106	170 (53%)	 	 Divorced	16	28	44 (13.7%)	 	 Widowed	18	32	50 (15.6%)	 	Religion				 	 Orthodox	84	172	265 (79.8%)	 	 Catholic	11	10	21 (6.5%)	 	 Protestant	11	6	17 (5.3%)	 	 Muslim	10	17	27 (8.4%)	 	Educational level				 	 Unable read and write	46	86	132 (41.1%)	 	 Primary (1–8)	26	42	68 (21.2%)	 	 Secondary (9–12)	21	38	59 (18.4%)	 	 Diploma and above	23	39	62 (19.3%)	 	Occupation				 	 Governmental employed	24	25	49 (15.3%)	 	 Private employed	5	24	29 (9.0%)	 	 Unemployed	18	34	52 (16.2%)	 	 Student	11	25	36 (11.2%)	 	 Farmer	27	48	75 (23.4%)	 	 Merchants	19	25	44 (13.7%)	 	 Daily labor	5	8	13 (4.0%)	 	 Housewife	7	13	20 (6.2%)	 	 If other specify	0	3	3 (0.9%)	 	Monthly income in Ethiopian Birr (ETB)				 	 =<500	42	116	158 (49.2%)	 	 500–2000	35	66	101 (31.5%)	 	 > 2000	39	23	62 (19.3%)	 	Ethnicity				 	 Tigrian	97	188	285 (88.8%)	 	 Kunama	1	5	6 (1.9%)	 	 Erob	7	4	11 (3.4%)	 	 Amara	2	4	6 (1.9%)	 	 Oromo	2	3	5 (1.6%)	 	 Other	7	1	8 (2.5%)	 	Residence				 	 Urban	80	98	178 (55.5%)	 	 Rural	36	107	143 (44.5%)	 	Chewing of chat				 	 Yes	8	16	24 (7.5%)	 	 No	108	189	297 (92.5%)	 	Smoking of cigarette				 	 Yes	6	12	18 (5.6%)	 	 No	110	193	303 (94.4%)	 	Drinking of alcohol				 	 Yes	28	61	89 (27.7%)	 	 No	88	144	232 (72.3%)	 	Distance from clinic in kilometers				 	 Less than or equal to 4	42	57	99 (30.8%)	 	 Greater than 4	71	148	219 (69.2%)
+
+A total of 321 patients participated in the study, 167 (52%) of whom were males, and of the total participants, the majority (57%) were under 50 years of age. Concerning their educational status, 189 (58.9%) of the participants had primary education or more, while 132 (41.1%) were unable to read and write, as indicated in Table 1. Regarding their social habit, 27.7%, 7.5%, and 5.6% of them were alcohol consumers, chat chewers, and cigarette smokers, respectively. During their follow-up, more than half of the participants (54.5%) had to travel more than 5 kilometers (KM) to reach the DM clinic (Table 1).
+
+Reliability of Scale Score
+
+The internal-consistency reliability test based on the Kuder–Richardson formula 20 (KR-20) index for the questionnaire was 0.735, which is above the acceptable value of 0.70.
+
+Medication and Clinical Characteristics of the Study Participants
+
+Clinical, Medication-Related Characteristics and Adherence Level of the Study Participants at General Hospital of Eastern Zone of Tigrai, Ethiopia, from the 15th of March to the 15th of July 2019 (n=321)
+
+Characteristics	Adherent	Non-Adherent	Total [Frequency (Percent (%)]	 	Duration on DM				 	 > 6 month	24	45	69 (21.5%)	 	 1–5 year	51	80	131 (40.8%)	 	 > 5 year	41	80	121 (37.7%)	 	Sign and symptom of low and/or high blood glucose				 	 Yes	68	138	206 (64.2%)	 	 No	48	67	115 (35.8%)	 	Routine eye and foot examination				 	 Yes	38	75	113 (35.2%)	 	 No	78	130	208 (64.8%)	 	Proper diet and meal plan follow-up				 	 Yes	89	168	257 (80.1%)	 	 No	27	37	64 (19.9%)	 	Fasting Blood Glucose (FBG) level				 	 Controlled (70–130 mg/dl)	47	59	106 (33.0%)	 	 Uncontrolled (>130 mg/dl)	69	146	215 (67.0%)	 	DM-related complication				 	 Yes	20	46	66 (20.6%)	 	 No	96	159	255 (79.4%)	 	If “yes”, the type of encountered complication				 	 Nephropathy	3	13	16 (5.0%)	 	 Neuropathy	4	3	7 (2.2%)	 	 Retinopathy	4	13	17 (5.3%)	 	 Diabetic ketoacidosis	5	5	10 (3.1%)	 	 Coronary artery disease	1	1	2 (0.6%)	 	 Foot ulcer	0	4	4 (1.2%)	 	 Hyperosmolar hyperglycemic state	0	1	1 (0.3%)	 	 Hypoglycemic	0	5	5 (1.6%)	 	Co-morbid conditions				 	 Yes	25	51	76 (23.7%)	 	 No	91	154	245 (76.3%)	 	If “yes”, type of encountered co-morbidity				 	 Hypertension	24	40	64 (19.9%)	 	 Congestive heart failure	1	6	7 (2.2%)	 	 Asthma	0	1	1 (0.3%)	 	DM-related Admission				 	 Yes	8	31	39 (12.1%)	 	 No	108	174	282 (87.9%)	 	Number of prescribed medication per visit				 	 1 drug	26	53	79 (24.6%)	 	 2 drugs	43	63	106 (33.0%)	 	 3 drugs	35	32	67 (20.9%)	 	 >4 drugs	12	57	69 (21.5%)	 	Type of anti diabetic medication				 	 Oral hypoglycemic agents	51	99	150 (46.7%)	 	 Insulin	47	72	119 (37.1%)	 	 Both	18	34	52 (16.2%)	 	Dose served on each visit				 	 1 month dose	76	81	157 (48.9%)	 	 2 month dose	29	88	117 (36.4%)	 	 3 month dose and above	11	36	47 (14.6%)	 	Proper diet and meal plan follow-up				 	 Yes	89	168	257 (80.1%)	 	 No	27	37	64 (19.9%)	 	Presence of side effects				 	 Yes	90	194	284 (88.5%)	 	 No	26	11	37 (11.5%)	 	Counseling				 	Ever counseled				 	 Yes	57	22	79 (24.6%)	 	 No	59	183	242 (75.4%)	 	On each visit				 	 Yes	44	122	166 (51.7%)	 	 No	72	83	155 (48.3%)
+
+Abbreviation: Mg/dl, milligram per deciliter.
+
+Table 2 shows that the majority of DM patients200 (62.3%) had been diagnosed for less than or equal to five years, of which approximately 69 (21.5%) of the participants had been on treatment for less than one year and 40.8% (131) had been on treatment for 1 to 5 years. Besides, 206 (64.2%) patients had a sign and symptom of low and high blood glucose, while 113 (35.2%) had a routine eye and foot checks. Concerning the type of medications they were taking, 150 (46.7%) of them used oral hypoglycemic agents, 119 (37.1%) of them utilized insulin, and 52 (16.2%) of them used both drugs. Virtually half of the patients, 157 (48.9%), received one month of dose while visiting the hospitals (Table 2).
+
+The majority (76.3%) of the patients had no co-morbidities, while the rest (23.7%) reported co-morbidity, and the most commonly reported co-morbidity was hypertension. Higher proportions (79.4%) of the patients had not developed a complication. But among those who developed complications, retinopathy was the most frequent. Concerning the number of medications used, 79 (24.6%) of them used one drug (monotherapy), 106 (33.0%) of them utilized two-drug, 67 (20.9%) of them were using three drugs, and 69 (21.5%) of the patients used four drugs and more (Table 2). In addition to this, 200 (62.3%) of the study participants had an uncontrolled FBG level (>130 mg/dl).
+
+Adherence Status of Patients
+
+Frequency Distribution of Responses to Medication Adherence-Related Questions Among DM Patients at the General Hospitals in Eastern Zone of Tigrai, Ethiopia, from the 15th of March to the 15th of July 2019 (n=321)
+
+Response to Adherence-Related Questions	Frequency	Percent (%)	 	The patient did not take his/her medication the previous day			 	 Yes	167	52.0%	 	 No	154	48.0%	 	The patient occasionally miss taking his/her medication			 	 Yes	106	33.0%	 	 No	215	67.0%	 	The patient misses using his/her medication in the past two weeks			 	 Yes	64	19.9%	 	 No	257	80.1%	 	The patient did not bring his/her medication with him/her during journey			 	 Yes	89	27.7%	 	 No	232	72.3%	 	The patient ever faced difficulty in remembering to consume all of his/her medications			 	 Yes	113	35.2%	 	 No	208	64.8%	 	The patient ever discontinued his/her medication without consulting his/her physician because he/she feels the disease has improved			 	 Yes	72	25.2%	 	 No	249	74.8%	 	The patient ever discontinued his/her medication without consulting his/her physician because he/she thinks the medication aggravates the disease			 	 Yes	64	19.9%	 	 No	257	80.1%	 	The patient ever felt annoyed to adhere to his/her treatment plan			 	 Yes	99	30.8%	 	 No	222	69.2%
+
+This study found that 116 (36.1%) of the respondents were adherent to their medication, while 205 (63.9%) were not adherent. As shown in Table 3, of the total respondents, 167 (52.0%) rehearsed that they had not taken their pill the previous day, while 106 (33.0%) of the patients replied that they sometimes missed taking their pill. About the other adherence-related questions, 64 (19.9%) of the respondents missed using their medications in the past two weeks; 89 (27.7%) did not bring along with their medicines during the journey; more than one-third (35.2%) of the study participants ever faced difficulty in remembering to consume their medicines. From the respondents, 72 (22.4%) discontinued their medication without consulting their physician because they feel the disease has improved (Table 3).
+
+Factors Associated with Non-Adherence to Anti-Diabetic Drugs
+
+Logistic Regression Analysis of Non-Adherence to Medication and Associated Factors Among Patients with Diabetes Mellitus at the General Hospital of Eastern Zone of Tigrai, Ethiopia, from March 15th to the 15th of July 2019 (n=321)
+
+Variables	COR, 95% CI	P-value	AOR, 95% CI	P-value	 	Monthly income					 	 Less than 500 ETB	4.68 (2.51–8.74)	≤0.001	5.04(2.09–12.16)	≤0.001	 	 Between 500–2000 ETB	3.19 (1.65–6.17)	0.001	2.59 (1.03–6.51)	0.043	 	 Greater than 2000 ETB	1		1		 	Dose served					 	 1 month	1		1		 	 2 month	2.84 (1.68–4,80)	≤0.001	2.86 (1.38–5.95)	0.005	 	 More than 3 month	3.07 (1.46–6.46)	0.003	4.31 (1.52–12.19)	0.006	 	Distance					 	 Less than 4 KM	1		1		 	 Between 4–24 KM	2.00 (1.13–3.55)	0.017	1.48 (0.66–3.28)	0.334	 	 Greater than 24 KM	8.83(4.17–18.70)	≤0.001	10.09 (3.51–29.02)	≤0.001	 	Number of prescribed medication per visit					 	 1 drug	1		1		 	 2 drugs	0.72 (0.34–1.32)	0.72	0.65 (0.28–1.51)	0.320	 	 3 drugs	0.45 (0.23–0.87)	0.19	0.38 (0.15–0.96)	0.42	 	 >4 drugs	2.33 (1.07–5.08)	0.03	7.19 (2.17–23.82)	0.001	 	DM-related admission					 	 Yes	0.41 (0.18–0.94)	0.034	0.25 (0.07–0.79)	0.018	 	 No	1		1		 	Residence					 	 Urban	1		1		 	 Rural	2.42 (1.50–3.92)	≤0.001	1.22 (0.59–2.52)	0.586	 	Presence of side effects					 	 Yes	5.09 (2.41–10.76)	≤0.001	4.51 (1.55–13.11)	0.006	 	 No	1		1		 	Ever counseled					 	 Yes	1		1		 	 No	8.03 (4.53–14.25)	≤0.001	22.33 (9.27–53.81)	≤0.001
+
+Notes: P-value = probability value, P ≤ 0.05 was taken as the level of significance.
+
+Abbreviations: COR, crudes odd ratio; AOR, adjusted odd ratio; ETB, Ethiopian Birr; KM, kilometer; CI, confidence interval.
+
+As shown in Table 4, analysis of the data with bivariate logistic regression revealed that monthly income, dose served in each visit, distance traveled from home to the hospital, the number of medications prescribed per each visit, the occurrence of DM-related admission, the residence of the patients, presence of drug side effects, and ever counseling of the DM patients from health-care providers were found to be significantly associated with patients’ non-adherence to DM medications.
+
+In multivariate logistic regression, all variables that were significantly associated with non-adherence to DM drugs in the bivariate logistic analysis except for the place of residence were significantly associated with non-adherence to anti-diabetic drugs. Two month dose served on each visit (AOR = 2.86, 95% CI=1.38–5.95), dose served for more than three months (AOR = 4.31, 95% CI=1.52–12.19), monthly income less than 500 birr (AOR = 5.05, 95% CI=2.09–12.17), monthly income between 500 and 2000 birr (AOR = 2.59, 95% CI=1.03–6.52), a distance greater than 24 KM from hospital to home (AOR = 10.09, 95% CI=3.51–29.02), more than four prescribed medication per visit (AOR=7.19, 95% CI= 2.17–23.82), never get a counseling from health-care providers (AOR=22.33, 95% CI= 9.27–53.81), and the occurrence of DM-related admission (AOR=0.25, 95% CI= 0.08–0.79) were significantly associated with patients’ non-adherence to DM medications (Table 4).
+
+Discussion
+
+Medication non-adherence has been realized as a major public health problem as it greatly contributes to poor clinical outcomes and extravagant health-care costs. Medication adherence in chronic conditions is relatively low as patients who persist in taking the medication are disappointingly low, drop their medications most unexpectedly, and extremely after the first six months of treatment. One of the top policy and research agendas for governments, private foundations, and industry and patient organizations is addressing the issue of drug non-compliance. Patient’s adherence to their medication is positively associated with the prevention of DM-related complications. However, the issue of non-compliance remains a persistent challenge in the delivery of diabetes care. Medication non-adherence is one of the major reasons for uncontrolled and complicated diabetes.
+
+Assessing the magnitude of medication non-adherence and exploring the multi-level factors related to medication non-adherence using different methods are among the area of concern that requires attention to strengthen medication adherence. Understanding the factors that contribute to poor medication adherence is crucial to develop tailored and effective approaches that enhance adherence to medication among diabetic patients. Pharmacists and Nurses are excellently placed to play an essential role in tackling medication non-adherence in different settings, including in hospitals diabetes clinics, nursing homes, and community settings; through participation in evidence-based researches; and by translating those evidence into practice.
+
+In this regard, in the present study, an attempt has been made to assess the magnitude and to explore the determinants of non-adherence to anti-diabetic medication. In this study, the overall prevalence of non-adherence to anti-diabetic drugs was found to be 63.9%. This low or suboptimal level of adherence to diabetic drugs implies the existence of limitations in diabetic care guidelines or services provided in the hospitals with possibly pin-sized or insufficient patient guidance and counseling on the value of strict adherence to their medications. This is supported as almost three quarters (242, 75%) of the diabetic patients enrolled in the hospitals never counseled regarding the importance of adherence to their medications. This finding is slightly lower than the result of a similar study conducted in Bahir Dar city administration, Ethiopia, which found that 68.8% of the patients were non-adherent to their medications. This discrepancy is potentially due to the difference in the way the two studies operationalized adherence to medications. The study conducted in Bahir Dar city considers those who score two or less than two when asked the medication adherence-related questions as adherent, but in the case of the present study, only those who score zero were considered to be adherent.
+
+However, the prevalence of non-adherence to medications found in this study was higher when compared to other similar studies conducted in Ethiopia and other African countries. The reasons for the variation may be due to the difference in the type of the DM upon which the studies were conducted; the data collection techniques, and the medication adherence assessment tool the studies employed. The majority of the studies were conducted only in type 2 DM patients, while the data collection technique used in some of the other studies were not clear. The present study used an assessment tool that contains 8 item questions while some of the other studies used 4 item medication adherence assessment questions, or other medication adherence assessment tools.
+
+The present study found that monthly income and distance traveled from home to the hospital were the only socio-demographic characteristics of the patients significantly associated with medication non-adherence. This finding is in line with the finding of a similar study conducted in Assela, Ethiopia. Our study revealed that respondents who had a monthly income of less than 500 ETB were 5.05 times more likely to be non-adherent than those who had monthly income greater than 2000 ETB, whereas respondents with monthly earning between 500 and 200 ETB were 2.59 times more likely to be non-adherent than those who have got greater than 2000 ETB. Previous studies reported that lower-income had been associated with a higher rate of non-adherence to anti-diabetic medications. This could be because those who earn more are more likely to have better medication use information, they are more likely to pay for their own medication-related expense, and able to pay for different sources of medication information like televisions, radios, magazines, and books. If a patient has a poor economic base, this will inevitably lead to inadequate access to health care and self-care practice, and overall, it leads to a poor diabetic outcome. In addition, those who earn less may not visit health institutions to refill as frequently as those who earn more, and this can create a disparity in the usage of information among the patients. This has been proven in the present study in which patients who refill with two months’ dose of medicine in each visit were 2.865 more likely to be non-adherent to their medications than those who were served a one month dose at each visit, while those who were served medicine that lasts for at least three months were 4.314 more likely to be non-adherent to their medications than those who were served a one month dose. This is in agreement with a study conducted in India that demonstrated a strong association between the inability of patients to visit physicians on a regular base and non-adherence to diabetic medications.
+
+The present finding also showed that patients who traveled more than 24 KM to reach the hospital were 10.09 times more likely to be non-adherent to their medications than those who traveled less than 4 KM to reach the hospital. This may be because patients who live far away from the health facilities may not visit the health institutions as frequently as those who live nearby due to transport costs and other financial reasons like bed rent, food, and beverage costs as they may spend a long time to seek health care. In a developing country such as Ethiopia, where there is a lack of resources and poor infrastructure, like poor quality roads and a lack of transportation, patients in remote areas are more likely to be non-adherent to their medications. Besides, patients from a distant area may not be interested in collecting their medication during refill because they need to cover long distances to get to the clinic. This can also create a gap in medication use related information among the patients because they may not get periodical counseling.
+
+Receiving more than four medications per visit was 7.19 times more likely to be associated with patients’ non-adherence to medications than receiving only one medicine. This implies that the complexity of the dosage regimen is significantly associated with patient’s non-adherence to their medications. The more complicated the regimen is, the patients need to have a more complex cognitive skill to understand and remember to take prescribed medicines on time and as ordered. This finding is in line with previous studies conducted in various parts of Ethiopia.
+
+In this study, it was found that the occurrence of medication-related side effects among the patients was significantly associated with non-adherence to medications. This finding is in agreement with the result of a similar study conducted in Jimma, Southwest Ethiopia, and in Assela, Ethiopia, that revealed a strong correlation between occurrences of side effects and non-compliance to drugs among diabetic patients. In chronic diseases like DM, which require long-term treatment, identification, and management of medication-related side effects are important in achieving a successful treatment outcome. The issue of tolerating medication side effects is among the most responsible reason for treatment discontinuation.
+
+This study demonstrated that patients who did not encounter DM-related admissions were 4.03 times more likely to be non-adherent to prescribed drugs than those who encountered DM-related admissions. In contrast to our finding, a study conducted in Kenya found that patients who were ever admitted for DM were more likely to be non-adherent to their medications than patients who were never admitted for DM. Non-adherence is the key factor that is responsible for poor glycemic control and eventually leads to the development of diabetes complications. One of the probable reasons for DM-related admission of the patients could be poor adherence to their medications. So, the potential reason for the better adherence among patients who encountered admission could be due to the difference in fear of readmission. Patients who were admitted are more likely to fear readmission than those who were not admitted.
+
+Patients who were never counseled about their medication and the disease were 22.3 times more likely to be non-adherent to medications than those who were ever counseled about their medication and the disease. This may be because counseling can improve patients’ awareness of the disease and its medication. The relationship between patient counseling and their awareness about the disease and its medication is supported by a study conducted in Gondar, Northwest Ethiopia, which founds that patients who were knowledgeable about diabetes and its medications were about 28 times more likely to be adherent to anti-diabetic medications than those who were not.
+
+Conclusion and Recommendation
+
+The adherence level in this study was suboptimal, with a significant proportion of the patients being non-adherence to their prescribed anti-diabetic medications. Hence, an urgent intervention targeting the development of guidelines that improve the care of the health facilities regarding the values of counseling and follow-up of chronic patients such as diabetes is highly demanded. The prevalence of non-adherence to medications in this study was found to be 63.9%. In this study, monthly income, dose served in each visit; distance traveled from home to the hospital, the number of medications prescribed per each visit, the occurrence of DM-related admission, presence of drug side effects, and ever counseling of the DM patients from health-care providers were found to be significantly associated with patients’ non-adherence to DM medications.
+
+Tackling the issue of medication non-adherence is one of the priority agendas of policymakers and researchers. In line with this, both pharmacists and nurses are considered as the front liners in tackling medication-related non-adherence. The high prevalence of medication non-adherence, as well as the contributing factors found in the current study, should be used as baseline information to the policymakers, some concerned governmental bodies, and different stakeholders that workaround rational medicine use to assess the currently available policies regarding rational use of medicines. Based on the finding of this study, we recommend the DM clinics within the health institutions to improve their chronic patient follow-up mechanisms. In addition, health-care providers should design educational programs that improve the patient’s adherence to prescribed medications and reduce the number of medications prescribed to diabetic patients. Furthermore, we also recommend researchers and academic institutions to conduct additional broader scientific studies in the region so that we could have a better knowledge of patient adherence and determine various adherence and non-adherence issues in the region.
+
+Abbreviations
+
+DM, Diabetes Mellitus; WHO, World Health Organization; ETB, Ethiopian birr; KM, kilometer; FBG, fasting blood glucose; CI, confidence interval; AOR, adjusted odds ratio; COR, Crudes odd ratio.
+
+Data Sharing Statement
+
+The data used and analyzed in this study are available from the corresponding author on reasonable request.
+
+Author Contributions
+
+All authors made substantial contributions to conception and design, acquisition of data, or analysis and interpretation of data; took part in drafting the article or revising it critically for important intellectual content; agreed to submit to the current journal; gave final approval of the version to be published; and agree to be accountable for all aspects of the work.
+
+Disclosure
+
+The authors have no competing interests to disclose.
+
+References
+
+Diabetes in Ethiopia 2000–2016 prevalence and related acute and chronic complications; a systematic review
+
+Prevalence and factors contributing to non-adherence to diabetes treatment among diabetic patients attending government hospitals in Addis Ababa
+
+Chronic complications of diabetes mellitus: a mini review
+
+Prevalence of diabetes mellitus and its risk factors among individuals aged 15 years and above in Mizan-Aman Town, Southwest Ethiopia, 2016: a cross sectional stud
+
+Prevalence of diabetes mellitus and associated factors in Bona District, Sidama Zone: a community based study
+
+Non-adherence and associated factors among type 2 diabetic patients at Jimma University Specialized Hospital, Southwest Ethiopia
+
+Medication adherence and factors associated with poor adherence among type 2 diabetes mellitus patients on follow-up at Kenyatta National Hospital, Kenya
+
+Non adherence and its contributing factors among ambulatory type two diabetic patients in Bishoftu General Hospital, South East, Ethiopia
+
+Non-adherence and factors affecting adherence of diabetic patients to anti-diabetic medication in Assela General Hospital, Oromia Region, Ethiopia
+
+Barriers to diabetes medication adherence in North West Ethiopia
+
+Non adherence and contributing factors among ambulatory patients with anti diabetic medications in Adama Referral Hospital
+
+Medication adherence and its associated factors among diabetic patients at Zewditu Memorial Hospital, Addis Ababa, Ethiopia
+
+An assessment of the health care system for diabetes in Addis Ababa, Ethiopia
+
+Factors contributing to non-adherence to medication among type 2 diabetes mellitus in patients attending tertiary care hospital in south India
+
+Medication non-adherence and associated factors among diabetes patients in FelegeHiwot Referral Hospital, Bahir Dar city administration, Northwest Ethiopia
+
+Adherence to anti-diabetic medication and factors associated with non-adherence among patients with type-2 diabetes mellitus in two regional hospitals in Cameroon
+
+Validation and psychometric properties of the 8-item morisky medication adherence scale (MMAS-8) in type 2 diabetes patients in Sub-Saharan Africa
+
+Principles and methods of validity and reliability testing of questionnaires used in social and health science researches
+
+Medication regimen complexity and its impact on medication adherence and glycemic control among patients with type 2 diabetes mellitus in an Ethiopian general hospital
+
+Adherence to medication
+
+A new taxonomy for describing and defining adherence to medications
+
+Drug therapy problems, medication adherence and treatment satisfaction among diabetic patients on follow-up care at Tikur Anbessa Specialized Hospital, Addis Ababa, Ethiopia
+
+The determinants of anti-diabetic medication adherence based on the experiences of patients with type 2 diabetes
+
+Adherence and associated factors towards anti-diabetic medication among Type II diabetic patients on follow-up at University of Gondar Hospital, Northwest Ethiopia
+
+Assessment of anti-diabetic medication adherence and its determinants among ambulatory patients with type 2 diabetes at Tikur Anbessa Specialized Hospital, Addis Ababa, Ethiopia
+
+Anti-diabetic medication adherence and associated factors among patients in Botswana: implications for the future
+
+Adherence to diabetic self-care practices and its associated factors among patients with type 2 diabetes in Addis Ababa, Ethiopia
+
+Medication adherence and its associated factors among diabetes patients having follow up in diabetic clinic at Hawassa University Comprehensive Specialized Hospital
+
+Adherence to anti-diabetic drug therapy and self management practices among type-2 diabetics in Nigeria
+
+Medication adherence in diabetes mellitus and self management practices among type-2 diabetics in Ethiopia
+

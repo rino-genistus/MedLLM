@@ -1,0 +1,106 @@
+TITLE: A study of nerve conduction velocity in diabetic patients and its relationship with tendon reflexes (T-Reflex)
+
+Background and Objective:
+
+Neuropathy is one of the most common complications of diabetes mellitus. Neuropathy can cause sensory deficit, neurological disorder, organ ulcers, osteomyelitis, and amputation. Therefore, neurological examinations, determining the nerve conduction velocity and performing sensory and motor tests are important for timely diagnosis and treatment. The present study aimed to investigate the nerve conduction velocity in diabetic patients and its relationship with tendon reflexes.
+
+Materials and Methods:
+
+The present study was observational-cross sectional research carried out on 77 diabetic patients who admitted to the EMG / NCV Department of Shariati Hospital in the academic year 1996-1997. In all patients, the medical history of the patient (age, duration of diabetes, gender and age of onset of diabetes), neurological examination, nerve conduction velocity, heat test, vibration test, tendon reflexes, D.L and Amplitude were examined and recorded. Finally, the raw data obtained was entered into the IBM SPSS Statistics software and the important relationships between these variables were analyzed. Moreover, in present study, the statistical significance level (P-value) was considered less than 0.05.
+
+Results:
+
+The present study was conducted on a population consisting of 48 women and 29 men with diabetes. The age range of participants was 14-70 years old with an average age of 50.506 ± 7.50. The results of present study showed that the participants with clinical neuropathy (11.2 ± 7.2) had significantly longer duration of diabetes than the normal group and those participants with sub-clinical neuropathy (P-value = 0.12). Statistical analyses indicated that increase in age, increase in the duration of diabetes and the gender of male significantly made the nerve conduction velocity abnormal. The analysis of the response to neural reflexes indicated that the ratio of neurological disorders in the five nerves of the ankle and knee was generally higher in the abnormal group (the patients with nerve conduction disorder) compared to the normal (the patients with normal nerve conduction) and in some cases, such as the ulnar motor nerve of ankle (P-value = 0.010), and the ulnar motor nerve of knee motor (P-value = 0.002) and also in the peroneal motor nerve of knee (P-value = 0.003) and the sural sensory nerve of knee (P-value = 0.003), increase in neurological disorders was significant.
+
+Conclusion:
+
+Increase in age, increase in the duration of diabetes and the gender of male can significantly make the nerve conduction velocity abnormal. ()
+
+Introduction
+
+Diabetes mellitus is one of the most commonly known chronic diseases in the world. Today, in many countries, diabetes has become an epidemic disease. According to World Health Organization (WHO), in 2000, there were about 170 million people with diabetes and this population will increase to 366 million in 2030, if this disease is not treated and prevented. In Iran, the prevalence of diabetes in different regions is more than 5%. Studies have shown that the diabetes is the main cause of blindness and amputation in some countries. One of the important complication of diabetes is neuropathy or neurological disorder. There are different types of diabetic neuropathy: polyneuropathy, diabetic amyotrophy, autonomic neuropathy, mononeuropathy multiplex, mononeuropathy, and diabetic ophthalmoplegia. Diabetic neuropathy is observed in different forms in patients and corneal sensorimotor neuropathy (about 75%) can be mentioned as its common form. In various studies, the prevalence of neuropathy was reported to be between 1.5% and 100%. Neuropathy has a high prevalence in both IDDM and NIDDM forms. According to the studies in this field, one of three diabetic patients has diabetic neuropathy. Diabetic neuropathy is diagnosed in 10% of diabetic patients at the time of diagnosis of diabetes, and rest of the patients would suffer neuropathy some years after onset of the diabetes. Some complications of diabetic neuropathy are severe pain, reduced sensation, increased diabetic foot ulcers and amputation. One of the main problems of diabetic neuropathy is the lack of a reliable and agreed clinical scale for grading the severity of neuropathy, so that it can be used in clinical trials to examines the effect of different therapeutic approaches among patients. The most important diagnostic criteria for diabetic neuropathy, which are confirmed by experts, are including disturbances in nerve conduction velocity, increased threshold of sensory nerves, or disturbances in autonomic system function tests. One of the diagnostic methods for diabetic neuropathy is to conduct electro-diagnostic tests (nerve conduction velocity determination). According to a study by Dyck, Nerve Conduction Velocity (NCV) determination is not only the most sensitive test for the diagnosis of diabetic neuropathy, but also has some features such as being repeatable. Moreover, it is considered as a specific test for neurological disorder. According to him, the disadvantage of this test is that it does not provide direct information on signs and symptoms of neuropathy. Nerve damages caused by diabetes can be categorized into two myelin and axonal damages categories. The nerve conduction velocity mainly reflects the myelin changes, while the action potential amplitude indicates the axonal changes and the state of the nerve fibers. The action potential amplitude is an estimate of the number of neural fibers activated by electrical stimulation, and its reduction implies an axonal damage. According to studies conducted in this field by researchers and experts, it was found that the nerve conduction velocity is more variable than the action potential amplitude and is more affected by interventions. Given above-mentioned contents and in this regard, the present study aimed to investigate the nerve conduction velocity in diabetic patients and its relationship with tendon reflexes.
+
+Materials and Methods
+
+The present research was an observational- cross sectional study. It was conducted on 77 diabetic patients who were under the diabetes clinic and admitted to EMG / NCV department of Shariati Hospital in the academic year 1996-1997. After explaining the research process and getting informed consent from patients, the patients voluntarily participated in the present study in accordance with medical ethics principals. Exclusion criteria were including: being older than 70 years old, being with thyroid disease, uremia, autoimmune diseases including RA, nutritional and toxic diseases, collagen vascular disease and history of taking certain drugs. Then, from all the patients selected, serologic tests including thyroid tests, CBC, collagen vascular tests and RF were taken and the patients were excluded from the study if the results of tests were positive. in the next step, the medical histories of the patients were recorded and then, they were placed under physical and neurological examinations. A questionnaire used in present study includes the questions on gender, age, duration of diabetes, age of onset of diabetes and type of treatment. Neurological examination includes the examination of different nerve systems including cranial nerves, motor system, sensory system (exteroception, proprioception, vibration sense and heat sensation), and tendon reflexes. The last part of present study which forms the main part of it, is devoted to the measurement of the nerve conduction velocity in the median nerves (both sensory and motor branches), ulnar nerve (motor branch), peroneal nerve (motor branch) and the sural nerve (sensory branch) and the rates of NCV (M / S), D.L (s), and amplitude (mv) in the mentioned nerves were recorded and if they were insignificant, they were recorded as Detectable Un. The values of these parameters were evaluated according to the tables presented in the valid electrophysiology books written by researchers such as OH and Chu-Andrews and considering the age of the patient. Finally, they were divided into two groups. The other main variables were the Ankle Jerk (AJ) Reflex and the Knee Jerk (KJ) Reflex. In order to score the reflexes and according to the age range of patients, just Ankle Jerk (AJ) Reflex could be adjusted. For this purpose, if the Ankle Jerk (AJ) Reflex was absent and the patient was older than 50, he/she would get the score 1, instead of zero, and if it was reduced, he/she would get the score 2, instead of 1. In order to assess the vibration sense, the diapason (Hz) was used, first, it was placed on the medial malleolus of the right foot and the test was considered abnormal when the vibration sense was confirmed by the patient. In the case the vibration sense was not confirmed by the patient, the diapason was immediately moved to the Tuberosity of the tibia. In order to investigate the heat sensation, two test tubes containing 20 ° C and 45 ° C water were used. In order to examine orthostatic hypotension, greater than 20 mm Hg reduction in systolic pressure or 10 mmHg reduction in diastolic pressure during changing the position of patient from lying down to standing was considered as a positive sign for orthostatic hypotension. It should be noted that all above-mentioned tests, except for vibration and heat test performed by the students at the Research Center of Endocrinology Clinic, were conducted by an expert. Then, the raw data obtained were entered into IBM SPSS Statistics. In order to analyze the data, T-test, Variance Fisher’s Exact Test and Chi-squared test were used. The statistical significance level (P-value) was considered less than 0.05.
+
+Results
+
+In the present study, 77 patients participated of which 49 and 29 patients were female and male, respectively (the female-to-male ratio was 1.6 in present study). The age range of patients was 14 to 70 years old and their average age was 50.506±7.50 years. average age of patients at the onset of diabetes was 40.50±10.50 years. Descriptive statistics show that average duration of diabetes was 9.70±6.90 years. Moreover, 41.2% of patients were treated with pill and 44.2% of patients were treated with insulin. In present study, 66.2%, 11.7% and 2.6% of patients complained of paresthesia, weakness and pain, respectively. according to the examinations, it was found that in 36.5% of patient, heat sensation was impaired and in 32.8% of them, vibration sense was impaired. The patients participated were divided into three groups based on clinical signs and symptoms:
+
+First group (clinical neuropathy) included 54 patients with severe neurological symptoms.
+
+Second group (sub-clinical neuropathy): Includes 20 patients with normal neurological symptoms, but disturbances in vibration and heat tests were observed.
+
+Third group (normal): Includes 3 patients, the results of all of their tests were normal.
+
+In present study, duration of the disease was examined with three clinical groups (clinical neuropathy, subclinical neuropathy and normal) (Table 1). The results indicate that there are significant differences between above-mentioned parameters (P-value <0.05).
+
+The relationship between clinical symptoms and duration of the disease
+
+Duration of the diseasemean±S.D(year)	P-Value	 	Group	Clinical neuropathy	11.2 ± 7.2	0.012	 	Sub-clinical neuropathy	8.9 ± 8.3	 	Normal	4.41 ± 4.48
+
+On the type of treatment, in both normal and abnormal groups, no significant difference was observed between above-mentioned parameters (P-value = 0.1000). According to NCS results, the patients studied were divided into two groups: normal (normal nerve conduction) and abnormal (disturbance in nerve conduction). There were 7 patients in the normal group and there were 70 patients in abnormal group. In Table 2, the average age of the patient, the age of onset of the disease and the duration of the disease in both groups (normal and abnormal) are summarized. Statistical analysis showed that in both groups, there was a significant difference between the age of the patient and the duration of the disease (P-value <0.05) (each group was examined separately).
+
+Relationship between the parameters studied in the two NCS groups
+
+In NCS group Mean±S.D.	P-Value	 	Age (year)	53.3 ± 11.3	42.8 ± 13.8	0.002	 	Age of the onset of disease (year)	41.07 ± 9.21	35.60 ± 13.37	0.580	 	Duration of disease (year)	12.27 ± 7.40	4.21 ± 3.74	0.001
+
+The statistical analyses performed in present study showed a statistically significant difference between gender and nerve conduction velocity (P-value = 0.019). In present study, tendon reflexes were divided into two groups: Knee jerk Reflexes (Kj) and Ankle jerk Reflexes (Aj). Each of these groups has been classified into three parts: Absent, Decreased, and Normal. In both normal and abnormal groups, the highest frequency belonged to the Normal part (81.8%) and the lowest frequency belonged to the Absent part (1.3%). The researchers have investigated the relationship between nerve conduction velocity and tendon reflexes (Table 3). Statistical analyses showed that there were significant differences among the knee jerk reflexes and the ulnar motor nerves, peroneal motor nerves and sural sensory nerves (each separately) (P-value <0.05). It was also found that there is a statistically significant difference between the ankle jerk reflexes and ulnar motor nerves (P-value <0.05).
+
+Relationship between neurological disorders and tendon reflexes
+
+Nerves (%)	 				Median motor	Median sensory	Ulnar motor	Peroneal motor	Sural sensory	 	Tendon reflexes	Ankle jerk reflexes	Normal	63.5	63.5	22.2	58.7	41.3	 	Abnormal	92.9	92.9	57.1	71.4	71.4	 	P-Value	0.050	0.050	0.010	0.560	0.080	 	Knee jerk reflexes	Normal	61.9	61.9	20.6	58.7	41.3	 	Abnormal	100	100	64.3	71.4	71.4	 	P-Value	0.003	0.003	0.002	0.560	0.080
+
+Discussion
+
+There is a direct relationship between the prevalence of neuropathy and the progression of diabetes mellitus. The neuropathy is caused by the presence of signs and symptoms of peripheral nerve disorders in diabetic patients. Nerve damage in diabetic patients has various features and the change in nerve conduction velocity is one of its symptoms. The position and characteristics of the nerve fibers, the severity of diabetes and demographic characteristics (such as age, duration of disease, and gender) are of the factors playing a key role in the severity of sensorimotor neuropathy. The undeniable necessity of designing and conducting research in this field can be explained by the breadth of this topic. As mentioned earlier, such complications are common in diabetics, and somewhat predictable, but they have a wide range of changes and potency, which have been the subject of research by researchers. For example, Soivers et al. (2004) have conducted a research in order to perform the clinical and electroneurographic study of peripheral nerve involvement in diabetic patients. This study was performed on 103 diabetic patients with a mean age of 52.6 ± 14.00 years old who were randomly selected from patients admitting to endocrinology clinic of Shiraz University of Medical Sciences. It was found that 29.4% of patients had type 1 diabetes and 70.6% had type 2 diabetes. In their study, they stated that there is a direct relationship between the prevalence of neuropathy and the duration of the disease. The most commonly result was the reduced ankle reflexes and reduced vibration sense in the legs. In another study by Andersen et al. (2012), motor dysfunctions in diabetic patients were examined. They argued that neuropathy is a frequent complication of diabetes, and motor system involvement is rarely seen in a clinical examination and can be diagnosed using quantitative techniques (isoquinatine dynamometer, type of diabetes, ankle jerk reflex and knee jerk reflex). In fact, they believe that muscular weakness depends on the symptoms and severity of diabetic neuropathy in patients. Therefore, it can be said that diabetic neuropathy can reduce muscle strength. The diversity of studies conducted in this field allows anyone to even review the reports on specific cases in a case study. For example, Aaron (2016) has conducted a study on sensorimotor neuropathy in diabetic patients. In this study, it was reported that a 65-year-old woman with a 5-year history of diabetes and the symptoms such as pins-and-needles sensation and pain referred a physician and it was observed that in this case, burning and pinpricks sensation in the knee area, as well as the ability to detect vibration from a tuning fork 128 Hz, have decreased, and she has lost proprioception and sensation to the monofilament 1-g in her toes. Moreover, there was no knee jerk reflex in her. All of these were due to diabetic sensory and motor neuropathy.
+
+Conclusion
+
+Based on the results of present study, it can be concluded that people with clinical neuropathy have a longer duration of diabetes. Moreover, increase in age, increase in the duration of diabetes and the gender of male can significantly make the nerve conduction velocity abnormal. The analysis of the response to neural reflexes indicated that the ratio of neurological disorders in nerves of the ankle and knee was generally higher in the abnormal group (the patients with nerve conduction disorder) compared to the normal (the patients with normal nerve conduction)
+
+Conflict of interest:
+
+Each author declares that he or she has no commercial associations (e.g. consultancies, stock ownership, equity interest, patent/licensing arrangement etc.) that might pose a conflict of interest in connection with the submitted article.
+
+References
+
+Behavior, metabolic control and health-related quality of life in diabetic patients at Bandar Abbas diabetic clinic
+
+Effect of a health education programe on behavior, HbA1C and health-related quality of patient
+
+Epidemiology of diabetes mellitus in Iran
+
+Assessment of effect of applying the transtheoretical model to physical activity on health indexes of diabetic type 2 patients
+
+Diabetic neuropathy
+
+Peripheral neuropathy in type 2 diabetes mellitus in Isfahan, Iran: prevalence and risk factors
+
+Epidemiological correlates of diabetic neuropathy: report from Pittsburgh Epidemiology of Diabetes Complications Study
+
+Treatment of symptomatic diabetic polyneuropathy with the antioxidant α-lipoic acid: a meta-analysis
+
+New insights into the pathogenesis of diabetic neuropathy
+
+Potential risk factors for diabetic neuropathy: a case control study
+
+Glycemic control is related to the electrophysiologic severity of diabetic peripheral sensorimotor polyneuropathy
+
+Evaluative procedures to detect, characterize, and assess the severity of diabetic neuropathy
+
+Electrophysiological techniques in the evaluation of patients with suspected neurotoxic disorder
+
+Clinical electromyography: nerve conduction studies:
+
+Electrodiagnosis: an anatomical and clinical approach
+
+Advances in the epidemiology, pathogenesis and management of diabetic peripheral neuropathy
+
+Clinical and electroneurographic evaluation of neuropathy among diabetic patients in Shiraz
+
+Motor dysfunction in diabetes
+
+Diabetic sensory and motor neuropathy
+

@@ -1,0 +1,164 @@
+TITLE: Renal function as risk factor for diabetic foot ulcers: A meta‐analysis
+
+Abstract
+
+The meta‐analysis aimed to assess renal function (RF) as a risk factor for diabetic foot ulcers (DFUs). Using dichotomous or contentious random or fixed effect models, the outcomes of this meta‐analysis were examined, and the odds Ratio (OR) and the mean difference (MD) with 95% confidence intervals (CIs) were computed. 16 examinations from 2004 to 2023 were enrolled for the present meta‐analysis, including 808 914 individuals with diabetes mellitus (DM). DFU had significantly higher chronic renal failure (OR, 3.17; 95% CI, 1.97–5.09, p < 0.001), higher serum Creatinine (MD, 29.30; 95% CI, 9.68–48.92, p = 0.003), and a low estimated glomerular filtration rate (MD, −15.31; 95% CI, −19.36 to −11.26, p < 0.001) compared to non‐DFU patients with DM. The examined data revealed that DFU had significantly higher chronic renal failure, higher serum Creatinine, and a low estimated glomerular filtration rate compared to non‐DFU patients with DM. Yet, attention should be paid to its values since some comparisons had a low number of selected studies.
+
+INTRODUCTION
+
+It is widely known that anaemia is common in diabetic subjects, indicating the high prevalence of diabetic nephropathy. Nearly 23% of diabetic subjects are said to be nephropathic, according to a report that necessitates assessment when using the gender‐specific definitions of anaemia provided by the World Health Organization (12 g/dL for women and 13 g/dL for males). Even after accounting for renal function (RF), the risk of anaemia was twice as high as that seen in the general population. Additionally, the gender and iron storage of diabetes subjects are thought to be important predictors of anaemia Haemoglobin levels are correlated with other factors, primarily in individuals with mild diabetic nephropathy, including glycated haemoglobin, C‐reactive protein, albuminuria, and diabetes duration. Diabetes‐related foot ulcers have catastrophic, multi‐organ consequences that increase mortality and significantly increase medical expenses. Diabetic foot disease is caused by macrovascular, microvascular, and neuropathy occlusions. The effects of microcirculation changes are believed to have a significant impact on the outcomes of wound healing. Although the link between nephropathy and diabetes is well known, there is still some debate about the relationship between nephropathy and diabetic foot illness, especially when it comes to diabetic foot ulcers (DFUs). Significantly lower kidney function values have been seen in subjects with DFUs compared to diabetic subjects without foot disease. Nephropathy is regarded as a significant risk factor for wound infection, lower extremity amputation, non‐healing ulcers, and mortality. Nephropathy is thought to be a provoking factor in impaired microcirculation, for example, in DFU. Therefore, the purpose of this article is to identify relevant comorbidities and search for any associations and correlations between RF and DFUs in individuals with diabetes.
+
+METHOD
+
+Design of the examination
+
+The meta‐analyses followed a predetermined assessment process and were included in the epidemiological declaration. Numerous databases were accessed for data gathering and analysis, including OVID, PubMed, the Cochrane Library, the Cochrane Central Register of Controlled Trials, Embase, and Google Scholar. These datasets were utilised to compile examinations that compared and evaluated the RF as a risk factor for DFUs.
+
+Data pooling
+
+Comparing DFU and non‐DFU for the RF resulted in several outcomes. Chronic renal failure was the primary inclusion parameter outcome in these results. Language constraints were not taken into consideration while screening candidates and choosing which examination to include. The number of recruited candidates for the examinations was not constrained in any way. We did not include reviews, editorials, or letters in this synthesis because they do not contain an intervention. Figure 1 depicts the complete examination identification process in detail.
+
+Schematic diagram of the examination procedure.
+
+Eligibility of included studies
+
+It is being investigated how RF affects diabetes mellitus (DM) with and without DFU, both positively and negatively. The sensitivity analysis only took into account papers that discussed how interventions affected the frequency of the outcome. The interventional groups were contrasted against a wide range of subtypes to perform sensitivity and subclass analyses.
+
+Inclusion and exclusion criteria
+
+Inclusion criteria
+
+The following were the requirements for inclusion in the meta‐analysis: an evaluation of the results of RFs in DFU compared to non‐DFU in persons with DM. The outcome's expression must be in the proper output for statistical analysis to be applied.
+
+Exclusion criteria
+
+Examinations with a non‐comparative design were not included. In addition, the current assessment did not include letters, books, review articles, or book chapters.
+
+Identification of studies
+
+The PICOS principle, which states that P (population) personals with DM; DFU was the “intervention” or “exposure,” led to the creation and specification of a protocol of search strategies as follows; C (comparison): the comparative effectiveness of DFU compared with non‐DFU. O (outcome): RFs; S (design of the examination): The planned examination had no boundaries.
+
+Using the keywords and related phrases listed in Table 1, we conducted an extensive search of the databases selected up until July 2023. The titles and abstracts of all the papers included in a reference management program, as well as any examinations that did not link the type of treatment to clinical outcomes, were all reviewed. Additionally, two authors act as reviewers to identify pertinent tests.
+
+Database search strategy for inclusion of examinations.
+
+Database	Search strategy	 	Google Scholar	#1 “diabetes mellitus” OR “serum Creatinine”#2 “diabetic foot ulcer” OR “chronic renal failure” OR “estimated glomerular filtration rate”#3 #1 AND #2	 	Embase	#1 ‘diabetes mellitus’ /exp OR ‘serum Creatinine’#2 ‘diabetic foot ulcer’/exp OR ‘chronic renal failure’ Or ‘estimated glomerular filtration rate’#3 #1 AND #2	 	Cochrane library	#1 (diabetes mellitus):ti, ab, kw OR (serum Creatinine):ti, ab, kw (Word variations have been searched)#2 (diabetic foot ulcer):ti, ab, kw OR (chronic renal failure):ti, ab, kw OR (estimated glomerular filtration rate):ti, ab, kw (Word variations have been searched)#3 #1 AND #2	 	Pubmed	#1 “diabetes mellitus”[MeSH] OR “serum Creatinine”[All Fields]#2 “diabetic foot ulcer”[MeSH Terms] OR “chronic renal failure”[MeSH Terms] OR “estimated glomerular filtration rate”[All Fields]#3 #1 AND #2	 	OVID	#1 “diabetes mellitus”[All Fields] OR “serum Creatinine” [All Fields]#2 “diabetic foot ulcer”[All fields] OR “chronic renal failure” OR “estimated glomerular filtration rate” [All Fields]#3 #1 AND #2
+
+Screening of studies
+
+The amount of data was reduced using the following criteria: examination and personal features presented in a standard format; the first author's last name; the time and year of the examination; the nation in which the examination was conducted; and the gender; the population type that was recruited for the examination; the total number of personals; qualitative and quantitative evaluation methods; demographic information; clinical and treatment characteristics. The likelihood of bias in each test as well as the calibre of the methodologies utilised in the examinations that were selected for further inquiry were both examined by two anonymous reviewers. Two reviewers independently evaluated each examination's technique.
+
+Statistical analysis
+
+Using dichotomous or continuous random‐ or fixed‐effect models, the odds ratio (OR) and the mean difference (MD) with a 95% confidence interval (CI) were calculated in the current meta‐analysis. The I 2 index, which ranges from 0 to 100, was calculated (in percent). I 2 = 0 denotes the absence of heterogeneity, while higher I 2 values denote the presence of greater heterogeneity. When I 2 was 50% or above, the random effect was chosen; if I 2 was less than 50%, the choice to employ the fixed effect increased. As previously mentioned, subcategory analysis was carried out by categorizing the results of the initial examination. Using Begg's and Egger's tests for quantitative analysis, publication bias was evaluated and determined to be present if p > 0.05. An analysis with two tails was used to calculate the p‐values. Graphs and statistical analysis were created using Jamovi 2.3.
+
+RESULTS
+
+Following an assessment of 414 pertinent examinations, 16 tests released between 2004 and 2023 were included in the meta‐analysis since they matched the criteria for inclusion. Table 2 summarises the findings of these investigations. 808 914 people with DM were in the used studies' starting point; 5805 of them were DFUs, and 803 109 were non‐DFUs. The sample size was 40–787 252 personals.
+
+Characteristics of studies.
+
+Study	Country	Total	DFU	Non‐DFU	 	Tentolouris, 2004	UK	251	100	151	 	Khanbhai, 2012	UK	40	10	30	 	Yotsu, 2014	Japan	39	5	34	 	Wang, 2014	China	194	32	162	 	Jiang, 2015	China	1333	452	881	 	Cheng, 2015	Taiwan	165	84	81	 	Zhao, 2016	China	411	92	319	 	He, 2017	China	366	227	139	 	Skrepnek, 2017	USA	787 252	2488	784 764	 	Costa, 2017	Brazil	789	135	654	 	Iwase, 2018	Japan	4870	74	4796	 	Aziz, 2020	Saudi Arabia	10 680	1281	9399	 	Shi, 2021	China	1001	494	507	 	Demirkol, 2022	Turkey	407	179	228	 	Gong, 2023	Tanzania	971	72	899	 	Li, 2023	China	145	80	65	 		Total	808 914	5805	803 109
+
+DFU had a significantly higher risk of chronic renal failure (OR, 3.17; 95% CI, 1.97–5.09, p < 0.001) with high heterogeneity (I 2 = 90%), higher serum Creatinine (MD, 29.30; 95% CI, 9.68–48.92, p = 0.003) with high heterogeneity (I 2 = 99%), and a low estimated glomerular filtration rate (MD, −15.31; 95% CI, −19.36 to −11.26, p < 0.001) with low heterogeneity (I 2 = 50%) compared to non‐DFU in patients with DM, as revealed in Figures 2, 3, 4.
+
+The effect's forest plot of the chronic renal failure rate in diabetic foot ulcer (DFU) compared to non‐DFU in personals with diabetes mellitus (DM).
+
+The effect's forest plot of the serum Creatinine level in diabetic foot ulcer (DFU) compared to non‐DFU in personals with diabetes mellitus (DM).
+
+The effect's forest plot of the estimated glomerular filtration rate in diabetic foot ulcer (DFU) compared to non‐DFU in personals with diabetes mellitus (DM).
+
+No indication of examination bias was found using the quantitative Egger regression test or the funnel plot's visual interpretation (p = 0.87) as shown in Figures 5, 6, 7. However, it was discovered that the majority of the relevant examinations had poor practical quality and no bias in selective reporting.
+
+The funnel plot of the chronic renal failure rate in diabetic foot ulcer (DFU) compared to non‐DFU in personals with diabetes mellitus (DM).
+
+The funnel plot of the serum Creatinine level in diabetic foot ulcer (DFU) compared to non‐DFU in personals with diabetes mellitus (DM).
+
+The funnel plot of the estimated glomerular filtration rate in diabetic foot ulcer (DFU) compared to non‐DFU in personals with diabetes mellitus (DM).
+
+DISCUSSION
+
+16 inspections from 2004 to 2023 were enrolled for the present meta‐analysis, comprising 808 914 individuals with DM at the studies' starting point; 5805 of them were DFUs, and 803 109 were non‐DFUs. DFU had significantly higher chronic renal failure, higher serum Creatinine, and a low estimated glomerular filtration rate compared to non‐DFU in persons with DM. Yet, attention should be paid to its values since some comparisons had a low number of selected examinations, for example, estimated glomerular filtration rate.
+
+The findings of this meta‐analysis simply suggest a potential association between nephropathy and worse subject outcomes in this cohort; nephropathy is not inferred as a causal factor by the data analysis. On the other hand, several studies have suggested that nephropathy in subjects with poor peripheral vascular status may obstruct tissue perfusion. Low Hg levels are counterbalanced in healthy individuals by improvements in vascular smooth muscle responsiveness, erythropoietin levels, and peripheral circulation, all of which are neovascularization‐inducing factors. These reflexes are hampered in subjects with microvascular diabetes, despite the clinical effect being minimal in healthy individuals. Due to decreased blood oxygen, low haemoglobin levels in nephropathic subjects are hypothesised to make lower limb ischemia worse. Another way nephropathy could cause thrombus formation is by causing a hyperactive circulatory condition. When DFUs exist compared to diabetic individuals without foot issues, erythrocyte deformability is significantly reduced in nephropathic subjects, according to a study by Cahn et al. These scientists concluded that this notable rise in the proportion of less deformable erythrocytes may obstruct capillary flow and, as a result, postpone ulcer healing. Additionally, compared to non‐diabetic chronic nephropathy, chronic kidney disease brought on by DM was observed to result in earlier and more severe anaemia. Malnutrition, where people with DFUs with nephropathy frequently have insufficient protein intake from their diets, may also be associated with anaemia. When other risk factors were considered, Xie et al. discovered that the geriatric nutritional risk index (GNRI) was an independent predictor of death and amputation. Subjects with high GNRI compared to those with low GNRI experienced a substantial change in Hg level, according to these authors.
+
+Our results show that nephropathy is related to severe DFUs and with higher rates of amputation and death. As a result, a straightforward global measurement like the RFs may be used as a predictive biomarker for individuals with DFUs. Intervention randomised trials are necessary to determine whether nephropathy is a marker or an independent risk factor of serious complications in DFU subjects. These examinations must examine whether therapies aimed at boosting RFs would significantly reduce negative outcomes. According to our research, RFs may be able to forecast negative consequences independently of other predictive variables, for example, lower limb ischemia or other confounders. Nephropathy was shown to be the most significant factor significantly linked with amputation and death using multivariate regression models.
+
+Limitations of the meta‐analysis were as follows: there could be an assortment bias because some of the examinations that were chosen for the meta‐analysis were excluded. Despite this, the omitted examination did not meet the requirements for inclusion in the meta‐analysis. We also required the information to determine if factors like age, gender, and ethnicity affected the outcomes. The examination's objective was to review RF as a risk factor for DFUs. The use of inaccurate or incomplete data from a previous analysis could have increased bias. The individual's nutritional status, together with their race, gender, and age, were probably the root reasons for discrimination. Due to incomplete data and some unpublished studies, values may inadvertently be affected.
+
+CONCLUSIONS
+
+The examined data revealed that DFU had significantly higher chronic renal failure, higher serum Creatinine, and low estimated glomerular filtration rate compared to non‐DFU in persons with DM. Yet, attention should be paid to its values since some comparisons had a low number of selected examinations, for example, estimated glomerular filtration rate.
+
+CONFLICT OF INTEREST STATEMENT
+
+The authors declare that they have no conflict of interest.
+
+DATA AVAILABILITY STATEMENT
+
+On request, the corresponding author is required to provide access to the meta‐analysis database.
+
+REFERENCES
+
+Anaemia in diabetes: an emerging complication of microvascular disease
+
+Nutritional anaemias: report of a WHO scientific group [meeting held in Geneva from 13 to 17 March 1967]
+
+Unrecognized anemia in patients with diabetes: a cross‐sectional survey
+
+Anemia in diabetes: marker or mediator of microvascular disease?
+
+Update on management of diabetic foot ulcers
+
+Microvascular dysfunction in diabetic foot disease and ulceration
+
+Diabetic foot disease is associated with reduced erythrocyte deformability
+
+Assessment of risk factors in diabetic foot ulceration and their impact on the outcome of the disease
+
+FDG‐PET/CT and MRI for evaluation of pathologic response to neoadjuvant chemotherapy in patients with breast cancer: a meta‐analysis of diagnostic accuracy studies
+
+Mortality in diabetic and nondiabetic patients after amputations performed from 1990 to 1995: a 5‐year follow‐up study
+
+Anaemia, inflammation, renal function, and the diabetic foot: what are the relationships
+
+Comparison of characteristics and healing course of diabetic foot ulcers by etiological classification: neuropathic, ischemic, and neuro‐ischemic type
+
+A study of prognostic factors in Chinese patients with diabetic foot ulcers
+
+A cohort study of diabetic patients and diabetic foot ulceration patients in China
+
+Necrotizing fasciitis in patients with diabetes mellitus: clinical characteristics and risk factors for mortality
+
+Association between serum cystatin C and diabetic foot ulceration in patients with type 2 diabetes: a cross‐sectional study
+
+Association between estimated glomerular filtration rate and outcomes in patients with diabetic foot ulcers: a 3‐year follow‐up study
+
+Health care service and outcomes among an estimated 6.7 million ambulatory care diabetic foot cases in the US
+
+Diabetic foot ulcer carries high amputation and mortality rates, particularly in the presence of advanced age, peripheral artery disease and anemia
+
+Incidence of diabetic foot ulcer in Japanese patients with type 2 diabetes mellitus: the Fukuoka diabetes registry
+
+Risk factors for developing diabetic foot ulcer with nephropathy, diabetic kidney disease and renal failure statistical analysis of 10,680 patients' cohort
+
+A potent weighted risk model for evaluating the occurrence and severity of diabetic foot ulcers
+
+Analysis of risk factors for amputation in patients with diabetic foot ulcers: a cohort study from a tertiary center
+
+Clinical characteristics and risk factors of lower extremity amputation in the diabetic inpatients with foot ulcers
+
+Association between anemia and the risk and outcomes of diabetic foot in patients with type 2 diabetes mellitus
+
+Incidence of cutaneous vasoactivity in patients with anemia and pulmonary hypoxia
+
+Anemia on admission predicts short‐and long‐term outcomes in patients with acute ischemic stroke
+
+The high prevalence of unrecognized anaemia in patients with diabetes and chronic kidney disease: a population‐based study
+
+Clinical characteristics and medical costs in patients with diabetic amputation and nondiabetic patients with nonacute amputation in central urban hospitals in China
+
+The geriatric nutritional risk index independently predicts mortality in diabetic foot ulcers patients undergoing amputations
+
+Anemia in patients with diabetic foot ulcer: prevalence, clinical characteristics, and outcome
+

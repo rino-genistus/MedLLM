@@ -1,0 +1,134 @@
+TITLE: The usefulness of the nutrition apps in self-control of diabetes mellitus – the review of literature and own experience
+
+Intensive technology development as well as the COVID-19 pandemic has contributed to the increased interest in the telemedicine and mHealth sector. Increasing availability and use of mobile devices as well as the constantly growing number of nutritional mobile applications, resulted in creating new tools for food and meals nutrients calculation which can be used by patients with diabetes. Variety of mobile applications and multiple functions included in them enable finding applications focused on individual patients’ needs. The scientific data coming from research conducted so far suggest that the regular use of mobile nutritional applications contributes to improving metabolic control of diabetes and the reduction of the value of glycated hemoglobin in patients with diabetes. Innovative solutions bring hope also for a significant improvement in the quality of life of patients.
+
+The aim of this article was to summarize the EBM knowledge about the use of mHealth in self-control and diet of patients with diabetes, especially type 1 and to present and assess the nutrition mobile applications available in polish language according to their functionality in diabetic self-control.
+
+Introduction
+
+According to the current data collected by the International Diabetes Federation, approximately 463 million people live with diabetes mellitus. Furthermore, the number is constantly increasing, and it is estimated that in 2045 it will reach around 700 million. Two point nine million adults and twenty two thousands of children and adolescents were registered as people with diabetes in Poland in 2018. The rapid development of medicine and pharmacy in the field of diabetes has led to an increase in the life expectancy of patients with diabetes and is a big challenge for healthcare professionals – both diabetologists and GPs to guarantee proper diabetes and nutrition education. These problems can be partially solved by telemedicine and the related mHealth, which has been swiftly developing in recent years. The World Health Organization defines telemedicine and telehealth as “healing at a distance”. Until recently, both healthcare professionals and patients were a little sceptical about telemedicine and did not use it commonly. However, the COVID-19 pandemic has proved that telemedicine is not only safe, but also effective and very useful for patient treatment, people with diabetes among others. mHealth, included in the concept of telemedicine, refers to mobile wireless technologies designed to improve public health. Wide access to mobile devices, used not only for communication purposes, but also as a source of information, scientific knowledge, virtual social meetings. and other services, makes the introduction of telemedicine in the form of mobile applications useful for improving access to medicine and increases patients’ awareness of their disease.
+
+The article presents the current knowledge about mobile applications and websites in the field of diabetes, especially those related to nutrition behaviors. In the first part, authors present the mHealth apps in relation to Evidence Based Medicine. Second part was written after the recommended by Department of Children’s Diabetology of Medical University of Silesia in Katowice apps available in Polish language were downloaded to mobile devices by the authors, and then, checked in terms of different functionality, ease of use, product database and possible use in diabetes management.
+
+mHealth applications – evidence based medicine
+
+According to the report of the Office of Electronic Communications for 2019, over 90% of respondents in Poland use mobile phones. Most of them are smartphone users, and 91,2% of the respondents have access to Internet services on their mobile devices. IOS users have access to 2,200,000 applications, and Android users – to 2,600,000 applications, 325,000 of which are mobile health applications. 58% of smartphone users downloaded a health application to their device at least once. The largest part of the applications in the “Health and fitness” and “Medical” sections, available in the Apple App Store, Google Play, BlackBerry Appworld and WindowsPhone Store, are physical activity monitors (30%). Nutritional applications constitute 7.4% of the total pool of mHealth. Research 2 Guidance (R2G) report states that, the healthcare sector dedicated to diabetes treatment is one of the most thriving, profitable, and potentially powerful mHealth sectors. According to R2G it is the sector with the greatest potential in the next 5 years, ahead of obesity, depression, hypertension or CHD. Every year, programs related to monitoring diabetes rank at the top of the applications in the “Medical” section (Fig. 1). Conclusion coming from the data of this report shows that in the next few years this sector of telemedicine should be further analysed in order to create tools aimed at facilitating work with patients with diabetes, thus leading to the improvement of the clinical control of the disease and the quality of patient’s life.
+
+The mHealth sectors with the greatest potential in the next 5 years
+
+In recent years, many articles confirming the effectiveness of using mobile applications in improving glycaemic control among patients with diabetes, in particular those with type 2 diabetes, have been published. Scientific publications report that the use of mobile nutritional applications not only has a positive effect on glycaemic control, but also on weight loss. However, these studies referred mainly to patients with type 2 diabetes. Chinese meta-analysis indicated that mobile app interventions were associated with significant reductions in body weight and waist circumference in patients with diabetes mellitus type 2. Improvement was larger among patients with obesity using mobile app interventions combined with other behavior components. What is interesting, the use of smartphone nutrition apps could even promote a more healthy diet and nutrition. In nine randomized controlled trials it was observed that using such apps led to patients choosing the foods recommended by nutritionists, i.e., foods of higher quality, with lower calorific value and low-fat content, as well as their participation in significantly more intense physical activity. Such complex changes in the lifestyle finally resulted in significantly greater weight loss in comparison with people who did not use mobile apps.
+
+However, there is still a lack of extensive clinical trials addressing the use of mobile nutritional applications in relation to metabolic control in patients with type 1 diabetes. Only single, observational, intervention case-control studies concerning apps use in diabetes mellitus type 1 (DMT1) patients were published. Usually, the authors focus on the usefulness of their proprietary mobile applications in the glycemic control and HbA1C levels in children and adolescents with DMT1. The main function of the applications used in studies was a bolus calculator that automatically calculated the insulin dose when a meal or a specific food product consumed by the patient was added into the system. The products were collected in the application’s database. In the randomized, prospective, open-label controlled clinical trial conducted in Greece, 80 participants were divided into two groups. In the experimental group patients were asked to use the application Euglyca© to calculate the doses of insulin and in the control group they were asked to continue treatment as they used to. After one-year observation it was found that patients using the app presented with statistically significant lower HbA1c values at all time points (every 3 months). Moreover, in the Euglyca© group, the positive correlation between the Diabetes Treatment Satisfaction Questionnaire (DTSQ) score and the rate of normoglycemia was found. Similar results were noted in another study conducted in Switzerland in which participants used the Webdia© application designed by a patient’s father. It was shown that during the three-month experimental period of using the app patients reduced HbA1c by 0.33% compared to the control group without increasing the prevalence of hypoglycemia. Apps are especially useful in patients with unsatisfactory glycemic control measured by HbA1c – for example in Klee’s et al. study patients had baseline HbA1c above 8.0%.
+
+One of the newest forms of nutritional mobile application is the application that analyses the nutrient content using the patient’s voice description of the meal. Such possibilities are provided for example by the GoCarb application. The data confirming an accuracy up to 10 g of carbohydrates in 96% of the analysed products and dishes in relation to calculations of the professional dietitian are very encouraging. Great hopes for the Polish patients with diabetes are also brought by applications that focus on the composition of a meal and its nutritional value based on a photo posted by the user, but so far such mobile applications like for example DiabTrend although translated into Polish are not free and often used.
+
+Interestingly, the steady increase in the number of mobile applications aiming at diabetics’ needs is not related to their widespread use or knowledge of their functionality. Moreover, as the prevalence of generally available nutritional mobile applications grows their use by diabetics is not increasing. According to the Australian, online cross-sectional survey - MILES-2 study, only a minority of adults with type 1 diabetes and with type 2 diabetes (only 24 and 8% respectively) use apps to support their self-management. Importantly, app use among adults with DMT1 is associated with a lower self-reported HbA1c – it should be noticed that the association between HbA1c and app use might either be causal, irrelevant, or just a consequence of using apps. Based on Kebede’s et al. study, it can be concluded that people active on social media, looking for diabetes knowledge among patients – for example belonging to the diabetic groups available on Facebook, are more eager to use mHealth applications. Of the 1,682 study participants (62% with type 1 diabetes and 38% with type 2 diabetes), more than half of patients with type 1 diabetes and two-thirds of those with type 2 diabetes used mobile health applications. The survey contained the list of 145 mobile applications, the most popular of which were those for self-monitoring of glycemia. The second most frequently type of mobile applications among the respondents were those functioning as a food diary. More than two-thirds of respondents with type 1 diabetes and a half of respondents with type 2 diabetes said that the health mobile applications they used were very, if not extremely, useful in treating their diabetes.
+
+On the mHealth market one can currently find applications dedicated to diabetics, as well as generally available dietary applications, whose primary task is to control the diet in order to lead a healthy lifestyle. The advantages of dedicated applications are the ability to monitor blood glucose levels (recording and keeping an electronic diary), reporting carbohydrate consumption, physical activity, body weight, blood pressure and recording doses of oral medications or insulin, as well as the use of a bolus calculator. The described applications not only allow the patient to self-control, but also enable regular contact with healthcare professionals who can conduct an analysis of data collected in the mobile applications. This improves the quality of care and health outcomes of patients with diabetes. Therefore, it becomes very important for healthcare professionals to have an up-to-date knowledge of the availability of the most suitable mobile applications for people with diabetes in order to help them use these applications in a way that benefits the patient as much as possible.
+
+A significant number of mobile applications that could be used by patients do not have clinical trials, so the information contained in them may not be consistent with current clinical guidelines for the treatment of diabetes. Only 14 apps in the Appstore and Google Play in 2016 had either the American Food and Drug Administration (FDA) approval or the CE mark. A systematic review of apps used in diabetes management showed that only 7.1% of the 794 applications analysed on the Spanish market were based on scientific evidence. Another study evaluating the real, medical benefits for apps’ users pointed out that the majority of the 370 self-administered glycaemic management mobile applications analysed by the authors did not provide real-time decision support and patient education on glycaemic regulation. Only 10% of those mobile applications trained users in the glycaemic management and approximately one-third of the mobile applications analysed in the study had goals and reminders to regularly measure blood glucose and glycosylated haemoglobin levels. This may prove particularly dangerous while using applications supporting therapeutic decisions made by patients with diabetes. Among nutritional applications the risk appears to be lower. Nevertheless, people suffering from diabetes should verify mobile applications before installing them and choose those recommended by scientific societies.
+
+Review of selected nutritional mobile applications
+
+The 2018 SMSAPI report shows that the age and gender of users have a significant impact on the preferred way of using the Internet. Among people aged 18–29, 57% of the respondents choose a smartphone, while among people aged 50+ more than 87% would use a computer. Combining these results with telemedicine, one might assume that mobile applications are more widely used by children and adolescents with diabetes, while access to websites on stationary devices is more likely to benefit older people. Another group interested in mobile support of diabetes treatment are guardians of younger children.
+
+Presented applications were downloaded to mobile devices by the authors of the article and checked in terms of available functions. The authors have selected nutritional mobile applications recommended by the Department of Children’s Diabetology, Medical University of Silesia in Katowice, which met the following criteria: app in Polish language, designed for people who want to control the intake of nutrients, with special functions intended for people with diabetes, and available for free.
+
+Table I presents the nutritional functions which may be significant for Patients with diabetes in selected mobile applications.
+
+Selected mobile application comparison according to their function
+
+FatSecret	MyFitnessPal	Fitatu	VitaScale	KalkulatorMedtronic	KalkulatorWBT	 	Google Play Rating	4.7/5	4.4/5	4.7/5	4.8/5	Not available	4.7/5	 	Apple Store Rating	4.8/5	4.7/5	4.6/5	Not available	Not available	5/5	 	website	www.fatsecret.pl	www.myfitesspal.com	www.fitatu.com	www.vitascale.pl	-	-	 	Food diary	+	+	+	+	-	-	 	Calories and nutrients calculator	+	+	+	+	+	-	 	Variety of measurements methods *	+	-	+	+	+	-	 	Nutrition Goals	+	-	+	+	-	-	 	Own recipes history	+	+	+	+	+	-	 	Barcode scanner	+	+	+	+	-	-	 	Exchanger Calculator	-	-	+	+	+	+	 	Bolus Calculator	-	-	-	+	-	-	 	Handling difficultyrating**	Very simple	Difficult	Very simple	Very simple	Simple	Very simple
+
+Variety of choice the unit of measure for the product or food introduced into the mobile application, for example: grams, milliliters, amount of packages, pieces, spoons, glasses
+
+Rated by the article authors. Scale: very simple, simple, difficult, very difficult
+
+FatSecret
+
+FatSecret is a nutrition application designed for people who want to control the amount of calories and nutrients consumed. In addition to the basic nutrition and calories calculator, the application provides other specific information. The developer defines recipes database and meals ideas as “rich”, but does not provide the information on the number of food products and meals available in the application. Food searching becomes easier in time, as the app remembers customers’ recent choices. FatSecret has an artificial intelligence that recognizes food based on photos added by the user, and next from the added photos application makes customers’ food diary. Furthermore, users can share their recipes with other app users.
+
+MyFitnessPal
+
+MyFitnessPal is a nutrition application designed for people who want to control calories and nutrients consumption. Beyond the basic nutrition and calories calculator, the application provides specific information, among which: added sugar, monounsaturated fatty acids and polyunsaturated fatty acids can be distinguished. The database contains over 6 million food products. Food searching becomes easier in time, as the app remembers customer recent choices. Application has also the possibility of entering water intake.
+
+Fitatu
+
+Fitatu is a nutrition application designed for people who want to control calories and nutrients consumption. The application provides basic nutrition and calories calculator as well as specific diet information: protein and their source, saturated fatty acids, monounsaturated fatty acids, polyunsaturated fatty acids in total and divided into omega-3 and omega-6, carbohydrates netto. Food searching becomes easier in time, as the app remembers customers’ recent choices. The database contains over 3 million food products. Besides carbohydrate and protein-fat exchangers calculator, the application calculates the total amount of exchangers.
+
+VitaScale
+
+VitaScale has the functions of a traditional nutritional application and functions dedicated to diabetics. The application has a basic nutrition and calories calculator but also provides specific information, like: sugar, fiber and saturated fatty acids in selected food. The developer describes the database as “huge”, but does not provide information on the number of products and meals available in the application. Users can search products using a mobile keyboard as well as voice. The application has several features designed for people with diabetes, like: carbohydrate and protein-fat exchangers calculator and among which one is diabetic diary. The application works offline.
+
+Kalkulator Wymienników Medtronic
+
+The mobile applications personalized for people with diabetes. Beyond the basic nutrition and calories calculator, the application provides specific information about food, which are: proteins and fats, and fiber. The developer does not provide information on the quantities of food entered. The Application was made based on a reliable source of information: The Polish Food and Nutrition Institute and The Independent Public Children’s Teaching Hospital in Warsaw (Department of Pediatric Diabetology and Pediatrics). Unfortunately, Medtronic has already completed the official distribution of the application, patients who installed the application before the company’s decision can use it to this day. The application wKalkulator WBT
+
+The mobile application is personalized for people with diabetes. Application does not contain a database. The user enters the necessary information into the application each time. To calculate the number of protein-fat exchangers, users must enter the weight of proteins and fats or the weight of carbohydrates, then the number of calories in the food are shown. To calculate the carbohydrate exchanges, the weight of carbohydrates in the tested product or meal is needed. The application works offline.
+
+3MC Kalkulator wymienników
+
+This calculator is a child with type 1 diabetes parents’ project and an integral part of the 3mamcukier.pl website. It provides information like basic nutritional values (calories, carbohydrates, proteins and fats) as well as carbohydrate and protein-fat exchanges in the entered quantity of a product and meals in a simple, quick way. In addition, the application has a bolus calculator, enriched with the possibility to calculate complex boluses based on the WPTS (Warsaw Pump Therapy School) algorithm. 3MC Kalkulator Wymienników is the only paid mobile application included in the article. A one-time small fee in the amount of PLN 8.99 gives user lifetime access to all the application features.
+
+The author does not provide information on the size of the database, but ensures it is constantly being updated, which makes its content reliable and credible. 3MC Kalkulator Wymienników contains information on basic food products, dishes from popular restaurants, fast food bars and recipes dedicated to diabetics published by the authors of the blog on their website. Moreover, users have an option of submitting their own suggestions of the products and dishes that should be included in the calculator’s database. Food searching becomes easier in time, as the app remembers customers recent choices. According to the authors, use of the 3MC is very simple, but the application has some technical imperfection – it freezes frequently.
+
+Summary
+
+The basic elements of effective treatment of diabetes, and thus prevention of the development of its complications, are a healthy lifestyle (proper diet and regular physical activity) and glycaemic self-control. The use of dietary mobile applications and websites in diabetes management is an effective way to prevent disease progression and improve the quality of patient’s life. The number of mHealth applications available in the Polish language is constantly growing but these applications are rarely dedicated to people suffering from diabetes. As a result, they only contain basic dietary functions such as calculating the calorie, carbohydrate, protein, and fat content of meals. Only few applications provide information on the content of carbohydrate and protein-fat exchanges or include a bolus calculator.
+
+Nutrition calculators available on websites and in mobile applications allow for much faster and more accurate calculation of basic nutritional values in consumed meals compared to traditional methods, such as tables and books containing nutritional values or ready conversion of carbohydrate exchanges per 100 grams of a product or a specific portion. Furthermore, the applications provide vast product databases that can be used to calculate basic nutritional values of dishes regardless of where a particular person is, without having to check printed diet tables. This may have a positive effect in proper calculation of meals in extraordinary situations. The mobility of mHealth apps also speaks for their usefulness. Nevertheless, a significant number of patients with diabetes decide not to use these solutions due to insufficient personalization options in the applications. Additional information on diabetes and functions such as exchanges calculator, glycaemic index and glycaemic load of products could encourage a wider group of patients to include mobile applications in self-monitoring of their disease. However, the currently available mobile applications already have positive results in improving metabolic control and the comfort of life of people with diabetes. Therefore, every person suffering from diabetes should try to find an application that is safe, approved and suits their preferences and needs and use it on a regular basis.
+
+IDF DIABETES ATLAS 9th Edition
+
+Cukrzyca
+
+Telemedicine can lower costs and improve access
+
+Zestawienie liczbowe lekarzy i lekarzy dentystów wg dziedziny i stopnia specjalizacji z uwzględnieniem podziału na lekarzy wykonujących i niewykonujących zawodu
+
+Narodowy Fundusz Zdrowia
+
+WHO, Telemedicine: opportunities and developments in Member States: report on the second global survey on eHealth
+
+mHealth: use of mobile wireless technologies for public health, EB139/8
+
+IDF Europe’s position on mobile applications in diabetes
+
+Badanie opinii publicznej w zakresie funkcjonowania rynku usług telekomunikacyjnych oraz preferencji konsumentów
+
+OSOZ – Ogólnopolski System Ochrony Zdrowia, Raport Specjalny, KAMSOFT S.A., Katowice
+
+Research 2 Guidance, the app market specialists. mHealth App Developer Economics
+
+Rapid Evidence Review of Mobile Applications for Self-management of Diabetes
+
+mHealth App Developer Economics 2014
+
+Mobile App-Based Interventions to Support Diabetes Self-Management: A Systematic Review of Randomized Controlled Trials to Identify Functions Associated with Glycemic Efficacy
+
+Use of Mobile Phone App Interventions to Promote Weight Loss: Meta-Analysis
+
+Mobile Application Interventions and Weight Loss in Type 2 Diabetes: A Meta-Analysis
+
+Effectiveness of Mobile Health Interventions on Diabetes and Obesity Treatment and Management: Systematic Review of Systematic Reviews
+
+Smartphone applications for promoting healthy diet and nutrition: A literature review
+
+The Beneficial Effect of the Mobile Application Euglyca in Children and Adolescents with Type 1 Diabetes Mellitus: A Randomized Controlled Trial
+
+An Intervention by a Patient-Designed Do-It-Yourself Mobile Device App Reduces HbA1c in Children and Adolescents with Type 1 Diabetes: A Randomized Double-Crossover Study
+
+Accuracy of Automatic Carbohydrate, Protein, Fat and Calorie Counting Based on Voice Descriptions of Meals in People with Type 1 Diabetes
+
+The Use of Mobile Applications Among Adults with Type 1 and Type 2 Diabetes: Results from the Second MILES-Australia (MILES-2) Study
+
+Popular Diabetes Apps and the Impact of Diabetes App Use on Self-Care Behaviour: A Survey Among the Digital Community of Persons With Diabetes on Social Media
+
+Diabetes digital app technology: benefits, challenges, and recommendations. A consensus report by the European Association for the Study of Diabetes (EASD) and the American Diabetes Association (ADA) Diabetes Technology Working Group
+
+Mobile phone applications for diabetes management: A systematic review
+
+Decision Support and Alerts of Apps for Self-management of Blood Glucose for Type 2 Diabetes
+
+Komunikacja Marki, oczekiwania konsumenta
+

@@ -1,0 +1,308 @@
+TITLE: Depression in High-Risk Type 2 Diabetes Adults
+
+Background:
+
+Patients suffering from diabetes mellitus are two to three times more vulnerable to develop depressive symptomatology.
+
+Purpose:
+
+To report the association between depression and high-risk diabetes in India.
+
+Methods:
+
+A total of 1,606 adults were recruited for the study. A patient health questionnaire was used to determine the depression on the basis of score. A statistical analysis was done using analysis of covariance (ANCOVA) and binary logistic regression to determine the association between diabetes categories and four degrees of depression.
+
+Results:
+
+Out of 1,606 participants, 52.6% were males and 47.4% were females, 56.4% belonged to the urban area and 43.6% to the rural area. However, 19.5% (314) had diabetes; 29.1% of diabetes individuals had minimal depression, 38.7% had mild, 17.2% moderate, 12.0% moderately severe, and 3.1% had severe depression. In the self-reported diabetic participant group (N = 142), there was a significantly higher degree of severe depression (3.3%) in the uncontrolled group (HbA1c >7%) as compared to the well-controlled diabetes group (HbA1c <7%). ANCOVA in gender differences in the uncontrolled diabetes group showed that male gender had significantly (P = –.02) higher mean scores of depression.
+
+Conclusion:
+
+This study found that there is a positive association between depression and uncontrolled diabetes in male gender.
+
+Introduction
+
+Diabetes is a common and fatal metabolic disease that is highly prevalent worldwide and is characterized by elevated levels of glucose in the bloodstream. It is considered as one of the largest health concerns of the 21st century as per reports obtained from International Diabetes Federation. Furthermore, the global prevalence of diabetes was found to be 1 in every 11 adults, and that of glucose intolerance was 1 in every 15 adults in the year 2015. The number has been increasing and would surge in the coming years by several folds, possibly because of a sedentary, unhealthy, and stressful lifestyle adopted by people. The current unsettling picture of adult lifestyles and their vulnerability to diseases has posed a significant socioeconomic burden on the health care system, which is evident in the current scenario of the COVID-19 outbreak. There is ample evidence suggesting that unregulated diabetes causes severity and mortality in people who have different types of viral infections. Furthermore, there are several other reports which suggest that the diabetic people are more prone to develop COVID-19 symptoms and mortality.
+
+Diabetes is closely related to depression. Diabetes and depression are serious and debilitating illnesses that need a proper and timely treatment to prevent and/or manage their adverse effects on people’s well-being. Diabetes affects more than 264 million people worldwide. There is no clear evidence in the literature about the causal connection between depression and diabetes. Irrespective of the causal sequence between depression and anxiety, it is crucial to understand the comorbid relationship between depression and diabetes. Numerous studies have shown the occurrence of depression in diabetic individuals. The prevalence of depression in these patients ranges from approximately 11% in low-income countries to 15% in high-income countries.
+
+Depression is placed on the fourth position, whereas diabetes in the eighth position concerning the principal cause of disability in the developed countries. Depression greatly influences mood, cognitive abilities, behavior, logical reasoning, thinking abilities, social relationships, community involvement, and ability to lead an active lifestyle. People who have diabetes can go into a state of depression, which could be mild, moderate, or severe, with or without psychosis-like traits. Accumulating evidence in the literature indicates that previously diagnosed diabetes patients show noticeably elevated symptoms of depression as compared to healthy individuals or prediabetes individuals, whereas undiagnosed diabetic patients show a moderate increase of depressive symptomology.
+
+Furthermore, people with type 2 diabetes may have double the risk of developing depressive symptoms. In contrast, people with type 1 diabetes may be at thrice the risk of developing depression symptoms as compared to healthy individuals. Diabetic individuals also have a nearly 40% higher risk of developing anxiety symptomology irrespective of types of diabetes. The prognosis of diabetes worsens because of the occurrences of depression and anxiety in individuals as well as physicians’ difficulty in diagnosing and treating them as comorbid medical conditions. Eventually, the comorbid conditions of depression and diabetes affect people’s quality of life and increase the fatality rate. Furthermore, there are several lines of evidence that indicate depression can increase the risk of development and progression of type 2 diabetes by 60%. Thus, it is indispensable to comprehend the underlying pathological mechanisms that are associated with both depression and diabetes, which could assist in providing a better treatment to the patients suffering from these comorbidities.
+
+In India, the growing diabetes population and fatality rate of 1 million in 2012 portray an unsettling and disturbing picture. An estimate in 2011 indicates that there were 61.3 million people in India between the ages of 20 and 79 years with diabetes, which is likely to grow over 100 million over a decade. A staggering number of more than 77 million people in India (2013 estimate) live with prediabetes conditions. India’s annual cost concerning the diabetes treatment/management was estimated in 2011 to be $38 billion, and on average, 25% of low-income families’ income in India was spent on diabetes treatment. A lack of adequate studies to understand and inform practice concerning diabetes and comorbid conditions such as depression and anxiety complicates the current scenario. This study tries to fill the gap in advancing the understanding of the severity of diabetes and comorbid conditions in India as well as intends to broaden the knowledge of achieving sustainable outcomes through yoga and other behavioral interventions along with medical interventions.
+
+In the present study, we have hypothesized that people in India suffering from diabetes are at a higher risk of developing symptoms of depression. This study will help abet in the treatment of diabetes and depression as comorbid conditions to decrease the fatality rate and improve the quality of life of the vulnerable population.
+
+Methodology
+
+Study Setting and Study Population
+
+In this current study, a sample (N = 1,606) of the adult population was taken, which consisted of 142 self-reported diabetes, and 1,464 unknown diabetics within the age range of 20 to 70 years. In the sample, there were 52.6% males and 47.4% females. 56.4% of the population was from the urban areas (56.4%) and 43.6% were from the rural areas.
+
+Study Design
+
+Patient Health Questionnaire (PHQ)
+
+Over the last two weeks, how often have you been bothered by any of the following problems?	 	1.	Little interest or pleasure in doing things	 	2.	Feeling down, depressed, or hopeless	 	3.	Trouble falling or staying asleep, or sleeping too much	 	4.	Feeling tired or having little energy	 	5.	Poor appetite or overeating	 	6.	Feeling bad about yourself—or that you are a failure or have let yourself or your family down	 	7.	Trouble concentrating on things, such as reading the newspaper or watching television	 	8.	Moving or speaking so slowly that other people could have noticed. Or the opposite—being so fidgety or restless that you have been moving around a lot more than usual	 	9.	Thoughts that you would be better off dead or of hurting yourself in some way
+
+Notes: Scoring for each question: 0 = not at all; 1 = several days; 2 = more than half the days; and 3 = nearly every day.
+
+Key for depression: 0–4 = minimal, 5–9 = mild, 10–14 = moderate, 15–19 = moderately severe, and 20–27 = severe.
+
+The data used for this study has been taken from a large nationwide study planned as a randomized cluster sample study in India in 2017. The details of the methodology have been published. In brief, the previous study was concluded in two phases. Phase I was a rapid national sampling survey for estimating the present prevalence of high diabetes risk and self-reported diabetes. The survey was followed by detailed investigations [glycated hemoglobin (HbA1c), fasting blood sugar, postprandial blood sugar, lipid profile tests as well as patient health questionnaire (PHQ)] of those who indicated high diabetes risk on the Indian Diabetes Risk Score (>60 on IDRS) (Table 1). Phase II was a waitlisted two-armed cluster randomized yoga-based intervention for three months for behavioral lifestyle modification.
+
+Assessments
+
+The level of depression was assessed by a PHQ. PHQ-9, an easy-to-use questionnaire, is a self-administered version of the primary care evaluation of mental disorders (PRIME-MD) diagnostic instrument for depression. PHQ-9 scores each of the nine diagnostic and statistical manual for of mental disorders (DSM-IV) criteria as “0” (not at all) to “3” (nearly every day) and is a valid instrument for use in primary care settings. The instrument was used in this study to diagnose and monitor the severity of depression as treatment responses. Depression diagnoses were tentative diagnoses in at-risk populations, and patients were monitored for emergency services following the ethical considerations. Figure 1 shows a comparison between controlled and uncontrolled diabetes–depression scores.
+
+Comparison Between Controlled and Uncontrolled Diabetes–Depression Scores
+
+Abbreviation: phstotal—patient health questionnaire total score.
+
+The validity of PHQ-9 was assessed against independent structured mental health professional interviews. PHQ-9 has 61% sensitivity and 94% specificity in adults, with an internal consistency of 0.88.
+
+Data Collection
+
+The senior research fellow (SRFs) took responsibility with the zonal coordinators of discussing with the village/town leaders, introducing the Yoga Volunteer for Diabetes Mellitus (YVDM), giving awareness talks to prepare for a door-to-door screening followed by assessment camps. Data was collected in two steps – First step was to conduct house-to-house survey and second step was to perform blood check up in patients through assessment camps.
+
+Statistical Analysis
+
+Data was collected and uploaded via mobile apps by trained field researchers. The uploaded data from screening forms and registration forms, and laboratory data were screened for the perfect matching of coding. The data was cleaned in MS Excel and analyzed using the R software for biostatistical analyses. Depression scores were analyzed for PHQ total scores by using the key: 0 to 4 = minimal, 5 to 9 = mild, 10 to 14 = moderate, 15 to 19 = moderately severe, and 20 to 27 = severe. A comparison between diabetes and non-diabetes individuals was made by repeated ANCOVA. Cross-tabs were applied to check the distribution of depression amongst diabetes people. Cramer’s V was applied to check the significance of the dispersal. Logistic regression was used for statistical analyses to find the relationship between depression and diabetes.
+
+Results
+
+Logistic Regression of Depression With Diabetes
+
+Degrees of depression	Known Diabetes	New Diabetes	Total Diabetes	Uncontrolled Self-Reported Diabetes	 	Odds Ratio  (CI)	P- Value	Odds Ratio	P-Value	Odds Ratio	P- Value	Odds Ratio	P- Value	 	Total score	0.98 (0.96–1.04)	.10	0.98 (0.95-1.03)	.03	0.99 (0.98–1.01)	.49	1.028 (0.98–1.08))	.29	 	Mild	1.32  (0.87–2.01)	.19	1.84 (0.63–5.3)	.26	1.34  (0.98–1.84)	.07	0.794 (0.35–1.78 )	.58	 	Moderate	0.78  (0.47–1.32 0)	.36	1.76 (0.61–5.13)	.30	0.837 (573–1.221)	.356	0.913 (0.33–2.53)	.86	 	Moderately severe	0.80 (0.43–1.48)	.48	2.370 (0.81–6.98)	.12	0.93  (0.61–1.43)	.74	1.704 (0.50–5.80)	.39	 	Severe	0.46  (0.14–1.54)	.21	1.48 (0.47–4.62)	.51	0.80  (0.38–1.68)	.556	2.556 (0.21–30.47)	.46
+
+Comment: There was a significantly lower association between depression and newly diagnosed diabetics.
+
+Notes: Known diabetes is positively nonsignificantly associated with mild depression; new diabetes is positively nonsignificantly associated with moderately severe depression; total diabetes is positively nonsignificantly associated with mild depression; and uncontrolled self-declared diabetes is positively nonsignificantly associated with severe depression.
+
+For the analysis of depression among people with diabetes, and at the risk of developing diabetes, a sample of 1,606 individuals was taken using a randomized cluster sampling. In the sample (N = 1,606), there were 52.6% males, 47.4% females, 56.4% urban, and 43.6% rural. There were 8.9% (N = 142) self-reported diabetics and 11.7% were newly diagnosed diabetics (as shown in Table 2).
+
+Association
+
+Total Diabetes
+
+Degrees of Depression in Different Categories
+
+Categories	Total Depression Score	% in Minimal Category (0–4)	% in Mild Category (5–9)	% in Moderate Category (10–14)	% in Moderately Severe Category(15–19)	% in SevereCategory(20–27)	 	Overall diabetes	Self-reported +newly diagnosed	6.32 ± 6.07	29.1%	38.7%	17.2%	12.0%	3.1%	 	Known diabetes	Controlled HbA1c (<7%)	5.52 ± 5.34	28.4%	45.7%	17.3%	7.4%	1.2%	 	Uncontrolled HbA1c (>7%)	6.41 ± 6.11*	29.5%	37.7%	16.5%	13.1%	3.3%	 	Overall diabetes	Controlled HbA1c (<7%)	6.62± 6.07	27.5%	39.8%	17.9%	11.6%	3.2%	 	Uncontrolled HbA1c (>7%)	5.66 ± 5.97 ns	33.3%	37.7%	14.5%	11.6%	2.9%	 	Only newly diagnosed diabetes (HbA1c >6.5%)	Controlled HbA1c (<7%)	5.06 ± 5.40	35.0%	30.0%	22.5%	12.5%	0.0%	 	Uncontrolled HbA1c (>7%)	5.81 ± 5.98 ns	28.8%	31.8%	26.5%	9.8%	3.0%	 	Nondiabetes	(HbA1c <5.7%)	6.56 ± 6.28	30.6%	30.3%	21.6%	13.5%	4.0%
+
+Notes: There was nonsignificant differences between diabetes vs. nondiabetes individuals.
+
+There was nonsignificant differences between controlled diabetes vs. uncontrolled diabetes individuals in either the total score or subcategories of the severity of depression.
+
+NS—not significant; *Significant.
+
+In overall diabetes, 29.1% had minimal depression, 38.7% had mild depression, 17.2% had moderate depression, 12.0% had moderately severe depression, and 3.1% had severe depression (as shown in Table 3).
+
+Total Diabetes Uncontrolled
+
+In total diabetes, 33.3% had minimal depression, 37.7% had mild depression, 14.5% had moderate depression, 11.6% had moderately severe depression, and 2.9% had severe depression. The association was not significant (Cramer’s value = –0.08; as shown in Table 2).
+
+Known Diabetes Uncontrolled
+
+In known diabetics (HbA1c>7), 29.5% had minimal depression, 37.7% suffered from mild depression, 16.5% had moderate depression, 13.14% had moderately severe depression, and 3.3% were having severe depression. The association was not significant (Cramer’s value = –0.07; as shown in Table 2).
+
+Newly Diagnosed Diabetes Uncontrolled
+
+In newly diagnosed diabetics, 28.8% had minimal depression, 31.8% had mild depression, 26.5% suffered from moderate depression, 9.8% had moderately severe depression, and 3% had severe depression. The association was not significant (Cramer’s value = –0.07; as shown in Table 2).
+
+Nondiabetes
+
+In nondiabetes, 30.6% had minimal depression, 30.3% had mild depression, and 21.6% had moderate depression. Furthermore, 13.5% suffered from moderately severe depression, and 4% had severe depression. The association was nonsignificant (Cramer’s value = 0.13; as shown in Table 2).
+
+Odds Ratio
+
+Total diabetes, known diabetes, and uncontrolled self-reported diabetes were associated with depression nonsignificantly. New diabetes was associated with moderate and severe depression nonsignificantly. Uncontrolled diabetes was associated with moderate 0.91 (0.33-2.53) and severe depression significantly 1.28 (0.82-1.99; Table 3).
+
+Association With Complications
+
+The diabetic complication in the peripheral neuropathy group was associated with severe depression but was nonsignificant 1.43 (0.80-2.54). Patients with diabetes and stroke were associated with severe depression, but the association was nonsignificant 1.57 (0.58-4.25). Patients with diabetes who had undergone heart surgery were found to be associated with mild depression, and the co-relation was significant 2.55 (1.23-5.29). Patients with diabetes and undergoing angiography were associated with severe depression, but the association turned out to be nonsignificant (3.30 [0.82-13.4]).
+
+The statistical results indicate that a higher severity rate of depression (higher odds) has greater chances of getting complications of diabetes (as shown in Table 4). A comparison between self-reported controlled (normal range) and uncontrolled diabetes groups indicated that uncontrolled diabetics had higher mean scores for depression. In self-reported uncontrolled diabetic (HB1C>7) males were having more depression than females. The mean difference was significant (as shown in Table 5). Figure 2 shows estimated marginal means of depression in (a) known diabetic controlled versus uncontrolled (b) males versus females diabetic patients.
+
+Estimated Marginal Means of Depression in (A) Known Diabetic Controlled vs. Uncontrolled; (B) Males vs. Females Diabetic Patients
+
+Depression in Individuals With Complications
+
+Depression	Peripheral Neuropathy	Stroke	Heart Surgery	Angiogram	 	Total Score	Odds Ratio  (CI)	P- Value	Odds Ratio	P- Value	Odds Ratio	P- Value	Odds Ratio	P- Value	 	Mild	1.14 (0.83–1.58)	.41	1.07 (0.59–1.91)	.84	2.55 (1.23–29)*	.012	1.05 (0.35–3.12)	.941	 	Moderate	1.27 (0.89–1.79)	.19	1.10 (0.582.11)	.79	2.06 (0.92–4.63)	.08	2.05 (0.73–5.81)	.175	 	Moderately severe	0.95 (0.62–1.46)	.82	0.84 (0.37–1.90)	.67	2.01 (0.81–4.99)	.13	2.22 (0.71–6.95)	.169	 	Severe	1.43 (0.80–2.54)	.23	1.57 (0.58–4.25)	.37	1.97 (0.53–7.28)	.31	3.31 (0.82–3.41)	.094
+
+Note: There was a strong predictive association between depression and cardiac surgery.
+
+*Significant.
+
+Gender Difference in Controlled/Uncontrolled Self-Reported Diabetes
+
+Dependent Variable: phstotal—patient health questionnaire total	 	Diabetes Status	Controlled/Unco ntrolled	Gender	Mean	Std. Deviation	N	 	Self-reported diabetes (no)	HbA1c <7	Male	6.75	6.29	927	 	Female	6.52	6.49	787	 	Total	6.65	6.38	1,714	 	HbA1c >7	Male	5.96	6.19	84	 	Female	5.70	5.84	108	 	Total	5.81	5.98	192	 	Total	Male	6.68	6.28	1,011	 	Female	6.43	6.42	895	 	Total	6.56	6.35	1,906	 	Self-reported diabetes (yes)	HbA1c <7	Male	6.44	5.61	52	 	Female	4.70	4.99	58	 	Total	5.52	5.34	110	 	HbA1c >7	Male	7.33	6.87	36	 	Female	5.65	5.34	43	 	Total	6.41	6.11	79	 	Total	Male	6.80	6.14	88	 	Female	5.10	5.14	101	 	Total	5.89	5.67	189
+
+Discussion
+
+The results of this study have been drawn from 1,606 subjects from India using a randomized control cluster sampling. The statistical analyses of the data indicate a significant finding of the comorbid relationships of diabetes with depression. The result of this study conforms to the evidence in the literature that levels of depression are higher in subjects with diabetes as compared to normoglycemic subjects. The outcomes of this study highlight a statistically significant higher incidence of depression in new diabetic individuals and patients with prior heart surgery and diabetes. The intersectionality of known uncontrolled diabetes and depression is higher as compared to the comorbid incidence of new diabetes and depression in the moderately severe and severe ranges, but the association of overall diabetes with depression is significant in the new diabetes group only. The opportunities for intervention for new diabetic patients could be promising for improving their quality of life.
+
+Furthermore, our finding indicates that depression is prevalent more in males as compared to females (as shown in Table 5). It is crucial to investigate whether diabetes is more prevalent in men or women because many studies suggest that behavior and attitude related to diabetes care are distinct in different genders. Females are more vulnerable to develop diseases as they have greater responsibilities to fulfil at home as compared to men. Studies conducted on diabetic adults have revealed that the metabolic control is poor in females than males, which may be related to the hormonal changes during puberty. Previous studies have shown that females who are suffering with diabetes have an increased level of depression as compared to diabetic males.
+
+The factors that cause depression in diabetic individuals are elusive. It is likely that depression occurs as a result of biological and psychosocial factors. Moreover, it is seen that diabetic patients with comorbidities are more vulnerable to develop the symptoms of depression. Patients with depression tend to have a poorer glucose regulation as compared to patients without depression.
+
+The evidence for yoga and mindfulness being significantly effective in managing diabetes is present in the literature. The mechanics of psychosocial and behavioral interventions with at-risk and new diabetic patients may have a better prognosis because of being preventative. In contrast, such interventions with uncontrolled diabetic patients could be lifesaving and can significantly improve the mental health, which in turn can help them to be active and change their lifestyle and manage diabetes effectively. Depression and diabetes may have genetic components; however, the impact of environmental factors on the risk of developing diabetes and depression and having lasting negative impacts on the prognosis and quality of life of the patients and family members may be greater. A higher incidence of depression and uncontrolled diabetes in new diabetics in this study may be indicative of a lack of awareness, sedentary lifestyles, and mental health interference with their abilities to access appropriate and adequate behavioral and medical help.
+
+Furthermore, depressive symptoms are common in neurodegenerative diseases. Several studies have identified various biomarkers associated with the development and progression of disease. Depressive symptoms may appear in neurological disorders, as brain, mind, and behavior are all related; hence, depression-related biomarkers need to be established in diabetes. There are studies which have described the potential of traditional ayurvedic medicines and stem cells in the treatment of neurodegenerative diseases. As depressive symptoms may appear in such diseases, these ayurvedic drugs can be used in their treatment. Ambati et al. showed that mice lacking monocyte chemoattractant protein and its receptor develop symptoms of age-related macular degeneration neurological disease.
+
+Although this study is limited by not able to establish causal relationships between diabetes and depression, it demonstrates the evidence for the current Indian population’s vulnerability to diabetes and depression as well as windows of opportunities for their detection, prevention, and intervention. This study indicates that future works may be aimed at behavioral and pharmacological interventions to achieve sustainable outcomes for individuals vulnerable to diabetes by creating awareness about preventative measures, such as yoga and mindfulness activities, which can be performed in the home environment. Theory-based path analyses for understanding the mediating and moderating factors responsible for the progression of depression in diabetic patients may be helpful for preventative work and improving patients’ quality of life. Seeking sustainable outcomes through yoga and mindfulness may help alleviate diabetes- and depression-related psychosocial and financial stressors on families and society as a whole.
+
+Authors Contribution
+
+DM was involved in writing the manuscript. VS was involved in editing the manuscript and writing the discussion. SP was involved in raw data and analysis. SKR and AS were involved in data acquisition. HRN was involved in supervision and monitoring of data. RN (principal investigator (PI) conceptualized, edited, and finally approved the manuscript. AA was involved in giving the concept of this article.
+
+Declaration of Conflicting Interests
+
+The authors declared no potential conflicts of interest with respect to the research, authorship, and/or publication of this article.
+
+Ethical Statement
+
+Following a detailed presentation by the PI, the IYA’s IEC cleared the proposal after scrutinizing the complete project proposal including informed consent forms. The study was registered on CTRI (Registration Number–Trial REF/2018/02/017724).
+
+Funding
+
+This nationwide project was funded by the Ministry of Health and Family Welfare, and the Ministry of AYUSH (through CCRYN), Government of India, New Delhi, India.
+
+Prevalence and awareness of stroke and other comorbidities associated with diabetes in Northwest India
+
+Using psychoneuroimmunity against COVID-19
+
+Physically active lifestyle as an approach to confronting COVID-19
+
+Spectrum of clinical and radiographic findings in patients with diagnosis of H1N1 and correlation with clinical severity
+
+Plasma glucose levels and diabetes are independent predictors for mortality and morbidity in patients with SARS
+
+Risk factors for severity and mortality in patients with MERS-CoV: Analysis of publicly available data from Saudi Arabia
+
+Clinical characteristics of coronavirus disease 2019 in China
+
+Characteristics of and important lessons from the coronavirus disease 2019 (COVID-19) outbreak in China: Summary of a report of 72,314 cases from the Chinese Center for Disease Control and Prevention
+
+Case-fatality rate and characteristics of patients dying in relation to COVID-19 in Italy
+
+The association between diabetes mellitus and depression
+
+Detecting depression in patients with coronary heart disease: A diagnostic evaluation of the PHQ-9 and HADS-D in primary care, findings from the UPBEAT-UK study
+
+Screening for poststroke depression using the patient health questionnaire
+
+Prevalence of depression in patients with type 2 diabetes mellitus and its impact on quality of life
+
+Prevalence and predictors of depression and anxiety in patients of diabetes mellitus in a tertiary care center
+
+The prevalence of comorbid depression in adults with diabetes: A meta-analysis
+
+Comorbid depression is associated with increased health care use and expenditures in individuals with diabetes
+
+Prevalence and costs of major depression among elderly claimants with diabetes
+
+Cross-national epidemiology of DSM-IV major depressive episode BMC Med
+
+Association of depression with prediabetes, undiagnosed diabetes, and previously diagnosed diabetes: A meta-analysis
+
+Epidemiology of depression and diabetes: A systematic review
+
+Prevalence of anxiety in adults with diabetes: A systematic review
+
+Depression and diabetes treatment nonadherence: A meta-analysis
+
+Quality of life in medically ill persons with comorbid mental disorders: A systematic review and meta-analysis
+
+Depression and all-cause and coronary heart disease mortality among adults with and without diabetes
+
+Depression and type 2 diabetes over the lifespan: A meta-analysis
+
+Elevated depression symptoms, antidepressant medicine use, and risk of developing diabetes during the diabetes prevention program
+
+Comorbidity between type 2 diabetes and depression in the adult population: Directions of the association and its possible pathophysiological mechanisms
+
+The link between depression and diabetes: The search for shared mechanisms
+
+The burden of diabetes: Emerging data
+
+The socioeconomics of diabetes from a developing country: A population-based cost of illness study
+
+Economic burden of diabetic patients in India: A review
+
+Prevalence of diabetes and prediabetes (impaired fasting glucose and/or impaired glucose tolerance) in urban and rural India: Phase I results of the Indian Council of Medical Research–India Diabetes (ICMR–INDIAB) study
+
+The socioeconomics of diabetes from a developing country: A population-based cost of illness study
+
+Niyantrita Madhumeha Bharata 2017, methodology for a nationwide diabetes prevalence estimate: Part 1
+
+A simplified Indian Diabetes Risk Score for screening for undiagnosed diabetic subjects
+
+The PHQ-9: Validity of a brief depression severity measure
+
+Psychometric comparison of PHQ-9 and HADS for measuring depression severity in primary care
+
+Detecting depression in patients with coronary heart disease: A diagnostic evaluation of the PHQ-9 and HADS-D in primary care, findings from the UPBEAT-UK study
+
+Screening for poststroke depression using the patient health questionnaire
+
+Type 2 diabetes mellitus is associated with social recognition memory deficit and altered dopaminergic neurotransmission in the amygdala
+
+Comparative validity of three screening questionnaires for DSM-IV depressive disorders and physicians’ diagnoses
+
+Gender roles illness orientation and use of medical services
+
+Impaired insulin action in puberty. A contributing factor to poor glycemic control in adolescents with diabetes
+
+Quality of life and depression among patients with type I diabetes: A study of gender differences
+
+The prevalence of co-morbid depression in adults with type 1 diabetes: Systematic literature review
+
+Association of depression and diabetes complications: A meta-analysis
+
+Treatment of depression in diabetes: Impact on mood and medical outcome
+
+Perceived stress and depression in prediabetes and diabetes in an Indian population: A call for a mindfulness-based intervention
+
+Partitioning of radiological, stress and biochemical changes in prediabetic women subjected to diabetic yoga protocol
+
+Effectiveness of yoga as the public health intervention module in the management of diabetes and diabetes associated dementia in South East Asia: A narrative review
+
+CC chemokine receptor-3 as new target for age-related macular degeneration
+
+Vascular endothelial growth factor and monocyte chemoattractant protein-1 levels unaltered in symptomatic atherosclerotic carotid plaque patients from north India
+
+New biomarker for neovascular age-related macular degeneration: Eotaxin-2
+
+Genetic screening reveals high frequency of PARK2 mutations and reduced Parkin expression conferring risk for Parkinsonism in North West India
+
+Soluble VEGFR1 (sVEGFR1) as a novel marker of amyotrophic lateral sclerosis (ALS) in the North Indian ALS patients
+
+Single nucleotide polymorphisms in MCP-1 and its receptor are associated with the risk of age related macular degeneration
+
+Association between CFH Y402H polymorphism and age related macular degeneration in North Indian cohort
+
+The molecular links of re-emerging therapy: A review of evidence of Brahmi (Bacopa monniera)
+
+Targeted drug delivery to central nervous system (CNS) for the treatment of neurodegenerative disorders: Trends and advances
+
+Antiamnesic effect of B. monniera on L-NNA induced amnesia involves calmodulin
+
+Sustained inhibition of brotizolam induced anterograde amnesia by norharmane and retrograde amnesia by l-glutamic acid in mice
+
+The animal models of dementia and Alzheimer’s disease for preclinical testing and clinical translation
+
+Dystrophin induced cognitive impairment: Mechanisms, models and therapeutic strategies
+
+Translation of Preclinical studies into successful clinical trials for Alzheimer’s disease: What are the roadblocks and how can they be overcome?
+
+Why AMD is a disease of ageing and not of development: Mechanisms and insights
+
+ALS and oxidative stress: The neurovascular scenario
+
+Neural stem cells: Trends and advances
+
+Recruitment of stem cells into the injured retina after laser injury
+
+An animal model of age-related macular degeneration in senescent Ccl-2- or Ccr-2-deficient mice
+

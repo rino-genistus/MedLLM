@@ -1,0 +1,140 @@
+TITLE: Beta Testing of a Gestational Diabetes Risk Reduction Intervention for American Indian and Alaska Native Teens
+
+Introduction:
+
+American Indian and Alaska Native (AIAN) girls have double the risk of obesity, pregnancy, and gestational diabetes mellitus (GDM) than the general U.S. population. The purpose of this study was to beta test Stopping GDM (SGDM), a GDM risk reduction intervention for at-risk AIAN teens, before beginning a randomized controlled trial.
+
+Method:
+
+A sample of 11 AIAN mothers and daughters were recruited through an urban Indian health program. Daughters were at risk of GDM as assessed by a BMI ≥ 85th percentile. Pre- and posttest online questionnaires evaluated the online intervention (e-book and video).
+
+Results:
+
+Mean pre- to posttest knowledge increased for mothers and daughters on diabetes prevention, reproductive health, and GDM knowledge. Daughters demonstrated an increased self-efficacy for healthy living and pregnancy planning. Satisfaction for the e-book, video, and online survey was moderately high to very high.
+
+Discussion:
+
+The SGDM intervention is feasible and acceptable in AIAN mother-daughter dyads. These findings informed the SGDM intervention and the randomized controlled trial evaluation protocol.
+
+INTRODUCTION
+
+Gestational diabetes mellitus (GDM) is the most common complication of pregnancy, affecting 7%–18% of all U.S. pregnancies, and obesity increases this risk. American Indian and Alaska Native (AIAN) women are 50% more likely to be obese than non-Hispanic whites. American Indian and Alaska Native youth are also disproportionately affected by adolescent obesity, adolescent pregnancy, and GDM; all with nearly twice the U.S. prevalence. Gestational diabetes mellitus and obesity complications during pregnancy include maternal high blood pressure, preeclampsia, morbidity from operative delivery, and high maternal risks of developing type 2 diabetes in the future. Moreover, maternal GDM and obesity increase the risk of fetal macrosomia, birth trauma, hypoglycemia, hyperbilirubinemia, hypocalcemia, erythremia, and poor feeding. Gestational diabetes mellitus also increases the risk of obesity and type 2 diabetes in the offspring, creating a vicious cycle. In addition, there is a paucity in the literature on the topic of AIAN women and GDM risk reduction. Thus, the need for early interventions to prevent GDM in AIAN girls and young women is compelling.
+
+Stopping GDM (SGDM), a GDM risk reduction intervention tailored for at-risk AIAN teens, is based on Reproductive Health Education & Awareness of Diabetes in Youth for Girls (READY-Girls), a validated theory-based preconception counseling program for teens with diabetes that aims to raise awareness and prevent unplanned pregnancies and pregnancy-related complications. READY-Girls was originally developed for nonnative teens at the University of Pittsburgh for adolescents with type 1 diabetes, then adapted for adolescents with type 2 diabetes for the Treatment Options for Type 2 Diabetes in Adolescents and Youth study. Cultural tailoring of reproductive health education materials for AIAN girls and their mothers is important to increase engagement and effectiveness of such a program. SGDM was developed for at-risk AIAN adolescent girls before their first pregnancy and was designed to be used in both urban and rural or reservation areas because AIAN adolescents live in a variety of demographic settings. Key stakeholder recommendations from AIAN girls at risk of GDM, AIAN women with a history of GDM, health care providers who care for AIAN girls, and tribal leaders informed the cultural adaptation of READY-Girls for AIAN girls at risk of GDM. For example, building on AIAN cultural strengths, incorporating multigenerational female family members, and including personal stories were key recommendations. Details on these findings are reported elsewhere. The goal of the overall study was to tailor READY-Girls to meet the unique needs of AIAN adolescent girls at risk of developing GDM in the future. In this manuscript, we present findings from the beta test of the newly developed SGDM intervention educational and skills-building materials (video and e-book) and online access and evaluation portal with members of the targeted audience.
+
+METHOD
+
+Phase 1 of this 5-year study included development of SGDM program materials by revising and tailoring the original READY-Girls curriculum. A rigorous and comprehensive needs assessment using primarily qualitative methods informed the development of the SGDM e-book and video. Individual interviews and focus groups with a myriad of key stakeholders including experts in AIAN health; AIAN women with a history of GDM; AIAN mothers and daughters; elected tribal leaders and tribal health officials; and experts in reproductive health, GDM, adolescent health, and diabetes were conducted. A 30-page educational book and a 40-min video were created and accessed via an online portal (Figure). This online portal also hosted evaluation surveys to facilitate the ease and safety of data collection when launched for the next phase, the multisite randomized controlled trial (RCT), or Phase 2. Contributors to the SGDM e-book and video included national experts in reproductive health, GDM, mother-daughter communication, health literacy for AIANs and AIAN health, and AIAN community members. Our health literacy review suggested that 76% of the sections of the booklet are written at an acceptable reading level (< 7th grade reading level, Flesch Reading Ease scores > 69).
+
+Design
+
+Before starting the multisite RCT, beta testing was conducted among AIAN mother-daughter dyads in an urban Indian health program to understand the efficacy and the ease of using the newly developed SGDM online portal delivery system.
+
+Setting and Participants
+
+Mother-daughter dyads were recruited through an urban Indian health clinic via posted flyers, e-newsletters, advertisements at local AIAN community events, and word of mouth. The clinic’s registered dietitian also assisted with recruitment, primarily through word of mouth among the clinic patients. Inclusion criteria for the pilot participants included a daughter between the ages of 12 and 20 years who was at risk of GDM as assessed by a BMI ≥ 85th percentile for age and sex, but without current diabetes based on hemoglobin A1c < 6.5%, and an AIAN mother or other adult female caregiver able to attend the study visit with the daughter. Daughters were not pregnant at the time of the visit; however they could have had a previous pregnancy, as long as it was not affected by GDM. All participants were fluent in English.
+
+Procedures
+
+The study visit lasted approximately 2 hrs. After explaining the study details, consent was obtained from the mothers and consent or assent, depending on age, from the daughters. Weight was measured with a balance scale while wearing light clothing, and height was measured using a wall-mounted stadiometer with shoes removed. Hemoglobin A1c was assessed using a finger stick and point-of-care A1CNow (Test Medical Symptoms At Home, Inc., Maria Stein, OH). Mothers and daughters then viewed the password-protected SGDM e-book and video separately using an online portal on a study laptop. Both daughters and mothers evaluated the outcomes using pre-post online questionnaires and completed the questionnaires separately. At the conclusion of the study visit, each participant, both mother and daughter, received a gift card for her time.
+
+Study Variables and Measures
+
+Pre-post online questionnaires for both daughters and mothers evaluated the outcomes including demographics; knowledge about reproductive health, GDM, and healthy lifestyle; self-efficacy (daughters only); and satisfaction with the e-book, video, and website. Most of these measures were adapted for reducing GDM risk from existing valid and reliable scales that were used in previous READY-Girls studies. The constructs and their operational roots remained intact.
+
+Two knowledge scales were used for this study: Diabetes Prevention Comprehensive Knowledge and Reproductive Health Knowledge. The percentage of correct scores were calculated for both measures. Both had “don’t know” as a response, and this response was treated as an incorrect answer. The Diabetes Prevention Comprehensive Knowledge scale measured 11 multiple-choice items for total knowledge of healthy lifestyle behaviors to help prevent GDM (possible score range 0–11). The Reproductive Health Knowledge scale measured 13 true or false items for a total reproductive health knowledge (possible score range 0–13) and two subscale scores: general reproductive health knowledge, including birth-control items (possible subscale score range 0–6), and GDM knowledge (possible subscale score range 0–7).
+
+Self-efficacy was the level of confidence (“how sure”) the daughter perceived herself to attaining a healthy lifestyle and preventing an unplanned pregnancy to reduce the risk of GDM. Items had Likert-type scaling from 1 = “not at all sure” to 10 = “totally sure.” Summative scores were calculated. Self-efficacy was measured as two subscales: healthy living (possible score range 8–80) and pregnancy planning (possible score range 9–90).
+
+Satisfaction of the e-book, video, and online portal were also measured. Items evaluated the usability, likability, and understandability of the material or site on a 4-point Likert scale from 1 = strongly disagree to 4 = strongly agree. Satisfaction of the e-book had a possible score ranging from 3 to 12, the video had a possible score ranging from 4 to 16, and the online portal had a possible score ranging from 2 to 8.
+
+Ethical Considerations
+
+The study protocol was approved by multiple review committees on the protection of human participants, including the University of Colorado Multiple Institutional Review Board (COMIRB) and by the Urban Indian Health Program Board and by the Indian Health Service National Institutional Review Board (#N16-N-16), according to the Declaration of Helsinki.
+
+Statistical Analyses
+
+Data were analyzed using IBM SPSS Statistics (Version 26, 2019, IBM, Corp., Armonk, NY). Based on the level of measurement of the variable, its observed data distribution, and the participant’s role (daughter, mother), appropriate descriptive statistics were computed. For continuous variables with either ratio or interval scaling, means with standard deviations (reported as Mean ± SD) and ranges (reported as minimum-maximum) were computed. For categorical variables with nominal or ordinal scaling, frequency counts and percentages were computed.
+
+RESULTS
+
+Baseline Characteristics
+
+Participants included six mother-daughter dyads (five mothers, six daughters). One mother attended with two eligible daughters. The mothers’ mean age was 44.4 ± 8.8 (34.5–51.2) years, and 100% had some college education. The daughters’ mean age was 15.9 ± 2.7 (13.8–19.5) years; 80% had < 12th grade education, and 40% had ≤ 8th grade education.
+
+Qualitative Findings
+
+Post-SGDM e-book and video viewing open-ended questions revealed that some participants had concerns about the online surveys, including the following: the date of birth being hard to enter, the font size of the e-book being too small, and the length of the session being “a little too long.” Other comments included that the participant enjoyed the video; could relate to the stories, images, and actors; and appreciated learning about GDM specific to AIAN women. There were no concerns voiced about accessing the online materials.
+
+Quantitative Findings
+
+The Table displays the results from the pre- and postknowledge questionnaires and satisfaction survey. The mean percentage of correct questions increased from pre- to postknowledge for both mothers and daughters on diabetes prevention (mothers: 70% [pre] to 80% [post]; daughters: 45% [pre] to 58% [post]) and reproductive health and GDM knowledge total score (mothers: 65% [pre] to 92% [post]; daughters: 34% [pre] to 71% [post]). Daughters also demonstrated increased self-efficacy for healthy living (47.2 ± 11.1 to 56.6 ± 14.3) and pregnancy planning (57.0 ± 9.2 to 66.4 ± 17.7). The e-book, video, and online portal were scored moderately high to very high on satisfaction.
+
+DISCUSSION
+
+This study determined that the SGDM intervention is feasible and acceptable in AIAN mother-daughter dyads including daughters at risk of GDM. Positive improvements from pre- to postintervention measures were seen from watching the video and reading the e-book in the following areas: diabetes prevention knowledge (mothers and daughters), reproductive health knowledge (mothers and daughters), and self-efficacy for healthy living and pregnancy planning (daughters only). All three measures scored moderately high to very high for satisfaction. Stopping GDM is grounded in the Expanded Health Belief Theory. Specific constructs of this theory including self-efficacy, perceived susceptibility, and perceived severity strongly guided the intervention. For example, “pre” assessment data reveal low perceived susceptibility among AIAN girls and their mothers regarding future risk for GDM but the SGDM program increases this awareness. Furthermore, empowering girls and their mothers to make lifestyle decisions to mitigate their risks of GDM includes enhancing their self-efficacy, another key construct to the Expanded Health Belief Theory, to effectively make these choices such as healthy eating and engagement in regular physical activity.
+
+Strengths of our study included the use of an urban AIAN clinic with a diverse, multitribal clientele, more representative of AIAN people than a study conducted with a single tribe. However, the intervention itself was designed to be applicable to AIAN people in both urban and rural or reservation settings, and the RCT itself will be conducted in both settings. Another strength was the use of mother-daughter dyads from the targeted population of interest and the exclusion of diabetes in the daughters, which might lead to knowledge not representative of the general AIAN adolescent population owing to previous diabetes education. In addition, employing both quantitative and qualitative methods to understand the participants’ experiences as pilot participants increased the depth and validity of this pilot evaluation to inform the RCT in the next phase of the study. Limitations included the pilot nature, the small sample size and therefore the inability to test for statistical significance in the changes after intervention, and the potential bias of participants willing to participate in a pilot study not being representative of the beliefs and attitudes of the general AIAN population. Because this was a beta test and the goal was to determine usability of the online portal including a video, surveys, and an e-book, we combined study visits into one session. Therefore, the participants in the beta test viewed the video and read the entire e-book in one visit. We incorporated the feedback from the beta test and broke the subsequent RCT visits into four sessions.
+
+Our findings were used to finalize the SGDM education materials and data collection protocol for the full-scale 3-year RCT, which started in January 2018 with five different sites nationally. If successful, the results from the RCT will provide an evidence base for a future SGDM program. Furthermore, the third phase of this project includes widespread and systematic dissemination among health care professionals who care for AIAN girls. Researchers hope that SGDM will be widely adopted by health care providers and public health organizations caring for AIAN teens as an evidence-based education and preconception counseling program to help decrease the risk of GDM among AIAN audiences. The SGDM video and e-book will also be made available to all, free of charge, at the conclusion of the dissemination phase of this study.
+
+CONCLUSION
+
+An online culturally relevant preconception counseling intervention including an electronic book (e-book) and video focused on knowledge about GDM, reproductive health, and healthy lifestyle strategies is feasible and acceptable in AIAN mother-daughter dyads with daughters at risk of GDM. These findings informed the SGDM intervention and RCT evaluation protocol.
+
+Implications
+
+The goal of our SGDM program is to break the cycle of diabetes by decreasing the risk of ever-developing GDM in this vulnerable population. Therefore, we are targeting young adolescent girls, starting at puberty and before sexual debut, to receive the program, which will raise awareness, provide culturally relevant, developmentally appropriate, and evidence-based information along with healthy lifestyle training for the girls and their mothers. This program should be introduced in pediatric well-child clinics. Pediatric primary care health care providers, such as pediatric nurse practitioners, who care for pubescent and young adolescent girls who are overweight or obese and/or have other risk factors for developing diabetes will be able to use this program to prevent unplanned pregnancies and provide information on how to safely plan a pregnancy through a healthy lifestyle to prevent diabetes.
+
+Conflicts of interest: None to report.
+
+This pilot study was presented as a poster at the 78th American Diabetes Association Scientific Sessions on June 25, 2018 in Orlando, FL.
+
+The opinions expressed in this article are those of the author and do not necessarily reflect the views of the Indian Health Service.
+
+REFERENCES
+
+Proceedings of the fifth international workshop-conference on gestational diabetes mellitus
+
+The expanded health belief model as a basis for enlightened preventive health care practice and research
+
+The development and pilot testing of a multimedia CD-ROM for diabetes education
+
+Randomized efficacy trial of early preconception counseling for diabetic teens (READY-Girls)
+
+A theory-based reproductive health and diabetes instrument
+
+Examining family planning vigilant behavior in adolescent females with type 2 diabetes
+
+Impact of a preconception counseling program for teens with type 1 diabetes (READY-Girls) on patient-provider interaction, resource utilization, and cost
+
+Cigarette smoking—United States, 2006–2008 and 2009–2010
+
+Screening and diagnosing gestational diabetes mellitus
+
+The impact of a home-based diabetes prevention and management program on high-risk American Indian youth
+
+Pregnancy and gestational diabetes mellitus (GDM) in North American Indian adolescents and young adults (AYA): Implications for girls and stopping GDM
+
+Recommendations from American Indian and Alaska native adolescent girls for a community-based gestational diabetes risk reduction and reproductive health education program
+
+The vicious cycle of diabetes and pregnancy
+
+Reducing risk for gestational diabetes mellitus (GDM) through a preconception counseling program for American Indian/Alaska native girls: Perceptions from women with type 2 diabetes or a history of GDM
+
+Culturally adapting an evidence-based gestational diabetes risk reduction intervention for American Indian/Alaska native teens: Recommendations from health professionals
+
+Births to teenagers in the United States, 1940–2000
+
+The clinical significance of overt diabetes in pregnancy
+
+Representative image from the Stopping Gestational Diabetes Mellitus Curriculum
+
+(This figure appears in color online at www.jpedhc.org.)
+
+Results from the pre–post online questionnaires
+
+Variable	Pre	Post	 		Score	% of correct questions	Score	% of correct questions	 	Diabetes Prevention Comprehensive Knowledge, possible range: 0–11	 	 Mother	7.75 ± 3.30 (4–11)	70.5 ± 30.0 (36.4–100)	8.75 ± 1.50 (7–10)	79.5 ± 13.6 (63.6–90.9)	 	 Daughter	5.00 ± 2.00 (3–8)	45.5 ± 18.2 (27.3–72.7)	6.40 ± 2.30 (4–10)	58.2 ± 20.9 (36.4–90.1)	 	Reproductive Health Knowledge total, possible range: 0–13	 	 Mother	8.50 ± 3.70 (5–13)	65.4 ± 28.4 (38.5–100)	12.00 ± 0.82 (11–13)	92.3 ± 6.3 (84.6–100)	 	 Daughter	4.40 ± 3.58 (0–9)	33.8 ± 27.5 (0–69.2)	9.20 ± 1.64 (8–12)	70.8 ± 12.6 (61.5–92.3)	 	Reproductive Health Knowledge subscale, possible range: 0–6	 	 Mother	4.75 ± 0.96 (4–6)	79.2 ± 16.0 (66.7–100)	5.50 ± 0.58 (5–6)	91.7 ± 9.6 (83.3–100)	 	 Daughter	2.40 ± 2.07 (0–5)	40.0 ± 34.6 (0–83.3)	4.60 ± 1.52 (3–6)	76.7 ± 25.3 (50.0–100)	 	GDM Knowledge subscale, possible range: 0–7	 	 Mother	3.75 ± 3.30 (0–7)	53.6 ± 47.2 (0–100)	6.50 ± 0.58 (6–7)	92.9 ± 8.2 (85.7–100)	 	 Daughter	2.00 ± 1.87 (0–5)	28.6 ± 26.7 (0–71.4)	4.60 ± 1.67 (2–6)	65.7 ± 23.9 (28.6–85.7)	 	Self-Efficacy (daughter only)	 	Healthy living, possible range: 8–80	47.20 ± 11.14 (35–65)	—	56.60 ± 14.33 (43–77)	—	 	Pregnancy planning, possible range: 12–120	57.00 ± 9.19 (45–69)		66.40 ± 17.70 (38–85)		 	Satisfaction with book, possible range: 3–12	 	 Mother	—	—	9.25 ± 0.50 (9–10)	—	 	 Daughter			9.00 ± 2.74 (7–12)		 	Satisfaction with Video (possible range: 4–16)	 	 Mother	—	—	12.75 ± 2.22 (11–16)	—	 	 Daughter			11.20 ± 2.49 (8–15)		 	Satisfaction with website, possible range: 2–8	 	 Mother	—	—	7.00 ± 1.15 (6–8)	—	 	 Daughter			6.80 ± 0.84 (6–8)
+
+Note. GDM, gestational diabetes mellitus. Values are represented as mean ± SD (range).
+

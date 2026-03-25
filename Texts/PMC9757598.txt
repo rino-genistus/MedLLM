@@ -1,0 +1,902 @@
+TITLE: Determinants of hypertension among diabetes patients attending selected comprehensive specialized hospitals of the Amhara Region, Ethiopia: An unmatched case-control study
+
+Background
+
+The coexistence of diabetes mellitus and hypertension is a worldwide public health problem causing significant morbidity, mortality, and decreased quality of life. Despite the increasing burden of hypertension among patients with DM, data on determinants of hypertension among patients with DM in the Amhara region of Ethiopia is scarce. Hence, this study identified determinants of hypertension among people with diabetes attending chronic disease follow-up clinics in the Amhara region of comprehensive specialized hospitals in Ethiopia.
+
+Method and materials
+
+An institutional-based unmatched case-control study was conducted among 470 individuals with diabetes in the Amhara region’s comprehensive specialized hospitals (Debre Berhan, Felege Hiwot, and Dessie Comprehensive specialized hospital). A multistage sampling technique was used to select participants for this study. We collected the data using standard questionnaires (short form of international physical activity questionnaire, Morisky medication adherence scale, patient health questionnaire, perceived dietary adherence scale, Oslo social support questionnaire, and alcohol use disorder identification test), physical measurements, and data extraction checklists. A multivariable binary logistic regression was fitted to identify determinants of hypertension, and we presented the findings using an adjusted odds ratio (AOR) with a 95% confidence interval (CI).
+
+Results
+
+235 cases and 235 controls participated in this study. The median (IQR) age for the cases was 60 (52–66 = 14), and the mean age (± SD) for the controls was 51.72 (± 12.51). The significant determinants of hypertension with AOR [95% CI] were a lower level of physical activity: 1.82 [1.00, 3.31], depression: 2.00 [1.24, 3.21], family history of hypertension: 2.13 [1.34, 3.37], not having diabetic health education: 1.87 [1.18, 2.96], a longer duration of diabetes: 1.99 [1.05, 3.79], and poor glycemic control: 1.57 [1.01, 2.45].
+
+Conclusion
+
+In this study, determinants that increase the risk of hypertension among people with diabetes mellitus were older age, physical inactivity, depression, family history of hypertension, not having diabetic health education, a longer duration of diabetes, and poor glycemic control.
+
+Introduction
+
+Diabetes mellitus (DM) is a serious, chronic metabolic condition characterized by a state of hyperglycemia resulting from defects in insulin secretion, insulin action, or both. According to the 2021 estimation of the International Diabetes Federation (IDF), around 531 million adults aged 20 to 79 (10.5% of all adults in this age group) are living with diabetes. This figure is predicted to rise to 643 million by 2030 and 783 million by 2045. Among the forty-eight Sub-Saharan African countries and territories in the IDF Africa Region, Ethiopia has the fourth-largest number of people living with DM in 2021. According to a recent systematic review and meta-analysis, the pooled prevalence of DM in Ethiopia was 4.99%. Globally, around 6.7 million adults (20–79) were estimated to die from diabetes or its complications, including hypertension, in 2021.
+
+Hypertension (HTN) among individuals with diabetes mellitus is a severe medical condition characterized by persistent elevation of systemic arterial blood pressure, defined as systolic blood pressure (SBP) of above 130 mmHg and diastolic blood pressure (DBP) of above 80 mmHg on two consecutive days or any prior diagnosis of HTN made by health personnel and taking antihypertensive drugs. The frequency of HTN among individuals with diabetes is twice that of individuals without diabetes and is reported in over two-thirds of people with type 2 diabetes. The high incidence of hypertension among individuals with diabetes is attributed to different structural alterations secondary to endothelial dysfunction, insulin resistance in the nitric-oxide pathway, sodium fluid retention, the stimulatory effect of hyperinsulinemia on the sympathetic nervous activity, and the excitatory effect of hyperglycemia on renin-angiotensin-aldosterone system.
+
+The coexistence of DM with hypertension increases the risk of cardiovascular events by six-fold, doubles the risk of all-cause mortality and stroke, triples the risk of coronary heart diseases, and hastens the progression of both microvascular and macrovascular complications. One study showed that the coexistence of DM with hypertension is attributed to the risk of death and cardiovascular events by 44% and 41%, respectively, compared with 7% (mortality risk) and 9% (cardiovascular risk) in people with diabetes alone. Uncontrolled hypertension among individuals with diabetes predisposes to the development of heart attack, stroke, kidney disease, vision loss, sexual dysfunction, and peripheral arterial disease. Moreover, the development of HTN in individuals with diabetes complicates the treatment strategy, considerably impairs health-related quality of life (HRQoL), and causes a substantial economic impact.
+
+Behavioural risk reduction and lifestyle modification (cessation of tobacco smoking, adhering to a healthy diet plan, engaging in physical activity, minimizing alcohol consumption, weight loss, a dietary approach to stop hypertension (DASH) style-based nutrition counseling, and reduced-sodium/salt intake) are strategies implemented in the past to control the development of hypertension among individuals with DM. Despite implementing these strategies, many studies reported a high burden of hypertension among people with DM. So far, some determinants of hypertension in people with diabetes have been identified in some countries (United Arab Emirates, Jordan, Nigeria, Malaysia, Republic of Benin, Libya, Ethiopia), namely, advanced age, low educational status, unhealthy diet, family history of hypertension, poor glycemic control, and duration of diabetes. The most common determinant was a longer duration of diabetes. We aimed to fill the existing research gap in our study area by examining multiple risk factors (depression, harmful alcohol consumption, poor social support, raised BMI, increased waist circumference, and raised waist-to-hip ratio) contributing to the development of hypertension in individuals with DM.
+
+One of the IDF’s suggested actions to lower the risk of CVD outcomes and chronic kidney disease among individuals with DM is to prevent the development of HTN. Although the need to reduce the burden of HTN among DM patients is studied extensively, how we reduce it in this population calls for further evidence. Despite the disproportionately high burden of HTN among individuals with DM, to the best of our knowledge, there are limited studies on determinants of Hypertension in Ethiopia, including our study area (Amhara region) [6, 11, 17, 21–23] conducted on this specific population. These studies have significant methodological limitations, including flawed participant population selection to explore determinant factors for developing HTN among DM patients. Therefore, this study addressed the issues mentioned above and identified determinants of HTN among DM patients that can be helpful for the effective prevention and control of the condition.
+
+Methods and materials
+
+Study setting, design, and period
+
+An institutional-based unmatched case-control study was conducted from March 17, 2021, to April 18, 2021, among people with diabetes mellitus in the Amhara region’s comprehensive specialized hospitals. There are eight comprehensive specialized hospitals in the area, with an estimated total number of individuals with DM reporting for follow-up care of approximately 18,573.
+
+Three randomly selected comprehensive specialized (Debre-Berhan, Felege-Hiwot, and Dessie) hospitals were included. These hospitals’ chronic disease follow-up clinics provide services on all working days and are approximately visited by twenty-five to thirty individuals with DM daily.
+
+Population
+
+All adult individuals with diabetes mellitus attending chronic disease follow-up clinics in the Amhara region comprehensive specialized hospitals were the source population. Those with diabetes mellitus coexisting with hypertension and attending the chronic disease follow-up clinic for follow-up in the selected hospitals during the study period were considered cases, whereas those with diabetes and no hypertension served as controls.
+
+Critically ill patients with DM or severe medical illness, newly diagnosed patients with diabetes who were not on antidiabetic medication within the last six months in a regular follow-up, and a history of hypertension at the time and before the diagnosis of DM were excluded from this study.
+
+Sample size determination and sampling procedure
+
+Epi info version 7.2.3.1 was used to calculate the sample by assuming a 95% confidence interval (CI), 80% power, and a 1:1 case-to-control ratio. The Odds ratio (OR) and the proportion of potential predictor variables of hypertension among controls were taken from a study in Tigray, Ethiopia. After considering adjustments for the expected non-response rate (10%) and design effect (1.5), the largest total sample size became 476.
+
+A multistage sampling technique was used to select participants for this study. Initially, a list of all comprehensive specialized hospitals was taken from the Amhara health bureau. Of the eight comprehensive specialized hospitals in the Amhara region, three comprehensive specialized hospitals (Debre Berhan, Dessie, and Felegehiwot) were selected using simple random sampling. After random selection of the hospitals, the number of patients with diabetes with hypertension and without hypertension who took service from chronic follow-up clinics were taken from the chronic disease follow-up clinic registry book. Finally, we selected eligible cases for every two patients using systematic random sampling. For each case, one control that fulfils the inclusion criteria was selected for every seven patients using a systematic random sampling technique from chronic follow-up clinics of the same hospitals from which cases were drawn.
+
+Study variables
+
+The dependent variable in the current study was hypertension among people with DM. Independent variables include sociodemographic, clinically related, psychosocial, and behavioural variables.
+
+Data collection tools and procedures
+
+Data were collected using semi-structured interviewer-administered questionnaires, physical measurements, and data extraction checklists developed after reviewing different literature. Six BSC nurses collected the data and were supervised by three MSc nursing students. The first part of the questionnaire was sociodemographic data (age, sex, marital status, average family income, occupational status, and educational status).
+
+Psychosocial and behavioural variables
+
+Study participants’ psychosocial and behavioural characteristics (level of physical activity, harmful alcohol consumption, diabetic medication adherence, adherence to a healthy diet, depression, and social support) were the second part of the questionnaire.
+
+Participants’ level of physical activity was assessed using the international physical activity questionnaire short-form (IPAQ-SF). This tool is designed to assess specific types of exercise, such as walking, moderate and vigorous-intensity activities done at work, as part of house and yard work, to get place to place, and in spare time for recreation, exercise, or sport. Study participants were asked to recall their activities of the last seven days preceding the interview. Data were reported as the metabolic equivalent of task minutes (MET-minutes per week) using the IPAQ screening protocol. This tool has been used in studies conducted in Ethiopia. Participants were considered to have higher, moderate, or lower adherence to physical activity if they met any criterion for higher, moderate, or lower levels of physical activity following the IPAQ screening protocol.
+
+The eight-item Morisky Medication Adherence Scale (MMAS-8) was used to measure the participants’ Self-reported adherence to diabetic medication. It contains eight items, with binary scores (yes/no) for the first seven items and a 5-point Likert score for the last. The last item contributes a score between zero and one in 0.25-point increments on a 5-point scale assessing the frequency patients forget to take medications (never = 1, once in a while = 0.75, sometimes = 0.5, usually = 0.25, and all the time = 0). Each "no" response was rated "1," and each "yes" was rated "0" except for item 5 (reversed score), in which the response "yes" was rated "1" and "no" was rated "0". This tool was validated and used in a previous study conducted in Ethiopia. The total score is a summation of all MMAS-8 items. On MMAS-8, participants were considered to have good adherence to a medication when they scored 8, medium adherence to medication if they scored 6 to lower than 8, and low adherence to medication if they scored < 6.
+
+The perceived dietary adherence questionnaire (PDAQ), a nine-item tool, is also used for assessing dietary adherence. The response is based on a seven-point Likert scale to answer the question, "On how many of the last 7 days did you….?" Higher scores reflect higher adherence except for items 4 and 9, which reflect unhealthy choices (foods high in sugar or fat). For these items, higher scores reflect lower adherence. Therefore, for computing a total PDAQ score, the scores for these items were inverted. Participants were classified as having good adherence to a healthy diet if they ate a healthy diet for at least four days a week and as having poor adherence to a healthy diet if they had eaten a healthy diet for less than four days a week.
+
+Patient Health Questionnaire 9 (PHQ-9), a nine-item self-report instrument (scoring ranges from 0 to 27), and a standardized, validated tool in East Africa, including Ethiopia, were used for assessing depression. Participants with a score of five and above on the PHQ-9 were considered to have depression. On the PHQ-9 depression subscales, participants were sub-classified as experiencing no depression if the PHQ-9 score is 0–4, mild depression if the PHQ-9 score is 5–9, moderate depression if the PHQ-9 score is 10–14, moderately severe depression if the PHQ-9 score is 15–19, and severe depression if the PHQ-9 score is 20–27.
+
+Participants’ level of social support was assessed using the 3-item Oslo social support scale (OSS-3) by asking them to rate the level of support they received from family and friends. This tool has been validated in various African countries and used in studies conducted in Ethiopia. On OSS-3, a participant with a score of 3–8 was considered as having "poor social support," 9–11 as having "moderate social support," and 12–14 as having “strong social support”.
+
+The 10-item alcohol use disorder identification test (AUDIT) tool was used to assess alcohol consumption level (3 items), symptoms of alcohol dependence (3 items), and problems associated with alcohol use (4 items). Participants who scored eight and above were considered hazardous alcohol consumers
+
+Adherence to self-blood glucose monitoring: the patient was considered to adhere to blood glucose monitoring when they scored above the mean of the number of days.
+
+Clinically related variables
+
+Recent clinical-related and biochemical data like fasting blood glucose level, comorbidity, diabetes-related complications, duration of diabetes, and treatment modality were collected from the patient’s records using data extraction checklists.
+
+The participants were considered to have good glycemic control if the average of the last three fasting blood glucose levels was between 70mg/dL and 130mg/dL or poor glycemic control if the average of the last three fasting blood glucose levels was above 130 mg/dL.
+
+Anthropometric measurements
+
+After the participants stood with arms by the sides, feet positioned close together, and weight evenly distributed across the feet, waist circumference (WC) was measured to the nearest 0.1 cm at the end of normal exhalation at the level of the iliac crest. WC was considered above average if the measurement was >94 cm for males and >80 cm for females.
+
+The hip circumference of the patients was measured to the nearest centimetre at the largest maximum circumference of the buttocks. Both hip and waist circumferences were measured with stretch-resistant tape wrapping snugly around the participants. Waist to hip ratio (WHR) was calculated as WC (cm) divided by HC (cm). WHR was considered above average if the measurement was ≥ 0.90 for males and ≥ 0.85 cm for females.
+
+The participants’ heights were measured to the nearest centimetre using a stadiometer, with participants standing upright. Weight (in kilograms) was measured in light clothing using a calibrated Seca digital weighing scale (manufactured by Seca gmbh & co. kg/ model: 874, designed in Hamburg, Germany) and recorded to the nearest 0.1 kg. The scale was calibrated regularly, and the indicator was checked against zero reading before every measurement. Body mass index (BMI) was calculated as the weight divided by height squared (kg/m2). Participants were considered underweight if the BMI was less than 18.5 kg/m2, healthy weight if the BMI was 18.5 to 24.9 kg/m2, overweight if the BMI was 25 to 29.9 kg/m2, and obese if the BMI was 30kg/m2 or higher.
+
+Data processing and analysis
+
+Data were checked for completeness, and each completed questionnaire was assigned a unique code. Epi Data version 3.1 and Statistical Package for Social Sciences version 21 were used for data entry and analysis, respectively. The data were checked by visualizing, calculating frequencies, and sorting. After performing a normality test, continuous variables with normal distributions were reported as mean ± standard deviation (SD), while those with skewed distributions were reported as the median and interquartile range (IQR)(25th; 75th percentage), and categorical variables were summarized as frequency and percentage. The bivariate logistic regression model was fitted for each explanatory variable. Accordingly, we applied the statistical methodology for variable selection using P-value less than 0.2 in the bivariate analysis as a threshold to identify a candidate set of variables that will enter the multivariable model. Then, variables with a P-value of less than 0.05 in the multivariable analysis were considered statistically significant, and AOR with 95% CI was estimated to measure the strength of the associations. The model’s fitness was checked using Hosmer and Lemeshow goodness-of-fit test statistics, giving a P-value of 0.463, suggesting that the data fit well with the model.
+
+Ethical consideration
+
+Ethical clearance was obtained from the Institutional Review Board of Bahir Dar University, College of Medicine, and Health Sciences, with protocol number 079/2021. A formal approval letter for collecting data was submitted to the selected hospitals. Before data collection, informed consent was obtained from participants, and confidentiality of responses was maintained throughout the study.
+
+Results
+
+Sociodemographic characteristics of the study participants
+
+A total of 470 individuals with diabetes (235 cases and 235 controls) were included in this study. Male participants comprised 51.5% of the controls and 50.2% of the cases. The mean (± SD) age for the controls was 51.72 (± 12.51), and the median age (IQR) for the cases was 60(52–66 = 14). Occupation-wise, 25.1% of the cases were retired, and 24.3% of the controls were government employees. On average, 44.7% of the cases and 41.3% of the controls earned more than 3,000 ETB each month (Table 1).
+
+Sociodemographic characteristics of study participants.
+
+Variables	Cases (n = 235)	Controls (n = 235)	 	Frequency	%	Frequency	%	 	Sex	 	Male	118	50.2	121	51.5	 	Female	117	49.8	114	41.5	 	Age (years)	 	≤ 50	45	19.2	123	52.3	 	51–60	76	32.3	59	25.1	 	61–70	76	32.3	37	15.7	 	>70	38	16.2	16	6.9	 	Marital status	 	Single	12	5.1	34	14.4	 	Married	176	74.9	160	68.1	 	Divorced	17	7.2	23	9.8	 	Widowed	30	12.8	18	7.7	 	Educational status	 	Unable to read and write	47	20.0	54	23.0	 	Read and write	35	14.9	31	13.2	 	Primary school	39	16.6	45	19.1	 	Secondary school	28	11.9	22	9.4	 	Preparatory school	39	16.6	29	12.3	 	College or university completed	47	20.0	54	23.0	 	Occupational status	 	Government Employee	49	20.9	57	24.3	 	Retired	59	25.1	34	14.4	 	Housewife	45	19.1	43	18.3	 	Daily labourer	9	3.8	16	6.8	 	Merchant	44	18.7	32	13.6	 	Farmer	29	12.4	53	22.6	 	Residence	 	Urban	196	83.4	170	72.3	 	Rural	39	16.6	65	27.7	 	Average family income	 	500–1000 ETB	22	9.4	38	16.2	 	1001–2000 ETB	67	28.5	55	23.4	 	2001–3000 ETB	41	17.4	45	19.1	 	>3000 ETB	105	44.7	97	41.3
+
+ETB = Ethiopian Birr
+
+Behavioural and psychosocial characteristics of the study participants
+
+According to our findings, most cases (about 81%) and controls (almost 80%) were not khat chewers. Hazardous alcohol consumers comprised one-quarter of the cases (25.1%) and almost one-third of the controls (28.5%). Lower medication adherence was reported in slightly more than half of the cases (47.2%) and two-fifths of the controls (40%). Concerning adherence to a healthy diet, more than half of the cases (54.9%) and over three-fifths of the controls (64.5%) had a good level of adherence to a healthy diet. Almost 80% of the cases and about 85% of the controls did not adhere to SBGM. Additionally, over the past seven days, nearly half of the cases (49.8%) and more than a quarter (28.9%) of controls reported lower physical activity levels. Depression was experienced by (166 [70.6%]) of the cases and (122 [51.9%]) of the controls. Regarding social support, (102 [43.4%]) of the cases and (106 [45.1%]) of the controls had received a moderate level of social support from their family, friends, and neighbours (Table 2).
+
+Psychosocial and behavioural characteristics of study participants.
+
+Variables	Cases (n = 235)	Controls (n = 235)	 	Frequency	%	Frequency	%	 	Ever chewed khat	 	Yes	45	19.1	48	20.4	 	No	190	80.9	187	79.62	 	Frequency of khat chewing	 	Less than once a month	2	4.4	3	6.3	 	One to three times per month	1	2.2	8	16.7	 	Once a week	12	26.7	16	33.3	 	Two to four times per week	16	35.6	13	27.1	 	Daily	14	31.1	8	16.6	 	Hazardous alcohol consumption	 	Yes	59	25.1	67	28.5	 	No	176	74.9	168	71.5	 	Alcohol dependency	 	Low Risk	176	74.9	168	71.5	 	Medium Risk	32	13.6	43	18.3	 	High Risk	9	3.8	10	4.3	 	Addiction Likely	18	7.7	14	6.0	 	Adherence to diabetic medication	 	Low	111	47.2	94	40.0	 	Medium	75	31.9	79	33.6	 	Good	49	20.9	62	26.4	 	Adherence to a healthy diet	 	Good	151	64.3	129	54.9	 	Poor	84	35.7	106	45.	 	Adherence to self-blood glucose monitoring	 	Adhered	36	15.3	48	20.4	 	Did not adhere	199	84.7	187	79.6	 	Levels of physical activity	 	Low	118	50.2	68	28.9	 	Moderate	75	31.9	100	42.6	 	High	42	17.9	67	28.5	 	Presence of depression	 	Yes	166	70.6	122	51.9	 	No	69	29.4	113	48.1	 	Severity of depression	 	No	69	29.4	113	48.1	 	Mild	78	33.2	64	27.2	 	Moderate	56	23.8	31	13.2	 	Moderately severe	25	10.6	20	8.5	 	Sever	7	3.0	7	3.0	 	Depression-related level of difficulty in doing work	 	Not difficult at all	155	66.0	133	56.6	 	Somewhat difficult	51	21.7	74	31.5	 	Very difficult	22	9.3	25	10.6	 	Extremely difficult	7	3.0	3	1.3	 	Social Support	 	Poor	79	33.6	67	28.5	 	Moderate	102	43.4	106	45.1	 	Strong	54	23.0	62	26.4
+
+Clinical characteristics of the study participants
+
+Regarding the type of DM, 96.6% of the cases and 81.7% of the controls had type-2 diabetes. The median (IQR) age of cases at diagnosis of DM was 52 (44–59), and the mean (± SD) age of the controls at diagnosis of DM was 44.49 ± (11.0). Concerning the type of DM treatment, most cases (83%) and nearly three-fourths of the controls (71.9%) were on oral hypoglycemic agents. In this study, both cases and controls have a similar median (IQR) duration of diabetes since diagnosis, which was eight years (5–12). More than half of the cases (120 [51.1%]) and more than one-quarter of the controls (66 [28.1%]) reported that they had a family history of hypertension.
+
+Concerning education about diabetes, more than half of the cases (134 [57%]) and nearly three-quarters of the controls (170 [72.3%]) had received diabetes education. Regarding glycemic control, about 54% of the cases and 65.1% of the controls had reasonable glycemic control. In this study, two-fifths of the cases (40%) and more than half of the controls (56.2%) had a healthy weight. While over half of the controls (51.5%) and more than three-fifths of the cases (68.5%) had above-normal waist circumference, nearly half of the controls (47.7%) and less than three-fourth of the cases (68.1%) presented with waist to hip ratio values above average (Table 3).
+
+Clinical characteristics of study participants.
+
+Variables	Cases (n = 235)	Controls (n = 235)	 	Frequency	%	Frequency	%	 	Type of DM	 	Type 1	8	3.4	43	18.3	 	Type 2	227	96.6	192	81.7	 	Type of DM treatment	 	Oral medication	195	83.0	169	71.9	 	Insulin therapy	25	10.6	58	24.7	 	Oral medication plus insulin	15	6.4	8	3.4	 	Duration of diabetes	 	<5year	46	19.5	85	36.2	 	5–10year	108	46.0	102	43.4	 	>10year	81	34.5	48	20.4	 	Family history of DM	 	Yes	105	44.7	111	47.2	 	No	130	55.3	124	52.8	 	Family history of HTN	 	Yes	120	51.1	66	28.1	 	No	115	48.9	169	71.9	 	Kept follow-up appointments with a physician	 	Yes	206	87.7	195	83.0	 	No	29	12.3	40	17.0	 	Had health education about diabetes	 	Yes	134	57.0	170	72.3	 	No	101	43.0	65	27.7	 	Presence of comorbidity other than HTN	 	Yes	110	46.8	55	23.4	 	No	125	53.2	180	76.6	 	Specific types of comorbidities *	 	Cardiovascular disease	79	71.8	42	76.4	 	Respiratory disease	17	15.5	4	7.3	 	Renal disease	19	17.3	11	20	 	Neurological disease	5	7.3	8	9.1	 	Presence of Diabetes-related complications	 	Yes	57	24.3	35	14.9	 	No	178	75.7	200	85.1	 	Type of diabetes-related complications *	 	Diabetic retinopathy	5	14.3	9	15.8	 	Diabetic nephropathy	12	34.3	26	45.6	 	Diabetic neuropathy	13	37.1	19	33.3	 	Sexual dysfunction	7	20.0	3	5.3	 	Glycemic control	 	Good	126	53.6	153	65.1	 	Poor	109	46.4	82	34.9	 	Body mass index	 	Underweight	1	0.4	6	2.5	 	Healthy weight	94	40.0	132	56.2	 	Overweight	105	44.7	70	29.8	 	Obese	35	14.9	27	11.5	 	Waist circumference	 	Normal	74	31.5	114	48.5	 	Above normal	161	68.5	121	51.5	 	Waist to Hip Ratio	 	Normal	75	31.9	123	52.3	 	Above Normal	160	68.1	112	47.7
+
+*Indicates that the total will not add up to 235 (100%) for cases and 235 (100%) for controls, as multiple responses were possible in these categories
+
+Determinants of hypertension among patients with DM
+
+In the bivariate logistic regression analysis, participant’s age, marital status, educational status, average family income, non-adherence to diabetic medication, lower level of physical activity, non-adherence to a healthy diet, depression, higher BMI, above the average waist circumference, above the standard waist to hip ratio, family history of hypertension, not having diabetic health education, a longer duration of diabetes, presence of comorbidity other than hypertension, presence of diabetes-related complications and poor glycemic control shows a statistically significant association at P-value < 0.2.
+
+After controlling for the potential confounders, age, physical inactivity, depression, family history of hypertension, not having diabetic health education, duration of diabetes, and poor glycemic control were significant factors at a 5% significance level in the final multivariable logistic regression model.
+
+Compared to individuals with diabetes aged below 50 years, those within the age groups 51–60 years, 61–70 years, and above 70 years were 3.33 times [AOR = 3.331, 95% CI (1.92–5.78)], 3.99 times [AOR = 3.99, 95% CI (2.14–7.46)] and 2.95 times [AOR = 2.95, 95% CI (1.25–5.98)] are more likely to have hypertension.
+
+The odds of having hypertension were also 1.82 times [AOR = 1.82, 95% CI (1.00–3.31)] higher among individuals with diabetes who had lower levels of physical activity compared to those with higher levels of physical activity. Additionally, individuals with diabetes who experienced depression were also twice [AOR = 2.00, 95% CI (1.24–3.21)] more likely to be hypertensive than those with diabetes who had no depression.
+
+Regarding family history, individuals with diabetes who had a family history of hypertension were 2.13 times more likely [AOR = 2.13, 95% CI (1.34–3.37)] to have hypertension compared to individuals with diabetes who did not have a family history of hypertension. Individuals with diabetes who did not attend diabetic education were 1.87 times [AOR = 1.87, 95% CI (1.18–2.96)] more likely to have hypertension than individuals with diabetes who attend diabetic education.
+
+The odds of having hypertension were also 1.99 times higher among diabetic patients with duration since diagnosis of DM >10 years as compared to diabetic patients whose DM was less than five years [AOR = 1.99, 95% CI (1.05–3.79)]. Regarding glycemic control, diabetic patients with poor glycemic control had a 1.57-fold increased risk of developing hypertension compared to diabetic patients with reasonable glycemic control [AOR = 1.57, 95% CI (1.01–2.45)] (Table 4).
+
+Bivariate and multivariable logistic regression analysis results.
+
+Variables	Cases	Controls	COR	AOR	P	 	(n = 235)	(n = 235)	(95%CI)	(95%CI)	Value	 	Age (years)	 	>70	38 (16.2)	16 (6.8)	6.492(3.30, 12.77)	2.95 (1.25, 6.92)	0.013**	 	61–70	76 (32.3)	37 (15.7)	5.61 (3.34, 9.45)	3.99 (2.14, 7.46)	< 0.001**	 	51–60	76 (32.3)	59 (25.1)	3.52 (2.17,5.70)	3.33 (1.92, 5.78)	< 0.001**	 	≤ 50	45 (19.2)	123 (52.3)	1	1		 	Marital status	 	Married	176 (74.9)	160 (68.1)	3.11 (1.56, 6.23)	1.56 (0.67, 3.64)	0.305	 	Divorced	17 (7.2)	23 (9.8)	2.09 (0.84, 5.19)	1.15 (0.39, 3.39)	0.797	 	Widowed	30 (12.8)	18 (7.7)	4.72 (1.96, 11.39)	1.10 (0.37, 3.32)	0.865	 	Single	12 (5.1)	34 (14.4)	1	1		 	Educational status	 	Unable to read and write	47 (20.0)	54 (23.0)	1.00 (0.58, 1.74)	0.89 (0.41, 1.96)	0.779	 	Read and write	35 (14.9)	31 (13.2)	1.29 (0.69, 2.4)	1.05 (0.46, 2.36)	0.915	 	Primary school	39 (16.6)	45 (19.1)	0.99 (0.55, 1.77)	0.96 (0.45, 2.05)	0.910	 	secondary school	28 (11.9)	22 (9.4)	1.46 (0.74, 2.89)	1.16 (0.49, 2.74)	0.744	 	preparatory school	39 (16.6)	29 (12.3)	1.54 (0.83, 2.87)	1.13 (0.51, 2.48)	0.767	 	College or university	47 (20.0)	54 (23.0)	1	1		 	Average family income (ETB)	 	>3000	105 (44.7)	97 (41.3)	1.86 (1.03, 3.38)	1.609 (0.72, 6.62)	0.251	 	2001–3000	41 (17.4)	45 (19.1)	1.57 (0.80, 3.08)	1.264 (0.54, 2.54)	0.592	 	1001–2000	67 (28.5)	55 (23.4)	2.10 (1.11, 3.96)	1.77 (0.81, 3.86)	0.151	 	500–1000	22 (9.4)	38 (16.2)	1	1		 	Adherence to diabetic medication	 	Low	111 (47.2)	94 (40)	1.49 (0.93, 2.37)	1.15 (0.64, 2.04)	0.646	 	Medium	75 (31.9)	79 (33.6)	1.20 (0.73, 1.961)	0.93 (0.51, 1.69)	0.802	 	Good	49 (20.9)	62 (26.4)	1	1		 	Levels of physical activity	 	Low	117 (49.8)	68 (28.9)	2.74 (1.69, 4.47)	1.82 (1.00, 3.31)	0.049**	 	Moderate	76 (32.3)	100 (42.6)	1.21 (0.75,1.97)	1.02 (0.57, 1.84)	0.947	 	High	42 (17.9)	67 (28.5)	1	1		 	Adherence to a healthy diet	 	Poor	84 (35.7)	106 (45.1)	0.67 (0.47, 0.98)	0.75 (0.47, 1.19)	0.219	 	Good	151 (64.3)	129 (54.9)	1	1		 	Depression	 	Yes	166 (70.6)	122 (51.9)	2.22 (1.52, 3.26)	2.00 (1.24, 3.21)	0.004**	 	No	69 (29.4)	113 (48.1)	1	1		 	Waist Circumference	 	Normal	74 (31.5)	114 (48.5)	1	1		 	Above normal	161 (68.5)	121 (51.5)	2.04 (1.40, 2.98)	0.85 (0.37, 1.97)	0.704	 	Waist to Hip Ratio	 	Normal	75 (31.9)	123 (52.3)	1	1		 	Above Normal	160 (68.1)	112 (47.7)	2.34 (1.61, 3.41)	1.84 (0.80, 4.23)	0.150	 	Family history of HTN	 	Yes	120 (51.1)	66 (28.1)	2.67 (1.82, 3.19)	2.13 (1.34, 3.37)	≤ 0.001**	 	No	115 (48.9)	169 (71.9)	1	1		 	Had health education about diabetes	 	Yes	134 (57.0)	170 (72.3)	1	1		 	No	101 (43.0)	65 (27.7)	1.97 (1.34, 2.89)	1.87 (1.18, 2.96)	0.008**	 	Duration of DM	 	>10year	81 (34.5)	48 (20.4)	3.11 (1.88, 5.17)	1.99 (1.05, 3.79)	0.036**	 	5–10year	108 (46.0)	102 (43.4)	1.95 (1.24, 3.06)	1.51 (0.88, 2.61)	0.137	 	<5year	46 (19.6)	85 (36.2)	1	1		 	Presence of comorbidity other than hypertension	 	Yes	110 (46.8)	55 (23.4)	2.880 (1.94, 4.28)	1.38 (0.84, 2.27)	0.206	 	No	125 (53.2)	180 (76.6)	1	1		 	Presence of diabetes-related complications	 	Yes	57 (24.3)	35 (14.9)	1.82 (1.15, 2.92)	0.79 (0.45, 1.42)	0.444	 	No	178 (75.7)	200 (85.1)	1	1		 	Glycemic control	 	Good	126 (53.6)	153 (65.1)	1	1		 	Poor	109 (46.4)	82 (34.9)	1.61 (1.11, 2.34)	1.57 (1.01, 2.45)	0.046**
+
+** Indicates that variables are statistically significant at a P value < 0.05
+
+Discussion
+
+This study’s primary purpose was to assess hypertension determinants among individuals with diabetes attending chronic follow-up clinics in the Amhara region’s comprehensive specialized hospitals.
+
+Compared to individuals with diabetes under 50 years, those within the age groups 51–60 years, 61–70 years, and above 70 years were more likely to have hypertension. This finding agrees with studies conducted in Malaysia, Emirates, Republic of Benin, and Ethiopia, and they stated that older age (age > 50 years) is associated with an increased risk of having hypertension. This finding might be due to age-related changes in the vascular system that occur in older individuals with diabetes that lead to stiffening and thickening of the artery layers, alteration in renal and sodium metabolism, and modifications to the renin-angiotensin-aldosterone system. These modifications eventually predispose to high blood pressure. Moreover, the probable explanation might also be due to easy susceptibility to pathological conditions, other DM-related complications, and non-adherence to the treatments.
+
+Individuals with diabetes who experienced depression were more likely to be hypertensive than individuals with diabetes who did not experience depression. This finding might result from physiological mechanisms that cause prolonged activation of the sympathetic nervous system and the release of catecholamines, leading to insulin resistance and high blood pressure. Besides, depression is negatively associated with poor adherence to DM treatment regimen, self-care aspects, medical appointment attendance, and quality of life.
+
+Concerning glycemic control, individuals with diabetes who had poor glycemic control had a higher risk of developing hypertension than individuals with diabetes who had reasonable glycemic control. This finding agrees with studies conducted in Debretabor and Tigray, Ethiopia. This association might be attributed to persistent hyperglycemia. A high level of glucose traps circulating low-density lipoprotein, which promotes cholesterol deposition in the intima and induces the formation of atheroma on the artery walls and subsequent hypertension. Furthermore, an increased blood glucose level increases extracellular fluid’s osmolality, causing water to shift from the intracellular to the extracellular space, resulting in volume expansion and high blood pressure.
+
+The odds of hypertension among individuals with diabetes who had lower levels of physical activity were higher than those with higher levels of physical activity. This finding agrees with studies conducted in Benghazi, Libya and Tigray, Ethiopia. This association may have occurred because exercise can normalize BMI, improve glucose tolerance and insulin sensitivity, reduce systemic vascular resistance, and improve insulin sensitivity. Furthermore, exercise can improve lipid metabolism, resulting in better glycemic control and an optimal blood pressure level.
+
+Regarding family history, individuals with diabetes who had a positive family history of hypertension were more likely to have hypertension than those who had no family history of hypertension. This finding is consistent with studies conducted in Southern Ethiopia and Jordan. This finding might result from genetic factors associated with high blood pressure in individuals with diabetes, such as high sodium-lithium counter-transport, elevated uric acid levels, high-fasting plasma insulin concentrations, and oxidative stress.
+
+The odds of hypertension among individuals with diabetes who did not attend diabetic education were higher than those with diabetes who attended diabetic education. This finding is consistent with a study conducted in Tigray, Ethiopia. The above finding might have occurred due to diabetic education being a key factor for good blood pressure and glucose management and positively affecting patient health.
+
+In this study, individuals with diabetes who had diabetes for above ten years had a higher risk of having hypertension than those who had diabetes for less than five years. This finding is supported by a study conducted in the Republic of Benin and Adama, Ethiopia. This finding might be because as diabetes duration increases, changes caused by diabetes mellitus, such as micro-vascular damage, sympathetic damage, an enhanced renin-angiotensin system, and decreased insulin sensitivity, will aggravate hypertension.
+
+Using information from patient’s medical records and physical measurements to gather information rather than relying only on self-reported information, as well as being a multicenter study, were significant strengths of this study. To the best of our knowledge, this study is also the first study to assess the effect of depression on causing hypertension among individuals with DM. Since the study was hospital-based, the finding may not be generalized to the general population, and using fasting blood glucose levels instead of HgA1C were limitations of this study. Additionally, the use of p<0.2 as the stopping rule to identify a candidate set of covariates in the bivariate model to be included in the multivariable model might not provide an optimal variable selection for the covariates, although previous studies have provided a strong recommendation for using p-values within the range of 0.15–0.20 as used in our study.
+
+Conclusion
+
+In this study, determinants that increase the risk of hypertension among people with diabetes mellitus were older age, physical inactivity, depression, family history of hypertension, not having diabetic health education, longer duration of diabetes, and poor glycemic control.
+
+Supporting information
+
+Abbreviations and acronyms
+
+8-MMS
+
+8 Item Morisky Medication Adherence Scale
+
+AOR
+
+Adjusted Odds Ratio
+
+AUDIT
+
+Alcohol Use Disorders Identification Test
+
+BMI
+
+Body Mass Index
+
+CI
+
+Confidence Interval
+
+COR
+
+Crude Odd Ratio
+
+CVDs
+
+Cardiovascular Diseases
+
+DM
+
+Diabetes mellitus
+
+IPAQ
+
+: International Physical Activity Questionnaire
+
+HC
+
+: Hip Circumference
+
+HTN
+
+Hypertension
+
+MET
+
+Metabolic Equivalent Task
+
+NCDs
+
+Non-Communicable Diseases
+
+OSLO
+
+Oslo social support questionnaire
+
+PDAQ
+
+Perceived Dietary Adherence Questionnaire
+
+PHQ 9
+
+9 Item Patient Health Questionnaire
+
+WC
+
+: Waist Circumference
+
+WHR
+
+Waist to Hip Ratio
+
+References
+
+IDF diabetes atlas: Global, regional and country-level diabetes prevalence estimates for 2021 and projections for 2045
+
+Diabetes mellitus and its association with hypertension in ethiopia: a systematic review and meta-analysis
+
+2017 ACC/AHA/AAPA/ABC/ACPM/AGS/APhA/ASH/ASPC/NMA/PCNA Guideline for the Prevention, Detection, Evaluation, and Management of High Blood Pressure in Adults: A Report of the American College of Cardiology/American Heart Association Task Force on Clinical Practice Guidelines
+
+2020 International Society of Hypertension global hypertension practice guidelines
+
+Diabetes and hypertension: the bad companions
+
+Hypertension and Its Associated Factors Among Type 2 Diabetes Mellitus Patients at Debre Tabor General Hospital, Northwest Ethiopia
+
+IDF Diabetes Atlas: Global estimates of diabetes prevalence for 2017 and projections for 2045
+
+The goal of blood pressure in the hypertensive patient with diabetes is defined: now the challenge is go from recommendations to practice.
+
+Blood pressure lowering in type 2 diabetes: a systematic review and meta-analysis
+
+Global and regional estimates and projections of diabetes-related health expenditure: Results from the International Diabetes Federation Diabetes Atlas
+
+Prevalence and Determinants of Hypertension Among Diabetic Patients in Jimma University Medical Center, Southwest Ethiopia, 2019
+
+Non-communicable diseases in Ethiopia: policy and strategy gaps in the reduction of behavioral risk factors
+
+Prevalence of hypertension among diabetic type 2 patients attending medical clinic at prince Hashem Bin
+
+A study evaluating prevalence of hypertension and risk factors affecting on blood pressure control among type 2 diabetes patients attending teaching hospital in Malaysia.
+
+Hypertension prevalence and body mass index correlates among patients with diabetes mellitus in Oghara, Nigeria
+
+Prevalence of hypertension among diabetic patients in Benghazi: a study of associated factors
+
+Prevalence of hypertension and its management pattern among type 2 diabetic patients attending, Adama Hospital Medical College, Adama
+
+Prevalence of hypertension and obesity among emirati patients with type 2 diabetes
+
+Prevalence and risk factors of hypertension in type 2 diabetics in Benin
+
+Hypertension among 1000 patients with type 2 diabetes attending a national diabetes center in Jordan
+
+Determinants of hypertension among patients with type 2 diabetes mellitus on follow-up at Tikur Anbessa Specialized Hospital, Addis Ababa: A case-control study
+
+Prevalence of hypertension among patients with type 2 diabetes mellitus and its socio demographic factors in Nigist Ellen Mohamed Memorial Hospital Hosanna, Southern Ethiopia
+
+Determinants of hypertension among diabetic patients in Public Hospitals of the Central Zone, Tigray, Ethiopia 2018: unmatched case-control study
+
+Hypertension prevalence and associated factors among patients with diabetes: A retrospective cross-sectional study from Jordan
+
+Validity of the international physical activity questionnaire short form (IPAQ-SF): A systematic review
+
+Glycemic Control of Diabetes Mellitus Patients in Referral Hospitals of Amhara Region, Ethiopia: A Cross-Sectional Study
+
+Prevalence of gestational diabetes mellitus and associated factors among women attending antenatal care at Gondar town public health facilities, Northwest Ethiopia
+
+Concurrent and predictive validity of a self-reported measure of medication adherence
+
+Psychometric properties of the Thai version of the 8-item Morisky Medication Adherence Scale in patients with type 2 diabetes
+
+Utility of the Morisky Medication Adherence Scale in gout: a prospective study
+
+Self-care practices and associated factors among diabetes patients attending the outpatient department in Bahir Dar, Northwest Ethiopia
+
+Medication non-adherence and associated factors among diabetes patients in Felege Hiwot Referral Hospital, Bahir Dar city administration, Northwest Ethiopia
+
+The Reliability and Validity of the Perceived Dietary Adherence Questionnaire for People with Type 2
+
+Validity of the Patient Health Questionnaire-9 for depression screening and diagnosis in East Africa
+
+Depression in diabetic patients attending University of Gondar Hospital Diabetic Clinic, Northwest Ethiopia. Diabetes, metabolic syndrome and obesity: targets and therapy
+
+Psychometric properties of the 3-item oslo social support scale among clinical students of Bayero University Kano, Nigeria.
+
+Prevalence of depression and its associated factors among patients with diabetes mellitus at Tirunesh-Beijing general hospital, Addis Ababa, Ethiopia
+
+The Alcohol Use Disorders Identification Test (AUDIT): A review of graded severity algorithms and national adaptations
+
+The summary of diabetes self-care activities measure: results from 7 studies and a revised scale
+
+Body fat distribution and noncommunicable diseases in populations: overview of the 2008 WHO Expert Consultation on Waist Circumference and Waist-Hip Ratio.
+
+Age-related vascular stiffening: causes and consequences
+
+The Aging Risk and Atherosclerosis: A Fresh Look at Arterial Homeostasis
+
+Nemeroff. The relationship of depression and diabetes: Pathophysiological and treatment implications
+
+Insulin resistance: an additional risk factor in the pathogenesis of cardiovascular disease in type 2 diabetes
+
+Mechanism of Development of Atherosclerosis and Cardiovascular Disease in Diabetes Mellitus
+
+ISPAD Clinical Practice Consensus Guidelines 2018: Diabetic ketoacidosis and the hyperglycemic hyperosmolar state
+
+Beneficial Effects of Physical Activity in Diabetic Patients
+
+Prevalence and Predictors of Hypertension-Type 2 Diabetes Mellitus Comorbidity among Patients in Wachemo University Nigest Elleni Mohammed Memorial Referral Hospital, Southern Ethiopia
+
+Education and diabetes mellitus
+
+Hypertension with diabetes mellitus: significance from an epidemiological perspective for Japanese
+
+10.1371/journal.pone.0279245.r001
+
+Decision Letter 0
+
+Mohammed
+
+Jibril
+
+This is an open access article distributed under the terms of the Creative Commons Attribution License, which permits unrestricted use, distribution, and reproduction in any medium, provided the original author and source are credited.
+
+19 Aug 2022
+
+PONE-D-22-13803Determinants of Hypertension among adult Diabetes Mellitus patients in Amhara Region comprehensive specialized hospitals, Amhara Region, Ethiopia, 2020/21. A multi-center Unmatched Case-Control StudyPLOS ONE
+
+Dear Mr Abate,
+
+Thank you for submitting your manuscript to PLOS ONE. After careful consideration, we feel that it has merit but does not fully meet PLOS ONE’s publication criteria as it currently stands. Therefore, we invite you to submit a revised version of the manuscript that addresses the points raised during the review process.
+
+Please submit your revised manuscript by Oct 03 2022 11:59PM. If you will need more time than this to complete your revisions, please reply to this message or contact the journal office at plosone@plos.org. When you're ready to submit your revision, log on to https://www.editorialmanager.com/pone/ and select the 'Submissions Needing Revision' folder to locate your manuscript file.
+
+A rebuttal letter that responds to each point raised by the academic editor and reviewer(s). You should upload this letter as a separate file labeled 'Response to Reviewers'.
+
+A marked-up copy of your manuscript that highlights changes made to the original version. You should upload this as a separate file labeled 'Revised Manuscript with Track Changes'.
+
+An unmarked version of your revised paper without tracked changes. You should upload this as a separate file labeled 'Manuscript'.
+
+Please include the following items when submitting your revised manuscript:
+
+If you would like to make changes to your financial disclosure, please include your updated statement in your cover letter. Guidelines for resubmitting your figure files are available below the reviewer comments at the end of this letter.
+
+If applicable, we recommend that you deposit your laboratory protocols in protocols.io to enhance the reproducibility of your results. Protocols.io assigns your protocol its own identifier (DOI) so that it can be cited independently in the future. For instructions see: https://journals.plos.org/plosone/s/submission-guidelines#loc-laboratory-protocols. Additionally, PLOS ONE offers an option for publishing peer-reviewed Lab Protocol articles, which describe protocols hosted on protocols.io. Read more information on sharing protocols at https://plos.org/protocols?utm_medium=editorial-email&utm_source=authorletters&utm_campaign=protocols.
+
+We look forward to receiving your revised manuscript.
+
+Kind regards,
+
+Jibril Mohammed, BSc, MSc, PhD
+
+Academic Editor
+
+PLOS ONE
+
+Journal Requirements:
+
+When submitting your revision, we need you to address these additional requirements.
+
+1. Please ensure that your manuscript meets PLOS ONE's style requirements, including those for file naming. The PLOS ONE style templates can be found at
+
+https://journals.plos.org/plosone/s/file?id=wjVg/PLOSOne_formatting_sample_main_body.pdf  and
+
+https://journals.plos.org/plosone/s/file?id=ba62/PLOSOne_formatting_sample_title_authors_affiliations.pdf
+
+2. You indicated that you had ethical approval for your study. In your Methods section we have noted that the interquartile range for age was  (12- 66), please ensure you have also stated whether you obtained consent from parents or guardians of the minors included in the study or whether the research ethics committee or IRB specifically waived the need for their consent.
+
+3. We suggest you thoroughly copyedit your manuscript for language usage, spelling, and grammar. If you do not know anyone who can help you do this, you may wish to consider employing a professional scientific editing service.
+
+Whilst you may use any professional scientific editing service of your choice, PLOS has partnered with both American Journal Experts (AJE) and Editage to provide discounted services to PLOS authors. Both organizations have experience helping authors meet PLOS guidelines and can provide language editing, translation, manuscript formatting, and figure formatting to ensure your manuscript meets our submission guidelines. To take advantage of our partnership with AJE, visit the AJE website (http://aje.com/go/plos) for a 15% discount off AJE services. To take advantage of our partnership with Editage, visit the Editage website (www.editage.com) and enter referral code PLOSEDIT for a 15% discount off Editage services. If the PLOS editorial team finds any language issues in text that either AJE or Editage has edited, the service provider will re-edit the text for free.
+
+Upon resubmission, please provide the following:
+
+The name of the colleague or the details of the professional service that edited your manuscript
+
+A copy of your manuscript showing your changes by either highlighting them or using track changes (uploaded as a *supporting information* file)
+
+A clean copy of the edited manuscript (uploaded as the new *manuscript* file)
+
+4. In your Data Availability statement, you have not specified where the minimal data set underlying the results described in your manuscript can be found. PLOS defines a study's minimal data set as the underlying data used to reach the conclusions drawn in the manuscript and any additional data required to replicate the reported study findings in their entirety. All PLOS journals require that the minimal data set be made fully available. For more information about our data policy, please see http://journals.plos.org/plosone/s/data-availability.
+
+Upon re-submitting your revised manuscript, please upload your study’s minimal underlying data set as either Supporting Information files or to a stable, public repository and include the relevant URLs, DOIs, or accession numbers within your revised cover letter. For a list of acceptable repositories, please see http://journals.plos.org/plosone/s/data-availability#loc-recommended-repositories. Any potentially identifying patient information must be fully anonymized.
+
+Important: If there are ethical or legal restrictions to sharing your data publicly, please explain these restrictions in detail. Please see our guidelines for more information on what we consider unacceptable restrictions to publicly sharing data: http://journals.plos.org/plosone/s/data-availability#loc-unacceptable-data-access-restrictions. Note that it is not acceptable for the authors to be the sole named individuals responsible for ensuring data access.
+
+We will update your Data Availability statement to reflect the information you provide in your cover letter.
+
+Additional Editor Comments:
+
+Dear Authors: Please find the comments received from two reviewers. In general, your paper appears to be lacking in so many areas and a lot of work has to be done for me to reconsider the possibility of accepting it for publication. I also agree with the reviewers that the analyses lacks clarity and there is a need for substantial improvement in writing style of the manuscript (English language editing!).
+
+[Note: HTML markup is below. Please do not edit.]
+
+Reviewers' comments:
+
+Reviewer's Responses to Questions
+
+Comments to the Author
+
+1. Is the manuscript technically sound, and do the data support the conclusions?
+
+The manuscript must describe a technically sound piece of scientific research with data that supports the conclusions. Experiments must have been conducted rigorously, with appropriate controls, replication, and sample sizes. The conclusions must be drawn appropriately based on the data presented.
+
+Reviewer #1: Partly
+
+Reviewer #2: Yes
+
+**********
+
+2. Has the statistical analysis been performed appropriately and rigorously?
+
+Reviewer #1: Yes
+
+Reviewer #2: I Don't Know
+
+**********
+
+3. Have the authors made all data underlying the findings in their manuscript fully available?
+
+The PLOS Data policy requires authors to make all data underlying the findings described in their manuscript fully available without restriction, with rare exception (please refer to the Data Availability Statement in the manuscript PDF file). The data should be provided as part of the manuscript or its supporting information, or deposited to a public repository. For example, in addition to summary statistics, the data points behind means, medians and variance measures should be available. If there are restrictions on publicly sharing data—e.g. participant privacy or use of data from a third party—those must be specified.
+
+Reviewer #1: Yes
+
+Reviewer #2: Yes
+
+**********
+
+4. Is the manuscript presented in an intelligible fashion and written in standard English?
+
+PLOS ONE does not copyedit accepted manuscripts, so the language in submitted articles must be clear, correct, and unambiguous. Any typographical or grammatical errors should be corrected at revision, so please note any specific errors here.
+
+Reviewer #1: No
+
+Reviewer #2: Yes
+
+**********
+
+5. Review Comments to the Author
+
+Please use the space provided to explain your answers to the questions above. You may also include additional comments for the author, including concerns about dual publication, research ethics, or publication ethics. (Please upload your review as an attachment if it exceeds 20,000 characters)
+
+Reviewer #1: The paper was meant to add an important piece of information to the literature on diabetes complicated by high blood pressure among persons with diabetes from a region in an African country, but the justification for the study is rather incomplete. In addition, there are lots of inconsistencies with the use of terms/nomenclatures both in the text and in the tables and the discussion is POORLY written. The authors MUST ponder the following:
+
+1. In the introduction, there is need to include what has been documented about the determinants of HTN among persons with DM. The authors attempted to capture these in paragraph 4 of the introduction but more cogent information on these determinants must be included.
+
+2. In the introduction, authors MUST explain the social context in the previous (Tigray study) study and what makes the social context in their study broader than the one in the Tigray study? What makes the Amhara region more diverse than Tigray? What makes the Amhara region of broader social context than Tigray?
+
+3. Regarding justification of the study, of what significance is making such data (determinants of HTN among diabetes patients) available? Whom does it benefit and in what way?
+
+3. Did authors consider HTN existing at the time of or after the diagnosis of DM?
+
+4. Authors must be consistent with the use of terms/nomenclature. E.g., “individuals or persons with diabetes” in lieu of “diabetic individuals or clients”
+
+5. There are too many long-winded statements that authors MUST reorganize them. In addition, the manuscript MUST be submitted for English language editing.
+
+6. The discussion MUST undergo a major overhaul if the manuscript is to be considered for publication.
+
+Authors MUST improve the quality of the manuscript by addressing all the issues raised (see my comments in the manuscript) and resubmit it.
+
+Reviewer #2: The introduction is very broad and as the research question is searching for determinants of hypertension it should be written more focused on already known determinants and what will be new from this study.
+
+Methods/results:
+
+Exclusion criteria: those who have a history of hypertension at the time of diagnosis of DM: why is this an exclusion?
+
+Some operational definitions need more explanation (eg physical activity and diet regimen)
+
+Statistical analysis: why cut off of 0.2 voor regression (in most cases 0.15)?
+
+IN the results the logistic regression is mentioned and than there is one with correction for potential confounders (most of the entered parameters in the regression). Can you explain a little bit better how the statistics is performed and how the results are expressed.
+
+The results are not clearly written. It is not always very clear to the reader how the results are shown and what this means. This should be rewritten and made more focussed.
+
+The discussion: This should start with the main findings. Than you can discuss the main points, but discuss the new elements. If you compare with other research you will find that duration of diabetes is a predictor in many countries. This is not very new. Perhaps the weigth of this factor in the Nigerian population is different from other countries. This can be more discussed in depth.
+
+Figures and tables: nice, but sometimes you need to give more information in the legend.
+
+References: OK
+
+**********
+
+6. PLOS authors have the option to publish the peer review history of their article (what does this mean?). If published, this will include your full peer review and any attached files.
+
+If you choose “no”, your identity will remain anonymous but your review may still be made public.
+
+Do you want your identity to be public for this peer review? For information about this choice, including consent withdrawal, please see our Privacy Policy.
+
+Reviewer #1: No
+
+Reviewer #2: Yes: Patrick Calders
+
+**********
+
+[NOTE: If reviewer comments were submitted as an attachment file, they will be attached to this email and accessible via the submission site. Please log into your account, locate the manuscript record, and check for the action link "View Attachments". If this link does not appear, there are no attachment files.]
+
+While revising your submission, please upload your figure files to the Preflight Analysis and Conversion Engine (PACE) digital diagnostic tool, https://pacev2.apexcovantage.com/. PACE helps ensure that figures meet PLOS requirements. To use PACE, you must first register as a user. Registration is free. Then, login and navigate to the UPLOAD tab, where you will find detailed instructions on how to use the tool. If you encounter any issues or have any questions when using PACE, please email PLOS at figures@plos.org. Please note that Supporting Information files do not need this step.
+
+10.1371/journal.pone.0279245.r002
+
+Author response to Decision Letter 0
+
+27 Oct 2022
+
+Author’s response to editor and reviewers
+
+Dear editor and reviewers,
+
+We appreciate your review and the significant points you made in the paper.
+
+We read the reviewer's comments carefully and we are hoping that the newly submitted revised version will be viewed as being better than the original. The authors very much appreciate the reviewer's suggestions and comments. These comments significantly raised the quality of the manuscript.
+
+Please find the responses to the issues raised under each of the points below.
+
+The author's responses to the comments are in italics below, and the necessary changes in the main manuscript are highlighted in color. In addition, we made a few other changes to the paper to improve our readers' understanding, which were also highlighted in red.
+
+PONE-D-22-13803
+
+Determinants of Hypertension among adult Diabetes mellitus patients in Amhara Region comprehensive specialized hospitals, Amhara Region, Ethiopia, 2020/21. A multi-centre Unmatched Case-Control Study.
+
+PLOS ONE
+
+Dear Mr Abate,
+
+Thank you for submitting your manuscript to PLOS ONE. After careful consideration, we feel that it has merit but does not fully meet PLOS ONE's publication criteria as it currently stands. Therefore, we invite you to submit a revised version of the manuscript that addresses the points raised during the review process.
+
+Please submit your revised manuscript by Oct 03 2022 11:59PM. If you will need more time than this to complete your revisions, please reply to this message or contact the journal office at plosone@plos.org. When you're ready to submit your revision, log on to https://www.editorialmanager.com/pone/ and select the 'Submissions Needing Revision' folder to locate your manuscript file.
+
+Please include the following items when submitting your revised manuscript:
+
+• A rebuttal letter that responds to each point raised by the academic editor and reviewer(s). You should upload this letter as a separate file labeled 'Response to Reviewers'.
+
+� Included
+
+• A marked-up copy of your manuscript that highlights changes made to the original version. You should upload this as a separate file labeled 'Revised Manuscript with Track Changes'.
+
+� Included
+
+• An unmarked version of your revised paper without tracked changes. You should upload this as a separate file labeled 'Manuscript'.
+
+� Included
+
+If you would like to make changes to your financial disclosure, please include your updated statement in your cover letter. Guidelines for resubmitting your figure files are available below the reviewer comments at the end of this letter.
+
+If applicable, we recommend that you deposit your laboratory protocols in protocols.io to enhance the reproducibility of your results. Protocols.io assigns your protocol its own identifier (DOI) so that it can be cited independently in the future. For instructions see: https://journals.plos.org/plosone/s/submission-guidelines#loc-laboratory-protocols. Additionally, PLOS ONE offers an option for publishing peer-reviewed Lab Protocol articles, which describe protocols hosted on protocols.io. Read more information on sharing protocols at https://plos.org/protocols?utm_medium=editorial-email&utm_source=authorletters&utm_campaign=protocols.
+
+We look forward to receiving your revised manuscript.
+
+Kind regards,
+
+Jibril Mohammed, BSc, MSc, PhD
+
+Academic Editor
+
+PLOS ONE
+
+Journal requirements
+
+When submitting your revision, we need you to address these additional requirements.
+
+1. Please ensure that your manuscript meets PLOS ONE's style requirements, including those for file naming. The PLOS ONE style templates can be found at
+
+https://journals.plos.org/plosone/s/file?id=wjVg/PLOSOne_formatting_sample_main_body.pdf and
+
+https://journals.plos.org/plosone/s/file?id=ba62/PLOSOne_formatting_sample_title_authors_affiliations.pdf
+
+Response: we accepted your suggestion and revised the manuscript following PloS One's style requirements.
+
+2. You indicated that you had ethical approval for your study. In your Methods section we have noted that the interquartile range for age was (12-66), please ensure you have also stated whether you obtained consent from parents or guardians of the minors included in the study or whether the research ethics committee or IRB specifically waived the need for their consent.
+
+Response: thank you for bringing this to our attention, and please accept our apologies for making such a mistake while writing the result. The actual interquartile range for age was (52 -66=14).
+
+3. We suggest you thoroughly copyedit your manuscript for language usage, spelling, and grammar. If you do not know anyone who can help you do this, you may wish to consider employing a professional scientific editing service.
+
+Whilst you may use any professional scientific editing service of your choice, PLOS has partnered with both American Journal Experts (AJE) and Editage to provide discounted services to PLOS authors. Both organizations have experience helping authors meet PLOS guidelines and can provide language editing, translation, manuscript formatting, and figure formatting to ensure your manuscript meets our submission guidelines. To take advantage of our partnership with AJE, visit the AJE website (http://aje.com/go/plos) for a 15% discount off AJE services. To take advantage of our partnership with Editage, visit the Editage website (www.editage.com) and enter referral code PLOSEDIT for a 15% discount off Editage services. If the PLOS editorial team finds any language issues in text that either AJE or Editage has edited, the service provider will re-edit the text for free.
+
+Upon resubmission, please provide the following:
+
+• The name of the colleague or the details of the professional service that edited your manuscript
+
+• A copy of your manuscript showing your changes by either highlighting them or using track changes (uploaded as a *supporting information* file)
+
+• A clean copy of the edited manuscript (uploaded as the new *manuscript* file)
+
+Response: Thank you for suggesting that the English writing in this manuscript be revised. An expert editor, Mr Abera Lambebo, a PhD scholar in Human Nutrition and an assistant professor of public health nutrition at Debre Berhan University, edited the revised manuscript. Use this email address to get in touch with him if you need more details: lambebo70@gmail.com. In addition, we used "Grammarly" online software to edit the spelling, grammar, and language usage. Accordingly, we have got a 93% quality score in the draft manuscript. Then taking the comment raised by online Grammarly software, we addressed most of the issues, left some that were illogical. Later, we got a 99% quality score in the final revised draft.
+
+4. In your Data Availability statement, you have not specified where the minimal data set underlying the results described in your manuscript can be found. PLOS defines a study's minimal data set as the underlying data used to reach the conclusions drawn in the manuscript and any additional data required to replicate the reported study findings in their entirety. All PLOS journals require that the minimal data set be made fully available. For more information about our data policy, please see http://journals.plos.org/plosone/s/data-availability.
+
+Upon re-submitting your revised manuscript, please upload your study’s minimal underlying data set as either Supporting Information files or to a stable, public repository and include the relevant URLs, DOIs, or accession numbers within your revised cover letter. For a list of acceptable repositories, please see http://journals.plos.org/plosone/s/data-availability#loc-recommended-repositories. Any potentially identifying patient information must be fully anonymized.
+
+Important: If there are ethical or legal restrictions to sharing your data publicly, please explain these restrictions in detail. Please see our guidelines for more information on what we consider unacceptable restrictions to publicly sharing data: http://journals.plos.org/plosone/s/data-availability#loc-unacceptable-data-access-restrictions. Note that it is not acceptable for the authors to be the sole named individuals responsible for ensuring data access.
+
+We will update your Data Availability statement to reflect the information you provide in your cover letter.
+
+Response: The datasets used and analyzed during the current study are not publicly available because the hospitals and participants did not ethically permit the researchers to disclose the data publicly. However, the dataset is available from the corresponding author if future researchers have a reasonable justification. Individual researchers granted permission to use the data are not allowed to make the data (in any form) available to third parties. Any third party interested in the data must contact the corresponding author directly.
+
+Additional Editor Comments:
+
+Comments to the Author
+
+1. Is the manuscript technically sound, and do the data support the conclusions?
+
+The manuscript must describe a technically sound piece of scientific research with data that supports the conclusions. Experiments must have been conducted rigorously, with appropriate controls, replication, and sample sizes. The conclusions must be drawn appropriately based on the data presented.
+
+Reviewer #1: Partly
+
+Reviewer #2: Yes________________________________________
+
+2. Has the statistical analysis been performed appropriately and rigorously?
+
+Reviewer #1: Yes
+
+Reviewer #2: I Don't Know
+
+________________________________________
+
+3. Have the authors made all data underlying the findings in their manuscript fully available?
+
+The PLOS Data policy requires authors to make all data underlying the findings described in their manuscript fully available without restriction, with rare exception (please refer to the Data Availability Statement in the manuscript PDF file). The data should be provided as part of the manuscript or its supporting information, or deposited to a public repository. For example, in addition to summary statistics, the data points behind means, medians and variance measures should be available. If there are restrictions on publicly sharing data—e.g. participant privacy or use of data from a third party—those must be specified.
+
+Reviewer #1: Yes
+
+Reviewer #2: Yes
+
+________________________________________
+
+4. Is the manuscript presented in an intelligible fashion and written in Standard English?
+
+PLOS ONE does not copyedit accepted manuscripts, so the language in submitted articles must be clear, correct, and unambiguous. Any typographical or grammatical errors should be corrected at revision, so please note any specific errors here.
+
+Reviewer #1: No
+
+Reviewer #2: Yes
+
+________________________________________
+
+Please use the space provided to explain your answers to the questions above. You may also include additional comments for the author, including concerns about dual publication, research ethics, or publication ethics. (Please upload your review as an attachment if it exceeds 20,000 characters)
+
+Reviewer #1: The paper was meant to add an important piece of information to the literature on diabetes complicated by high blood pressure among persons with diabetes from a region in an African country, but the justification for the study is rather incomplete. In addition, there are lots of inconsistencies with the use of terms/nomenclatures both in the text and in the tables and the discussion is POORLY written.
+
+The authors MUST ponder the following:
+
+1. In the introduction, there is need to include what has been documented about the determinants of HTN among persons with DM. The authors attempted to capture these in paragraph 4 of the introduction but more cogent information on these determinants must be included.
+
+Response: Despite implementing different strategies (Behavioral risk reduction and lifestyle modification), many studies reported a high burden of hypertension among people with DM (1-6). So far, some determinants of hypertension in people with diabetes have been identified in some countries (United Arab Emirates, Jordan, Nigeria, Malaysia, Republic of Benin, Libya, Ethiopia), namely, advanced age, low educational status, unhealthy diet, family history of hypertension, poor glycemic control, and duration of diabetes (2-5, 7-9). The most common determinant was a longer duration of diabetes. We aimed to fill the existing research gap in our study area by examining multiple risk factors (depression, harmful alcohol consumption, poor social support, raised BMI, increased waist circumference, and raised waist-to-hip ratio) contributing to the development of hypertension in individuals with DM.
+
+2. In the introduction, authors MUST explain the social context in the previous (Tigray study) study and what makes the social context in their study broader than the one in the Tigray study? What makes the Amhara region more diverse than Tigray? What makes the Amhara region of broader social context than Tigray?
+
+Response: In the previous study conducted in Tigray, they recommend researching the determinants of hypertension among diabetic patients in a broader social context and larger sample size. So, the current study was conducted using a relatively larger sample size and a more diverse social context. Even though the community in Tigray is a lot similar to the Amhara region in terms of sociodemographic and cultural contexts, the study conducted in Tigray included only the central zone (one of the seven Zones in the region). There are only four public hospitals in the zone, namely Aksum University referral hospital, St. Marry General Hospital, Adwa General hospital, and Abyiadi General Hospital, which are found in Axum city, Adwa and Abyiadi towns (10). So, it is difficult to generalize the study's findings to the whole Tigray region since it is not representative of the many hospitals in the region.On the contrary, we believe that the case of the current study includes samples representative of the whole Amhara region (the rural and urban population). The other reason is that the current study is conducted in tertiary level health care specialized hospitals, which serve 3.5-5.0 million populations each, while the previous study was conducted in secondary level general and referral hospitals, which serves 1-1.5 million peoples each (11). So, the researchers believe the current study covers a more diverse and broader social context than the previous study conducted in the central Zone of Tigray, Ethiopia.
+
+3. Regarding justification of the study, of what significance is making such data (determinants of HTN among diabetes patients) available? Whom does it benefit and in what way?
+
+Response: One of the International Diabetes Federation’s suggested actions to lower the risk of CVD outcomes and chronic kidney disease among individuals with DM is to prevent the development of HTN. Although the need to reduce HTN burden among DM patients is extensively studied, how we reduce it in this population calls for further evidence. Despite the disproportionately high burden of HTN among individuals with DM, to the best of our knowledge, there are a limited number of studies on determinants of Hypertension in Ethiopia, including our study area (Amhara region) conducted on this specific population. These studies have significant methodological limitations, including flawed participant population selection to explore determinant factors for developing HTN among DM patients. Therefore, this study addressed the issues mentioned above and identified determinants of HTN among DM patients that can be used for the effective prevention and control of the condition.
+
+3. Did authors consider HTN existing at the time of or after the diagnosis of DM?
+
+Response: Authors consider hypertension after the diagnosis of DM.
+
+4. Authors must be consistent with the use of terms/nomenclature. E.g., “individuals or persons with diabetes” in lieu of “diabetic individuals or clients”
+
+Response: thank you for your suggestion; We made modifications per the reviewer's comment.
+
+5. There are too many long-winded statements that authors MUST reorganize them. In addition, the manuscript MUST be submitted for English language editing.
+
+Response: thank you for your suggestion, and to the best of our effort, attempts have been made extensively to summarize the concepts. Furthermore, the manuscript is edited using online Grammarly software and an expert editor.
+
+6. The discussion MUST undergo a major overhaul if the manuscript is to be considered for publication.
+
+Response: comments were accepted, and we made amendments to the main manuscript
+
+Reviewer #2:
+
+1. The introduction is very broad and as the research question is searching for determinants of hypertension it should be written more focused on already known determinants and what will be new from this study.
+
+Response: comment was accepted, and an amendment was made as per the reviewers comment.
+
+2. Methods/results:
+
+� Exclusion criteria: those who have a history of hypertension at the time of diagnosis of DM: why is this exclusion?
+
+Response: We excluded those with a history of hypertension during their DM diagnosis from our study. Because our study is looking for determinants of hypertension among people with diabetes, these individuals already develop HTN prior to diabetes. So, we excluded them to avoid selection bias, which occurs when there is a systemic error in determining cases or controls in case-control studies (ascertainment bias).
+
+� Some operational definitions need more explanation (e.g. physical activity and diet regimen)
+
+Response: we accept your comment, and adherence to physical activity and adherence to a healthy diet were operationalized as follows;
+
+Physical activity: In our study, we have used a short form of international physical activity questionnaire to assess participants' level of physical activity. In accordance with the international physical activity questionnaire (IPAQ) screening protocol, we operationalize adherence to a higher, moderate and lower level of physical activity as follow:
+
+1. Adherence to a higher level of physical activity: -
+
+Individuals with diabetes were considered to have a higher level of physical activity if they
+
+• Have done vigorous physical activity for at least three days and achieve a minimum total physical activity of at least 1500 metabolic equivalent of task (MET) minutes per week. OR
+
+• Having seven or more days of any combination of walking, moderate intensity or vigorous intensity activities achieving a minimum total physical activity of at least 3000MET minutes in a week (12).
+
+2. Adherence to a Moderate level of physical activity: -
+
+Individuals with diabetes were considered to have moderate adherence to physical activity if they
+
+• Engaging in 3 or more days of vigorous-intensity activity and/or walking for at least 30 minutes per day OR
+
+• Engage in five or more days of moderate-intensity activity and/or walking for at least 30 minutes per day OR
+
+• Having five or more days of any combination of walking, moderate-intensity or vigorous-intensity activities, achieving a minimum total physical activity of at least 600MET minutes a week (12).
+
+3. Lower adherence to physical activity:
+
+• Individuals with diabetes were considered to have lower adherence to physical activity if they were not meeting any of the criteria for either moderate or high levels of physical activity (12).
+
+Dietary adherence
+
+We used the perceived dietary adherence questionnaire (PDAQ), a nine-item tool to assess adherence to a healthy diet (13). The response is based on a seven-point Likert scale to answer the question, "On how many of the last seven days did you….?" Higher scores reflect higher adherence except for items 4 and 9, which reflect unhealthy choices (foods high in sugar or fat). For these items, higher scores reflect lower adherence. Therefore, for computing a total PDAQ score, the scores for these items were inverted. So,
+
+• Participants were considered to have good adherence to a healthy diet if they ate a healthy diet for at least four days a week and have poor adherence to a healthy diet if they had eaten a healthy diet for less than four days a week (13).
+
+� Statistical analysis: why cut off 0.2 for regression (in most cases 0.15)?
+
+Response: Thank you for pointing this out. Our decision to use a p-value threshold of 0.2 is based on a review of the literature on traditional stopping rules and suggested optimal p-values. The literature on this topic strongly suggests using a p-value in the range of 0.15-0.20 (14), though using a higher significance level has the disadvantage of including some unimportant variables in the model (14). Typically, the traditional stopping rule for the significance level is considered to be between 0.05 and 0.10, but it has also been established that the optimum value of the significance level to decide which variable to include in the multiple regression model is suggested to be p<1(15),which actually exceeds the traditional choices.
+
+The above discussion in the literature is what informed our choice and that is what the authors meant by the statement "we applied the statistical methodology for variable selection using p<0.2 in the bivariate analysis as a threshold to identify a candidate set of variables that will enter the multivariable model which is a standard approach". Our choice of p-value<0.2 also lies between the maximum for the traditional rule and that of suggested p-value<1 which is an acceptable approach.
+
+We revised the manuscript to emphasize the above mentioned issue under the limitations in lines 366 – 370. We added the following sentence: "The use of p<0.2 as the stopping rule to identify candidate set of covariates in the bivariate model to be included in the multivariable model may not provide optimal variable selection for the covariates, despite previous studies providing a strong recommendation for using p-values in the range of 0.15-0.20 as used in our study.”
+
+� In the results, the logistic regression is mentioned and then there is one with correction for potential confounders (most of the entered parameters in the regression). Can you explain a little bit better how the statistics is performed and how the results are expressed.
+
+Response: Confounders are those variables statistically associated with the exposure, cause the outcome of interest, variables that are not on the causal pathway, and variables that could affect the association of the exposure and the outcome variables (16). There are different methods to control confounders at the design stage (randomization, restriction, or matching) and analysis stage (multivariable analysis) (17). In the current study, initially, we have included variables with a p-value less than or equal to 0.2 in the bivariate logistic regression into a multivariable binary logistic regression. Then, we declared significant statistical association at a p-value less than or equal to 0.05 within a 95% confidence interval and interpreted the findings using adjusted odd ratios. So, we tried to control possible confounders in the study during the statistical analysis by using multivariable logistic regression and adjusted odd ratios to interpret and report the results.
+
+3. The results are not clearly written. It is not always very clear to the reader how the results are shown and what this means. This should be rewritten and made more focused.
+
+Response: comment accepted and amendment was made in the main manuscript as per the reviewer's comment.
+
+4. The discussion: This should start with the main findings. Than you can discuss the main points, but discuss the new elements. If you compare with other research you will find that duration of diabetes is a predictor in many countries. This is not very new. Perhaps the weight of this factor in the Nigerian population is different from other countries. This can be more discussed in depth.
+
+Response: comment was accepted, and an amendment was made in the main manuscript as per the reviewer's comment
+
+5. Figures and tables: nice, but sometimes you need to give more information in the legend.
+
+References: OK
+
+________________________________________
+
+6. PLOS authors have the option to publish the peer review history of their article (what does this mean?). If published, this will include your full peer review and any attached files.
+
+If you choose "no", your identity will remain anonymous but your review may still be made public.
+
+Do you want your identity to be public for this peer review? For information about this choice, including consent withdrawal, please see our Privacy Policy.
+
+Reviewer #1: No
+
+Reviewer #2: Yes: Patrick Calders
+
+References
+
+1. Alqudah B, Mahmoud H, Alhusamia S, Sh A, Al L, Alawneh Z. Prevalence of hypertension among diabetic type 2 patients attending medical clinic at prince Hashem Bin. Indian J Med Res Pharm Sci. 2017;4(6):47-54.
+
+2. Abougalambou SSI, Abougalambou AS. A study evaluating prevalence of hypertension and risk factors affecting on blood pressure control among type 2 diabetes patients attending teaching hospital in Malaysia. Diabetes & Metabolic Syndrome: Clinical Research & Reviews. 2013;7(2):83-6.
+
+3. Chinedu A, Nicholas A. Hypertension prevalence and body mass index correlates among patients with diabetes mellitus in Oghara, Nigeria. The Nigerian Journal of General Practice. 2015;13(1):12.
+
+4. Nouh F, Omar M, Younis M. Prevalence of hypertension among diabetic patients in Benghazi: a study of associated factors. Asian Journal of Medicine and Health. 2017:1-11.
+
+5. Dedefo A, Galgalo A, Jarso G, Mohammed A. Prevalence of hypertension and its management pattern among type 2 diabetic patients attending, Adama Hospital Medical College, Adama. J Diabetes Metab. 2018;9(10):1-8.
+
+6. Akalu Y, Belsti Y. Hypertension and Its Associated Factors Among Type 2 Diabetes Mellitus Patients at Debre Tabor General Hospital, Northwest Ethiopia. Diabetes, Metabolic Syndrome and Obesity: Targets and Therapy. 2020;13:1621.
+
+7. Mussa BM, Abduallah Y, Abusnana S. Prevalence of hypertension and obesity among emirati patients with type 2 diabetes. J Diabetes Metab. 2016;7(1):1-5.
+
+8. Amoussou-Guenou D, Wanvoegbe A, Agbodandé A, Dansou A, Tchabi Y, Eyissè Y, et al. Prevalence and risk factors of hypertension in type 2 diabetics in Benin. Journal of Diabetes mellitus. 2015;5(04):227.
+
+9. Mubarak FM, Froelicher ES, Jaddou HY, Ajlouni KM. Hypertension among 1000 patients with type 2 diabetes attending a national diabetes center in Jordan. Annals of Saudi medicine. 2008;28(5):346-51.
+
+10. Tasew H, Zemicheal M, Teklay G, Mariye T. Risk factors of stillbirth among mothers delivered in public hospitals of Central Zone, Tigray, Ethiopia. African health sciences. 2019;19(2):1930-7.
+
+11. World Health O, Alliance for Health P, Systems R. Primary health care systems (primasys): case study from Ethiopia: abridged version. Geneva: World Health Organization, 2017 2017. Report No.: Contract No.: WHO/HIS/HSR/17.8.
+
+12. Forde C. Scoring the international physical activity questionnaire (IPAQ). University of Dublin. 2018.
+
+13. Asaad G, Sadegian M, Lau R, Xu Y, Soria-Contreras DC, Bell RC, et al. The Reliability and Validity of the Perceived Dietary Adherence Questionnaire for People with Type 2 Diabetes. Nutrients. 2015;7(7):5484-96.
+
+14. Hosmer Jr DW, Lemeshow S, Sturdivant RX. Applied logistic regression: John Wiley & Sons; 2013.
+
+15. Chowdhury MZI, Turin TC. Variable selection strategies and its importance in clinical prediction modelling. Family medicine and community health. 2020;8(1).
+
+16. Pourhoseingholi MA, Baghestani AR, Vahedi M. How to control confounding effects by statistical analysis. Gastroenterology and hepatology from bed to bench. 2012;5(2):79-83.
+
+17. Jager KJ, Zoccali C, MacLeod A, Dekker FW. Confounding: What it is and how to deal with it. Kidney International. 2008;73(3):256-60.
+
+10.1371/journal.pone.0279245.r003
+
+Decision Letter 1
+
+Mohammed
+
+Jibril
+
+This is an open access article distributed under the terms of the Creative Commons Attribution License, which permits unrestricted use, distribution, and reproduction in any medium, provided the original author and source are credited.
+
+5 Dec 2022
+
+Determinants of hypertension among diabetes patients attending selected comprehensive specialized hospitals of the Amhara Region, Ethiopia: An unmatched case-control study
+
+PONE-D-22-13803R1
+
+Dear Dr. Abate,
+
+We’re pleased to inform you that your manuscript has been judged scientifically suitable for publication and will be formally accepted for publication once it meets all outstanding technical requirements.
+
+Within one week, you’ll receive an e-mail detailing the required amendments. When these have been addressed, you’ll receive a formal acceptance letter and your manuscript will be scheduled for publication.
+
+An invoice for payment will follow shortly after the formal acceptance. To ensure an efficient process, please log into Editorial Manager at http://www.editorialmanager.com/pone/, click the 'Update My Information' link at the top of the page, and double check that your user information is up-to-date. If you have any billing related questions, please contact our Author Billing department directly at authorbilling@plos.org.
+
+If your institution or institutions have a press office, please notify them about your upcoming paper to help maximize its impact. If they’ll be preparing press materials, please inform our press team as soon as possible -- no later than 48 hours after receiving the formal acceptance. Your manuscript will remain under strict press embargo until 2 pm Eastern Time on the date of publication. For more information, please contact onepress@plos.org.
+
+Kind regards,
+
+Jibril Mohammed, BSc, MSc, PhD
+
+Academic Editor
+
+PLOS ONE
+
+Additional Editor Comments (optional):
+
+Reviewers' comments:
+
+10.1371/journal.pone.0279245.r004
+
+Acceptance letter
+
+Mohammed
+
+Jibril
+
+This is an open access article distributed under the terms of the Creative Commons Attribution License, which permits unrestricted use, distribution, and reproduction in any medium, provided the original author and source are credited.
+
+8 Dec 2022
+
+PONE-D-22-13803R1
+
+Determinants of hypertension among diabetes patients attending selected comprehensive specialized hospitals of the Amhara Region, Ethiopia: An unmatched case-control study
+
+Dear Dr. Belew:
+
+I'm pleased to inform you that your manuscript has been deemed suitable for publication in PLOS ONE. Congratulations! Your manuscript is now with our production department.
+
+If your institution or institutions have a press office, please let them know about your upcoming paper now to help maximize its impact. If they'll be preparing press materials, please inform our press team within the next 48 hours. Your manuscript will remain under strict press embargo until 2 pm Eastern Time on the date of publication. For more information please contact onepress@plos.org.
+
+If we can help with anything else, please email us at plosone@plos.org.
+
+Thank you for submitting your work to PLOS ONE and supporting open access.
+
+Kind regards,
+
+PLOS ONE Editorial Office Staff
+
+on behalf of
+
+Dr. Jibril Mohammed
+
+Academic Editor
+
+PLOS ONE
+

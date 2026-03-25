@@ -1,0 +1,280 @@
+TITLE: Survival rate and peri-implant evaluation of immediately loaded dental implants in individuals with type 2 diabetes mellitus: a systematic review and meta-analysis
+
+Objectives
+
+To evaluate the survival rate, success rate, and peri-implant biological changes of immediately loaded dental implants (ILs) placed in type 2 diabetic patients (DM2).
+
+Materials and methods
+
+The present study was registered on PROSPERO and followed the PRISMA checklist. The search was performed by the first reviewer in January 2021. The electronic databases used were MEDLINE via PubMed, Cochrane, BVS, Web of Science, Scopus, LIVIVO, and gray literature. The risk of bias analysis was performed using an instrument from the Joanna Briggs Institute.
+
+Results
+
+A total of 3566 titles and abstracts were obtained. The qualitative synthesis included 7 studies, while the quantitative synthesis included 5 studies. The meta-analysis of IL in individuals with DM2 compared to nondiabetic individuals showed no significant difference among the groups regarding the survival rate of dental implants (RR = 1.00, 95% CI 0.96–1.04; p = 0.91; I2 = 0%), even if the patient had poor glycemic control (RR = 1.08, 95% CI 0.87–1.33; p = 0.48; I2 = 70%). Meta-analysis of marginal bone loss in IL compared to conventional loading in DM2 patients also showed no significant difference (mean difference =  − 0.08, 95% CI − 0.25–0.08; p = 0.33; I2 = 83%).
+
+Conclusions
+
+Type 2 diabetes mellitus does not seem to be a risk factor for immediately loaded implants if the glycemic level is controlled, the oral hygiene is satisfactory, and the technical steps are strictly followed.
+
+Clinical relevance
+
+Rehabilitation in diabetic individuals is more common due to the highest prevalence of edentulism in this population. It is essential to establish appropriate protocols for loading dental implants.
+
+Supplementary Information
+
+The online version contains supplementary material available at 10.1007/s00784-021-04154-6.
+
+Introduction
+
+Diabetes mellitus is a highly prevalent metabolic syndrome and is classified by World Health Organization (WHO) as the 6th leading cause of death in the world. The International Diabetes Federation (IDF) estimates that 374 million people live with the disease worldwide, and the projections for 2045 indicate that the prevalence of diabetes could increase to 548 million people. The COVID-19 pandemic situation has demonstrated that compared to nondiabetic patients, diabetic patients have higher mortality and more severe outcomes when infected with SARS-CoV-2. Type II diabetes mellitus (DM2) is the most prevalent type of diabetes, accounting for 85 to 95% of diabetic individuals. DM2 can lead to long-term damage and systemic complications, such as neuropathy, structural damage to blood vessels, poor healing processes, affected peripheral microcirculation, arterial hypertension, and unsatisfactory immune responses.
+
+The prevalence of edentulism in DM2 patients is extremely high due to various oral manifestations, such as periodontitis, root caries, and endodontic disease. Thus, with the increased incidence of DM2 worldwide, there is also a higher demand for satisfactory solutions in oral rehabilitation to improve the quality of life of this population. Recent systematic reviews regarding dental implants in diabetic patients have shown that DM2 is associated with a higher risk of developing peri-implant diseases or complications. The success rate in the dental implant field widely differs, depending on the reference. Peri-implant parameters such as bleeding on probing (BOP), pocket depth (PD), and marginal bone loss (MBL) have been used to measure the success rate of dental implants. The survival rate is usually assessed by osseointegration—if the dental implant is still in the mouth cavity or if it was removed.
+
+“Is there any difference in the survival or success rate of immediately loaded dental implants in individuals with DM2 compared to that of nondiabetic patients?”
+
+“Is there any difference in the survival or success rate of immediately loaded dental implants in individuals with uncontrolled DM2 compared to that of nondiabetic patients?”
+
+“Do immediately loaded dental implants have worse peri-implant outcomes than conventional loaded dental implants in individuals with DM2?”
+
+There is insufficient evidence in the literature on the survival and success of advanced dental implant techniques in DM2 patients. Immediate loading of dental implants (ILs) is thought to decrease the patient’s rehabilitation treatment time. The placement of the prosthetic element occurs within 72 h after dental implant surgery. This is considered a safe technique in cases with a good level of primary stability, bone availability, and favorable peripheral tissue conditions. One of the requirements for using this technique is the absence of systemic diseases affecting osseointegration therapy, as it is more challenging to heal IL compared to cases of conventional loading. DM2 is a well-known metabolic disorder that may affect the osseointegration of IL due to the deficient process of bone remodeling caused by the formation of advanced glycation end products (AGEs). Optimal osteoblast activity and minimal bone resorption occur under controlled glycemia and low levels of AGEs, mostly when the osseointegration process occurs under functional occlusal loading. Furthermore, chronic hyperglycemia can worsen the peri-implant soft and hard tissue healing process of IL due to compromised vascularization, oral tissue necrosis, delayed healing, and predisposition to local infections. Although several studies have used IL in compromised healthy patients, a systematic review identifying and summarizing the findings of these studies in DM2 individuals has not yet been published. The aim of the present systematic review and meta-analysis is to provide evidence regarding the survival rate and success parameters (BOP, PD, and MBL) of IL in DM2 by answering the following questions:
+
+Methodology
+
+Protocol and registration
+
+The present systematic review and meta-analysis were conducted following the Preferred Reporting Items for Systematic Reviews and Meta-Analyses (PRISMA) checklist. The group of authors created the protocol, and the first reviewer registered it on the International Prospective Register of Systematic Reviews (PROSPERO). The study was started after protocol approval by the identification number CRD42021223736.
+
+Research question and PICO
+
+Participants/population: The population in the present study included individuals diagnosed with type 2 diabetes mellitus (DM2) who were treated with dental implant placement, and the restoration was immediately loaded (IL). Data about uncontrolled DM2 were recorded separately in cases in which the study reported it. The excluded population comprised studies in which the type of diabetes was not reported or in which data regarding different types of diabetes were merged.
+
+Intervention: The indispensable intervention was the placement of immediately loaded dental implants (ILs). The size and number of dental implants placed were not delimited. The following types of restorations were considered: single teeth, partial denture, overdenture, full mouth denture, and/or the All-on-Four prosthesis.
+
+Comparator(s)/control: Two different comparators were considered controls, including nondiabetic individuals who received IL and/or conventional loaded dental implants (CLs) in DM2.
+
+Outcomes: Survival, success rate, and/or peri-implant health status were considered the outcomes of the study. The following biologic peri-implant measures were considered to assess the success of dental implants: BOP, PD, and MBL.
+
+The PICO model was followed to formulate the following three research questions:
+
+Eligibility criteria
+
+The following types of studies were eligible for this systematic review: (a) clinical trials, cohort studies, case–control, cross-sectional, or case series. (b) Studies reporting the survival or success rate of immediately loaded dental implants in human individuals with DM2. (c) Studies reporting peri-implant measurements, such as BOP, PD, and MBL, of IL in DM2 patients. No limit on the publication date was considered. The exclusion criteria were (a) systematic reviews, literature reviews, letters, editorials, books, in vitro studies, animal studies, and case reports; (b) studies in which the alphabet was non-Latin; (c) studies without a DM2 group or that did not report which type of diabetes was analyzed; and (d) studies that merged data regarding IL or DM2 were also excluded.
+
+Search strategy and study selection
+
+The search was performed by the first reviewer on 04 January 2021. The electronic databases used were MEDLINE via PubMed, Cochrane, BVS, Web of Science, Scopus, and LIVIVO. In addition, the gray literature, dissertations, and theses were consulted: ProQuest, OpenGray, Google Scholar, and manual search of references list from included articles. The following search terms were used to create the search strategy: (“diabetes Mellitus” OR “hyperglycemia” OR “diabetic patients” OR diabetic OR “systemic diseases”) AND (“dental implants” OR “dental implant” OR “immediate implant” OR “implant placement” OR “immediate implants” OR “immediately loaded” OR “advanced implant” OR “implant placement”). The search terms were adapted for each of the databases and gray literature. Appendix 1 shows the specific search strategy for each database.
+
+All titles and abstracts were downloaded from the databases and uploaded to RAYYAN QCRI® (Qatar Computing Research Institute, Qatar). After the removal of duplicates on the same software, two blinded independent reviewers screened the titles and abstracts based on the eligibility criteria. The reasons for inclusion or exclusion were recorded so that it was possible to further discuss them. In cases of disagreement between the two reviewers, a decision was reached by meeting with and consulting the expert. The included studies were retrieved, and the two reviewers proceeded with full-text analysis. Studies that did not fit the eligibility criteria were excluded, and the exclusion justification was indicated.
+
+Data extraction
+
+In the next phase, the full-text articles that were included had their data extracted in an Excel table based on the JBI Manual for Evidence Synthesis. The first reviewer performed the data extraction, and the second reviewer independently cross-checked the table to consider if the important data were reported. The extraction table was created considering the following information of each included study: (a) study details—first author, publication year, and journal; (b) study method—aims of the study, country, setting, study design, and follow-up; (c) subject characteristics—sample size, groups, age range, gender, glycemic control, and the number of implants placed; and (d) results—survival rate, success rate, MBL, BOP, and PD. In addition, technical information about the placement implant surgery and the loading protocol was extracted.
+
+Risk of bias
+
+The risk of bias analysis was performed using the instrument of the Joanna Briggs Institute (Critical Appraisal Tools). The first reviewer independently answered the questionnaires of each type of study. The second reviewer independently cross-checked the answers, and any disagreements were resolved by meeting with the expert and the systematic review coordinator. Review Manager 5.3 (The Cochrane Collaboration, Copenhagen, Denmark) was the chosen software to create the figures. Studies with answers that were less than 49% “yes” were considered to have a high risk of bias. Studies with “yes” responses between 50 and 69% were considered to have a moderate risk of bias. Studies with more than 70% of “yes” answers in the questionnaire were considered to have a low risk of bias.
+
+Statistical analysis
+
+Cohen’s kappa coefficient (κ) was used to calculate the agreement rate between the first and second reviewers in the first phase of study selection (title and abstract screening). The meta-analysis was performed if more than one study, containing at least one control group, provided homogeneous information regarding a specific topic. Three meta-analyses were conducted in the Review Manager 5.3 software (The Cochrane Collaboration, Copenhagen, Denmark): (a) IL survival in DM2 compared to nondiabetic individuals; (b) IL survival in uncontrolled DM2 compared to nondiabetic individuals; and (c) MBL of IL compared to CL in individuals with DM2 after 12 months. The number of surviving implants was pooled with weight mean differences (WMDs) to perform the meta-analysis (a) and (b). The third meta-analysis was performed based on MBL, which is a continuous variable. For this reason, the mean differences (MD) of MBL values in millimeters were considered. The three meta-analysis outcomes were measured in a 95% confidence interval (CI). The chi-square test (p < 0.05) and I-square index (I2) were chosen as measurements to evaluate the statistical heterogeneity and the magnitude of the inconsistency, respectively. The inconsistency was considered high if the I2 value was above 50% and low if the value was below 25%.
+
+Results
+
+Literature search and study selection
+
+Preferred Reporting Items for Systematic Reviews and Meta-Analyses (PRISMA) flowchart 2020 describing the study selection process
+
+The searches through the databases and gray literature provided a total of 3566 titles and abstracts of studies that were downloaded and uploaded to the RAYYAN QCRI platform®. After the removal of duplicates, a total of 2210 titles and abstracts were available for screening evaluation. Two reviewers used the eligibility criteria to select a total of 49 studies for full-text analysis. The Cohen’s kappa coefficient for this phase of selection was 0.87, which is considered an “almost perfect agreement” between the two reviewers. The third reviewer was consulted to resolve disagreements between the two abstracts. Among the 49 articles, only 7 studies were eligible for qualitative analysis, and 5 of them met the criteria for quantitative analysis (meta-analysis). A total of 42 studies were excluded from the full-text analysis, and the reasons were mostly due to the absence of results regarding IL in DM2. The PRISMA flow diagram shows all the phases of study selection, including the number of articles included and excluded in each section (Fig. 1).
+
+Study characteristics
+
+Main characteristics of the n = 7 included studies
+
+Study	Country	Journal	Setting	Type of study	Follow-up	Groups	Gender and age	Glycemic control	Total implants (n)	Failure incidence (n)	Type of implant-supported prosthesis	Survival rate (%)	Success rate (%)	Marginal bone loss (MBL or CBL)	Bleeding on probing (BOP)	Probing depth (PD)	 	1	Tawil et al. 	Lebanon	The International Journal of Oral & Maxillofacial Implants	Private periodontal practice	Prospective study	1 to 12 years	Control group: 45 patients (non DM2)Group 1: 22 patients (well-controlled DM2)Group 2: 22 patients (fairly well-controlled DM2)Group 3: 1 patient (uncontrolled DM2)	DM2: 12 female and 33 male (64.7 [43–84])Control group: 21 female and 24 male (59.6 [29–85])	Group 1: < 7% HbA1cGroup 2: 7–9% HbA1cGroup 3: > 9% HbA1c	Control group: 59DM2 group: 58	Control group: 1 implant/patientDM2 group: zero	N/A	100%		N/A			 	2	Aguilar-Salvatierra et al. 	Spain	Clinical Oral Implants Research	Private practice	Prospective study	12 to 24 months	Group 1: 22 patients (non DM2)Group 2: 30 patients (controlled DM2)Group 3: 22 patients (uncontrolled DM2)	Group 1: 15 female and 18 male (59 ± 2.3)Group 2: 17 female and 13 male (57 ± 3.8)Group 3: 9 female and 13 male (61 ± 1.9)	Group 1: < 6% HbA1cGroup 2: 6.1–8% HbA1cGroup 3: 8.1–10% HbA1c	Group 1: 33Group 2: 30Group 3: 22	Group 1: zeroGroup 2: 1 implant/patientGroup 3: 3 implants/patients	Single immediate dental implant placement with immediate loading	Group 1 12 m: 100%Group 1 24 m: 100%Group 2 12 m: 100%Group 2 24 m: 96.6%Group 3 12 m: 95.4%Group 3 24 m: 86.3%	N/A	MBL group 1 6 m: 0.51 ± 0.19MBL group 1 12 m: 0.64 ± 0.23MBL group 1 24 m: 0.72 ± 0.27MBL group 2 6 m: 0.71 ± 0.31MBL group 2 12 m: 0.86 ± 0.25MBL group 2 24 m: 0.98 ± 0.27MBL group 3 6 m: 1.33 ± 0.29MBL group 3 12 m: 1.54 ± 0.43MBL group 3 24 m: 1.92 ± 0.38	Group 1 6 m: 0.36 ± 0.06Group 1 12 m: 0.39 ± 0.04Group 1 24 m: 0.44 ± 0.07Group 2 6 m: 0.41 ± 0.04Group 2 12 m: 0.45 ± 0.07Group 2 24 m: 0.51 ± 0.05Group 3 6 m: 0.59 ± 0.07Group 3 12 m: 0.65 ± 0.06Group 3 24 m: 0.74 ± 0.05	PD ≥ 4 mm group 1 6 m: 2.43 ± 0.25PD ≥ 4 mm group 1 12 m: 2.60 ± 0.18PD ≥ 4 mm group 1 24 m: 2.67 ± 0.14PD ≥ 4 mm group 2 6 m: 2.54 ± 0.32PD ≥ 4 mm group 2 12 m: 2.66 ± 0.27PD ≥ 4 mm group 2 24 m: 2.79 ± 0.24PD ≥ 4 mm group 3 6 m: 3.43 ± 0.23PD ≥ 4 mm group 3 12 m: 3.57 ± 0.37PD ≥ 4 mm group 3 24 m: 3.68 ± 0.48	 	3	de Araújo et al. 	Portugal	Journal of Oral Rehabilitation	Private clinic	Retrospective cohort study	1 and 5 years	Group 1: 6 patients (well-controlled DM1)Group 2: 64 patients (well-controlled DM2)	33 female37 male59 (41–80)	Fasting plasma glucose > / = 7.0 mmol/l (126 mg/dl) or 2 h plasma glucose > / = 11.1 mmol/l (200 mg/dl)	DM1 and DM2: 352	DM2 group: 9 implants/5 patients	Single teeth, partial and full-arch	90.5%	N/A	1 year: 0.79 mm (0.59–1.00 mm)5 years: 1.45 mm (1.09–1.82 mm)	N/A		 	4	Al-Amri et al. 	Saudi Arabia	Clinical Oral Implants Research	Oral healthcare center in Riyadh	Randomized clinical study	6, 12, and 24 months	Group 1: systemically healthyGroup 2: controlled DM2Group 3: uncontrolled DM2	90 maleGroup 1:48.5 (45–52)Group 2: 50.1 (46–55)Group 3: 50.5 (45–59)	Group 1: < 6% HbA1cGroup 2: 6.1–8% HbA1cGroup 3: 8.1–10% HbA1c	Group 1: 30Group 2: 30Group 3: 31	Zero	Single crown	100%	N/A	MBL group 1 6 m: 0.33 ± 0.1MBL group 1 12 m:: 0.45 ± 0.06MBL group 1 24 m: 0.46 ± 0.16MBL group 2 6 m: 0.52 ± 0.02MBL group 2 12 m: 0.54 ± 0.12MBL group 2 24 m: 0.58 ± 0.15MBL group 3 6 m: 0.55 ± 0.06MBL group 3 12 m: 0.57 ± 0.07MBL group 3 24 m: 0.59 ± 0.2	Group 1 6 m: 0.42 ± 0.05Group 1 12 m: 0.4 ± 0.02Group 1 24 m: 0.4 ± 0.06Group 2 6 m: 0.63 ± 0.06Group 2 12 m: 0.6 ± 0.04Group 2 24 m: 0.62 ± 0.07Group 3 6 m: 0.71 ± 0.05Group 3 12 m: 0.63 ± 0.02Group 3 24 m: 0.62 ± 0.05	PD ≥ 4 mm group 1 6 m: 2 ± 0.5PD ≥ 4 mm group 1 12 m: 1.9 ± 0.04PD ≥ 4 mm group 1 24 m: 1.6 ± 0.05PD ≥ 4 mm group 2 6 m: 2.5 ± 0.18PD ≥ 4 mm group 2 12 m: 2.3 ± 0.26 PD ≥ 4 mm group 2 24 m: 2.3 ± 0.15PD ≥ 4 mm group 3 6 m: 3.3 ± 0.21PD ≥ 4 mm Group 3 12 m: 2.4 ± 0.35PD ≥ 4 mm group 3 24 m: 2.3 ± 0.62	 	5	Al-Amri et al. 	Saudi Arabia	Journal of Oral Rehabilitation	N/A	Retrospective study	12 and 24 months	Group 1: 55 patients ILGroup 2: 53 patients CL	108 maleGroup 1: 50.6 + 2.2Group 2: 51.8 + 1.7	Group 1 (12 months): 5.4% HbA1c (4.8–5.5%)Group 1 (24 months): 5.1% HbA1c (4.7–5.2%)Group 2 (12 months): 5.1% HbA1c (4.7–5.4%)Group 2 (24 months): 4.9% HbA1c (4.5–5.2%)	Group 1: 55Group 2: 53	Zero	Single crown	100%		CBL M group 1 12 m: 0.5CBL D group 1 12 m: 0.6CBL group 1 12 m: 0.55CBL M group 2 12 m: 0.6CBL D Group 2 12 m: 0.52CBL group 2 12 m: 0.56CBL M group 1 24 m: 0.57CBL D group 1 24 m: 0.61CBL group 1 24 m: 0.58CBL M group 2 24 m: 0.67CBL D group 2 24 m: 0.62CBL group 2 24 m: 0.64	Group 1 Max 12 m: 12.5 ± 2.5 (%)Group 1 Mand 12 m: 16.6 ± 3.7 (%)Group 2 Max 12 m: 13.4 ± 0.3 (%)Group 2 Mand 12 m: 16.5 ± 2.2 (%)Group 1 Max 24 m: 10.5 ± 0.5 (%)Group 1 Mand 24 m: 10.1 ± 0.2 (%)Group 2 Max 24 m: 10.2 ± 0.3 (%)Group 2 Mand 24 m: 9.1 ± 0.2 (%)	PD ≥ 4 mm (%) group 1 Max 12 m: 3 ± 0.1PD ≥ 4 mm (%) group 1 Mand 12 m: 3.6 ± 0.2PD ≥ 4 mm (%) Group 2 Max 12 m: 3.3 ± 0.1PD ≥ 4 mm (%) group 2 Mand 12 m: 4.1 ± 0.2PD ≥ 4 mm (%) group 1 Max 24 m: 2 ± 0.1PD ≥ 4 mm (%) group 1 Mand 24 m: 2.4 ± 0.2\PD ≥ 4 mm (%) group 2 Max 24 m: 1.8 ± 0.1PD ≥ 4 mm (%) group 2 Mand 24 m: 2.1 ± 0.2	 	6	Ibraheem et al. 	Egypt	Bulletin of the National Research Centre	Medical Excellence Centre, National Research Centre, Cairo	Randomized clinical study	6 and 12 months	Group 1: 10 patients ILGroup 2: 10 patients CL	20 male55–70	Glycated hemoglobin does not exceed 7.5%	Group 1: 20Group 2: 20	Zero	Overdenture (ball attachment)	100%		MBL group 1 M 6 m: 0.82 ± 0.11MBL group 1 D 6 m: 0.75 ± 0.09MBL group 1 M 12 m: 1.01 ± 0.11MBL group 1 D 12 m: 1.04 ± 0.04MBL group 2 M 6 m: 0.79 ± 0.11MBL group 2 D 6 m: 0.74 ± 0.08MBL group 2 M 12 m: 1.03 ± 0.12MBL group 2 D 12 m: 1.38 ± 0.23	N/A		 	7	Juncar et al. 	Romania	Journal of International Medical Research	N/A	Prospective study	6 months	Group 1: 4 patients (moderate controlled DM2)	2 female2 male52–60	Group 1: HbA1c 7.05% (6.8–7.3%)	16	Zero	All-on-Four	100%		Healed site implants: 0.67 mm (0–1.5 mm)Postextraction alveoli or immediately adjacent: 1.36 mm (0–2.6 mm)	N/A
+
+DM1 = type 1 diabetes mellitus; DM2 = type 2 diabetes mellitus; HbA1c = glycated hemoglobin; IL = immediately loaded dental implants; CL = conventional loaded dental implants; MBL = marginal bone loss; CBL = crestal boneloss; BOP = bleeding on probe; PD = probing depth; Max = maxilla; Mand = mandible; m = months; M = mesial; D = distal; N/A = not available
+
+Technical information about the dental implant placement and loading
+
+Study	Technical information	 	1	Tawil et al. 	• Conventional implant treatment was done when bone volume was adequate;• Extraction was followed by immediate implant placement;• Loading was also applied when indicated• Periodontal therapy was applied, when indicated, before any implant treatment;• All implant surgeries and clinical measurements (BOP, PI, PD) were performed by the same calibrated operator (GT)• Two hundred fifty-five Brånemark implants (75 turned surface and 180 TiUnite; Nobel Biocare) were placed	 	2	Aguilar-Salvatierra et al. 	• All implants were placed level with the bone crest (Straumann Bone Level implants);• Length of 10–14 mm;• Diameter of 3.3–4.1 mm;• Implant stability was confirmed by resonance frequency analysis, measuring implant stability quotient (ISQ) (Osstell Mentor);• Insertion torque of over 35 N/cm and an ISQ value of at least 60 units;• All implants were placed in the upper maxillary in patients with a correct plaque control;• After surgery, patients were also asked to brush softly with chlorhexidine toothpaste	 	3	de Araújo et al. 	• Dental implants (NobelSpeedy, Brånemark System® MkII, MkIII, MkIV, Nobel Biocare AB);• Minimum insertion torque of 30 N/cm before the final seating of the implant;• For single teeth and fixed partial prostheses, the final abutments were inserted on the day of surgery; a provisional crown or prosthesis (screw-retained) was connected;• After 6 months, the patients received their definitive prosthetic reconstruction with full-ceramic crowns or fixed partial prostheses• For full-arch rehabilitations, provisional full-arch acrylic-resin prostheses with titanium cylinders were manufactured at the laboratory and delivered on the day of surgery• Definitive acrylic-resin prostheses were delivered, typically 6 months post-surgery	 	4	Al-Amri et al. 	• In all groups, patients received bone level Straumann Bone Level implants;• Lengths: 10–14 mm;• Diameters: 3.3–4.1 mm;• All implants were placed and immediately loaded at the level of crestal bone in the anterior maxilla;• Insertion torque of 35 N cm;• Oral hygiene instructions were given and the patients were advised to start rinsing with an essential-oil based mouthwash (Listerine Zero, Johnson & Johnson) twice daily for 2 weeks, after 24 h of surgery• Non-surgical periodontal therapy and oral hygiene instructions in each group, participants were enrolled in a 6 monthly periodontal/peri-implant maintenance program in which, full mouth scaling was performed around all natural teeth and implant surfaces using an ultrasonic scaler• Oral hygiene instructions regarding regular tooth brushing were given and patients were encouraged to floss the teeth and peri-implant surfaces daily	 	5	Al-Amri et al. 	• Straumann AG Bone-level platform-switched implants;• Diameters: 3.3–4.1 mm;• Lengths: 10–14 mm;• Groups 1 and 2: 30–35 N cm• Immediate load 2 days after implant placement;• Screw-retained provisional crowns, replaced with permanent crowns 6 weeks later;• Temporary abutments: RC Temporary Abutment, Straumann AG• Attached with a force of 25 N cm to hold the acrylic crowns• The prefabricated temporary crowns designed with narrow occlusal table were relined with a Bis-acrylic composite (Protemp II; 3 M ESPE);• The interproximal contacts were designed as broader contact areas to distribute the forces of mastication and provide support	 	6	Ibraheem et al. 	• Two dental implants were inserted in mandibular canine areas bilaterally using flapless technique (Nobel Speedy Groovy RP, Nobel Biocare);• Guided surgery with Software (Nobel Clinician, Nobel Biocare);• Anchor pins (Guided Anchor Pin w1.5 mm, Nobel Biocare);• Pressure-indicating silicone (Fit Checker, GC, Tokyo, Japan);• The instruments used were a drill (Guided Start Drill, Nobel Biocare), twist drills with diameters of 2.0, 2.8, 3.2, and 3.4 mm (Guided Twist Drill, Nobel Biocare), and a removable sleeve (Guided Drill Guide, Nobel Biocare)• Immediately after surgery and for 1 week, all patients were instructed to keep wearing their dentures 24 h/day except at bed time and time of denture cleaning• Concerning group I patients, within 48 h after surgery, the dental implants were immediately loaded using ball and socket attachments	 	7	Juncar et al. 	• Four implants were placed in the maxilla: two posterior implants (12 mm long and 3.5 or 4 mm in diameter) were placed at an angle of 35°;• Two anterior implants (10 mm long and 3.5 or 4 mm in diameter) were placed vertically;• The implants were placed bilaterally at the locations of maxillary second premolars and lateral incisors• For patients who required dental treatments, tooth extractions were performed and pathological periodontal tissue was curetted• Prosthetic stumps were applied bilaterally to the implants at angles of 35° posteriorly and 0° anteriorly• All dental implants were placed with a peak insertion torque of 50 N/m• Subsequently, the primary stability of each dental implant was analyzed by Resonance Frequency Analysis with the implant stability quotient (ISQ);• Implants with an ISQ ≥ 65 were considered satisfactory for immediate prosthesis placement;• For up to 24 h, healing caps were placed over the prosthetic stumps• Provisional rehabilitation with dental implant support was achieved by using provisional screw-retained acrylic restorations• Following insertion of the provisional prosthesis at 24 h after dental implant placement;• Postoperative monitoring patients were asked to return at 6 months after dental implant placement for the final prosthetic restoration
+
+The countries in which the 7 included studies were conducted were Portugal, Lebanon, Spain, Saudi Arabia, Egypt, and Romania . All the studies were published in the English language between 2008  and 2020 . Five studies were longitudinally observational , and two studies were clinical trials . Three studies were conducted in private clinics , two were conducted in healthcare centers , and two studies did not report the setting . Most included studies had a follow-up ranging from 6 to 24 months . One study followed the patients for 5 years , and another study had a 12-year follow-up . The sample size differed between the seven studies, with a minimum of 4 patients  and a maximum of 108 patients . The number of placed implants in each study varied from 16  to 352 . One study did not report the type of restoration used in oral rehabilitation . The other six studies comprised the following types of prostheses: single teeth , partial dentures , overdentures , and All-on-Four prostheses  (Table 1). All 7 studies reported technical information regarding implant placement surgery. A few studies also provided detailed data about prosthetic loading and oral hygiene (Table 2).
+
+Survival rate
+
+The survival rate was reported or assumed based on the number of dental implants that did not fail or that were not removed during the follow-up. All seven included studies reported the survival rate . In five studies, no dental implants were lost during the follow-up, which means that the survival rate was 100% . The other two studies had a survival rate percentage between 86.3 and 100%, and were the first percentage of an uncontrolled DM2 group .
+
+Success rate
+
+There are different methods of evaluating the success rate of dental implants. Usually, the requirements regard peri-implant biologic measures such as MBL, BOP, PD, and others depending on the guideline. For this reason, the success rate was not assumed for any study. These data were collected if the author specifically reported it. Four studies reported the success rates, and all of them had a 100% rate .
+
+MBL, BOP, and PD
+
+Marginal bone loss (MBL) was the most reported peri-implant data within the included studies. Only one study did not report it , and two studies reported it generically . Three studies showed data for bleeding on probing (BOP) and probing depth (PD) .
+
+Risk of bias
+
+a Meta-analysis of survival of immediately loaded dental implants in individuals with controlled type 2 diabetes mellitus (DM2) in comparison with nondiabetic individuals. b Meta-analysis of survival of immediately loaded dental implants in individuals with uncontrolled type 2 diabetes mellitus (DM2) compared to nondiabetic individuals. c Meta-analysis of marginal bone loss in immediately loaded dental implants compared to conventional loading in type 2 diabetic patients
+
+Risk of bias across included studies (Joanna Briggs Institute—Critical Appraisal Tool)
+
+From the 5 studies included in the quantitative analysis , all of them were considered to a have low risk of bias, according to the JBI questionnaires (Fig. 2). The most problematic topics among the studies were the strategies to deal with confounding factors and the use of appropriate statistical analysis (Fig. 3).
+
+Quantitative analysis
+
+All the studies included in the quantitative analysis had an IL DM2 and a control group, which consisted of nondiabetic patients or conventional loading of dental implants in DM2 (Table 1). The meta-analysis of IL in individuals with DM2 in comparison to nondiabetic individuals showed that there was no significant difference between the groups regarding the survival rate of dental implants (RR = 1.00, 95% CI 0.96–1.04; p = 0.91; I2 = 0%) (Fig. 2a), even if the patient had poor glycemic control (RR = 1.08, 95% CI 0.87–1.33; p = 0.48; I2 = 70%) (Fig. 2b). These first two meta-analyses included studies that followed the patients for at least 24 months. Meta-analysis of marginal bone loss in IL compared to conventional loading in DM2 patients after 12 months of follow-up also showed no significant difference between the groups (mean difference =  − 0.08, 95% CI − 0.25–0.08; p = 0.33; I2 = 83%) (Fig. 2c).
+
+Discussion
+
+The definition of survival rate was consistent within all of the studies included in this systematic review, and it was elucidated as whether the dental implant was still in place at the time of the follow-up. Controlled DM2 patients showed a remarkable survival rate of IL in all 7 studies, ranging from 90.5 to 100%. These qualitative results are supported by the meta-analysis, which reported no significant difference between IL in DM2 compared to nondiabetic patients. Since the 3 studies included in the meta-analysis followed the patients for at least 24 months, it is safe to make clinical decisions based on those results. IL presents a greater challenge to the immunologic system of DM2 patients, as it demands that the osseointegration process successfully occurs under surgical trauma, macro- and micromovements, and functional occlusion loading. In DM2 patients, AGEs may permanently accumulate in the vessel walls, altering the phenotype of important cells such as macrophages, polymorphonuclear cells, fibroblasts, and endothelial cells. Consequently, destructive inflammatory cytokines are produced, which leads to bone resorption around IL implants. The stiffness and modulus of elasticity of dental implants are much higher than those of the supporting bone; therefore, peri-implant vascularization is damaged due to chronic hyperglycemia. This biological process can collaborate negatively with the healing process, primarily at the coronal part of the bone in IL implants.
+
+Glycemic control was a critical and significant issue evaluated in all the included studies. The survival rate analysis regarding IL in uncontrolled DM2 compared to nondiabetic controls was also not statistically significant. The present results disagree with the majority of studies regarding the unsatisfactory outcomes of dental treatments in uncontrolled DM2. However, it is essential to consider that the 3 studies in the meta-analysis were heterogeneous in the methods, and this meta-analysis reported a high level of heterogeneity. Tawil et al. included only one patient in the uncontrolled DM2 group, and this patient did not present implant failure. Aguilar-Salvatierra et al. found a direct association between HbA1c and implant failures, considering that the uncontrolled group had a survival rate of 86.5% at the 24-month follow-up, compared to a 100% survival rate in the control group. In the third study included in the meta-analysis, the authors reported that the 31 uncontrolled DM2 patients enrolled in the study had a decrease in HbA1c levels during the 24-month follow-up. Satisfactory glycemic control in this study is directly associated with the high rate of implant survival. Among other reasons, this association is probably correlated with the absence of bacteria and their products in systemic circulation.
+
+In the present systematic review, four studies reported a 100% success rate of IL in DM2. The parameters used to assess the success rate were heterogeneous among the studies, which reveal the need for more evidence showing specific parameters for measuring the success rate of dental implants. Most of the studies classified the success rate based on the presence of peri-implant pathology, in which the diagnosis was based on MBL, BOP, and PD. Despite being composed of only 2 studies, the present meta-analysis comparing the MBL between IL and CL in individuals with DM2 after 12 months of follow-up showed no difference between the two techniques. These data contradict a meta-analysis of nondiabetic patients published in 2020. In their study, reduced crestal bone loss was found in conventional delayed loading of implants compared to immediately loaded implants.
+
+When comparing peri-implant measures between individuals with DM2 and nondiabetic patients, the included studies had similar values for both groups. However, uncontrolled DM2 seems to present higher values of MBL, BOP, and PD. It is imperative to evaluate and ensure that the patient has satisfactory glycemic control, given that the HbA1c level is directly correlated with peri-implant pathology. The articles selected for inclusion in this systematic review agree upon the lack of differences in the success rate of implants with immediate loading in DM2 patients when compared to that of systemically healthy patients, even when the patient has poor glycemic control.
+
+Hyperglycemia is a risk factor for advanced dental treatments that require a satisfactory inflammatory system. The main oral issues associated with DM2 are the high incidence of carious lesions, higher prevalence of endodontic problems, and periodontal disease. Thus, edentulism becomes one of the main consequences for these patients. Diabetic patients with uncontrolled glycemia have been shown to have worse results than those of controlled DM2 and nondiabetic patients, such as a higher incidence of implant failure. In addition to the fact that the disease is characterized by microvascular complications, tissue damage, and a higher risk of infection, these factors greatly influence dental treatment. There are many published papers regarding the inverse association between poor glycemic control and dental treatment outcomes. One of the major oral complications associated with success and survival rate in DM2 is the presence of vascular microangiopathy in the peri-implant tissues, such as alveolar bone and peri-implant mucosa. On the other hand, the influence of oral maintenance on HbA1c levels during the follow-up of dental implants in DM2 is a topic that is lacking information.
+
+The most advanced techniques in dentistry are less studied in diabetic patients due to their potential risk of failure in these patients. Many studies have proven that well-controlled diabetic patients with shorter disease onsets have preserved periodontal tissues and remarkably similar immunological responses to systemically healthy patients. Thus, it is safe to consider that techniques such as implants with immediate loading can be used safely in these patients. There is a shortage in the literature regarding IL in DM2, especially concerning uncontrolled patients, since implant placement surgery is a relative or even absolute contraindication in these cases.
+
+Published studies thus far report divergent success rates in diabetic patients regarding conventional loading. A systematic review published in 2019 reports that DM2 individuals are more associated with a higher risk of peri-implant disease. In contrast, another systematic review from 2016 proved that diabetic patients have similar success outcomes when compared to healthy patients. However, the literature agrees that the major requirement to achieve success in implant placement surgery is satisfactory glycemic control pre- and postoperatively. Multiple studies in the literature warn about the highest failure of dental implants in uncontrolled diabetic patients, regardless of the technique.
+
+However, caution is necessary for any type of advanced technique in implantology in systemically compromised patients. The limitations of the present systematic review were primarily associated with the short number of studies published in the literature regarding the placement of immediately loaded implants in DM2. In addition, the heterogeneity of the methods also negatively influenced the analysis. The absence of important factors, such as the control group, glycemic control, survival rate, and success rate, of peri-implant analysis was also a problematic issue. The design of the included studies was different: longitudinal observational or clinical trials. Even though the starting point was the placement of an IL in DM2 and the outcome assessment was the same, the discrepancy in the design is a relevant limitation. The maximum number of studies included in the meta-analysis was three, which indicates the need for more studies to be published to increase the reliability of the results. Furthermore, with the exception of one study, the meta-analysis comprises only studies with a maximum follow-up of 24 months. This short period of time leads to uncertainty in the long-term results in the clinical practice of implantology. However, problems arising from an immediate loading protocol tend to occur in the first months during the osseointegration phase, so the two-year follow-up is adequate. Nevertheless, to evaluate the survival rate, which can be influenced by peri-implant disease or crestal bone loss, these outcomes require long-term follow-up, and these results cannot be extrapolated in this study.
+
+The results presented in this study are valid as long as all implant placement protocols for immediate loading are strictly followed. The articles also report the importance of oral hygiene habits and clinical prophylaxis periodically in these patients to assist in the maintenance of implants. The decision regarding MBL in IL should be carefully made, considering that the present meta-analysis is based on only 2 studies and that the previous systematic review published in 2020 was not able to conduct a meta-analysis. Thus, the survival of IL seems to be not related to type 2 diabetes mellitus. Higher peri-implant values or even the survival rate were associated with recurrent decompensated HbA1c levels, mostly in patients with poor oral hygiene or those who did not undergo peri-implant hygiene maintenance. Peri-implant hygiene maintenance should be implemented in the general care of IL of DM2 patients, as it reduces hyperglycemia and promotes peri-implant health during the osseointegration period.
+
+Conclusion
+
+The present study demonstrates that there is no difference in the survival of immediately loaded dental implants among nondiabetic individuals when compared to type 2 diabetic individuals, even when not controlled. When marginal bone loss in dental implants was compared between immediately loaded and conventional loading techniques in diabetic patients, there was also no significant difference. Thus, it is possible to affirm that if the clinician satisfactorily follows all surgical and prosthetic protocols, immediately loaded dental implants seem to be a safe treatment for individuals with type 2 diabetes, even for glycemic uncontrolled individuals. Oral hygiene is reported as an indispensable factor in the maintenance of these implants in diabetic patients. More original studies regarding the issue should be performed including more homogeneous studies so that it is possible to perform a systematic review.
+
+Supplementary Information
+
+Below is the link to the electronic supplementary material.
+
+Publisher's note
+
+Springer Nature remains neutral with regard to jurisdictional claims in published maps and institutional affiliations.
+
+Change history
+
+2/24/2022
+
+Insertion of OA funding note.
+
+Funding
+
+Open access funding provided by University of Debrecen.
+
+Declarations
+
+Ethics approval
+
+Not applicable.
+
+Informed consent
+
+Not applicable.
+
+Conflict of interest
+
+The authors declare no competing interests.
+
+References
+
+Data resource profile: the World Health Organization Study on global AGEing and adult health (SAGE)
+
+Global and regional diabetes prevalence estimates for 2019 and projections for 2030 and 2045: results from the International Diabetes Federation Diabetes Atlas, 9(th) edition
+
+Is diabetes mellitus associated with mortality and severity of COVID-19? A meta-analysis
+
+Diabetes, cardiovascular disease and the microcirculation
+
+Periodontitis, edentulism and glycemic control in patients with type 2 diabetes: a cross-sectional study
+
+Diabetes mellitus and inflammatory pulpal and periapical disease: a review
+
+Effects of periodontal disease on glycemic control, complications, and incidence of diabetes mellitus
+
+Perceptions and practices of general practitioners on providing oral health care to people with diabetes-a qualitative study
+
+Association between diabetes and dental implant complications: a systematic review and meta-analysis
+
+Association between diabetes mellitus/hyperglycaemia and peri-implant diseases: systematic review and meta-analysis
+
+Oral physiology, nutrition and quality of life in diabetic patients associated or not with hypertension and beta-blockers therapy
+
+Impact of diabetes mellitus and glycemic control on the osseointegration of dental implants: a systematic literature review
+
+Implant Success, Survival, and Failure: The International Congress of Oral Implantologists (ICOI) Pisa Consensus Conference
+
+Success of immediate loading implants compared to conventionally-loaded implants: a literature review
+
+Peri-implant evaluation of immediately loaded implants placed in esthetic zone in patients with diabetes mellitus type 2: a two-year study
+
+Effect of oral hygiene maintenance on HbA1c levels and peri-implant parameters around immediately-loaded dental implants placed in type-2 diabetic patients: 2 years follow-up
+
+Influence of glycemic control on peri-implant bone healing: 12-month outcomes of local release of bone-related factors and implant stabilization in type 2 diabetics
+
+Comparison of clinical and radiographic status around immediately loaded versus conventional loaded implants placed in patients with type 2 diabetes: 12- and 24-month follow-up results
+
+Comparing marginal bone height changes around immediately and delayed implant-retained mandibular overdentures in controlled diabetic patients: a randomized clinical study
+
+Chronic hyperglycemia as a risk factor in implant therapy
+
+The PRISMA 2020 statement: an updated guideline for reporting systematic reviews
+
+JBI’s systematic reviews: data extraction and synthesis
+
+Conventional and advanced implant treatment in the type II diabetic patient: surgical protocol and long-term clinical results
+
+Comparing marginal bone height changes around immediately and delayed implant-retained mandibular overdentures in controlled diabetic patients. Bull Natl Res Centre, Vol 43
+
+Immediate implant-prosthetic dental rehabilitation of patients with diabetes using four immediately loaded dental implants: a pilot study
+
+Dental implants in diabetic patients: retrospective cohort study reporting on implant survival and risk indicators for excessive marginal bone loss at 5 years
+
+Oral disease in diabetic patients–a pilot study
+
+Concepts for prevention of complications in implant therapy
+
+Consensus statements and recommended clinical procedures regarding contemporary surgical and radiographic techniques in implant dentistry
+
+Diabetes mellitus and poor glycemic control increase the occurrence of coronal and root caries: a systematic review and meta-analysis
+
+Evaluation of biologic implant success parameters in type 2 diabetic glycemic control patients versus health patients: a meta-analysis
+
+Oral manifestations of diabetes mellitus in controlled and uncontrolled patients
+
+Implant loss and crestal bone loss in immediate versus delayed load in edentulous mandibles: a systematic review and meta-analysis
+
+Peri-implant evaluation in type 2 diabetes mellitus patients: a 3-year study
+
+Characterization of oxidative stress status during diabetic bone healing
+
+Dental implants in patients affected by systemic diseases
+
+Dental implant sites in healthy versus diabetic subjects: A two-year clinical and bacteriological assessment
+
+Advances in precision oral health
+
+Oral health and salivary composition in diabetic patients
+
+Shalev T (2017) Alveolar bone characteristics of well-controlled versus poorly-controlled diabetic patients. University of Minnesota
+
+Systemic conditions and treatments as risks for implant therapy
+
+Potential risk factors for dental caries in type 2 diabetic patients
+
+Effect of non-surgical periodontal therapy on glycemic control of type 2 diabetes mellitus: a systematic review and Bayesian network meta-analysis
+
+Risk assessment in long-term survival rates of dental implants: a prospective clinical study
+
+Cosyn J (2014) Immediate loading in partially and completely edentulous jaws: a review of the literature with clinical guidelines
+
+Dental implants and diabetes mellitus—a systematic review
+
+Dental implant survival in diabetic patients; review and recommendations
+
+Comparative evaluation of the influence of immediate versus delayed loading protocols of dental implants: a radiographic and clinical study
+

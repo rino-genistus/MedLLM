@@ -1,0 +1,128 @@
+TITLE: Effectiveness of a web-based program on self-care behaviors and glycated hemoglobin in patients with type 2 diabetes: Study protocol of a randomized controlled trial
+
+BACKGROUND:
+
+Type 2 diabetes (T2DM) decreases the life expectancy and quality of life of diabetics and causes economic and societal problems. For this purpose, diabetes self-management education and support (DSMES) has been designed for many years, which is recently provided through technology-assisted education. Therefore, we developed a web-based program in accordance with DSMES to assess its effect on self-care behaviors and glycated hemoglobin (HbA1c) for patients with T2DM during the coronavirus disease (COVID-19) pandemic, which is described in detail in this paper.
+
+MATERIALS AND METHODS:
+
+This randomized controlled trial (RCT) was performed on 70 diabetic patients in Al-Zahra Hospital for three months. After random allocation, web-based educational content (including videos, lectures, educational motion graphics, text files, educational posters, and podcasts) according to DSMES was provided for the intervention group to improve self-care behaviors and HbA1c levels. The control group received routine educational pamphlets. A diabetes self-management questionnaire (21 questions) with a Likert scale was completed to assess self-care behaviors scores before and after intervention and three months later. Also, HbA1c was determined before and after the intervention. Analysis of variance with repeated measurements will be applied to compare mean scores of self-care behaviors components three times, and an independent t-test analyzed mean differences of HbA1c values.
+
+CONCLUSION:
+
+The obtained results of this study might be useful for promoting self-care behaviors and assessing HbA1c in diabetic patients.
+
+Introduction
+
+Diabetes mellitus (DM) is one of the most important public health problems. The prevalence of DM is estimated to be 15.0% among Iranian adults and it will engross almost 9.2 million Iranians by the year 2030. An important element of care for all people with diabetes is diabetes self-management education and support (DSMES). This pattern is the constant procedure of improving the knowledge, skills, and ability needed for self-care in diabetics, as well as behaviors required to manage a patient's condition better than formal self-management education. This framework of education focuses on seven self-care behaviors including healthy coping, healthy eating, being active, taking medication, monitoring, reducing risks, and problem-solving that needs a series of continuing training to improve patients’ ability and self-efficacy to set and reach personal self-management goals. In recent years, mobile phones have been used to help patients with diabetes care education, also web-based organized care has been introduced to offer information and both have decreased values of glycated hemoglobin (HbA1c) which is a practical glycemic index for diabetics. In this field, researchers have recommended the increase of web- and mobile phone-based trials to control diabetes in different environments and populations; until the gaps in usability for patients in different conditions and places will be filled and it would be affordable. Thus, we described a web-based program in accordance with DSMES which has been used for patients with type 2 diabetes (T2DM) during the coronavirus pandemic.
+
+Materials and Methods
+
+This randomized controlled clinical trial (IRCT20190806044449N1) was performed on 70 patients with T2DM (35 in intervention and 35 in control) and the patients were referred to Al-Zahra Hospital which is the most accessible medical training center with the greatest numbers of referrals from different ethnicities. The Ethics Committee of Isfahan University of Medical Sciences approved this trial (IR.MUI.RESEARCH.REC1398.493), and the Vice of Research and Technology provided the financial support (398611). The trained instructor was doing this at Al-Zahra Hospital, Isfahan, Iran. Patients with at least one year of diabetes were included in the study. Also, Persian-speaking patients who were able to use a smartphone with the ability to install an educational program. Participation in the educational program of Al-Zahra Hospital at least once per month and having a glucometer at home and the ability to work with it were other criteria. Exclusion criteria were chronic and advanced complications of diabetes such as nephropathy, proliferative retinopathy and amputation, mental retardation, psychological disorders, prolonged diabetes mellitus (more than thirty years(, and lack of caregiver. Patients who have not viewed the content within 21 days, will be replaced by another person. The duration of training was 21 days. The main caregivers needed to be at least 18 years old and literate, living with the patient, and caring for them, as well as having a smartphone. Among all 1031 registered patients in the health education office of Al-Zahra Hospital, 70 patients with inclusion criteria were selected by simple random sampling by lottery method. After the presence of the participants along with their main caregiver, the written consent forms were completed and they were randomly divided into an experimental and a control group (in a ratio of 1:1). The sample size according to n = [(Z1-α/2 + Z1-β) 2 • 2S2]/d2 was at least 32 people in each group, which with an attrition rate of 10% became 35. Z1-α/2 (95% confidence interval) was equal to 1.96 and Z1-β (study power of 80%) was equal to 0.84. S was the mean estimate of the standard deviation of each of the variables in the two groups and was considered 0.7, and d is the minimum mean difference of each of the variables between the two groups considering S = 0.7, which shows the difference is significant. Data collection tools included demographic information and diabetes self-management questionnaire sections. The first part consisted of 15 questions about age, duration, education level, number of children, gender, marital status, occupation, ethnicity, economic status, health insurance coverage, family history of diabetes, type of treatment, self-assessment, information resources, and smoking. The second part consisted of 21 questions with a four-part Likert scale (applies to me completely, applies to me to some extent, does not apply to me to some extent, and does not apply to me at all). Question 21 assessed healthy coping and questions 2, 4, and 10 determined healthy eating; 7, 13 physical activity; 3, 6, and 15 taking medication; 1, 9, 12, and 16 blood sugar monitoring. Reducing risks was measured through question 18 (smoking) and questions 5, 8, 11, 14, 17, and 20 (foot care). Finally, question 19 estimated problem-solving. The minimum score obtained from the self-management questionnaire is 0 and the maximum is 63. The reliability and validity of this questionnaire had previously been reviewed by Torki et al.; however, the face validity was confirmed by two super specialists in diabetes, two nursing faculty specializing in psychiatry, four nursing faculty specializing in diabetes care, and one diabetic education nurse. For improving the clarity of the scale, unclear questions and minor wording errors were changed. The reliability of the questionnaire was again assessed and Cronbach's alpha was estimated to be 0.81. It should be noted that based on the opinions of authors and aforementioned specialists, the way of covering and speaking of people in films/videos and motion graphics was changed by considering the religious, cultural, and moral considerations of our community.
+
+Before the intervention, all participants completed self-management questionnaires and HbA1c levels were determined. In the experimental group, the password of the website was installed on the participants’ and caregivers’ phones, also, training to use the educational materials prepared for 21 days was explained. Moreover, the possibility of contact with the researcher through the program was informed to the participants. The researchers also answered questions on a daily basis at specific times. To ensure that patients and their caregivers view the files, the program can identify the number and time of viewing. If they do not watch the programs for more than three days, the instructor will contact the participants to remove the obstacles and encourage them to watch.
+
+For the control group, educational pamphlets were presented for three weeks. Then, all participants completed a self-management questionnaire and the next referral date (3 months later) was announced to them. During this period, all participants had the opportunity to ask questions to the instructor, and also, the intervention group could use the present educational program at any time and place. Three months later, all subjects were called to complete a self-management questionnaire and to determine hemoglobin HbA1c. Fasting blood samples (2.5 ml) were taken before and after interventions in Al-Zahra clinical laboratory to measure HbA1c levels through high-performance liquid chromatography (HPLC) analysis using the Sebia Capillarys 2 electrophoresis system1. Data collection tools included demographic information and diabetes self-management questionnaire sections. The first part consisted of 15 questions about age, duration, education level, number of children, gender, marital status, occupation, ethnicity, economic status, health insurance coverage, family history of diabetes, type of treatment, self-assessment, information resources, and smoking. The second part consisted of 21 questions with a four-part Likert scale (applies to me completely, applies to me to some extent, does not apply to me to some extent, and does not apply to me at all). Question 21 assessed healthy coping and questions 2, 4, and 10 determined healthy eating; 7, 13 physical activity; 3, 6, and 15 taking medication; 1, 9, 12, and 16 blood sugar monitoring. Reducing risks were measured through question 18 (smoking) and questions 5, 8, 11, 14, 17, and 20 (foot care). Finally, question 19 estimated problem-solving. The minimum score obtained from the self-management questionnaire is 0 and the maximum is 63. The reliability and validity of this questionnaire had previously been reviewed by Torki et al.; however, the face validity was confirmed by two super specialists in diabetes, two nursing faculty specializing in psychiatry, four nursing faculty specializing in diabetes care, and one diabetic education nurse. For improving the clarity of the scale, unclear questions and minor wording errors were changed. The reliability of the questionnaire was again assessed and Cronbach's alpha was estimated to be 0.81. It should be noted that based on the opinions of authors and aforementioned specialists, the way of covering and speaking of people in films/videos and motion graphics was changed by considering the religious, cultural, and moral considerations of our community.
+
+Web-based training
+
+Through the website, multimedia educational content (including videos, lectures, instructional motion graphics, text files, educational posters, and podcasts) was instructed based on DSMES and the instructor was able to monitor the user's patients. At the end of each chapter, a few questions have been asked which participants can answer to them voluntarily to enhance their attention in learning the educated points.
+
+Chapter 1: The disease process and its treatment
+
+The course of the disease and its treatment were educated with a film including a lecture for 5 min and 15 sec. Diabetes, causes, risk factors, and signs and symptoms were explained for 7 min and 47 sec in a video containing a speech with motion graphics. Next, a lifestyle change to a healthy lifestyle was taught for 4 min and 4 hundredths of a second with a lecture and a PDF presentation. It was recommended that patient care be provided in a happier and less threatening living environment. Emphasis was also placed on securing the environment, regulating referrals and preserving medical records, and regulating medication.
+
+Chapter 2: Diet
+
+This chapter was devoted to the self-managed behavior of healthy eating. Familiarity with food groups, food portions, units and numbers of daily meals, healthy plate and its components, food pyramid, counting carbohydrates, and sample program of one day were educated in PDF files and a film contained speech and motion graphics for 13 min. The instructor emphasized following the food pyramid as a suitable way to have a healthy diet and the glycemic index was also compared to a multistory building. Following the introduction of the healthy plate and its components, the number of meals with the film and the use of teaching aids including a mug and colored cardboard for 2 min and 28 sec were introduced. Then, the lifestyle table for recording food portions to modify the diet was presented as a PDF file. The positive consequences of following a varied diet and the negative consequences of neglecting it were also emphasized.
+
+Chapter 3: Physical activity and exercise
+
+Exercise and physical activity, benefits, effect of exercise on blood sugar, barriers, and exercise program samples were explained. Also, proper physical activity was described through a lecture with motion graphics for 5 min and 50 sec in a way that important items including the importance and necessity of doing it, the positive effects and consequences of doing so, pre-exercise examinations and care, appropriate clothing, having a sports companion, explaining the duration of exercise, intensity and its type, and having a suitable snack with exercise intensity were discussed. Stretching and isometric exercises were provided as a PDF file with attention paid to the American Diabetes Association website. To present an exercise program based on each individual's conditions and problems (personalization), patients were directed to their lifestyle chart and individual counseling was given. A video of stretching exercises with subtitles and sound adapted from the Canadian Diabetes Association (CDA) was taught for 11 min and 39 sec for home use.
+
+Chapter 4: Blood glucose monitoring
+
+The benefits and importance of monitoring, blood glucose measurement schedule, target values for blood glucose, symptoms of hyperglycemia, and treatment were expressed. A poster for self-monitoring blood glucose (SMBG) with blood glucose measurement times was prepared as a PDF file.
+
+Chapter 5: Oral drugs for the treatment of T2DM
+
+In this chapter, the use of oral drugs, their benefits, and side effects were taught in detail in three parts so that patients do not get tired. Through a lecture with motion graphics, oral drugs and their drug groups were introduced in order. Also, important points about the advantages and disadvantages of oral drugs and related self-cares were explained. Oral drugs were expressed in three parts by expressing the brand name, generic name, dosage, mode of action, side effects and contraindications of the drug, and self-care in relation to each class of drugs. The first part lasted for 4 min and 16 sec, the second part was 6 min and 5 hundredths of a second, and the third part was 5 min and 37 hundredths of a second.
+
+Chapter 6: Injectable drugs for the treatment of diabetes
+
+The insulin pen was introduced in 6 min and 40 sec through the instructional video. Also, pen health tests and the correct way to inject with a pen were taught in 4 min and 45 sec and 2 min and 49 sec, respectively. Insulin injection sites are provided as a PDF file. Educational videos for insulin syringe injection with the introduction of NPH (neutral protamine Hagedorn) insulin and regular insulin for 3 min and 53 hundredths of a second, introduction of syringe for 5 min and 8 sec, how to draw insulin correctly in a syringe in 4 min and 32 sec, the correct way to inject in 2 min and 57 sec were prepared. Injection sites and proper injection methods were provided in the attached PDF file.
+
+Chapter 7: Problem-solving
+
+In this chapter, four basic steps in dealing with the problem including identifying the problem, finding an alternative solution, evaluating and selecting an alternative solution, and finally, implementation and follow-up were discussed using the podcast for 10 min. Then, a problem was presented and four basic steps were expressed to solve it and questions were answered. Also, the correct understanding of the problem, emotion-oriented reactions, and problem-oriented in the face of the problem were discussed.
+
+Chapter 8: Adapting to diabetes
+
+In this section, how to adapt to diabetes was taught using motion graphics for 7 min and 6 hundredths of a second. In this way, patients were educated on the strategies for dealing with injury or crisis that consisted of focusing on the issue, finding support, overcoming stress, developing positive habits and moods, overcoming the flow of emotions, implementing self-management programs, coping with emotions, and finally consulting with a specialist.
+
+Chapter 9: Reduction of risks
+
+This section was intended to manage the difficult conditions of self-management in the days of illness, and also prevention and identification of acute complications of the disease. Also, how to deal with the situation and find specific solutions to solve problems, accepting unchangeable cases, and talking to the family and getting help from a physician and nurse were described. In this section, emphasis was placed on smoking cessation and foot care to reduce the risks. To quit smoking, the podcast was organized into three sections: 1) 5 min and 42 sec were spent discussing about the effects of smoking on the body and its harms and the experience of quitting smoking, 2) 4 min and 12 sec were spent talking about people's worries and feelings after quitting smoking and its solutions, 3) treatment methods for quitting smoking for 5 min and 3 hundredths of a second were explained. People were then trained to quit smoking, take medication, control their mood, and prevent depression. For foot care, educational content was prepared in the form of video lectures and motion graphics in which the need to control blood sugar in the prevention of neuropathy and peripheral nerve disorders and the need for foot care (washing, wound prevention, use of appropriate shoes, exercise, and training suitable for strengthening blood flow in the legs) were expressed in 12 min.
+
+Chapter 10
+
+The training video on using a glucometer was presented in 14 min and 44 sec along with the training of involving the family to prepare the patient for 5 min and 52 hundredths of a second in the end. The program is designed in such a way that after logging in, there is a possibility of permanent access for frequent use and watching, and there is also the possibility of questions and answers.
+
+Discussion
+
+This paper describes a web-based educational intervention to investigate its effects on seven components of DSMES and HbA1c values. Due to the increasing prevalence of T2DM, our effective obtained results might be used to improve the condition of these patients. Because it has been designed to be effective on all items of DSMES that have been rarely done. Also, being web-based is more preferred to education through social networks that face problems such as filtering, low speed, etc., In addition, the program is multimedia including podcasts, videos, etc., so that patients do not get tired during training. Moreover, educational content contains parts and components that can be upgraded more and more. Finally, all parts of the program can be used by patients for a lifetime. Generally, goal-setting, personalized instruction, interactive response, online peer support groups, and especially self-monitoring are some of the excellent aspects which have been applied in electronic interventions to control T2DM, and we tried to consider in this protocol. The accessibility of a trained care manager is another strength that increases its compliance. Also, the use of mobile phones has been revealed to be a successful approach. In this field, a systematic review concluded that web-based trials have shown good results for the control of T2DM, provided they are augmented with appropriate strategies. Another systematic review showed that technology-enabled DSMES significantly decreased HbA1c. They believe that the most effective trials are those which included all the elements of a technology-based self-management loop to connect diabetics and their healthcare providers, especially when offering two-way communication. The present trial has been conducted in patients with T2DM and it is expected that it will be practical in diabetic patient education.
+
+Financial support and sponsorship
+
+The Vice of Research and Technology because of the financial support (398611).
+
+Conflicts of interest
+
+There are no conflicts of interest.
+
+(CapillaryS 2; Sebia, Paris, France).
+
+Glycemic control and associated factors among Iranian population with type 2 diabetes mellitus: A cross-sectional study
+
+A response to the letter to the editor regarding “nationwide prevalence of diabetes and prediabetes and associated risk factors among Iranian adults: Analysis of data from PERSIAN cohort study” to the end of study
+
+2017 National standards for diabetes self-management education and support
+
+Comparing a social and communication app, telephone intervention, and usual care for diabetes self-management: 3-arm quasiexperimental evaluation study
+
+A systematic review of reviews evaluat-ing technology-enabled diabetes self-management education and support
+
+Using the RE-AIM framework to evaluate internal and external validity of mobile phone–based inter-ventions in diabetes self-management education and support
+
+A diabetes mobile app with in-app coaching from a certified diabetes educator reduces A1C for individuals with type 2 diabetes
+
+Perceived impact of caregiver's participation in diabetes education classes on implementation of self-care behaviors
+
+Prevention of postpartum weight retention during one year after childbirth by prenatal nutrition education: A randomized controlled trial
+
+The effect of home visit program on self-management behaviors and glycemic control in patients with type 2 diabetes treated with insulin
+
+Type 2 diabetes: A multifaceted disease
+
+Krause and Mahan’s Food and the Nutrition Care Process E-Book
+
+(4) Foundations of care: Education, nutrition, physical activity, smoking cessation, psychosocial care, and immunization
+
+Standards of medical care in diabetes—2019 abridged for primary care providers
+
+Management of hyperglycaemia in type 2 diabetes, 2018. A consensus report by the American Diabetes Association (ADA) and the European Association for the Study of Diabetes (EASD)
+
+Participatory approach to the development of a knowledge base for problem-solving in diabetes self-management
+
+Adapting the diabetes prevention program for low and middle-income countries: Protocol for a cluster randomised trial to evaluate ’Lifestyle Africa’?
+
+Effects of nursing care on patients in an educational program for prevention of diabetic foot?
+
+Remote lifestyle coaching plus a connected glucose meter with certified diabetes educator support improves glucose and weight loss for people with type 2 diabetes
+
+Diabetes structured self-management education programmes: A narrative review and current innovations
+
+Registered nurses in primary care: Emerging new roles and contributions to team-based care in high-performing practices
+
+Web-based interventions for the man-agement of type 2 diabetes mellitus: A systematic review of recent evidence
+

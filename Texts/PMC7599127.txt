@@ -1,0 +1,202 @@
+TITLE: Sensory nerve conduction study of median ulnar and radial nerves in type 2 diabetic individuals in the age group 40–80 years
+
+Aim
+
+The study intends to find out the effect of Type 2 diabetes on the sensory nerve of the upper extremity.
+
+Method
+
+This research includes 100 subjects, both male and female, within the age group of 40–80 years. The subjects were divided into two groups, A and B. Where Group A includes 50 subjects which diagnosed type 2 diabetic mellitus. Furthermore, Group B holds 50 normal healthy subjects investigated and normal healthy subjects without diabetes mellitus. Written consent was obtained from the subjects who were ready to be part of this study. Orthodromic sensory nerve conduction studies of median, ulnar, and radial nerve were assessed by using EMG diagnostic device for bilateral upper extremities in both groups. The sensory nerve conduction study included nerve conduction velocity (m/s), latency (ms), and amplitude (μV). The data analyzed using paired 't' test within the group and unpaired 't' test between two groups, using computational statistical software Graph Pad Prism. 'p' value < 0.05 was considered to be statistically significant.
+
+Results
+
+The sensory nerve amplitude of all three nerves reduced the velocity of the median & ulnar nerve was reduced and prolonged latency of ulnar nerve in type 2 diabetics as compared to the Non-diabetics group.
+
+Conclusion
+
+This study concluded that the type 2 diabetics group has severe sensory nerve affections of the median and ulnar nerve. The therapist should examine the upper extremity of all diabetic subjects, and hand care should be taught to the patients to prevent further complications of diabetic peripheral neuropathy.
+
+Type 2 diabetes; Sensory nerve conduction study; Medial ulnar & radial; Nerves; Biological sciences; Neuroscience; Endocrinology; Health sciences; Neurology.
+
+Introduction
+
+Diabetes mellitus is one of the most common chronic diseases in nearly all countries and continues to increase in number and significance. The global increase in the prevalence of diabetes is due to population growth, aging, urbanization, and an increase in obesity and physical inactivity. IDF's most recent estimates indicate the diabetes is one of the most significant global health emergencies of the 21st century. Each year more and more people live with diabetes mellitus, which can result in a life-changing complication. Four hundred fifteen million adults who are estimated to have diabetes currently and the number of people have diabetes is set to rise 629 million in 2045, yet with 212 million of the case currently undiagnosed and are therefore more at risk of developing complications. One in two adults with diabetes is undiagnosed. Diabetes and its complication are the primary cause of death in most countries, 5 million worldwide deaths, and the number of men and women with diabetes is 221.0 million and 203.9 million all around the world in 2017. People with diabetes are more in urban areas 279.2 million than in rural areas 145.7 million. Type 2 diabetes is the most prevalent form of diabetes, and in high-income countries, up to 91% of adults. There are 326.5 million people of work age 20–64 years with diabetes and 122.8 million people 65–99 years with diabetes. The number of people with type 2 diabetes is increasing in every country. Among the top 10 countries, China tops the list with 114.4 million, followed by India, which has 72.9 million persons affected by diabetes. Type 2 diabetes mellitus is the most common endocrine disorder, and it is characterized by metabolic abnormalities. Diabetic Mellitus affects multiple systems as a complication of retinopathy, nephropathy, neuropathy, cardiovascular disorders, and amputation. Diabetic neuropathy affects both the peripheral and autonomic nervous systems. Distal symmetrical polyneuropathies are the commonest form of diabetic neuropathies. They are length-dependent neuropathies, predominantly affecting the sensory and autonomic nervous systems. Large fibers neuropathies may involve sensory, and motor nerves and most patients will present with a 'glove and stocking' distribution of sensory loss. A majority of neuropathy involves large nerve fibers, manifested by reduced vibration (often the first objective evidence of neuropathy) and position sense, weakness, and depressed tendon reflexes. The clinical features of chronic sensory-motor polyneuropathy are progressive and often start in feet. Reduction of small nerve fibers and loss of intraepidermal nerve fibers well parallels with the progression of neuropathy. Axons with a small diameter are preferentially affected because of the limited supporting system due to its small size. Consequently, symptoms transmitted by small-sized nerve fibers commence with pain and alterations of thermal sensations, followed by paresthesia as well as sensory loss. Symptoms may be minimal, such as a sensation of walking on cotton, floors feeling 'strange,' inability to turn the pages of a book, or inability to discriminate among coin. Sensory symptoms range from numbness and tingling to severe pain and the inability to detect temperature differences.
+
+T2DM, abnormal cross-linking of collagen fibres occurs due to the accumulation of advanced glycosylation end-products, which leads to skin thickening and formation of nodules and contractures. Diabetes will cause hand complications as 'diabetic hand.' The diabetic hand is defined as a syndrome of musculoskeletal manifestation of hand mainly, limited joint mobility, dupuytren's contracture, and trigger finger in diabetic patients. Diabetic hand usually associated with long-standing diabetes, suboptimal glycemic control, and microvascular complications.
+
+Neuropathy is more common in lower extremities, so special consideration is given to evaluating the effect of type 2 diabetes (T2D) on the lower extremities as it the primary cause of non-traumatic amputation. Research is limited regarding the effect of type 2 diabetes (T2D) neuropathies on upper extremity function, as neuropathies of hand, less reported by diabetic patients. The hand is the essential part of the body and well involves mobility, strength sensation, and coordination in all ADL activities. Hand complications in patients with T2DM may affect activities of daily living and lead to disabilities in self-care activities. These result in reduced interpersonal interactions, loss of independence, financial burden, and overall reduced quality of life. With the increasing life expectancy and steep increase in the number of people with T2DM, we need more research on hand function to address the standard of living and self-reliability in general and delicate tasks. And motor nerve conduction studies are recommended as the new diagnostic gold standard to determine peripheral neuropathy in hand. Studies have shown that sensory and motor nerve changes are present in the early asymptomatic stage of diabetic peripheral neuropathy. systematic review and meta-analysis revealed a negative mean difference in grip and pinch strength as well as hand function and dexterity between people with T2DM and healthy controls. Chronic sensorimotor polyneuropathy has the strongest negative impact on the health-related quality of life. A recent study concluded that 10 % of type 2 diabetic's subjects have a loss of hot and cold sensation of the hand. Therefore early detection of diabetic neuropathy and appropriate management is essential.
+
+Therefore, the need for a study arises to evaluate the sensory nerve conduction studies of the median, ulnar, radial nerve in person with type 2 diabetes. The objective of this study is to assess the sensory nerve conduction studies of the median, ulnar, radial nerve in normal healthy & T2DM subjects and compare between both groups.
+
+Material and method
+
+Study design and subjects
+
+After approval from the institutional Ethics committee and Maharashtra University of Health Sciences (MUHS), Nashik India, the study was started. One hundred subjects in the age group of 40–80 years, both male and female, were recruited for this Observational, Cross-sectional analytical study. Subjects are divided Group A -50 subjects diagnosed type 2 diabetic mellitus. Group B: 50 normal healthy subjects without diabetes mellitus. These subjects were conveniently recruited for this study from the All India Institute of Physical Medicine and Rehabilitation Mumbai India. Detailed information about the purpose of the study was explained to all subjects. Those who were ready to be part of the study were chosen as the subject. Written informed consent was obtained from all subjects. The duration of the study was 12 months from the date of synopsis approval.
+
+Inclusion and exclusion criteria for the study
+
+Subjects were divided into two groups. Group A- 50 subjects diagnosed type 2 diabetic mellitus, according to WHO diagnosis criteria Glycemic control level – fasting blood glucose ≥126 mg/dl and postal prandial blood glucose ≥200 mg/dl included and Duration of DM from 1 year to 20 years, Group B- 50 normal healthy subjects investigated and diagnosed as non-diabetic mellitus included in the study. Hyperglycemia (>300 mg/dl) was associated with increased mortality independent of illness severity. Blood glucose level >300 mg/dl and all neuro-musculoskeletal & vascular disorders were excluded from the study.
+
+Measurement of sensory nerve conduction study
+
+Sensory nerve conduction studies demonstrate the physiological properties of a sensory nerve. Sensory fibers can be tested using orthodromic conduction (physiological direction) or antidromic conduction (opposite to normal conduction). The sensory nerve conduction study included nerve conduction velocity (m/s), latency (ms), and amplitude (μV). In this study, an orthodromic sensory nerve conduction study was done using EMG diagnostic device.
+
+NEUROWERK EMG diagnostic device.
+
+Figure 1
+
+The standard sensory nerve conduction measurements were performed on Median, Ulnar, and Radial nerve of both upper extremities. Subjects lay on an exam table in a quiet room with temperature 22–25 degree C. Skin temperature of both hands was standardized and maintained between 32 -36 degree C. NEUROWERK diagnostic device was used for assessment of sensory nerve conduction studies. Sensory nerve conduction velocity, amplitude, and latency of median, ulnar, and radial nerve were measured using Orthodromic conduction stimulation. Sensitivity was kept between 10-20microvot, time base 2 millivolt/division, frequency- 1 Hz kept for all subjects. All Subjects had to wash hands with soap and water. The subject lay on the bed, and hands were cleaned using cleansing EMG gel before the test (Figure 1).
+
+Median nerve sensory conduction study
+
+a: Subject position for median nerve sensory conduction study. b: Electrode placement for median nerve sensory conduction study.
+
+Figure 2
+
+The recording electrode was placed just ulnar to flexor carpi radialis tendon 3 cm proximal to the distal wrist crease. For stimulation, the stimulation electrode was placed at the distal end of the index finger, and the ground electrode was placed between the recording and stimulating electrode. After waveform, amplitude & latency recorded, the distance between the stimulating electrode and recording electrode was measured as the length of the nerve, to calculate conduction velocity. Amplitude, latency, and conduction velocity of both median nerves were taken as the outcome (Figure 2).
+
+Ulnar sensory nerve conduction study
+
+a: Subject position for ulnar nerve sensory conduction study. b: Electrode placement for ulnar nerve sensory conduction study.
+
+Figure 3
+
+Subject lay on the bed, the hand was cleaned using cleansing EMG gel in area of the ulnar nerve (little finger and medial side of wrist). The recording electrode and reference electrode was placed medial to the wrist, adjacent to the flexor carpi ulnaris tendon, between electrode 3–4 cm distance was maintained. The stimulating electrode was placed over a little finger palmer aspect, a ground electrode placed between stimulating and recording electrodes. After waveform, amplitude & latency recorded, the distance between the stimulating electrode and recording electrode was measured as the length of the nerve, to calculate conduction velocity. Amplitude, latency, and conduction velocity of both ulnar nerves were taken as the outcome (Figure 3).
+
+Radial nerve sensory conduction study
+
+a: Subject position for radial nerve sensory conduction study. b: Electrode placement for radial nerve sensory conduction study.
+
+Figure 4
+
+The subject lay on the bed; the hand was cleaned in the area of the dorsum of thumb and lateral end of the lower radius using EMG cleansing gel. The recording electrode and reference electrode was placed at the lateral end of the lower radius. The stimulation electrode was placed adjacent to extensor carpi radialis muscle and ground electrode between the stimulating and recording electrode. After waveform, amplitude & latency recorded, to calculate conduction velocity distance between stimulating electrode and recording electrode was measured as the length of the nerve, and after that, the conduction velocity of both radial nerves was taken as an outcome (Figure 4).
+
+Statistical analysis
+
+A total of 100 eligible subjects was recruited for the study. Data were analyzed by taking Group A- Type 2 Diabetic (T2DM): 50 subjects and Group B- Non-diabetic (Non-DM): 50 subjects the age group of 40–80 years. Both groups were assessed for normality distribution using the Shapiro-Wilk normality test. The data pass the normality test there for data analysis using paired 't' test within the group and unpaired 't' test between two groups. All the statistical procedures were accomplished using computational statistical software Graph Pad Prism (version 7). 'p' value < 0.05 was considered to be statistically significant. On analysis, it is observed that there was statistically no significant difference between the mean value of sensory nerve study of Rt. & Lt. upper extremities in the T2DM and Non-DM group, so both upper extremities data merged for further statistical analysis.
+
+Results
+
+Median sensory nerve conduction study
+
+Comparison of the mean value of Median sensory nerve conduction study between T2DM & Non-DM group and its significance.
+
+Table 1
+
+Median sensory nerve conduction study	 		T2DM	NONDM	T2DM	NONDM	T2DM	NONDM	 	Amplitude	Amplitude	Latency	Latency	Velocity	Velocity	 	Mean (SD)	5.856 ± 3.50	11.86 ± 4.09	2.665 ± 1.09	2.523 ± 0.4546	45.34 ± 17.36	57.26 ± 10.26	 	‘P’ Value	<0.0001	0.2325	<0.0001	 	‘t’ Value	11.04	1.198	5.912	 	Significance	Extremely significant	Ns	Extremely significant
+
+Comparison of mean value of median sensory nerve conduction study of T2DM and NONDM.
+
+Graph 1
+
+Table 1 & Graph 1 shows that there is a statistically extremely significant difference in the mean value of median nerve amplitude and velocity between the T2DM and the NonDM group, and there is no statistically significant difference in the mean value of median nerve latency between T2DM and Non-DM group.
+
+Ulnar sensory nerve conduction study
+
+Comparison of the mean value of ulnar sensory nerve conduction study between T2DM & Non-DM group and its significance.
+
+Table 2
+
+Ulnar sensory nerve conduction study	 		T2DM	NONDM	T2DM	NONDM	T2DM	NONDM	 	Amplitude	Amplitude	Latency	Latency	Velocity	Velocity	 	Mean (SD)	5.246 ± 3.231	11.15 ± 3.49	2.373 ± 1.14	2.123 ± 0.3959	42.05 ± 18.06	55.54 ± 9.639	 	‘P’ Value	<0.0001	0.0396	<0.0001	 	‘t’ Value	12.41	2.072	6.589	 	Significance	Extremely significant	Significant	Extremely significant
+
+Comparison of mean value of ulnar sensory nerve conduction study of T2DM and NONDM.
+
+Graph 2
+
+Table 2 & Graph 2 shows that there is a statistically extremely significant difference in the mean value of ulnar nerve amplitude and velocity betweenT2DM and Non-DM group, and there is a statistically significant difference in the mean value of ulnar nerve latency between T2DM and Non-DM group.
+
+Radial sensory nerve conduction study
+
+Comparison of the mean value of Radial sensory nerve conduction study between T2DM & Non-DM group and its significance.
+
+Table 3
+
+Radial sensory nerve conduction study	 		T2DM	NONDM	T2DM	NONDM	T2DM	NONDM	 	Amplitude	Amplitude	Latency	Latency	Velocity	Velocity	 	Mean (SD)	14.34 ± 5.66	17.73 ± 4.12	1.564 ± 1.305	1.343 ± 0.3508	55.66 ± 10.83	57.37 ± 8.615	 	‘P’ Value	<0.0001	0.1036	0.2181	 	‘t’ Value	4.847	1.635	1.235	 	Significance	Extremely significant	Ns	Ns
+
+Comparision of mean value of radial sensory nerve conduction study of T2DM and NONDM.
+
+Graph 3
+
+Table 3 and Graph 3 shows that there is a statistically extremely significant difference between the mean value of radial nerve amplitude in T2DM and Non-DM, and there is no statistically significant difference in the mean value of radial nerve latency and velocity between T2DM and Non-DM group.
+
+Discussion
+
+Diabetic peripheral neuropathy commonly develops insidiously, with various clinical manifestations. Peripheral nerve involvement is highly frequent in diabetes mellitus, and it has been documented that one-third of the diabetic patient has peripheral neuropathy. The upper extremity complications of diabetes, known as 'diabetic hand'. The diabetic hand includes more specific diabetic-related conditions such as LJM (limited joint motion). However, conditions related to the Non-diabetic hand, such as trigger finger, Dupuytren's disease, and CTS, these other conditions affecting the hand, which also occur more frequently in diabetes.
+
+Hence evaluation of sensory-motor function in the hand of diabetic patients is of paramount importance in order to provide the proper identification of group with neuropathy. Sensory changes in the hand could help to detect the involvement of upper extremities neuropathy in the T2DM (type 2 diabetes) group. In this study, assessment of sensory-motor function was carried out in 50 subjects in the age group of 40–80yr (mean age- 58.16 ± 8.65) with the involvement of type 2 diabetes (Group-A) and compared with 50 Non-diabetic (Group-B) subjects of 40–80yr (mean age- 57.9 ± 9.55) group.
+
+Table 1, 2, 3 & graph 1, 2, 3 shows all three nerves median nerve, ulnar nerve, Radial nerve; there is a significant reduction of amplitude and Velocity in the T2DM group as compared to the Non-DM group. Although all three nerves show prolongation of latency in the diabetic group, this difference is only significant in the ulnar nerve.
+
+The electrophysiological abnormalities may be attributed to nutritional and metabolic disorders resulting from diabetes, this leads to impairment of axoplasmic transport in peripheral nerves, preventing distal axon from acquiring sufficient nutrition and ultimately leading to their degeneration. Kikkawa Y1, Kuwabara S et al 2005 concluded that slowing of nerve conduction presumably caused by metabolic factors, such as decreased Na+/K+-ATPase activity and tissue acidosis. The underlying pathology of diabetic polyneuropathy included nerve fiber degeneration, fiber loss, and microangiopathy. S. Yagihashi et al introduce several critical metabolic pathways that are known to be activated in chronic hyperglycemia, contributing to the development of neuropathy. As a consequence of longstanding hyperglycemia, a downstream metabolic cascade leads to peripheral nerve injury through an increased flux of the polyol pathway, enhanced advanced glycation end-products formation, excessive release of cytokines, activation of protein kinase C and exaggerated oxidative stress, as well as other confounding factors. Extremely long axons originating in the small neuronal body are vulnerable on the most distal side as a result of malnutritional axonal support or environmental insults. Inadequate vascular supply with impaired autoregulation is likely to cause hypoxic damage in the nerve. Such dual influences exerted by long-term hyperglycemia are critical for peripheral nerve damage, resulting in distal-predominant nerve fiber degeneration. In diabetes, in addition to metabolic aberration, altered blood flow with hypoxia/ischemia or reperfusion perturbs the integrity of peripheral axons and Schwann cells. It thereby induces the degeneration starting in the most distal portion of the nerve. Na+/K+ ATPase activity, Advanced glycation end products, Uncoupled proteins, Polyol pathway, Metanx, Glutathione, Alpha lipoic acid, Acetyl carnitine, Resveratrol, Glyoxalase 1, Poly (ADP- Ribose) polymerase and Protein Kinase C, these Multiple biochemical pathways have been implicated in the pathogenesis of diabetic peripheral neuropathy.
+
+B M K Aruna et al 2016 found that median & ulnar nerve amplitude & velocity are reduced in Diabetics, and the lower limb nerves are affected more severely when compared to upper limb nerves. The sensory nerves are affected more than motor nerves. Ram Babu Singh et al 2015, conclude that the percentage of the abnormal electrophysiological parameter in different motor and sensory nerves were; 77% in sural nerve, 66% in peroneal nerve, 63.4% in posterior tibial nerve, 57% in median motor nerve, 46.6% in ulnar motor nerve, 40% in median sensory nerve, and 47% in ulnar sensory nerve. In Singh's study the incidence of subclinical neuropathy is significantly higher in newly detected diabetics. V Anita et al concluded there is a significant reduction in amplitude and conduction velocity of the median, ulnar, radial, peroneal, and sural sensory nerves in asymptomatic diabetic patients as compared to healthy volunteers. The most commonly affected nerves are the Median Nerve in the upper limb and Superficial Peroneal in the lower limb. Z younqian et al 2014 found that reduced amplitude, slow conduction velocity, and prolonged latent phase of median & ulnar nerve in early-stage diabetic peripheral neuropathy. Bi J et al 2008 revealed that sensory nerve action potential amplitude is more sensitive than nerve conduction velocity in the diagnosis of mild or early diabetic peripheral neuropathy. S. Karsidag et al 2005 found that the percentages of abnormal electrophysiological parameters were 60% in median sensory nerve and 46.7% in the ulnar sensory nerve in diabetes with one-year duration. These authors' findings support this study.
+
+Conclusion
+
+The above study shows that nerve conduction studies can be used as an early index and indicator of diabetic peripheral neuropathy. We conclude that implementing early electrodiagnostic testing for assessment of peripheral neuropathy is best detected by taking particular note of the conduction velocity of the ulnar nerve which is significantly more likely to fall below the average value for normal healthy individuals even in newly diagnosed diabetes mellitus. A limited nerve conduction assessment of ulnar nerve velocity could therefore be an effective screening tool for early peripheral neuropathy. The patients, who are shown to have early onset neuropathy, should be educated and instructed for proper hand care, which could limit progression and prevent secondary complication of diabetic neuropathy.
+
+Declarations
+
+Author contribution statement
+
+Poonam Sepat, Sandhya Wasnik: Conceived and designed the experiments; Performed the experiments; Analyzed and interpreted the data; Contributed reagents, materials, analysis tools or data; Wrote the paper.
+
+Funding statement
+
+This research did not receive any specific grant from funding agencies in the public, commercial, or not-for-profit sectors.
+
+Competing interest statement
+
+The authors declare no conflict of interest.
+
+Additional information
+
+No additional information is available for this paper.
+
+References
+
+Diabetic neuropathy in older adults
+
+Advanced glycation end products and diabetic complications
+
+The diabetic hand: a forgotten complication?
+
+Amputation and mortality in new-onset diabetic foot ulcers stratified by etiology
+
+Functional hand evaluation: a Review
+
+Hand function in patients with diabetes mellitus
+
+Amplitude of sensory nerve action potential in early-stage diabetic peripheral neuropathy: an analysis of 500 cases
+
+The electrophysiological finding of subclinical neuropathy in patients with recently diagnosed type 1 diabetes mellitus
+
+Hand dysfunction in type 2 diabetes mellitus: systematic review with meta-analysis
+
+Health-related quality of life in diabetes: the associations of complications with EQ-5D scores
+
+Evaluation of hot and cold sensation of hand in type 2 diabetic patients in age group of 40-80 years
+
+Hyperglycemia-related mortality in critically ill patients varies with admission diagnosis
+
+Studies of sensory conductionsComparison of latencies of orthodromic and antidromic sensory potentialsJournal of Neurology
+
+Valéria paula sassoli fazan diabetic peripheral neuropathies: a morphometric overview
+
+The acute effects of glycemic control on nerve conduction in human diabetics
+
+Mechanism of diabetic neuropathy: where are we now and where to go?
+
+Nerve blood flow and oxygen delivery in normal, diabetic, and ischemic neuropathy
+
+Biochemical alterations in diabetic neuropathy
+
+Role of electrodiagnostic nerve conduction studies in the early diagnosis of diabetic neuropathy: a case-control study
+
+Nerve conduction study findings of subclinical diabetic neuropathy in newly diagnosed diabetic patients
+
+Swati mahajan sensory nerve conduction studies in non-insulin dependent diabetes mellitus(NIDDM) patients without symptoms of peripheral neuropathy and healthy volunteers: a comparative study
+
+Diagnostic significance of sensory nerve action potential amplitude in early-stage diabetic neuropathy
+

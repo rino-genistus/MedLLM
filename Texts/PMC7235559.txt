@@ -1,0 +1,106 @@
+TITLE: Challenges of diabetes care management in developing countries with a high incidence of COVID-19: A brief report
+
+Background and aims
+
+Diabetes mellitus (DM) is one of the most critical risk factors for complications and death in COVID-19 patients. The present study aims to highlight challenges in the management of diabetic patients during the COVID-19 outbreak in developing countries.
+
+Methods
+
+We reviewed the literature to obtain information about diabetic care during the Covid-19 crisis. We also seek opinions of clinicians working in undeveloped countries.
+
+Results
+
+Current challenges faced by clinicians in the management of diabetic patients in developing countries are as follows: lack of preventive measures, inadequate number of visits, loss of the traditional method of communication with the patient, shortage of medications, impaired routine diabetic care, and absence of telehealth services.
+
+Conclusions
+
+Developing countries are faced with many challenges in diabetes management due to a lack of resources.
+
+Highlights
+
+COVID-19 pandemic may be a potentially diabetogenic situation and may worsen hyperglycemia and diabetes complications.
+
+Challenges faced by developing countries in managing diabetes during COVID-19 outbreak is different from other countries.
+
+Strategies for better management of diabetes care during current crisis should be based on available resources.
+
+The COVID-19 crisis is a severe public health concern in the world. It is now well recognized that older age, diabetes mellitus, severe obesity (BMI≥ 40 kg/m2), and hypertension increase the risk of complications and death in COVID-19 patients.
+
+Diabetes affects coronavirus mortality, and the process of its recovery and COVID-19 will impact management, self-care, and prevention strategies. We need proper guidelines specifically designed to reduce diabetes complications, during, and following the pandemic. Stress and physical inactivity at home also increase the risk of obesity, worsening of hyperglycemia (increase in HbA1c), and increase in diabetes-related complications. At the end of this tragic story, we might learn that the COVID-19 outbreak was potentially diabetogenic, increasing the burden of disease on the community.
+
+With the absence of sick pay or social security, low-income nations have less tolerance to most of the recommended preventive measures such as preservation of social distancing, use of protective gear, and avoiding the utilization of emergency health services.
+
+Access to drugs, especially insulin, is restricted and needs a physician’s prescription. Disparities in health care delivery and drug access make the situation worse.
+
+Infectious diseases such as the COVID-19 outbreak over-utilize governmental hospitals and non-communicable disease units in health care centers, hence access to care is diminished for diabetic patients. Admission to hospitals for diabetic patients who need care is proven difficult. Admissions to hospitals are restricted to a specific number of hospitals. Moreover, the hospital requires documentation from the patient to prove a negative COVID-test before allowing admission. This adds to the cost of care, which might further complicate receiving care for diabetic patients.
+
+Routine diabetic care is significantly impaired during the current epidemic. Many outpatient clinics and training units have been closed. Many private clinics of endocrinologists are also temporarily shut down. This leaves the private sector to provide emergency services to non-COVID patients, only. Many patients can’t use such private services due to a lack of insurance or facility to pay for services.
+
+Due to the fear of illness, patients do not visit a few opened laboratories to monitor their blood sugar status, and many do not have a glucometer for self -monitoring.
+
+The basis of education and treatment of diabetes in low-income countries is limited to a face-to-face visit of the endocrinologist or primary care provider. There are no telemedicine practices, so in this epidemic, preventive measures which traditionally were communicated with patients have been disrupted.
+
+Experience of video call and online non-face-to-face communication exists for a limited number of cases. The use of text messages and social networks are more likely to be merely available for those patients participating in research activities.
+
+Many patients are elderly and illiterate or have little literacy. They can’t afford to use new smartphones. Even if the cellphone was provided, they would have difficulty utilizing it and require training to do so.
+
+Providers do not engage with digital health tools, so telehealth services don’t work in this situation.
+
+There is no integrated national registration system for diabetes to provide a connection with limited digital health services.
+
+In some areas, the scientific societies are still in shock, having lost their usual communication tools (meetings, etc.) and are, therefore, inactive. The majority of members of such societies are health care providers themselves and are engaged in delivering necessary health care themselves.
+
+Of all patients with diabetes mellitus, 80% live in developing countries. Now, more than ever, these countries are faced with many challenges in the management of diabetes. Some problems are common between all countries, but some are unique to developing countries with low-income. These countries are faced with many pressing health issues due to practical, political, cultural, and social dilemmas. The most significant challenges are as follows:
+
+Few strategies for better management of diabetes in the COVID-19 crisis were suggested for low-income countries. The available guidelines are mostly adopted for developed countries and do not foresee critical problems faced by diabetic patients in undeveloped countries. The most essential suggestions of such guidelines were using telehealth, remote patient monitoring, wearable technologies, implementation of online services for glucose management, popularization of Internet and smartphones, utilization of free educational videos, e-books on diabetes self-management, and COVID-19 prevention advice for the public via WeChat mobile app. To improve such wireless communications emerging fifth-generation networks were also suggested. None of these are potentially possible for undeveloped nations due to poverty, lack of education, and poor health care planning.
+
+Is there a way for us to localize such experiences? Due to the noted barriers, we need innovative strategies to deliver care to patients with DM in resource-poor settings.
+
+Replace active follow-up with passive care, recall patients with diabetes mellitus
+
+Establish vibrant centers for visit and training outside of hospitals in local mosques, churches, community centers
+
+Activate more outpatients clinics and primary health care centers
+
+Recommend self-monitoring of blood glucose by providing the monitors to patients free of charge
+
+Utilize text message education and interventions for those who have access to smart cell phones
+
+Provide guidelines for physicians on how to manage clinical cases during the period given the conditions dictated to low-income countries
+
+Allocate individual telephone numbers for people with diabetics to receive a consultation from endocrinologists via landlines which potentially is more available compared to cell phones
+
+Send an educational video by the smartphone of other family members and finally
+
+Conduct needs assessment surveys by trained investigators
+
+Some potential suggestions are as follows:
+
+These strategies might partially alleviate the burden on diabetic patients under current emergency circumstances and may play a small role in reducing complications imposed by the lack of care on a diabetic patient. Reducing morbidity and mortality of diabetic patients in the future depends on our sound action in these difficult times.
+
+Author contributions
+
+N.S and J.S conceived the idea, prepared, and wrote this report.
+
+Financial support
+
+The work is not funded by any government or private agencies.
+
+Declaration of competing interest
+
+The authors declare that there is no conflict of interest.
+
+References
+
+Case-fatality rate and characteristics of patients dying in relation to COVID-19 in Italy
+
+Clinical course and risk factors for mortality of adult inpatients with COVID-19 in Wuhan, China: a retrospective cohort study
+
+Estimation of effects of nationwide lockdown for containing coronavirus infection on worsening of glycosylated haemoglobin and increase in diabetes-related complications: a simulation model using multivariate regression analysis
+
+Management of diabetes in resource-poor settings
+
+Timely blood glucose management for the outbreak of 2019 novel coronavirus disease (COVID-19) is urgently needed
+
+COVID-19 Infection in Italian people with diabetes: lessons learned for our future (an experience to be used)
+

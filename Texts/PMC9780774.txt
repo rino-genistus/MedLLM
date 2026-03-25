@@ -1,0 +1,266 @@
+TITLE: Analysis of the Factors Associated With ED in Type 2 Diabetics at the University Hospital of Libreville
+
+Introduction
+
+Erectile dysfunction (ED) is very common in diabetic males, especially type 2 diabetes mellitus (T2DM). Many factors and complications of diabetes such as macro- and micro-angiopathy are associated with risks leading to ED in male patients.
+
+Aim
+
+Analysis of factors associated with ED in T2DM. The purpose of this study is to shed light on potential associations between ED, type 2 diabetes, and some risks factors.
+
+Material and methods
+
+This was a prospective analytic study of T2DM over 18. The study population consisted of diabetic patients seen at the endocrinology and urology departments of the University Hospital during the study period. Evaluation of ED was made by IIEF 5 score.
+
+Outcomes
+
+A total of 333 patients were selected for the study. The mean age was 56.6 ± 9.8 and the prevalence of ED was 82.6% (n = 275).
+
+Results
+
+In univariate analysis, several associated factors were identified such as micro-angiopathic type complications including diabetic retinopathy (OR 4.88 [2.31–10.33], P < .001), diabetic nephropathy (OR 12.67 [1.71–93.66], P = .002) and macro-angiopathic type including arterial hypertension (OR 3.12 [1.69–5.75], P < .001). In multivariate analysis, duration of diabetes, micro and macroangiopathic complications, and hyperuricemia were independent risk factors for the occurrence of ED (P < .05).
+
+Clinical Implications
+
+The presence of certain complications of diabetes such as micro or macro angiopathy or hyperuricemia should lead to a search for a ED. The presence of these associated factors identified in type 2 diabetic patients should systematically prompt an ED diagnosis which is often moderate or severe. That diagnosis would help design a protocol for the management and improvement of the life quality of these patients.
+
+Strengths and Limitations
+
+The strength of this work is that it was conducted in the biggest hospital in the country which gives us a good idea of the trend of this ailment in the country. But the limitation of the study is that it only included patients who visited the hospital. This is monocentric hospital study was also transversal which does allow to establish a causal link.
+
+Conclusion
+
+ED has a significant prevalence in T2DM. Several associated factors identified in uni and multivariate analyses, including duration of diabetes, micro and macro angiopathic complications, and hyperuricemia, increase ED risk. Therefore, it is essential to investigate the existence of these factors to improve the management of ED, which may allow the patient to regain a better overall health status.
+
+SNN Milama, A Mougougou, S G Olagui, et al. Analysis of the Factors Associated With ED in Type 2 Diabetics at the University Hospital of Libreville. Sex Med 2022;10:100564.
+
+INTRODUCTION
+
+Erectile dysfunction (ED) is defined as the consistent or recurrent inability to attain and/or maintain penile erection sufficient for sexual satisfaction, including satisfactory sexual performance. Sexual life plays a significant role in well-being, and thus ED is considered a relevant marker of poor health, correlated with overall health status. It has been shown that ED was a powerful indicator of bad quality of life in type 2 diabetic patients.
+
+Type 2 Diabetes Mellitus causes several degenerative complications of macro and microangiopathy. ED is the result of these 2 types of complications. Moreover, it has a multifactorial origin in diabetes, namely metabolic, neurological, vascular, and psychological. Type 2 diabetes has been extensively associated with ED, with an overall prevalence of 50% in men with Type 2 diabetes. A previous study in Alexandria in Egypt showed a prevalence of 80% for ED in T2DM. Moreover, a higher prevalence of ED (94.7%) was found in Nigeria in T2DM. The variation in published ED frequencies may be attributed to differences in assessment methods and/or differences in clinical characteristics of diabetic patients. Moreover, severity and treatment methods may also contribute to discrepancies in published prevalence rates of ED in the diabetic population.
+
+Several factors associated with ED in diabetics have been identified, such as age, duration of diabetes, glycemic control, alcohol, and micro or macro-angiopathy. These factors are associated with ED, with more severe forms. However, in our context, what are the factors that can explain the occurrence of ED? Thus, our study aimed to determine the factors associated with ED in type 2 diabetic patients, at the University Hospital of Libreville.
+
+PATIENTS AND METHODS
+
+This was a cross-sectional observational study with descriptive and analytical purposes conducted from August 5 to October 31, 2021.
+
+The study was conducted at the University Hospital of Libreville.
+
+The study population consisted of diabetic patients seen at the endocrinology and urology departments during the study period.
+
+Inclusion criteria included men over 18 years of age with type 2 diabetes who had been sexually active during the previous 6 months.
+
+Patients with central neurological and/or higher function disorders were not included. People with type 1 diabetes and secondary diabetics, any patient who could not meet the IIEF 5 score, and patients with an incomplete biological workup (HbA1c, cholesterol and fractions, triglycerides) or one that was more than 3 months old were not included in the study.
+
+Normal erectile function: score from 21 to 25.
+
+Mild erectile dysfunction: score from 16 to 20.
+
+Moderate erectile dysfunction: score from 11 to 15.
+
+Severe erectile dysfunction: score from 5 to 10.
+
+Not interpretable: score from 1 to 4
+
+Data collection was based on the information collected on the survey forms previously drawn up, which consisted of 2 parts, the first relating to the patient and their diabetes, and the second based on the International Index of Erectile Function (IIEF 5). By the end of the evaluation, the patient obtains a certain number of points which allow his erectile function to be classified as follows:
+
+A physical examination was performed to collect clinical data: weight, height, body mass index (BMI), blood pressure.
+
+Tests for heart disease, diabetic neuropathy, and arteriopathy of the lower limbs were also performed.
+
+Consultation of the patients medical records and follow-up books allowed us to note the elements of the metabolic assessment dating from less than three months. This metabolic assessment concerned total cholesterol, HDL cholesterol, LDL cholesterol, triglycerides, glycated hemoglobin (HbA1c), and uric acid.
+
+The morphological assessment, particularly the fundus of the eye in search of diabetic retinopathy, was also carried out.
+
+We show you how we researched the complications
+
+Macro-angiopathic complications
+
+Stroke: Diabetic patient's follow-up notebook (history of stroke) and by CT scan.
+
+Hypertensive: Diabetic patient's follow-up diary (history of hypertensive, blood pressure values mentioned in the diary during follow-up or previous prices). The blood pressure value during the clinical examination after 10–15 minutes of rest then at 30 minutes apart. Arterial hypertension: Blood Pressure ≥ 140/90 mmhg.
+
+Heart disease: Follow-up book (history of heart disease), balance sheet in possession (presence of a cardiac ultrasound or electrocardiogram, clinical examination (complete cardiovascular examination).
+
+PAOD: Peripheral Arterial Occlusive Disease: follow-up book (history of PAOD), assessment in possession (Doppler ultrasound of the lower limbs). Clinical examination (abolition of pulses or presence of a murmur; systolic pressure index was not performed because no portable Doppler, walk test also not performed).
+
+Microangiopathic complications
+
+Diabetic retinopathy: Diabetic patient's follow-up notebook (history of diabetic retinopathy), balance sheet in possession. Fundus examination result.
+
+Diabetic neuropathy: Diabetic patient's follow-up notebook (history of diabetic neuropathy), clinical examination (monofilament test).
+
+Diabetic nephropathy: Follow-up notebook for the diabetic patient (history of diabetic nephropathy), Presumption diagnosis (chronic renal failure, presence of type 2 diabetes mellitus, other associated signs = diabetic retinopathy, diabetic neuropathy, renal hypertrophy or normal kidney on ultrasound renal). the presence of microalbuminuria and proteinuria were in favor of diabetic nephropathy.
+
+Statistical analysis was performed with IBM SPSS Statistics 25.0 (Copyright IBM corporation 2021, IBM corporation New Orchard Road, Armonk, NY 10504, produced in the United States of America May 2021) and XLSTAT 2016.02.27444 Addinsoft Inc, 244 Fifth Avenue, Suite E100, New York, N.Y. 10001.
+
+Categorical variables were expressed as percentages and quantitative variables as mean and standard deviation.
+
+Association between categorical variables was assessed by the Chi2 test (or Fisher for small numbers) and comparison of means by Anova test. The significance level was set at 5%. A multivariate analysis by stepwise descending logistic regression was used to determine the factors associated with erectile dysfunction after selecting the variables significant at the threshold of P < 20% in the univariate analysis.
+
+Ethical Considerations: the execution of this study duly received prior authorization from the Gabonese Ministry of Health, the Hospital Management Office, and the Head of the Department of Urology and Endocrinology. All patients who agreed to participate in this study signed an informed consent form. Before signing the form, each patient was given a full reading of the entire informed consent form which included an explanation of the goal, the scientific relevance of the study, an assurance of anonymity of all information obtained, and a pledge of the research team to keep all information obtained confidential with restricted access. Patients were also informed that their refusal to participate in the study would not affect the quality and/or access to the appropriate care offered by the health service they were visiting.
+
+RESULTS
+
+Demographic characteristics of the study population
+
+Table 1
+
+n	%	 	Age (years)			 	 25-44	46	13,8	 	 45-64	218	65,5	 	 65+	69	20,7	 	 Total	333	100,0	 	Marital status			 	 Married	186	55,9	 	 Common - law	73	21,9	 	 Single	62	18,6	 	 Widowed	11	3,3	 	 Divorced	1	0,3	 	 Total	333	100,0	 	Education level			 	 No education	17	5,1	 	 Primary	25	7,5	 	 Secondary	148	44,4	 	 University	143	42,9	 	 Total	333	100,0	 	Professional status			 	 Active	193	58,0	 	 Unemployed	30	9,0	 	 Retired	110	33,0	 	 Total	333	100,0
+
+We selected 333 patients who had a mean age of 56.6 ± 9.8 with extremes of 33 and 79 years. The most represented age group was 45–64 years with 218 (65.5%) patients. Regarding marital status, married patients were the most represented, accounting for 55.9% (n = 186) of patients (Table 1). The prevalence of ED was 82.6% (n = 275).
+
+The mean IIEF-5 score was 15.1 ± 5.2 [5.0–25.0], with 21% (n = 70) severe, 35.4% (n = 118) moderate and 27.3% (n = 91) mild forms.
+
+Relationship between degenerative microangiopathy of ED and IIEF-5 score.
+
+Figure 1
+
+Relationship between degenerative macroangiopathy of ED and IIEF-5 score.
+
+Figure 2
+
+Relation between age and IIEF 5 score
+
+Table 2
+
+25–44 n (%)	45–64 n (%)	65+n (%)	Total n (%)	 	> 21	12 (26.1)	28 (12.8)	1 (1.4)	41 (12.3)	 	21-17	22 (47.8)	61 (28.0)	4 (5.8)	87 (26.1)	 	16-12	10 (21.7)	83 (38.1)	22 (31.9)	115 (34.5)	 	11-8	2 (4.3)	35 (16.1)	28 (40.6)	65 (19.5)	 	< 7	0 (0.0)	11 (5.0)	14 (20.3)	25 (7.5)
+
+comparison between IIEF score 5 and age group.
+
+Figure 3
+
+The severity of ED was associated with the presence of certain factors. Thus, patients without micro and macro angiopathy had a significantly higher mean IIEF5 score (P < .001) than those with (Figure 1, Figure 2). Moreover, The IIEF 5 score was significantly associated with age (P < .001). thus, the older the diabetic patients, the lower the IIEF 5 score was (Table 2 and Figure 3).
+
+The link between the length of time a patient has had type 2 diabetes and the IIEF-5 score.
+
+Figure 4
+
+Relationship between associated factors and erectile dysfunction
+
+Table 3
+
+Erectile dysfunction			 		Total	Yes n (%)	No n (%)	OR [CI 95%]	P	 	Microangiopathy					< 0.001	 	 No	159	111 (69.8)	48 (30.2)	1.0		 	 Yes	174	164 (94.3)	10 (5.7)	7.09[3.44–14.61]		 	Diabetic retinopathy					< 0.001	 	 No	194	145 (74.7)	49 (25.3)	1.0		 	 Yes	139	130 (93.5)	9 (6.5)	4.88[2.31–10.33]		 	Diabetic nephropathy					0.002	 	 No	282	225 (79.8)	57 (20.2)	1.0		 	 Yes	51	50 (98.0)	1 (2.0)	12.67[1.71–93.66]		 	Diabetic neuropathy					0.076	 	 No	309	252 (81.6)	57 (18.4)	1.0		 	 Yes	24	23 (95.8)	1 (4.2)	5.20[0.69–39.32]		 	Macro-angiopathy					< 0.001	 	 No	122	82 (67.2)	40 (32.8)	1.0		 	 Yes	211	193 (91.5)	18 (8.5)	5.23[2.83–9.66]		 	Stroke					0.008	 	 No	303	245 (80.9)	58 (19.1)	1.0		 	 Yes	30	30 (100.0)	0 (0.0)	-		 	PAOD					0,002	 	 No	274	218 (79.6)	56 (20.4)	1.0		 	 Yes	59	57 (96.6)	2 (3.4)	7.32[173–30.91]		 	Arterial hypertension					< 0.001	 	 No	161	120 (74.5)	41 (25.5)	1.0		 	 Yes	172	155 (90.1)	17 (9.9)	3.12[1.69–5.75]		 	Heart disease					0.061	 	 No	299	243 (81.3)	56 (18.7)	1.0		 	 Yes	34	32 (94.1)	2 (5.9)	3.69[0.86–15.84]
+
+PAOD = peripheral arterial occlusive disease.
+
+The IIEF5 score was related to the length of diabetes (P < .001). The longer the duration of diabetes and the lower the IIEF5 score, the more severe the ED (Figure 4). In bivariate analysis, several statistical relationships were highlighted. Thus, the presence of microangiopathy (P < .001), at the 5% threshold, significantly increased the odds of ED by a factor of 7.1, (OR = 7.09, 95% CI = 3.44–14.61, P < .001). Similarly, the presence of macroangiopathy was associated with a high risk of ED, (OR = 5.23, 95% CI = 2.83–9.66, P < .001). Only heart disease was not associated with ED, P = .061 (Table 3).
+
+Relationship between associated factors an erectile dysfunction
+
+Table 4
+
+Erectile dysfunction			 		Total	Yes n (%)	No n (%)	OR [CI 95%]	P	 	Age (years)					< 0.001	 	 25-44	46	31(67.4)	15(32.6)	1.0		 	 45-64	218	176(80.7)	42(19.3)	2.03[1.00–4.09]		 	 65+	69	68(98.6)	1(1.4)	32.90[4.16–260.33]		 	Age of diabetes (years)					< 0.001	 	 < 5	156	106(67.9)	50(32.1)	1.0		 	 5 - 10	71	65(91.5)	6(8.5)	5.11[2.07–12.59]		 	 > 10	106	104(98.1)	2(1.9)	24.53[5.82–103.43]		 	Hb1Ac					0.377	 	 ≤ 6,5	71	55(77.5)	16(22.5)	1.0		 	 6,6 -7,5	45	35(77.8)	10(22.2)	1.02[0.42–2.50]		 	 7,6-8,5	40	32(80.0)	8(20.0)	1.16[0.45–3.02]		 	 8,6- 9,5	36	32(88.9)	4(11.1)	2.33[0.72–7.57]		 	 > 9,5	141	121(85.8)	20(14.2)	1.76[0.85–3.65]		 	BMI					0.346	 	 Thin	7	7(100.0)	0(0.0)	-		 	 Normal weight	161	133(82.6)	28(17.4)	1.0		 	 overweight	114	95(83.3)	19(16.7)	1.05[0.56–1.99]		 	 Moderate obesity	38	28(73.7)	10(26.3)	0.59[0.26–1.35]		 	 Severe obesity	13	12(92.3)	1(7.7)	2.53[0.32–20.23]		 	Alcohol					0.010	 	 Non consumer	102	76(74.5)	26(25.5)	1.0		 	 Consumer	231	199(86.1)	32(13.9)	2.13[1.19–3.80]		 	 Tabacco					0.197	 	 Non-smoker	235	190(80.9)	45(19.1)	1.0		 	 Smoker	98	85(86.7)	13(13.3)	1.55[0.79–3.02]		 	Uricemia					0,001	 	 Hypo-uricémia	6	4(66.7)	2(33.3)	0.57[0.10–3.18]		 	 Normal	231	180(77.9)	51(22.1)	1.0		 	 Hyper-uricemia	96	91(94.8)	5(5.2)	5.16[1.99–13.37]		 	Total cholesterol					0,041	 	 Low cholesterol	93	74(79.6)	19(20.4)	0.90[0.48–1.66]		 	 Normal	203	165(81.3)	38(18.7)	1.0		 	 High cholesterol	37	36(97.3)	1(2.7)	8.29[1.10–62.38]		 	Cholestérol LDL					0.215	 	 Low LDL Cholesterol	167	136(81.4)	31(18.6)	1.01[0.56–1.80]		 	 Normal LDL	134	109(81.3)	25(18.7)	1.0		 	 High LDL Cholesterol	32	30(93.8)	2(6.3)	3.44[0.77–15.36]		 	Cholesterol HDL					0.233	 	 Low HDL Cholesterol	64	50(78.1)	14(21.9)	0.81[0.40–1.63]		 	 Normal HDL	184	150(81.5)	34(18.5)	1.0		 	 High HDL Cholesterol	85	75(88.2)	10(11.8)	1.70[0.80–3.63]		 	Triglycerides					0.023	 	 Hypo-triglycéridemia	1	1(100.0)	0(0.0)	-		 	 Normal	259	206(79.5)	53(20.5)	1.0		 	 Hypertriglycéridemia	73	68(93.2)	5(6.8)	3.50[1.34–9.11]
+
+Several factors were associated with ED, such as advanced age, duration of diabetes, alcohol consumption, uricemia, hypercholesterolemia, and triglyceride levels. Thus, the elderly (65 years and more) had a risk of ED 32.9 times higher than adults under 25 years of age (OR = 32.90, 95% CI 4.16–260.33, P < .001). Similarly, when the duration of diabetes was greater than 10 years, the risk of ED was 24.5 times higher (OR = 24.53, 95% CI = 5.82–103.43, P < .001) compared with a duration shorter than 5 years (Table 3). Other factors such as BMI, diabetic control (HbA1c), smoking, LDL, and HDL cholesterol were not associated with ED (P > .05) (Table 4).
+
+Multivariate analysis of risk factors for ED in diabetic patients at the University Hospital
+
+Table 5
+
+Ajusted OR [CI 95%]	P	 	Microangiopathy	4.65 [2.07–10.45]	< 0.001	 	Macro-angiopathy	2.83 [1.40–5.72]	0.004	 	Age of diabetes (5–10 years)	3.56 [1.36–9.36]	0.010	 	Age of diabetes (> 10 years)	14.05[3.20–61.74]	0.000	 	Hyperuricemia	2.89 [1.02–8.16]	0.045
+
+Multivariate analysis using the stepwise top-down method identified the determinants of ED and calculated the corresponding adjusted ORs. Only these factors associated with ED are represented in Table 5.
+
+DISCUSSION
+
+The goal of this study was to investigate the risk factors associated with ED in diabetic patients. Indeed, according to study, by their design, size, and characteristics, it is rarely found exactly the same risk factors. Thus, the current study revealed a high prevalence rate (82.6%) of ED in type 2 diabetic patients. Other authors such as Ndour et al. and Ghanem et al. have found a high prevalence of ED in T2DM, with 78% and 80%, respectively. However, low prevalence rates were reported in other studies in other parts of the world. There is no real scientific explanation to justify these discrepancies across studies, at most some that authors mention. These divergent prevalence rates may be accounted for by differences in the populations studied including but not limited to population sizes, demographic characteristics, duration and severity of diabetes, and presence of other confounding comorbidities.
+
+Several factors seem to be exacerbating factors of ED in type 2 diabetic patients. Several factors associated with ED were identified in both univariate and multivariate analysis.
+
+Starting with factors associated with ED in type 2 diabetic patients in univariate analysis, this study allows mentioning alcohol as an associated factor. Indeed, consumption of alcohol increased twice (2.13) the risk of ED. This result is similar to the study conducted in Brazil and India. The possible explanation might be due to alcohol abuse causing irreversible damage to nerve endings in the penis tissue. Some of the effects of alcohol may be mediated by increased oxidative stress, reactivity to the constrictor effects of endothelin-1 and activation of the RhoA/Rho -kinase pathway. Endothelins (ETs) are a family of endogenous peptides having three isopeptides mainly secreted by endothelial cells. ET-1 which is elevated in the plasma of diabetic patients, is a potent vasoconstrictor in the penis. ET-1 induced vasoconstriction has been shown to be linked to the RhoA/Rho- kinase pathway. The activation of pathway suppresses endothelial nitric oxide synthase (eNOS), decreasing the production of nitric oxide (NO). Also, in univariate analysis, total cholesterol and triglycerides were associated to ED. Triglycerides were weakly associated with ED (P = .023). This result was also noted by Giugliano et al., for whom dyslipidemia was associated with ED. Diabetes and hypercholesterolemiae alter the function of endothelium-mediated relaxation of the cavernous muscle and impair erection. High levels of oxidized low density lipoproteins inhibit endothelium-dependent N0-mediated relaxation and enhance corporal smooth contractility. Impairment of the NO/cGMP pathway in hyperlipidemiae is thought to be due to oxidative stress, endogenous nitric oxide synthetase inhibitors, depletion of the arginine required for production of NO by increased activity of arginase and production of procontractile factors such as thromboxane and prostaglandin. For other authors, dyslipidemia is not associated with ED.
+
+In multivariate analysis, four factors were associated with ED in T2DM. These four factors were the duration of diabetes, the presence of micro and macro angiopathy, and hyperuricemia. The duration of diabetes was doubly associated with ED because it increased its risk of occurrence and its severity.
+
+The duration of diabetes was by far the most important factor associated with the occurrence of ED in type 2 diabetic patients because in case of duration greater than 10 years, the risk of association with ED increased 14.03 times. Many authors had also reported as an independent risk factor. Other studies involving thousands of patients have also made the same observation. Chronic hyperglycemia caused by diabetes leads to ED through different mechanisms including metabolic, neurological, vascular, and psychological. Chronic hyperglycemia induces free radical production through formation of advanced glycation end-products (AGE). Free radicals react with NO and decrease its availability and cavernosal compliance and smooth muscle relaxation. At the same time, AGEs bond covalently to the vascular collagen leading to thickening of the vascular wall, deceased elasticity, endothelial dysfunction, and atherosclerosis. Hyperglycemia in diabetes leads to the formation of AGEs. AGEs form covalent bonds with vascular collagen, which leads to vascular thickening, decreased elasticity, endothelial dysfunction and atherosclerosis.
+
+Micro and macro angiopathic complications were also factors associated with ED. Diabetic retinopathy had the strongest correlation with ED in this study. Other authors found that significant ED is associated with diabetic retinopathy in men independent of age, DM duration, macrovascular comorbidities, and cardiovascular risk factors.
+
+Regarding macro angiopathic complications, hypertension exhibited the strongest association which increases the risk of ED by a factor of 3 (OR 3.12, 95% CI= 1.69–5,75, P < .001). With endothelial dysfunction being the core component of many comorbid conditions associated with ED in T2DM, further evidence demonstrates that hypertension plays a major role in this process and has both an increased prevalence (56.9%) and association with ED (OR, 1.34; 95% CI, 1.08–2.03; P = .02) in patients with T2DM.
+
+For Burchardt et al., ED is more severe in the presence of hypertension. Indeed, narrowing the arteries and the loss of elasticity secondary to hypertension impede blood flow considerably to the corpora cavernosa and may lead to partial or total loss of erection. Many other authors have reported this association between hypertension and ED.
+
+Another independent factor risk was hyperuricemia which significantly increased the risk of ED (OR 2.89, 95% CI [1.02–8.16], P = .045). That association has not been completely demonstrated. Thus, Totaro et al. concluded after a meta-analysis study that while a direct pathogenetic contribution of UA in promoting endothelial dysfunction cannot be ruled out, the evidence of a stronger association between hyperuricemia and ED in diabetic patients points to hyperuricemia as a marker of systemic dysmetabolic disorders adversely affecting erectile function.
+
+This study is the first of this kind to be performed in our country. It allowed shedding light on the high prevalence of ED among type 2 diabetic patients. Furthermore, several risk factors were identified. These findings constitute scientific arguments to develop awareness campaigns geared toward type 2 diabetic patients, the general population, and the government on the high frequency of ED in type 2 diabetic patients and the risks associated with that condition. This issue is all the more important as ED still remains a taboo subject in our society.
+
+The strength of this work is that it was conducted in the largest hospital in the country. Hence, the findings unraveled in this study may reflect part of the phenomenon that constitutes the association of these two pathologies. But the limitation of the study is that it only included patients who visited the hospital. Additionally, it was a monocentric and cross-sectional study that could not establish a causal association. Nevertheless, future studies in rural areas and in other regions of the country could allow us to better identify the risk factors associated with ED in type 2 diabetic patients.
+
+CONCLUSION
+
+ED has a significant prevalence in T2DM. This high prevalence highlights the importance of this condition in the context of the study performed and the need to undertake further research on this pathology. Several associated factors identified in uni and multivariate analyses, including duration of diabetes, micro, and macro angiopathic complications, and hyperuricemia, increase ED risk. Therefore, it is essential to investigate the existence of these factors to improve the management of ED, which may allow the patient to regain a better overall health status.
+
+Statement of Authorship
+
+Dr NDANG NGOU MILAMA Steevy: conception, methodology, writing draft; Dr MOUGOUGOU Adrien: visualization, writing- review and editing; Dr OLAGUI Smith Giscard: writing- review and editing; Dr Mbethe Dimitri: writing-review and editing; Dr Nsame Daniela: writing -review and editing; Dr Boundama Herman Gael: investigation; Dr Ngoungou Brice Edgard: supervision.
+
+References
+
+Definitions of sexual dysfunctions in women and men: a consensus statement from the Fourth international consultation on sexual medicine 2015
+
+Therapeutic focus: erectile dysfunction in diabetics
+
+Erectile dysfunction is a strong predictor of poor quality of life in men with type 2 diabetes mellitus
+
+High prevalence of erectile dysfunction in diabetes: a systematic review and meta-analysis of 145 studies
+
+Prevalence of erectile dysfunction among Egyptian male patients with type 2 diabetes mellitus
+
+Prevalence of, and risk factors for erectile dysfunction in male type 2 diabetic outpatient attendees in Enugu, South East Nigeria
+
+Erectile dysfunction in type 2 diabetics
+
+Association between comorbidity and erectile dysfunction in patients with diabetes
+
+Glyco- sylated hemoglobin levels and the severity of erectile function in diabetic men
+
+Prevalence of and risk factors for erectile dysfunction in Hong Kong diabetic patients
+
+Association of erectile dysfunction and type II diabetes mellitus at a tertiary care centre of south India
+
+Erectile dysfunction and associated factors among diabetic patients at, Hawassa, Southern, Ethiopia
+
+Determinants of erectile dysfunction in type 2 diabetes
+
+Hypercholesterolemia impairs endothelium-dependent relaxation of rabbit corpus cavernosum smooth muscle
+
+Enhanced contractility of rabbit corpus cavernosum smooth muscle by oxidized low density lipoproteins
+
+An increased arginase activity is associated with corpus cavernosum impairment induced by hypercholesterolemia
+
+Involvement of superoxide radical in the impaired endothelium dependent relaxation of cavernous smooth muscle in hypercholesterolemic rabbits
+
+Elevation of asymmetrical dimethylarginine (ADMA) and coronary artery disease in men with erectile dysfunction
+
+Mechanisms of ischemia-induced cavernosal smooth muscle relaxation impairment in a rabbit model of vasculogenic erectile dysfunction
+
+Prevalence of erectile dysfunction in Korean men with type 2 diabetes mellitus
+
+Association of glycemic control with risk of erectile dysfunction in men with type 2 diabetes
+
+Prevalence of sexual dysfunction and related factors among diabetes mellitus patients in Southwest Ethiopia
+
+Association of type and duration of diabetes with erectile dysfunction in a large cohort of men
+
+Erectile dysfunction in type 1 and type 2 diabetics in Italy
+
+Prevalence of erectile dysfunction among Chinese men with type 2 diabetes mellitus
+
+Advanced glycation end-products: a review
+
+Relationship between diabetic retinopathy, diabetic macular oedema and erectile dysfunction in type 2 diabetics
+
+Hypertension is associated with severe erectile dysfunction
+
+Erectile dysfunction in diabetic subjects in Italy
+
+The prevalence and predictors of erectile dysfunction in men with newly diagnosed with type 2 diabetes mellitus
+
+Erectile dysfunction in hyperuricemia: a prevalence meta-analysis and meta-regression study
+
+Conflict of Interest: The authors report no conflicts of interest.
+
+Funding: None.
+

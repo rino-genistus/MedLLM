@@ -1,0 +1,230 @@
+TITLE: Awareness regarding foot self-care practices among diabetic patients in Northeast part of India. Can primary care physician make a difference? A hospital based cross-sectional study
+
+ABSTRACT
+
+Background:
+
+About 10% of patients with type 2 diabetes mellitus at the time of diagnosis have more than one risk factor for developing foot ulceration, and it increases to 15% in a lifetime. The risk of development of Diabetic foot ulcers/gangrene can be prevented by the patient’s self-foot care practice at home. The present study aimed to determine the prevalence of awareness of self-foot care practice among diabetic patients in a rural setting. The study also aimed to identify the factors preventing dry or wet diabetic gangrene development and subsequent amputation.
+
+Methods:
+
+A hospital-based cross-sectional study was carried out among 1687 people with diabetes mellitus (DM) who attended orthopedic and diabetic OPD in a tertiary care hospital in Kamrup, Assam, India. An appropriate self-explanatory questionnaire about knowledge of self-foot care practice was given to all study participants. Foot examination was performed by authors participated in the study on all patients. The observations and results were categorized according to the International Diabetes Federation foot risk categories.
+
+Results:
+
+Of 1687 patients included in this study, 298 (17.7%) had foot ulcers of various grades, 164 (9.76%) had peripheral vascular disease, and 484 (28.7%), had peripheral neuropathy of different grades. After multivariate analysis, patients on insulin and combination therapy and peripheral neuropathy were significantly associated with the presence of foot ulcers. The mean knowledge score was as low as 9.7 ± 4.8 out of a total score of 23. Low awareness and knowledge were associated with low mean scores due to a lack of formal education (8.3 ± 6.1). Among the 1687 patients, only 381 (22.5%) are aware and have some knowledge about self-foot care, and 686 (40.6%) had their feet examined by a doctor only once since their initial diagnosis. The incidence of development of diabetic-related complications was significantly low in those who know about foot self-care as well as those whose feet had been inspected by a physician at least once.
+
+Conclusion:
+
+The incidence of development of diabetic-related complications was significantly low in those who know about foot self-care as well as those whose feet had been examined by a physician of family doctors at least once. There is a need to educate all patients of diabetes about self-foot care. It is prudent to establish an integrated foot care services within primary care centers and in the diabetic clinic to identify feet at risk, institute early preventive measures, and provide continuous foot care education through images videos on WhatsApp to patients and primary health care givers.
+
+Introduction
+
+Diabetes mellitus is a major public health problem with rising prevalence globally, and it is estimated that it will increase to 642 million by 2040. Diabetes mellitus is one of the leading cause of death according to World Health Organization, and it attributed to 5 million deaths globally in 2015. International Diabetes Federation has recently estimated that 69.2 million people are affected by diabetes in India.
+
+About 10% of patients of type 2 diabetes mellitus at the time of diagnosis have one or more risk factors for foot disease, like peripheral vascular disease and peripheral neuropathy. As numbers of cases are increasing rapidly the diabetes related foot disease and complication are expected to increase. Andrew et al.; have estimated that about 3%-10% of people worldwide with diabetes have a foot ulcer, with the lifetime risk for developing foot ulcers 15%. Barshes et al.; in their study, noted that a large majority of diabetics patients do not know or receive any guideline-recommended for self-foot care. A similar study by Basu et al.; in UK noted that 33% of diabetics did not receive information about foot self-care. Wikblad et al.; noted that about 87% of people with diabetes never reported and never inspected their feet, and 66% diabetics were not interested in diabetes self-foot care.
+
+Diabetic foot is one of the most devastating and disabling complication in diabetics and is defined as a group of syndromes in which ischemia, neuropathy, and superadded infection lead to tissue breakdown and possible amputation. About 15% of diabetic patients will develop foot ulcers in their lifetime and, if not appropriately treated, leads to chronic ulcer, chronic osteomyelitis, and finally amputation in 85% of the cases. According to The International Working Group on the Diabetic Foot, in every 20 seconds, somewhere in the world diabetics loses their leg due to its complication and after such amputations, over half of these people will die within 5 years. Jain et al.; in their study, estimated that approximately 45,000 legs or foot amputation are being done every year in India which can be avoided by diabetic foot self-care practice.
+
+Most foot or leg amputations can be prevented or at least delayed just by foot self-care at home. Long term diabetes lead to microangiopathy, neuropathy which decreases the foot sensation and even with minor trauma foot ulcer develops without any pain and go unnoticed by patients. It further gets worsened by poor foot hygiene, inappropriate footwear, and delay in seeking medical attention. Self-care of foot can be taught, and these external modifiable risk factors can be minimized to prevent ulcers. More recently, diabetic foot care has been talked about and gaining international consensus. In the present literature there are inconsistent results and no concrete evidence that self-foot care alone can prevent foot ulcer and subsequent amputation and it is because of lack of randomized trials. However, this lack of evidence is not evidence of any effect. American Diabetes Association has formulated current guidelines for standardized care of foot in diabetic patients that recommend yearly screening for high risk feet. Foot care education is to be given to those who are at high risk.
+
+In India, the number of diabetics is constantly increasing, and its related complications are also expected. This results in increased morbidity, mortality, and economic burden on patients, as medical insurance in India is very low.
+
+Prevention of diabetic foot ulceration is very important and crucial to minimize foot related morbidity and mortality and the danger of amputation. A large number of associated modifiable external factors work together to cause diabetic foot ulceration, and these factors can be modified. These include incorrect footwear, toes nails deformity, external trauma, and mechanical stress. Internal factors like peripheral vascular disease and peripheral neuropathy also play a major role in developing diabetic foot ulceration.
+
+Periodically and regular self-foot examination by the patient or by a physician is required to minimize diabetic foot ulceration, infection; however, it involves a multi-disciplinary team approach that can reduce the chance of development of ulcers by 50% and amputations by 85%.
+
+The present study was conducted to determine the prevalence of awareness of self-foot care in diabetics who attended the orthopedics and diabetics OPD in our hospital.
+
+Material and Methods
+
+Approval of institutional ethics committee was taken prior to conducting the study. All included patients were confirmed cases of Type II diabetes mellitus. The study was conducted between Mar 2018 and Dec 2019.
+
+Including criteria:
+
+Age more than 19 years
+
+Confirmed case of Type I & type II diabetes mellitus
+
+Diabetes mellitus with or without peripheral neuropathy
+
+Diabetes mellitus with or without peripheral vascular disease.
+
+Excluding criteria:
+
+Patients with gestational diabetes mellitus
+
+Cerebral stroke
+
+Leg or foot amputation
+
+Non diabetic Peripheral vascular disease or neuropathy
+
+Hansen’s disease
+
+Foot deformities like CTEV, Pes planus, Cavus foot, etc., were excluded
+
+Previous h/o healed diabetic ulcer or present ulcer.
+
+All included patients were given a self-explanatory questionnaire to enquire about awareness regarding self-foot care, responses obtained were assessed through self-explanatory questionnaire, as suggested by K. Kaliyaperuma in his book. In our study, foot self-care practices were observed from the Summary of Diabetes Self-Care Activities (SDSCA) measure. Diabetes Self-Management Questionnaire (DSMQ) was also used to assess awareness designed by and evaluated by Schmitt et al.; All included patient’s feet were examined by authors for presence of peripheral vascular disease, neuropathy, foot ulcer, toe nail deformity, or any other pathology that put foot at risk.
+
+Peripheral neuropathy was assessed using the Modified Neuropathy Disability Score (NDS). The severity of Peripheral neuropathy was graded after adding of assessment scores and classified as (a) absence of neuropathy (score 0), (b) mild neuropathy (score 1–3), (c) moderate neuropathy (score 4–7) and (d) severe neuropathy (score >7). Peripheral vascular disease was defined as ABPI of <0.9; arterial atherosclerosis was defined as ABPI of >1.3.
+
+Ankle-brachial pressure index was measured by a hand-operated Doppler machine with ankle brachial pressure index of 0.9 was kept as a cutoff point. International Diabetes Federation Guideline Development Group (IDF) guideline was used to assess risk factors, and was classified as (a) foot at “no added risk”, (b) foot “at risk” (foot has one risk factor without previous history of foot ulceration or amputation) and (c) foot at “high risk” (foot has more than one risk factor with or without history of ulcer or amputation).
+
+Statistical analysis
+
+In this study, data was analyzed using SPSS statistical package version 19 (IBM, Chicago USA). To determine odds ratios Univariate and multivariate logistic regressions were used. Comparison between two groups was done using Pearson correlation (Chi-square) and Fisher’s exact test for categorical variables. For continuous variables, a student’s t-test was used to assess the difference between groups. A P value was set at less than 0.05 to consider as significant.
+
+Results
+
+A total of 1687 patients were included in this study, of which 1074 (63.7%) were females and 613 (36.6%) were males. Demographic characteristics of the study population are shown in Table 1. In the present study, the Point prevalence of diabetic foot ulcers was 15.3% (95% CI: 2.17–5.92). Education level has a significant difference between patients with diabetic foot ulcers than those without ulcers. (p = 0.041).
+
+Demographic characteristics of diabetic patients with and without the presence of diabetic foot ulcers
+
+Characteristics	Total population n=1687	No Foot ulceration present n=1266	Foot ulceration present n=421	P, χ2/Fisher’s test	 	Age (mean±S.D)	51.6±15.2	49.1±11.9	52.1±8.7	0.062	 	Male	613 (36.6%)	702	193		 	Female	1074 (63.7%)	564	229	0.614	 	Education level					 	 No formal education	301	113	188	0.078	 	 Primary education	671	478	193	0.051	 	 Secondary education	538	513	25	0.056	 	 Graduate	177	162	15	0.041	 	Alcohol Intake					 	 h/o drinking	613	402	211	0.0351	 	 non drinker	1074	864	210		 	Smoking					 	 Smoker	409	335	74	0.0518	 	 Non smoker	1278	931	347		 	Financial status					 	 Govt Job	312	287	25	0.0763	 	 Self employed	762	402	360		 	 Farming	528	498	30		 	 Professional	85	79	06
+
+However, socioeconomic status did not significantly differ between patients with diabetic foot ulcers than those without ulcers. (p = 0.0763).
+
+The magnitude of risk factors to develop diabetic foot ulcers in univariate and multivariate analysis has been shown in Table 2. In univariate logistic regression analysis, age >45 years, patients on insulin therapy, and those who had neuropathy has increased chances to develop a diabetic foot ulcer. Those who were graduate have shown lesser chances to develop diabetic foot ulcer because of awareness. Smoking and alcoholism were not much associated with the development of foot ulcer. However, in multivariate analysis, insulin therapy, combination therapy, and neuropathy were significant predictors of foot ulcers. Patients with moderate and severe neuropathy have eight and twenty six-time respectively more chances to develop a diabetic foot ulcer.
+
+Univariate and multivariate analysis of risk factor of diabetic foot ulcers in diabetic patients
+
+Characteristics	Univariate O.R (95% CI)	P	Univariate O.R (95% CI)	P	 	Age					 	 <45	1.00	0.0231		0.0451	 	 >45	1.89 (1.11-3.28)				 	Sex					 	 Male	0.92 (0.53-1.67)	0.713			 	 Female	1.00				 	Education level				0.0432	 	 No formal education	1.00	0.168			 	 Primary education	0.53 (0.24-1.26)	0.351			 	 Secondary education	0.67 (0.28-1.77)	0.623			 	 Graduate	3.76 (1.17-3.12)	0.0481			 	Alcohol Intake					 	 H/O drinking	2.34 (1.09-4.60)	0.0445		0.681	 	 Non drinker	1.00				 	Smoking					 	 Smoker	1.74 (0.46-6.57)	0.671			 	 Non smoker	1.00	0.357			 	Financial status				0.0518	 	 Govt Job	1.00	0.128			 	 Self employed	0.41 (0.14-1.86)	0.371			 	 Farming	0.69 (0.38-1.37)	0.673			 	 Professional	2.76 (2.17-5.6)	0.042			 	Treatment					 	 OHA	1.00	0.016	2.31 (1.25-4.76)	0.015	 	 Insulin	2.12 (1.14-3.68)		2.73 (1.15-2.71)		 	 Combination	3.21 (1.03-3.72)				 	Peripheral neuropathy					 	 Absent	1.00	0.387	1.00	0.420	 	 Mild	2.17 (0.82-11.32)	<0.001	1.98 (0.6-9.8)	<0.001	 	 Moderate	9.34 (4.12-21.51)	<0.001	8.21 (3.4-19.3)	<0.001	 	 Severe	26.61 (11.41-62.31)		26.41 (9.7-21.3)		 	Peripheral vascular disease					 	 Present	3.18 (0.57-2.4)	0.034			 	 Absent	1.00				 	Duration of diabetes	1.00				 	 <5 years	1.49 (0.8-2.7)	0.212		0.552	 	 5-10 years	1.86 (0.9-3.5)	0.063		0.781	 	 10-15 years	1.98 (0.9-4.1)	0.0563			 	 15-20 years	2.13 (1.32-4.01)	0.0436		0.0451	 	 >20 years	3.32 (1.98-4.47)	0.0412		0.0443	 	Previous Diabetic foot ulcer					 	 Present	3.23 (1.85-5.6)	<0.001		0.175	 	 Absent	1.00				 	Foot deformity					 	 Present	2.04 (0.9-4.2)	0.052		0.786	 	 Absent	1.00				 	Toes nail deformity					 	 Present	3.15 (1.72-5.32)	0.046		0.862	 	 Absent	1.00				 	Incorrect Foot wear					 	 Present	2.72 (1.62-4.12)	0.0412		0.813	 	 Absent	1.00
+
+Awareness about dietetic self-foot care
+
+Awareness and knowledge about self-foot care and its risk factors among the study population are shown in Table 3. The maximum total score for all knowledge questions was 23, which means the higher the score better the knowledge. Patients’ responses vary from 0–23, with a mean score of 9.41 ± 8.92 S.D (95% CI: 10.67–12.59). The mean score was similar among patients with diabetic foot ulcer and those without ulcer. Higher level of financial status, education, people doing or retired from a government job and longer duration of type II diabetes have awareness and some knowledge about self-foot care and have higher mean scores.
+
+Mean scores of awareness and knowledge on diabetes self-foot care among diabetic patients
+
+Characteristics	Total patients n=1687	Mean (SD)	P	 	Age			0.343	 	 <45	489	12.6 (5.9)		 	 >45	1198	11.7 (6.7)		 	Sex				 	 Male	613	12.7 (6.0)	0.465	 	 Female	1074	11.9 (6.8)		 	Awareness regarding self foot care				 	 Present	381	16.12 (8.2)	0.0351	 	 Absent	1306			 	Education level				 	 No formal education	301	8.3 (6.1)		 	 Primary education	671	10.7 (7.9)	0.0012	 	 Secondary education	538	13.4 (7.3)		 	 Graduate	177	14.62 (8.9)		 	Alcohol Intake				 	 H/O drinking	613	11.8 (7.3)	0.0025	 	 Non drinker	1074	16.3 (9.4)		 	Smoking				 	 Smoker	409	10.6 (5.9)	0.0046	 	 Non smoker	1278	15.5 (8.3)		 	Financial status				 	 Govt Job	312	18.3 (8.6)	0.0034	 	 Self employed	762	15.1 (7.4)		 	 Farming	528	11.7 (6.9)		 	 Professional	85	19.3 (10.2)		 	Treatment				 	 OHA	983	23.4 (16.4)	0.682	 	 Insulin	202	18.7 (8.9)		 	 Combination	502	19.3 (10.2)		 	Peripheral neuropathy				 	 Absent	766	12.3 (5.7)	0.0035	 	 Mild	469	15.1 (7.4)		 	 Moderate	318	19.7 (8.1)		 	 severe	134	21.6 (10.2)		 	Peripheral vascular disease				 	 Present	184	15.2 (4.8)	0.0023	 	 Absent	1503	17.4 (9.4		 	Duration of diabetes				 	 <5 years	112	10.4 (6.5)	0.782	 	 5-10 years	241	13.2 (5.8)		 	 10-15 years	567	14.1 (8.3)		 	 15-20 years	767	15.6 (9.3		 	 >20 years				 	Received advise on self foot care				 	 Yes	905	14.4 (6.7)	0.0024	 	 No	782	9.4 (7.3)		 	Source of information	871	18.4 (7.8)		 	 By treating Physician	525	17.8 (7.9)	0.518	 	 By family Physician	177	12.2 (5.4)		 	 Magazines/media	114	9.7 (7.1)		 	 Other media				 	Previous Diabetic foot ulcer				 	 Present	793	11.8 (6.7)	0.512	 	 Absent	894	12.2 (6.3)		 	Present Diabetic foot ulcer				 	 Present	108	11.3 (5.9)	0.763	 	 Absent	1579	11.7 (6.3)
+
+In the present study, 905 patients (53.6%) had received information about self-foot care. However, the duration of diabetes had no effect on foot ulcer irrespective of information about self-foot care (p = 0.782). The majority of patients received awareness and knowledge from their treating physician (51.6%) and family physician (31.1%).
+
+Self-Foot care practices observed by patients at the time of study has been summarizes in Table 4. Foot self-inspection was done daily only by 51.6% of patients.
+
+Self Foot care practices observed by patients at the time of the study
+
+Practice	Total number of patients n=1687	Foot at no added risk n=825	Foot at risk n=452	Foot High risk n=286	Diabetic foot ulcer n=124	P	 	Foot care practices performed daily	872 (51.6%)	762	655	587	434	0.671	 	Washing feet	643	571	468	328	301	0.743	 	Awareness about correct footwear	430	398	298	201	178	0.634	 	Inspecting feet	736	702	689	742	678	0.125	 	Care of toes web spaces	532	477	321	223	201	0.431	 	Not soaking feet	408	356	288	109	99	0.231	 	Walking barefoot							 	 In side house	903	807	790	673	601	0.286	 	 Outside house	32	20	18	14	11	0.543	 	 Use of nail cutter to cut nails	907	897	803	776	642	0.342
+
+Patients who had their foot examination once by a physician care for their foot more than those who had not been examined by a physician. However, only 686 patients (40.6%) have their feet inspected by a physician at any event once since their initial diagnosis [Table 5].
+
+Foot care practices with or without the supervision of a physician
+
+Foot care practices done daily and risk factors	Foot examined by physician n=686	Foot never examined by physician n=1001	P	 	Inspecting feet	561	1251	0.0462	 	Washing feet	238	893	0.0241	 	Inspecting footwear	134	189	0.0272	 	Not soaking	231	902	0.0462	 	Drying toes web spaces	347	665	0.0542	 	Never walking barefoot	903	781	0.0431	 	Use of nail cutter to cut nails	907	793	0.0231
+
+Discussion
+
+It is estimated that diabetics have 15% higher lifetime risk of developing diabetic foot ulcer however, and many studies noted lifetime incidence as high as 25 % to 32.9%. However, it was noted as low as 4.1% by Saad et al. In the present study, the awareness regarding diabetic foot ulcer was 22.5%.
+
+Reiber et al. have described that peripheral neuropathy is the most common clinical symptom in the development of diabetic foot ulceration. The prevalence of diabetic peripheral neuropathy in India ranges from 10.5% to 32.2%, and it is up to 50% in a developed country. In the present study, the prevalence of peripheral neuropathy was 28.7%, while the prevalence among patients with foot ulcers was 91.7%. Many published data have shown that patients with moderate diabetic peripheral neuropathy were eight times more likely to develop foot ulcers. Those with severe neuropathy were 24 times more likely to develop foot ulcers than those with no neuropathy.
+
+Development of peripheral neuropathy and foot ulcer later on was mainly due to ignorance of patients about self-foot care and such observation signify the importance of education on self-care foot which was insensate. In order to prevent minor trauma, infection, and ulcer, self-foot care is mandatory. Education and awareness regarding strict glycemic control and foot care should be implemented at every diabetic clinic. In the elderly and patients with long-standing diabetes, foot care should be emphasized on each OPD visit and their feet should be examined by a treating physician once.
+
+On the contrary to peripheral neuropathy, peripheral vascular disease was present in 164 (9.76%) of patients and was associated with diabetic foot ulcers too. However, Boyko et al. from Seattle, and Al-Mahroos et al. from Bahrain, reported that peripheral vascular disease is an independent risk factor for developing a foot ulcer.
+
+Awareness about self-foot care
+
+Awareness about self-foot care in diabetics in preventing foot ulcers is a widely accepted fact, and published data support this. In the present study, more than 50% of diabetic patients who have no foot ulcer reported that they had never received any information regarding foot care. However, those has foot ulcer reported that they have some awareness regarding self-foot care but they could not do it due to busy schedule. The health care giver is partly responsible not to emphasize on self-foot care because of heavy rush in outpatient department. However, even those who received information it was partial or not fully understood by patients.
+
+To educate each patient individually in a thick rush of outpatient department is nearly impossible in many tertiary care hospitals in India. To call each patient on the next day in outpatient department is not feasible and it incurs an additional cost. Education on self-foot care can be given at the primary health care center level or by a family physician to avoid the unnecessary rush in tertiary care hospital.
+
+As many patients were not much educated, and their awareness score was influenced by level of their education. It was seen that patients with a longer duration of diabetes have some awareness compared to patients with a shorter duration of diabetes because they received knowledge from either family physician or hospital.
+
+Many published studies have noted that low awareness and knowledge scores were attributed to low level of education. More recently Fatima et al., noted only 7% of the study population (among 358 patients) had good foot care knowledge and practices, 55.3% had average and 37.7% had poor foot care knowledge and practices. Foot ulceration in educated diabetic patients was less because they are likely to read and obtain information regarding foot care from different sources.
+
+Methods for safe diabetic Foot self-care
+
+Present study shows many patients were not aware of foot self-care practice and a large number were not taught by primary or family physician. A large number of patients did not inspect their feet regularly or even once a week. They don’t know that they were using the wrong footwear that can cause foot abrasion and ulceration in their insensate foot. Few patients showed their risky behaviors, like cutting toenails with blades or scissors and not using proper nail cutter, and it comprises as high as about 75% of the study population. They usually ignore the minor cut or abrasion, use homemade medication, and do not take proper physician consultation that leads to infection and ulceration. Foot self-care are practices are somewhat similar in all patients, but those who were aware are doing in a scientific and methodical way. Those patients whose feet have been inspected once by physicians are able to take care for their foot as they taught.
+
+Role of primary care physician
+
+There is a need of education in community regarding self-foot care among diabetics and that can be done at all primary health care hospital in all district level. Patients can be made aware for self-foot care by video, photographs and by organizing small audio-visual sessions. This may reduce the unnecessary work load on tertiary care hospital and improve overall patient care.
+
+Conclusions
+
+The prevalence of diabetic foot ulcers is high among patients attending diabetic opd in our hospital. Many risk factors like Peripheral neuropathy and microangiopathy is the major risk factor for foot ulcer. Peripheral neuropathy leads to sensation loss, and the patient may be unaware of any minor injury. Awareness and knowledge about self-foot care are low among patients with diabetes. Education and proper training by health care providers can improve awareness and understanding.
+
+By this study, we conclude that there is a requirement to educate and raise awareness among diabetic patients by health care givers regarding the importance of self-foot care practices and identifying risk factors for foot ulcers. Every diabetic clinic in tertiary care hospitals should incorporate a self-foot care program in outpatient department services. There is a need for continuous education on foot care to improve patients’ awareness and knowledge of risks and foot self-care practices.
+
+Key points and take-home message: It is now most important to introduce self-foot care education programs among diabetics at domiciliary, primary as well as tertiary care level. Primary health care giver needs to do regular and periodic reinforcement regarding self-foot care to reduce the incidence of diabetic foot ulceration, gangrene and eventually amputations.
+
+Financial support and sponsorship
+
+Nil.
+
+Conflicts of interest
+
+There are no conflicts of interest.
+
+References
+
+The global burden of diabetes foot disease
+
+The system of care for the diabetic foot:Objectives, outcomes, and opportunities
+
+Is there enough information about foot care among patients with diabetes?
+
+Outcome of clinical foot examination in relation to self-perceived health and glycaemic control in a group of urban Tanzanian diabetic patients
+
+Studying major amputations in a developing country using Amit Jain's typing and scoring system for diabetic foot complications - time for standardization of diabetic foot practice
+
+BE SMART:Strategies for foot care and prevention of foot complications in patients with diabetes
+
+Challenges for management of the diabetic foot in Africa:Doing more with less
+
+Atlas of the Diabetic Foot
+
+Foot care knowledge and practices and the prevalence of peripheral neuropathy among people with diabetes attending a secondary care rural hospital in southern India
+
+Comprehensive foot examination and risk assessment:A report of the task force of the foot care interest group of the American Diabetes Association, with endorsement by the American Association of Clinical Endocrinologists
+
+The influence of external precipitating factors and peripheral neuropathy on the development and outcome of diabetic foot ulcers
+
+Treatment of diabetic foot ulcers
+
+Incorrectly fitted footwear, foot pain and foot disorders:A systematic search and narrative review of the literature
+
+Management of diabetic foot ulcers
+
+Guideline for conducting a knowledge, attitude, and practice (KAP) study
+
+The summary of diabetes self-care activities measure:Results from 7 studies and a revised scale
+
+The Diabetes Self-Management Questionnaire (DSMQ):Development and evaluation of an instrument to assess diabetes self-care activities associated with glycaemic control
+
+A comparison of the monofilament with other testing modalities for foot ulcer susceptibility
+
+Measurement and interpretation of the ankle-brachial index:A scientific statement from the American Heart Association
+
+Foot wear and foot care knowledge—an independent risk factor for diabetic foot in Indian diabetics
+
+The prevalence and risk categorization of diabetic foot complications in cohort group in, Beni Suif, Egypt
+
+Causal pathways for incident lowe-extremity ulcers in patients with Diabetes from two settings
+
+Prevalence and risk factors for diabetic neuropathy in an urban South Indian population:The Chennai Urban Rural Epidemiology Study (CURES-55)
+
+Prevalence and risk factors for severity of diabetic neuropathy in type 2 diabetes mellitus
+
+Prevalence and risk factors of development of peripheral diabetic neuropathy in type 2 diabetes mellitus in a tertiary care setting
+
+Epidemiological correlates of diabetic neuropathy. Report from Pittsburgh Epidemiology of Diabetes Complications Study
+
+Prospective study of risk factors for diabetic foot ulcer
+
+Diabetic neuropathy, foot ulceration, peripheral vascular disease and potential risk factors among patients with diabetes in Bahrain:A nationwide primary care diabetes clinic-based study
+
+Knowledge and practice of foot care in Iranian people with type 2 diabetes
+
+Diabetic foot care:Self reported knowledge and practice among patients attending three tertiary hospital in Nigeria
+
+Knowledge and practice of diabetic foot care in an in- patient setting at a Tertiary Medical Center
+
+Knowledge and practice about the foot care and the prevalence of the neuropathy among a sample of type 2 diabetic patients in Erbil, Iraq
+
+Knowledge and practice of foot self-care among patients with diabetes attending primary healthcare centres in Kuwait:A cross-sectional study
+
+Foot practices in patients with type 2 diabetes:Where do we stand?
+

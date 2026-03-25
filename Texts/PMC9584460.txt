@@ -1,0 +1,350 @@
+TITLE: The barriers and facilitators of foot care practices in diabetic patients in Indonesia: A qualitative study
+
+Abstract
+
+Aim
+
+To investigate the barriers and facilitators of foot care practice in diabetic patients in Indonesia.
+
+Design
+
+A qualitative content analysis with an inductive approach.
+
+Method
+
+Semi‐structured interviews were conducted on 34 type 2 diabetes mellitus (T2DM) patients, health providers and family members in Purwokerto, Indonesia, between July 2020 and December 2020. The interview transcripts were coded using NVivo 12.
+
+Results
+
+Four themes emerged from data analysis, including personal barriers (low susceptibility of developing foot ulcer, limited knowledge about foot care, fatalistic practices, financial problems, glucose control taking priority over foot care, lack of motivation, lack of confidence, fear of being labelled), environmental barriers (lack of knowledge and time of health providers, lack of family support and climate conditions), perceived foot health benefits (intention to feel better and desire to stay socially active) and religious practices (foot washing as part of religious practice and intention to feel clean before praying).
+
+INTRODUCTION
+
+Diabetes mellitus (DM) is a chronic disease and a major health problem globally. Estimates suggest that in 2019, there were 63 million people in the world living with DM and that number is expected to rise to 578 million by 2030 and 700 million by 2045 (International Diabetes Federation, ). In Indonesia, there are approximately 10.7 million people living with DM in 2019 and that number is predicted to rise to 13.7 million in 2030, and 16.6 million by 2045 (International Diabetes Federation, ). An increasing number of people with DM will lead to increasing numbers of DM‐related complications, such as retinopathy, nephropathy, and foot ulcers (Cade, ). Among all the possible complications of DM, the most feared is the foot ulcer since it can necessitate amputation (Wukich et al., ).
+
+The global prevalence of foot ulcers among DM patients is 6.3% (Zhang et al., ). However, prevalence in Indonesia is higher, reaching 24% in home care settings (Yusuf et al., ). Diabetic foot ulcer is the most common reason for hospitalization among DM patients (Boulton, ). The presence of foot ulcers can significantly reduce quality of life, increase financial burden and may lead to amputation or even mortality (Moulik et al., ; Vileikyte, ). Previous studies have shown the rate of lower extremity amputation in diabetic patients in Indonesia to be in the range of 36.3%–39.5% (Decroli et al., ; Pemayun & Naibaho, ). This is far higher than the rates for the Netherlands and England, for example, which are reported as being 15.5% and 16%, respectively (Peters et al., ; Winkley et al., ).
+
+Patients with DM need to perform daily foot care in order to reduce the risk of developing foot ulcers and foot complications (McInnes et al., ). Such foot care includes foot self‐assessment, controlling water temperature before washing the feet, foot hygiene, choosing appropriate shoes, cutting toenails straight across, moisturizing the feet except between the toes, avoiding soaking feet and wearing socks with shoes (Aalaa et al., ; Bonner et al., ). Considering foot care is essential to prevent ulceration and foot complications, it is important for all DM patients to perform it. However, a recent study revealed that foot care among type 2 diabetes mellitus (T2DM) patients in Indonesia is poor, even among those with histories of foot ulcers (Sari et al., ). To improve foot care behaviours in Indonesia, an educational programme is needed. In order to design such a programme, it is necessary to understand the barriers and facilitators to foot care practices faced by T2DM patients in Indonesia.
+
+Background
+
+As the prevalence of DM increases, DM‐related complications also increase (Harding et al., ). Although foot ulcer is one of the most chronic complications of DM, it is preventable (Armstrong & Lavery, ). One previous study showed that diabetics who underwent a foot care programme faced significantly reduced amputation rates, down from 46 times that of non‐diabetics at the start of the programme to 7.7 times that of non‐diabetics at the end of the five‐year programme (Canavan et al., ). Another study by Monami et al.,  backed up these findings, showing that an educational foot care programme can significantly decrease the occurrence of diabetic foot ulcer. A more recent study found that application of a foot care educational programme can reduce problems such as skin debris, skin dryness, horny tissue and peripheral coldness (Yokota et al., ).
+
+Research shows that foot care behaviours in T2DM patients in Indonesia are poor (Sari et al., ). Diabetic patients in Indonesia might face barriers which hinder them from practising appropriate foot care. Healthcare providers need to understand the perceived barriers and facilitators of foot care practices faced by diabetic patients in Indonesia in order to be able to design and establish programmes to improve foot care practices in the country.
+
+It is therefore necessary to explore the perceptions that may inhibit or motivate diabetic patients in Indonesia when it comes to performing foot care. The health belief model (HBM) is one of the most widely used models for understanding why individuals do not engage in preventive health behaviours (Becker & Maiman, ; Rosenstock, ). Based on previous studies, foot care behaviours in T2DM patients in Indonesia can be categorized as poor, even among those with a history of foot ulcers (Sari et al., ). Since many diabetic patients in Indonesia do not engage in foot care practices, it could be suggested that the HBM is a suitable model to explain the barriers and facilitators to such practices.
+
+The HBM model states that the likelihood of individuals adopting certain behaviours is determined by perceived susceptibility, perceived severity, perceived benefits, perceived barriers, cues to action and self‐efficacy (Janz & Becker, ; Rosenstock, ). Perceived susceptibility refers to a person's perception of the risk of getting a disease or illness. In relation to diabetic patients, this includes how patients perceive their risk of developing health problems such as infections or foot ulcers as a result of not performing foot care. Perceived severity refers to patients' perception of the seriousness of their illness and is related to complications which may range from severe foot ulcers to amputation. In diabetic patients, perceived benefit refers to a patient's perception of the effectiveness of foot care in reducing the disease. Perceived barriers include obstacles to performing recommended health regimes. Cues to action refer to stimuli which can trigger a patient to perform a recommended health action. For diabetic patients, stimuli may include foot pain or advice from healthcare providers or family members. Self‐efficacy refers to a patient's confidence in independently performing recommended health actions (Janz & Becker, ). Considering the HBM model can help explain the underlying perceptions that inhibit or motivate diabetic patients when it comes to performing foot care; therefore, this model can help explain the barriers and facilitators of foot care practices faced by diabetic patients in Indonesia.
+
+It is important to identify the barriers and facilitators of foot care practices in DM patients since by removing the barriers and strengthening the facilitators, foot care practices may be improved (van Houtum, ). To date, the barriers and facilitators of foot care practices in diabetic patients in Indonesia are still unknown as, to our knowledge, no study has explored them. Therefore, the purpose of our study was to explore the barriers and facilitators of foot care practice in DM patients in Indonesia. The results of this study could assist nurses to identify the barriers and facilitators their diabetic patients face and could help them create and prioritize educational programmes for their patients.
+
+METHODS
+
+Research design
+
+A qualitative study was performed with content analysis. We followed the Consolidated Criteria for Reporting Qualitative Research (COREQ) guidelines.
+
+Setting
+
+This study was conducted between July 2020 and December 2020 on T2DM patients registered in wound care clinics and public health centres in Purwokerto, Indonesia.
+
+Study participants
+
+Purposive sampling was conducted in order to select patients with different characteristics including age, gender, education status and duration of disease. The key informants in this study were patients with T2DM and participant sampling continued until data saturation was reached. Thus, 24 patients were included in the study. The inclusion criteria were patients aged over 18 who had been diagnosed as having T2DM by a physician at least one year previously and who were willing to participate in the study. The exclusion criteria were patients with cognitive or mental impairments based on their medical record and patients who could not perform foot care practices by themselves. Participants were accessed from patient registration books in wound care clinics and public healthcare centres. To obtain more comprehensive and in‐depth data, two physicians, three nurses and four family members were also interviewed.
+
+Data collection
+
+All data were collected by the main researchers and trained research assistant, all of whom are experienced in conducting qualitative studies. Data collection was performed through semi‐structured interviews with 34 individuals. Interviews involved one‐to‐one interviews conducted, for the most part, at participants' homes in order for the researchers to gain a deeper insight into participants' lives and to avoid any disturbances. Only two interviews (with two of the nurses) were carried out in public health centres. Patient interviews were held without the attendance of patients' family members or healthcare providers and each interview lasted between 45 min and an hour.
+
+Perceived susceptibility: Participants were asked how likely they believed they were to develop a foot ulcer in the future, how worried they were about developing a foot ulcer and their feelings regarding how a lack of appropriate foot care can result in foot ulcers.
+
+Perceived severity: Participants were asked how worried they were about developing a severe foot ulcer.
+
+Perceived benefits: Participants were asked whether they believed that performing foot care would prevent them from developing an ulcer.
+
+Perceived barriers: Participants were asked about the obstacles they faced to performing foot care.
+
+Cues to action: Participants were asked what would motivate them to perform foot care.
+
+Self‐efficacy: Participants were asked how confident they felt in performing foot care.
+
+Before interviews commenced, patients were asked their permission for the conversations to be recorded via digital recorder. Field notes were taken immediately after each interview. The interview was transcribed immediately after finishing each interview. Only after transcribing one interview did the researchers move on to conduct the next. Before participating in the study, participants were provided with information and were asked to give their informed consent. Researchers explained that participation was completely voluntary, that participants' data would remain confidential and that they had the right to withdraw from participation at any time during the study. A semi‐structured interview guide was created based on the HBM model and reviewed by experts in foot care, wound care and diabetes. Corrections were made in line with their recommendations. The questions were pilot tested on 10 patients before use in the study. The results of the pilot study have not been included in the analysis. The interview contained questions relating to perceived susceptibility, perceived severity, perceived benefits, perceived barriers, cues to action and self‐efficacy as follows:
+
+The interviews were conducted in either Indonesian or the local dialect. In order to access deeper information and to enrich the collected data, probing questions were asked during the interviews (Given, ). Participants were also asked about their socio‐demographic characteristics.
+
+Data analysis
+
+All 34 interviews were personally transcribed by the researchers and research assistant. The transcripts were translated into English by two independent professional English translators and were then imported into NVivo, version 12. The data were analysed by two independent researchers using an inductive approach. Initially, the transcripts were read by the researchers so they might get a sense of the whole and familiarize themselves with the data. The transcripts were read line by line and divided into smaller parts, namely the meaning unit (Graneheim & Lundman, ). The meaning units were later condensed while retaining their core meaning. The condensed meaning units were extracted and coded. All codes were then divided into categories. Finally, the latent content of the categories was formulated into a theme (Graneheim & Lundman, ; Hsieh & Shannon, ).
+
+Scientific trustworthiness of the results
+
+We used 32 items of the COREQ checklist to ensure the rigour of our study. To enhance the scientific trustworthiness of the results, Lincoln and Guba's four criteria were used, namely credibility, transferability, dependability and confirmability (Lincoln & Guba, ). To enhance credibility, an attempt was made to select participants with maximum variation in age, gender, educational level, occupation, income and duration of DM. In addition, data were collected using four methods. These methods were semi‐structured interviews, observation, photographs and field notes. Interview protocol was tested in the pilot study before being used it in the main study. The investigators of this study are accustomed to conducting qualitative research and transferability was provided by offering a comprehensive description of subject, participants, gathering data and analysis in a detailed manner. To enhance the dependability of the research results, we prepared a detailed draft of the study protocol throughout the study and establishing audit trail. To enhance confirmability, we completed several peer debriefing sessions. To examine the authenticity of the coding process, the codes and classifications were also extracted and examined by co‐workers familiar with qualitative research analysis independent of the study.
+
+Ethical approval and consent to participate
+
+Permission to conduct the study was granted by the relevant authorities. Before conducting the study, all participants were informed of the study's objective, methods, confidentiality policy and their right to withdraw at any time. The ethical committee of the faculty of health sciences approved the study, and written informed consent was obtained from each participant.
+
+RESULTS
+
+The 25 participants in this study consisted of 21 females and four males. Most were aged between 51–60 years, had been educated to primary school level, were employed, earned an income defined as middle and had been living with DM for between 10–20 years. Other demographic characteristics are shown in Table 1. The findings from the interviews are summarized in Table 2. Four themes emerged from this study. These themes were personal barriers, environmental barriers, perceived foot health benefits and religious practice.
+
+Participant characteristics
+
+Variables	Diabetic patients	Health providers	Family members	 	N (%)	N (%)	N (%)	 	Gender	 	Female	21 (84)	4 (80)	3 (75)	 	Male	4 (16)	1 (20)	1 (25)	 	Age	 	41–50 years	6 (24)	4 (80)	2 (50)	 	51–60 years	10 (40)	1 (20)	1 (25)	 	61–70 years	8 (32)	0	1 (25)	 	≥71 years	1 (4)	0	0	 	Educational level	 	Illiterate	3 (12)			 	Primary school	14 (56)	0	0	 	Junior high school	2 (8)	0	2 (50)	 	Senior high school	2 (8)	0	1 (25)	 	College	4 (16)	5 (100)	1 (25)	 	Occupation status	 	Housewife/unemployed	10 (40)			 	Employed	11 (44)		3 (75)	 	Pension	4 (16)	5 (100)	1 (25)	 	Income	 	Low income (<141 USD)	10 (40)			 	Middle income (141–353 USD)	10 (40)			 	High income (>353 USD)	5 (20)	5 (100)		 	Duration of T2DM	 	1–5 years	2 (8)			 	5–10 years	10 (4)			 	10–20 years	11 (44)			 	>20	2 (8)
+
+Themes and subthemes
+
+Themes	Subthemes	 	Personal barriers	Low susceptibility of developing foot ulcer	 	Limited knowledge about foot care	 	Fatalistic practices	 	Financial problems	 	Glucose control taking priority over foot care	 	Lack of motivation	 	Lack of confidence	 	Fear of being labelled	 	Environmental barriers	Lack of knowledge and time of health providers	 	Lack of family support	 	Climate conditions	 	Perceived foot health benefits	Intention to feel better	 	Desire to stay socially active	 	Religious practice	Foot washing as part of religious practice	 	Intention to feel clean before praying
+
+Personal barriers
+
+This theme is comprised of eight subthemes, including low susceptibility of developing foot ulcer, limited knowledge about foot care, fatalistic practices, financial problems, glucose control taking priority over foot care, lack of motivation, lack of confidence and fear of being labelled.
+
+Low susceptibility of developing foot ulcer
+
+I don't worry about getting a foot ulcer because I have never had one even though I've had DM for more than 3 years. (Participant 14)
+
+I had a foot ulcer a year ago when my foot was pierced by nails when I walked in front of my house. At time I was not using sandals. Therefore, when I go out now, I always use sandals. As long as I use sandals, I will not develop a foot ulcer again. (Participant 5)
+
+Most participants with no history of foot ulcers believed themselves not to be at risk of developing one. Furthermore, most participants who had previously had foot ulcers perceived that they were not at risk of developing one again as long as they wore sandals and protected their feet from external trauma:
+
+Limited knowledge about foot care
+
+I was frequently shown how to control my blood glucose, but I have never been shown how to perform foot care. I am not sure why we have to do it. (Participant 8)
+
+No participant, even those with a history of foot ulcers, understood how to conduct foot care. All participants said they had never been told how to perform it. Nurses confirmed that there is no foot care education programme for diabetic patients. During interviews, researchers examined participants' feet. Their assessments show that 24 of the 25 participants' feet were dry, had thick calluses, cracked heels and fissures, candida and toenail fungus:
+
+Fatalistic practices
+
+My feet are frequently stiff, so every morning I walk barefoot in front of my house where there are many small pebbles. After doing it, my feet feel better. I don't remember who first told me about it, but it is common here to step on pebbles without sandals to make your feet healthy. (Participant 11)
+
+Participants reported their belief that that stepping on small stones with bare feet can improve the condition of the feet and prevent foot ulcers. Many participants also used acupressure sandals. Acupressure sandals have several protrusions which may cause high‐pressure to the soles of the feet, increasing the possibility of getting calluses or foot ulcers. Furthermore, in Indonesia, these sandals tend to be made from wood, which, being harder than other materials such as leather, may put even more pressure on the feet:
+
+Financial problems
+
+I feel my skin is very dry. I do plan to use moisturizer, but sometimes I don't have enough money since I am only a housewife. So sometimes I don't use moisturizer on my feet. (Participant 2)
+
+Half of participants said that their feet felt very dry and they would like to use some moisturizer. However, since they had low incomes, it was not a priority for them:
+
+Glucose control taking priority over foot care
+
+I think as diabetic patients the most important thing is to keep our glucose levels down, so I check my glucose once a month in the clinic. It's also important not to forget to take medication. Sometimes I also exercise. For me, foot care is not so important. (Participant 7)
+
+We realize that until now we have only educated patients about how to manage their diets. We remind them to be careful with their diets but do not focus on foot care. We just tell them to go the clinic immediately if they develop a foot ulcer. (Nurse 3)
+
+Participants perceived that foot care is not as important as glycaemic control. All patients said they always tried to control their glucose levels but almost never thought about performing foot care. Patients listed foot care practices as being the least important DM self‐care behaviour. Physicians and nurses also confirmed that they tend to prioritize glucose control over any other diabetes management practices:
+
+Lack of motivation
+
+I am not so motivated to take care of my feet since no one motivates me to do so. (Participant 13)
+
+It seems to me they are not so motivated to do foot care practices. I think it is due not knowing how it should be done. (Nurse 3)
+
+Most participants, including those with a history of foot ulcers, described feeling a lack of motivation regarding foot care since no one had ever motivated them to do it. Some participants admitted a lack of knowledge related to foot care. Nurses confirmed that patients are not very motivated when it comes to performing foot care might due to lack of knowledge about its importance and how to perform it:
+
+Lack of confidence
+
+Hmm, my feet feel very itchy and stiff but I am not sure how to take care of them so I don't do foot care. I fear I might make a mistake, and that will have negative consequences for my feet. (Participant 4)
+
+All participants admitted having no confidence regarding foot care and feared making a mistake when performing foot care:
+
+Fear of being labelled
+
+I have heard that when going out I should use shoes to protect my feet, but when I wear them, many people laugh and ask me why a housewife uses shoes to go outside since I do not work outside. I am ashamed to hear that. (Participant 13)
+
+Some participants described having heard that it is better to use shoes to prevent external trauma than sandals. But they do not use them because they fear they will be labelled as being different:
+
+Environmental barriers
+
+This theme is comprised of three subthemes, namely lack of time and knowledge of health providers, lack of family support and climate conditions.
+
+Lack of knowledge and time of health providers
+
+I have never asked a physician or nurse about foot care. They seem to be very busy and I don't want to disturb their job. (Participant 3)
+
+We have so many patients and a limited number of nurses so we don't have time to educate our patients. We usually ask them if they have foot ulcer and if they have, we tell them to get it treated so that it will not become severe. We realize we need to update our knowledge of how to perform appropriate foot care, but we are so busy that we don't have time to get any new knowledge. (Physician 1)
+
+Most participants perceived that physicians and nurses are very busy and therefore might have no time to educate them about foot care. In addition, most participants believed that healthcare providers might not have knowledge regarding how to assess the feet and to perform foot care. The physicians and nurses in this study confirmed that a lack of knowledge and time as the main reasons for not educating patients about foot care practices:
+
+Lack of family support
+
+I must take care of everything by myself, including my disease. My husband never bothers to give me any advice even though I sometime complain about my swollen feet. (Participant 8)
+
+My mother frequently complains that she cannot feel anything in her feet and that the nail is brittle. Sometimes there are swollen areas on her feet. I think it is normal as people get older so I just stay quiet if she complains. (Family member 2)
+
+Participants said their families do not support them to take care of their feet. The lack of family support might be partly due to family members not knowing how to perform foot care. This was confirmed by family members who described not know anything about foot care practice:
+
+Climate conditions
+
+I always wear sandals everywhere I go. I almost never use shoes because it is hot outside, I feel my feet cannot breath easily in shoes. (Participant 5)
+
+Participants revealed that they are used to being barefoot inside the house and prefer to use sandals when going out because it is hot so that they are more comfortable than shoes:
+
+Perceived foot health benefits
+
+This theme is comprised of two subthemes, including intention to feel better and desire to stay socially active.
+
+Intention to feel better
+
+If I knew how to perform foot care, I would do it so my feet would not be so dry with cracked heels. (Participant 12)
+
+Although almost all participants had no knowledge of how to perform foot care practices, they perceived that better foot care would result in healthier feet:
+
+Desire to stay socially active
+
+I like to go to Prolanis events because the other patients support me. We talk and laugh together. I want to take care of my health better because if I get a foot ulcer it will be difficult for me to go to Prolanis. (Participant 13)
+
+Participants in this study wanted to take care more of their feet and worried that if something happened to their feet they would not be able to continue engaging in their social activities. Diabetic patients in Indonesia join the Prolanis, a programme created by the government to improve the health of people managing chronic diseases. Patients meet one another at Prolanis events to share their experiences regarding their disease and its complications:
+
+Religious practice
+
+This theme is comprised of two subthemes, namely foot washing as part of religious practice and intention to feel clean before praying.
+
+Foot washing as part of religious practice
+
+We do sholat (praying) five times a day. Before we do sholat I perform ablution which includes washing my feet. (Participant 21)
+
+Participants described that although they do not understand how to perform foot care practices properly, they do wash their feet every day since they have to perform ablution before praying:
+
+Intention to feel clean before praying
+
+If I take good care of my feet, I feel clean. We need to be clean before we pray. (Participant 15)
+
+Most Indonesian people are Muslims. Participants said that before they pray, they have to make sure that their bodies, including their feet are clean. The intention to feel clean makes them want to take care of their feet:
+
+DISCUSSION
+
+Our study is the first to explore the barriers and facilitators of foot care practice in patients with T2DM in Indonesia. The HBM framework was used to understand why foot care behaviour in Indonesia is poor. Four themes emerged from this study. The themes were personal barriers, environmental barriers, perceived foot health benefits and religious practices. Through our findings, we founds that there are two main barriers (personal barriers and environmental barriers) and two main facilitators (perceived foot health benefit and religious practice). Personal barriers included low susceptibility of developing foot ulcer, limited knowledge about foot care, fatalistic practices, financial problems, glucose control taking priority over foot care, lack of motivation, lack of confidence and fear of being labelled. Environmental barriers included lack of knowledge and time of health provider, lack of family support and climate conditions. Perceived foot health benefits included intention to feel better and desire to stay socially active. Religious practice included foot washing as part of religious practice and intention to feel clean before praying.
+
+In this study, most participants, including those with a history of foot ulcers, perceived themselves as being unlikely to get foot ulcers. The data show that even participants at high risk of getting foot ulcers did not realize they are at risk. This might be partially due to a lack of knowledge. Another factor might be cultural in that Indonesian people tend to believe that as long as they are able to continue their daily activities, they are healthy. Furthermore, Indonesian people tend not to take any preventative actions unless they are seriously ill (Dewi et al., ; Fles et al., ). In this study, all participants, whether or not they had history of foot ulcers, were able to conduct their daily activities without hindrance. This may be why they believe they are not at risk of developing foot ulcers.
+
+We found that almost none of the participants knew how to perform foot care. An educational programme is needed to teach diabetic patients about the importance of foot care and how to perform it. Patients should also be informed that some of the information they have received is untrue. For example, participants in our study believed wearing bumpy acupressure sandals can improve foot health. Patients therefore need to be educated that such behaviour can cause pressure points on the sole of the feet, which may lead to the formation of calluses, friction and, ultimately, foot ulcers. A previous study that followed diabetic patients for 30 months showed that high‐pressure points on the plantar areas of the feet resulted in ulceration (Veves et al., ). Without proper education, this fatalistic practice will continue.
+
+Our findings show that the lack of knowledge not only occurs in patients, but also in health providers. Based on the findings of this study, an educational programme for health providers is needed to improve physician and nurse knowledge regarding foot assessment and foot care. Previous studies have shown that educating nurses about foot assessments, foot complications and foot care significantly improves their knowledge and reduced dry skin, corns and calluses, as well as foot oedemas in their diabetic patients (Pataky et al., ; Stolt et al., ). Another study revealed that intensive education for nurses helps decrease the incidence of foot ulcers and the rate of amputation in diabetic patients (Ren et al., ).
+
+Our findings show that participants in this study tended to prioritize strict diet management and believed other diabetes management practices to be unimportant. While it is true that managing blood glucose levels through diet is essential for diabetic patients, patients also need to understand that foot care is an important way of reducing foot problems (Pavicic & Korting, ; Yokota et al., ). If patients have the perception that T2DM management is all about blood glucose, their motivation for performing foot care practices will be reduced. Patient points of view were confirmed by health providers in our study who told us that education for diabetic patients still focuses on diet management and that foot care practices are frequently overlooked. Our findings are in accordance with a previous study carried out in the Caribbean nation of Barbados which found that both patients and health providers tended to prioritize blood glucose management over foot care (Guell & Unwin, ).
+
+In our study, participants described a lack of income as being a barrier to performing foot care practices. This supports the findings of several previous studies that found inadequate income to be one of barriers to performing foot care (D'Souza et al., ; Sayampanathan et al., ). In our study, financial barriers meant participants were unable to buy moisturizer for their feet. In developing countries, many patients have low income and there is generally no health insurance to cover health expenses. Therefore, health providers need to educate their patients about affordable options.
+
+In this study, participants reported a lack of support from their family members. These results correspond to those from a previous study which reported patients had a lack family support when it came to performing foot care (Sayampanathan et al., ). Because patients with DM need to manage their disease every day, family support is very important. A lack of family support can inhibit foot care practices, as reported by previous studies (Kim & Han, ; Sari et al., ). Patients need both instrumental support and emotional support from their family. Instrumental support can be given by assisting patients to perform foot care or providing patients with diabetes‐related foot care information (Gale et al., ). Emotional support may include motivating patients to perform self‐care practices (Ahmed & Yeasmeen, ). After discussion with families and healthcare providers, we found that inadequate family support is mainly due to family members not understanding the importance of foot care or knowing how to perform it. From these findings, we can see that family involvement is important, and, therefore, family members should be taught about foot care and encouraged to support their family members to perform it regularly.
+
+Another barrier is environmental conditions. Almost all participants in this study are accustomed to being barefoot at home and using sandals to go outside. Such behaviours may increase the risk of getting ulcers since the feet are not protected from potential trauma. One study showed that being barefoot significantly increases the occurrence of foot ulcers in diabetic patients (Jayasinghe et al., ). The use of sandals outside is not recommended since sandals do not protect the dorsal part of the foot or areas between the toes and heel. Furthermore, a previous study showed that the use of sandals is related to the presence of foot fungal infections (Ungpakorn et al., ). The sandals most commonly used by Indonesian patients are thongs which have insertion points between the first and second metatarsal and two straps which extend towards either the medial or lateral heel (Yusuf et al., ). Based on the findings of a previous study, thongs do not distribute pressure across the plantar areas of the feet and therefore increase pressure in the plantar areas, leading to potential callus development (Yusuf et al., ). In‐depth interviews showed that participants preferred to be barefoot inside the home and to use thongs outside due to Indonesia's hot climate. These findings are in accordance with those of a previous study which found that patients in hot countries prefer to use sandals than shoes (Al‐Busaidi et al., ; Jayasinghe et al., ). Education is needed to make patients understand the importance of using footwear to protect their feet from potential trauma.
+
+In addition to the barriers to foot care self‐practice, this study also explored some facilitators. Knowledge of these facilitators gives us the opportunity to improve foot care behaviour in Indonesia. One of facilitators we found was perceived foot health benefit. Participants described being motivated to engage in foot care in order to be able to remain active in their social activities. This desire to have healthier feet is one thing nurses can use to motivate their patients to take better care of their feet. In this study, all participants understood that if they suffered foot problems, they may not be able to remain active in their social activities. The monthly Prolanis meetings were particularly important to participants. Previous studies have shown that Prolanis meetings provide biopsychosocial support, health information and individual empowerment to their members (Irawati et al., ). Nurses can use such opportunities to incorporate foot care education, improve foot care skills and provide support for their patients.
+
+Another facilitator we found was religious practice. It has been suggested that local culture and ritual religious can be used as an approach to improve the healthcare behaviours of patients (Al‐Busaidi et al., ). Most Indonesian people are Muslims (Soewondo et al., ), and Muslims tend to perform ablution, including washing the feet, five times a day. Such ritual foot washing involves cleaning the areas between the toes with the fingers. Nurses can encourage their patients to inspect their feet, looking out for complications at this time. This cleaning ritual may benefit patients. Considering that 24 out of 25 participants in this study had heel cracked or fissures, the foot washing may be reducing the risk of any dirt causing an infection in their feet.
+
+Our study has important implications for foot care practices in Indonesia. First, there is an obvious need to establish a programme to educate diabetic patients about risk factors for foot ulcers, importance of foot care and how to perform it by themselves. Patients need to understand that managing their feet should be practised alongside diet control in order to prevent any complications due to their disease. Monthly Prolanis meetings could be good places for improving community awareness regarding the importance of foot care for diabetic patients. Because of the importance of family support, family members should be invited to education sessions. Second, there is a need for a programme to improve knowledge about foot care practices in healthcare providers. Many developing countries have a lack of specialists such as podiatrists; however, the number of wound care nurses in Indonesia is increasing. These wound care nurses can educate other healthcare providers about foot care practices and foot assessments.
+
+Our study had limitations. Most participants in this study were Javanese. Therefore, we cannot generalize our findings to the rest of the population. However, because Javanese is the largest ethnic group in Indonesia, our participants are likely to better represent Indonesian culture as a whole than would other ethnic groups in Indonesia. Another limitation is that we included participants with and without foot ulcers. Those with a history of foot ulcers may have more knowledge regarding foot care practices than those without. However, our previous study showed that both patients with and without a history of foot ulcers had poor knowledge regarding foot care practices. Despite these limitations, this study has several strengths. It is the first study to investigate the barriers and facilitators of foot care practices in diabetic patients in Indonesia. Our findings can be used as a guide for healthcare providers to create better foot care education programmes, not only for patients, but also for healthcare providers. There is a need for future studies to investigate the effects of such educational programmes on improving foot care practices. The fact that we gained a diverse perspective of the issue by including healthcare providers and patients' family members gave us more insight into the issue.
+
+CONCLUSION
+
+This study is the first to investigate the barriers and facilitators of foot care practices in diabetic patients in Indonesia. Using a theoretical framework based on the HBM model, four themes emerged from data analysis. They were personal barriers, environmental barriers, perceived foot health benefits and religious practices. The subthemes of personal barriers were low susceptibility of developing foot ulcer, limited knowledge about foot care, fatalistic practices, financial problems, glucose control taking priority over foot care, lack of motivation, lack of confidence and fear of being labelled, while the subthemes of environmental barriers were lack of knowledge and time of health providers, lack of family support and climate conditions. The subthemes of perceived health benefits included intention to feel better and desire to stay socially active, while the subthemes of religious practice were foot washing as part of religious ritual and intention to be clean before praying. Our study provides new insight into the barriers and facilitators of foot care practices in Indonesia and has implications for anyone creating educational programmes to improve foot care knowledge and practice for healthcare providers, diabetic patients and their family members.
+
+CONFLICT OF INTERESTS
+
+All authors in this study declare there are no competing interests.
+
+AUTHOR CONTRIBUTIONS
+
+YS conceived and designed the study and recruited, analysed and interviewed participants. SY, HR AS, and SR made substantial contributions to the conception and design of the study and analysed data. AS and AA recruited, analysed, and interviewed patients. All authors drafted the manuscript.
+
+DATA AVAILABILITY STATEMENT
+
+The data sets used and/or analysed during the current study are available from the corresponding author on reasonable request.
+
+REFERENCES
+
+Nurses' role in diabetic foot prevention and care: A review
+
+Active family participation in diabetes self‐care: A commentary
+
+Development and pilot testing of a diabetes foot care and complications questionnaire for adults with diabetes in Oman: The diabetic foot disease and foot care questionnaire
+
+Diabetic foot ulcers: Prevention, diagnosis and classification
+
+Sociobehavioral determinants of compliance with health and medical care recommendations
+
+Type 2 diabetes‐related foot care knowledge and foot self‐care practice interventions in the United States: A systematic review of the literature
+
+The diabetic foot
+
+Diabetes‐related microvascular and macrovascular diseases in the physical therapy setting
+
+Diabetes‐ and nondiabetes‐related lower extremity amputation incidence before and after the introduction of better organized diabetes foot care
+
+Profil Ulkus Diabetik pada Penderita Rawat Inap di Bagian Penyakit Dalam RSUP Dr M. Djamil Padang
+
+‘Maintaining balance and harmony’: Javanese perceptions of health and cardiovascular disease
+
+Foot care behaviors among adults with type 2 diabetes
+
+The role of Indonesian patients' health behaviors in delaying the diagnosis of nasopharyngeal carcinoma
+
+Patients' perspectives on foot complications in type 2 diabetes: A qualitative study
+
+The SAGE encyclopedia of qualitative research methods
+
+Qualitative content analysis in nursing research: Concepts, procedures and measures to achieve trustworthiness
+
+Barriers to diabetic foot care in a developing country with a high incidence of diabetes related amputations: An exploratory qualitative interview study
+
+Global trends in diabetes complications: A review of current evidence
+
+Three approaches to qualitative content analysis
+
+Benefits of Diabetes support group in chronic disease management program (Prolanis) in Puskesmas Jetis II, Bantul District: A case study
+
+The health belief model: A decade later
+
+Is walking barefoot a risk factor for diabetic foot disease in developing countries?
+
+Factors related to self‐care behaviours among patients with diabetic foot ulcers
+
+Foot care education in patients with diabetes at low risk of complications: A consensus statement
+
+Effects of a short educational program for the prevention of foot ulcers in high‐risk patients: A randomized controlled trial
+
+Amputation and mortality in new‐onset diabetic foot ulcers stratified by etiology
+
+A first evaluation of an educational program for health care providers in a long‐term care facility to prevent foot complications
+
+Xerosis and callus formation as a key to the diabetic foot syndrome: Dermatologic view of the problem and its management
+
+Clinical profile and outcome of diabetic foot ulcer, a view from tertiary care hospital in Semarang, Indonesia
+
+Risk factors for recurrent diabetic foot ulcers: Site matters
+
+Effect of intensive nursing education on the prevention of diabetic foot ulceration among patients with high‐risk diabetic foot: A follow‐up analysis
+
+Historical origins of the health belief model
+
+Foot self‐care behavior and its predictors in diabetic patients in Indonesia
+
+Barriers and enablers to proper diabetic foot care amongst community dwellers in an Asian population: A qualitative study
+
+Challenges in diabetes management in Indonesia: A literature review
+
+Effect of an educational intervention on nurses' knowledge of foot care and on the foot health of older residents
+
+Prevalence of foot diseases in outpatients attending the Institute of Dermatology, Bangkok
+
+Barriers to implementing foot care
+
+The risk of foot ulceration in diabetic patients with high foot pressure: A prospective study
+
+Diabetic foot ulcers: A quality of life issue
+
+Risk factors associated with adverse outcomes in a population‐based prospective cohort study of people with their first diabetic foot ulcer
+
+Patients with diabetic foot disease fear major lower‐extremity amputation more than death
+
+Effectiveness of a self‐foot‐care educational program for prevention of diabetic foot disease
+
+Prevalence and risk factor of diabetic foot ulcers in a regional hospital, Eastern Indonesia
+
+Relationship between sandals and diabetic foot ulcers in an outpatient clinic in Indonesia
+
+Global epidemiology of diabetic foot ulceration: A systematic review and meta‐analysis
+

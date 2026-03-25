@@ -1,0 +1,172 @@
+TITLE: Correlation of dehydroepiandrosterone with diabetic nephropathy and its clinical value in early detection
+
+Abstract
+
+Aims/Introduction
+
+This study was carried out to assess the association of dehydroepiandrosterone (DHEA) with diabetic nephropathy (DN) in patients with type 2 diabetes mellitus to better predict the progression of diabetic nephropathy.
+
+Materials and Methods
+
+A total of 1,082 patients with type 2 diabetes mellitus in the Department of Endocrinology and Metabolism of Tianjin Medical University General Hospital were enrolled in this study, and grouped for comparison. The effect of serum DHEA on DN was evaluated by multivariate logistic regression analysis, and receiver operating characteristic curves were established to explore the optimal concentration of DHEA in patients with DN and non‐DN.
+
+Results
+
+DHEA was significantly decreased in patients with DN (P < 0.001). The prevalence of DN was significantly higher in the low DHEA quartile than in the other quartiles (P < 0.001). Spearman‐related analysis showed that DHEA levels were negatively correlated with patient age, course of diabetes, systolic blood pressure, blood creatinine, uric acid, urine albumin‐to‐creatinine ratio, 24‐h urine microalbumin, 24‐h urine protein quantification and glomerular filtration rate, and positively correlated with body mass index, total cholesterol and low density lipoprotein. Logistic regression analysis showed that the effect of DHEA on DN was statistically significant (P < 0.001). The receiver operating characteristic curve showed that the sensitivity was 81.4%, the specificity was 70% and the area under the curve was 0.812 when the optimal cut‐off value was 1,640 (pg/mL).
+
+Conclusion
+
+DHEA is significantly associated with DN and might be a protective factor for DN, and is important for the prediction of DN.
+
+This study was conducted to assess the association of Dehydroepiandrosterone (DHEA) with diabetic nephropathy in patients with type 2 diabetes mellitus to better predict the progression of diabetic nephropathy.
+
+INTRODUCTION
+
+Diabetes mellitus is a chronic disease with an increasing incidence year‐by‐year. In 2021, the number of people aged 20–79 years with diabetes in the world was approximately 536.6 million, of which type 2 diabetes accounted for >90%. Sustained hyperglycemia can cause extensive damage to a patient's cardiovascular system, retina, kidneys and nerves. As one of the most common and serious microvascular complications of diabetes, the incidence of diabetic nephropathy (DN) is increasing year‐by‐year, and it has become the main cause of end‐stage renal disease.
+
+The main pathological features of DN are changes in renal structure, and function, glomerular hypertrophy, proteinuria, decreased glomerular filtration rate, inflammation and fibrosis. Such changes can occur in the glomerulus and renal tubule interstitium, manifested as endothelial cell damage accompanied by infiltration of inflammatory factors, resulting in the destruction of renal function. Progressive proteinuria is generally considered the primary and initial clinical presentation, and disease progression is irreversible. Although urinary albumin is considered an early marker of DN, glomerular damage has already occurred when albumin is tested. Therefore, more new biomarkers are required to identify patients at risk of developing kidney damage. In recent years, the testing of steroid hormones that has attracted increasing attention has been widely used in the clinic with detection technology, and there is evidence that changes in circulating hormone levels are closely related to the development of DN. Dehydroepiandrosterone (DHEA) is a common steroid hormone synthesized primarily by the adrenal cortex and can be used by many tissues, including the brain, liver, kidneys and gonads.
+
+As one of the most abundant steroids in the body, DHEA might be an “anti‐oxidant” synthesized by the human body that has a relieving or inhibitory effect on the progression of some chronic diseases, such as diabetes, coronary heart disease, immune abnormalities and skin aging. In previous experiments, DHEA was added to the feed of diabetic mice, which increased the sensitivity of insulin in mice, thereby reducing the need for insulin, alleviating the persistent hyperglycemic state and improving the damage of multiple organs, such as the pancreas and kidneys, of mice. Other studies have shown that DHEA can protect the heart by improving the endothelial function of great vessels, and that DHEA can counteract the decrease of nerve conduction velocity caused by diabetes. Zhang Lin et al. showed that DHEAS in diabetes patients might be lower than in healthy people, and DHEA might be related to DN and participate in the occurrence of microangiopathy. Kiersztan et al. found in multiple experimental studies that the reduction of DHEA‐induced renal oxidative stress might have a protective effect on the kidney, thereby reducing proteinuria and effectively preventing the harmful effects of reactive oxygen species. The study by Richards et al. also confirms that DHEA plays a protective role in a rat model of obese Zucker rats with DN and during renal ischemia–reperfusion, leading to acute renal failure. These effects of DHEA provide the basis and evidence for the prevention and treatment of diabetic complications, including DN.
+
+Based on the aforementioned background, we aimed to explore the relationship between DHEA and DN, and its clinical value in early detection, so as to predict the occurrence and development of DN, and improve prognosis.
+
+MATERIALS AND METHODS
+
+Study population
+
+A total of 2,637 inpatients admitted to the Department of Endocrinology and Metabolism of Tianjin Medical University General Hospital, Tianjin, China, from October 2020 to December 2021 were included in the present study, and 1,082 inpatients with type 2 diabetes were included after 1,555 repeated inpatients and those who did not meet observation criteria were excluded (Figure 1). The inclusion criteria were the diagnosis of type 2 diabetes in adults based on the 1999 World Health Organization standard (repeat fasting blood glucose level ≥7.0 mmol/L, 2‐h blood glucose ≥11.1 mmol/L at 75‐g glucose oral glucose tolerance test, typical diabetes symptoms and random blood glucose ≥11.1 mmol/L), or previously diagnosed with type 2 diabetes. The exclusion criteria were: (i) hyperglycemia or hyperglycemia crisis symptoms; (ii) patients aged <18 years or >90 years and obese (body mass index [BMI] ≥50); (iii) patients with severe liver disease or malignant tumor; (iv) various endocrine tumor diseases (including postoperative ones); and (v) non‐DR.
+
+Flowchart of identification of the study population. ACR, urine albumin‐to‐creatinine ratio; DN, diabetic nephropathy.
+
+The study was approved by the Institutional Review Board and Ethics Committee of the Tianjin Medical University General Hospital, and it was carried out in accordance with the Declaration of Helsinki.
+
+Measurements
+
+All patient data were extracted from a standardized electronic inpatient record system. Clinical examinations, including weight, height and blood pressure, were carried out by experienced medical staff according to the criteria on admission. BMI was calculated as weight divided by height squared in meters. Age, sex, duration of diabetes, smoking (past or current smoking), alcohol consumption (past or current drinking of any beverage containing ethanol), antihypertensive drugs (angiotensin converting enzyme inhibitor/angiotensin II receptor blockers), antidiabetic drugs (metformin, sodium–glucose cotransporter 2, glucagon‐like peptide‐1, dipeptidyl peptidase‐4 inhibitors) and other treatment information were collected. Serum samples were obtained in the morning after fasting for at least 8 h, and urine samples were retained according to the standard. Urine was collected from the patients for 24 h (07.00 hours on the first day to 07.00 hours on the second day) to determine the 24‐h urine protein quantification (24hUAER). Through laboratory examination, we determined the following indicators: DHEA, androstenedione (AE), fasting blood glucose, glycated hemoglobin (HbA1c), 25‐hydroxyvitamin D (25OHD), total cholesterol (TC), triglyceride, high‐density lipoprotein, low‐density lipoprotein (LDL), blood creatinine (Cr), uric acid (Ur), urine albumin‐to‐creatinine ratio (ACR), 24‐h urine microalbumin (24 h UMA), 24hUAER and glomerular filtration rate (GFR). DHEA and AE were determined by mass spectrometry (AB SCIEX TRIPLE QUAD 4500MD mass spectrometer, Framingham, MA, USA). Fasting blood glucose was measured by a Hitachi 7600 (Hitachi, Tokyo, Japan) automatic analyzer. Lipids were measured by a Hitachi AS008 automatic biochemical analyzer using standard enzyme technology. HbA1c was detected by HLC‐723G8 analyzer (TosohG8, Tokyo, Japan); 25OHD concentration was measured by Siemens ADVIA Centaur XP analyzer (Abbott Architect i2000sr, USA); ACR, 24hUAER and 24 h UMA was determined by a Hitachi 7180 automatic biochemical analyzer by immunoturbidimetric method, GFR was determined using the Cockroft‐Gault formula.
+
+Patients were divided into three groups according to ACR. The patients with ACR <30 mg/g were divided into the non‐DN group (N0), patients with 30 ≤ ACR < 300 mg/g were defined as the early stage of DN (diabetic kidney stage III; N1) and patients with ACR ≥300 mg/g were defined as middle‐advanced DN (diabetic kidney stage IV, V; N2), which is shown in Figure 1.
+
+Statistical analysis
+
+SPSS software version 25.0 (IBM Corp., Armonk, NY, USA) was used to carry out statistical analyses. Normally distributed continuous variables are expressed as the mean – standard deviation, whereas non‐normally distributed continuous variables are expressed as the interquartile range, and categorical variables are presented as frequency. anova, the χ2‐test, and rank‐sum test were used to assess variable differences between groups. Spearman’s correlation analysis was used to evaluate the relationship between DHEA and other metabolic variables. Logistic regression was used to estimate the relationship between DHEA and other variables and DN. A P‐value <0.05 was considered significant. Receiver operating characteristic (ROC) analysis was carried out to explore the area under the curve and the optimal DHEA value to identify DN. The optimal cut‐point value was defined as the concentration at which the sensitivity and specificity were closest to the area under the ROC curve (the closest point on the ROC plane to the angle [0,1]).
+
+RESULTS
+
+The clinical characteristics of the three groups of patients in this study are shown in Table S1. Compared with N0 group, patients in N1 and N2 groups were older, had longer course of diabetes, had higher blood pressure (systolic and diastolic blood pressure were both higher), significantly increased TC, triglyceride, LDL, Cr and Ur, and had lower GFR and 25OHD. The DHEA and AE of the latter two groups were decreased; the proportion of angiotensin converting enzyme inhibitor/angiotensin II receptor blockers treatment in the N1 and N2 groups was higher, whereas metformin application was significantly decreased, and there were differences in drug application. The comparison in Figure 2a showed that the DHEA level of the patients with DN was significantly lower than that of N0 group, and with the development of DN, the DHEA level gradually decreased (P < 0.001).
+
+(a) Box diagram of dehydroepiandrosterone (DHEA) level comparison among the three groups of patients with type 2 diabetes. (b) Comparison of the prevalence of diabetic nephropathy among DHEA quartiles. [Colour figure can be viewed at wileyonlinelibrary.com]
+
+Table 2 provides a comparison of the clinical features of DHEA quartile stratification in type 2 diabetes. Compared with the quartile group with higher DHEA, patients with lower DHEA level were older, had lower BMI, had longer duration of diabetes and had higher blood pressure at admission. AE and 25OHD were lower in the group with lower DHEA level, whereas TC, LDL, Cr, ACR, GFR, 24 h UMA and 24hUAER were higher in the group with higher DHEA levels. As shown in Figure 2b, the prevalence of DN in each group of DHEA quartiles was compared, and the lowest quartile had a significantly higher prevalence of DN compared with other groups (75.9% vs 40.2%, 12.9%, 12.6%, P < 0.001).
+
+Table 3 shows the correlation analysis between blood DHEA level and clinical parameters of patients. DHEA level was negatively correlated with patients' age, duration of diabetes, systolic blood pressure, Cr, Ur, ACR, 24 h UMA and 24hUAER, and positively correlated with BMI, TC and LDL. The scatter plot shows that DHEA has significant linear correlation with ACR, 24 h UMA, 24hUAER and GFR (as shown in Figure 3a–d). However, there was no significant correlation between DHEA and diastolic blood pressure, triglyceride, high‐density lipoprotein, Ur, fasting blood glucose, 25OHD and HbA1c (Table 3).
+
+(a–d) Scatter plot showing the correlation between serum dehydroepiandrosterone (DHEA) and urinary albumin‐to‐creatinine ratio (ACR), 24‐h urine microalbumin, 24‐h urine protein quantification and glomerular filtration rate (GFR).
+
+Table 4 shows the influencing factors of diabetic nephropathy by logistic regression analysis. Univariate logistic regression analysis showed that DHEA had a statistically significant effect on diabetic nephropathy (odds ratio 0.004, 95% confidence interval 0.002–0.009, P < 0.001). Similarly, age, duration of diabetes, systolic blood pressure, Cr, Ur, GFR, 24 h UMA, 24hUAER, HbA1c, AE and metformin medication had statistically significant effects on DN (P < 0.05). The effect of DHEA on DN was still significant after multivariate adjustment (odds ratio 0.162, 95% confidence interval 0.047–0.555, P = 0.001).
+
+As shown in Figure 4, the ROC curve was drawn to evaluate the predictive ability of DHEA for DN. The curve showed that the optimal cut‐off value of DHEA for differentiating DN from non‐DN was 1,640 (pg/mL), the sensitivity was 81.4%, the specificity was 70% and the area under the curve was 0.812.
+
+Receiver operating characteristic (ROC) curve for the determination of dehydroepiandrosterone cut‐off value for diabetic nephropathy. [Colour figure can be viewed at wileyonlinelibrary.com]
+
+DISCUSSION
+
+In the present study, serum DHEA was significantly lower in patients with early and advanced DN than in patients without DN (P < 0.001). Serum DHEA levels were negatively correlated with patient age, duration of diabetes, systolic blood pressure and some biochemical indicators representing DN (ACR, 24‐h UMA, 24hUAER, GFR). After adjusting the influence of confounding factors using the logistic regression model, DHEA was still found to be an independent influencing factor of DN, suggesting that DHEA might be a protective factor of DN. The ROC curve suggested that DHEA could be used as a biomarker for early detection of DN.
+
+A high‐glucose environment leads to vascular dysfunction and induces DN, including some heterogeneous pathological mechanism drivers, such as oxidative stress, inflammation and fibrosis. Pagotto et al. confirmed through animal experiments that some mechanisms leading to the occurrence and progression of DN have been triggered, such as inflammation, fibrosis and the expression of stress response mediators, before kidney damage occurs in the early stage of diabetes. As a common steroid hormone, the level of DHEA decreases with age. It can alleviate or even inhibit the progression of some age‐related diseases, which might be related to its anti‐oxidant properties. DHEA has been confirmed to regulate lipid and/or glucose metabolism and systemic inflammation through different mechanisms, such as peroxisome proliferator‐activated receptor‐α and G‐protein‐coupled receptor activation. At the same time, Arad et al. found that DHEA binds to receptors expressed on the plasma membrane of endothelial cells, and stimulates the generation of nitric oxide by coupling with endothelial type nitric oxide synthase to play a protective role in blood vessels, which was also confirmed by Mannic et al. in animal experiments and clinical studies.
+
+Common clinical indicators representing DN were included in this study, including serum Cr, GFR, ACR, 24 h UMA and 24hUAER, which can reflect the severity of DN in patients. Through the comparison, There were significant differences in the conventional indicators of the three groups of patients, such as age, duration of diabetes, admission blood pressure (systolic blood pressure, diastolic blood pressure), total cholesterol, triglyceride and low‐density lipoprotein, serum creatinine and uric acid, etc., so we can speculate that with the increase of patients with type 2 diabetes, age, course of diseases, the patient’s blood pressure, blood lipids, Cr and Ur gradually increase, resulting in complications, which is consistent with the well‐known disease progression.
+
+In the present study, there was a statistical difference between groups of 25OHD, which was consistent with previous reports that vitamin D might also play a protective role in the kidneys by affecting the RhoA/RHOHO‐associated protein kinase pathway. However, logistic regression showed no statistical significance for the effect of 25OHD on DN, which might be related to the population included in this study, and the interference of 25OHD in this study was also excluded.
+
+According to Table S1 and Figure 2, DHEA in the DN group was significantly lower than that in the non‐DN group, and there were also differences in the advanced group compared with the early stage group. Furthermore, after the quartile grouping according to DHEA, the proportion of patients with DN in the quartile group with low DHEA was significantly increased, and the comparison showed statistical differences. Therefore, we can speculate that DHEA in patients with type 2 DN decreases gradually with the progression of the disease, and DHEA might be a protective factor of DN. Of course, after excluding other factors related to DN, after adjusting confounding factors by logistic regression model, DHEA was still an independent influencing factor of DN. This result is consistent with the conclusion of Kanauch et al. that serum DHEA level is negatively correlated with the degree of DN in men. This might be because as an anti‐oxidant, DHEA has a protective effect on DN.
+
+According to the animal experiments conducted by Kiersztan et al., DHEA can reduce the production of urinary protein, and reduce the oxidative stress of renal cortex by inhibiting the activity of nicotinamide adenine dinucleotide phosphate oxidase and recovering the activity of catalase. Meanwhile, the team also showed the anti‐oxidant effect of DHEA in the renal cortex of alloxan‐induced DN rabbits, normalizing the activity levels of hydroxyl radical, catalase and glutathione peroxidase, preventing the increase of glutathione disulfide, and the decrease of the glutathione/glutathione disulfide ratio, effectively preventing the harmful effects of reactive oxygen species. This delayed the occurrence and development of DN. In addition, Enrico Brignardello et al. showed that DHEA can also reduce the concentration of pentoglycoside (a representative of the increase of inflammatory factors caused by high‐glucose oxidative stress) in the serum of patients with type 2 diabetes, thus regulating the redox balance.
+
+The present study found that although some new‐onset diabetes patients were positive for urine protein, their serum DHEA was not low. As blood sugar dropped, urine protein turned negative. Compared with the long duration in patients with DN, their DHEA did drop significantly. This also confirms that there is a certain correlation between DHEA and DN, which is helpful for identifying whether diabetes patients with positive urine protein are complicated with nephropathy. The causal relationship between DHEA and DN is still inconclusive, and studies have shown that DHEA delays the progression of DN. DHEA inhibits renal medulla glucose uptake and reduces oxidation in diabetic rats. Another experiment showed that DN leads to the decline of DHEA, so more research is required to prove the causal relationship between the two.
+
+From the correlation analysis between DHEA and metabolic indicators of the study population, we found that the well‐known risk factors associated with type 2 diabetes mellitus were significantly associated with DHEA, such as BMI, age, course of the disease, blood lipid (TC, LDL) and so o., suggesting that DHEA is closely associated with metabolic indicators of type 2 diabetes mellitus, and might have a potential protective effect on the progression of metabolic disease of type 2 diabetes mellitus. In the study of Salvini et al., the plasma DHEA level in men was positively correlated with the obesity index, but not with diabetes history. Khaw et al. and Fava et al. also found no correlation between DHEA levels and BMI, whereas age had a strong effect on the decline of DHEA levels, which is inconsistent with the results in the present study and might be related to the different study populations selected. We speculate that the correlation between DHEA and BMI might only exist in special populations, such as patients with metabolic syndrome and type 2 diabetes mellitus. As Chen et al. showed that DHEA can improve the metabolic profile associated with adipose tissue without affecting liver function, it remains to be shown whether diseases are included in special populations.
+
+Clinical urine protein collection is affected by a variety of factors, such as diet, exercise, infection or drugs and so on. The collection process is cumbersome and easily leads to errors, so the diagnostic effect has certain limitations. Due to the individual difference of each patient, the affected organs and tissues are different. Renal function is impaired, but it might be accompanied by negative proteinuria, especially in patients with type 2 diabetes mellitus.
+
+The present study is the largest clinical study on DHEA and DN, with the largest sample size, which provides a basis for DHEA as a potential new biomarker for early detection of DN. Causality could not be inferred from the present study, and whether the reduction of DHEA led to the development of DN could not be observed longitudinally. Future prospective cohort studies are required to determine causality; second, none of the patients recruited were representative of other regions.
+
+Serum DHEA was significantly lower in type 2 diabetes patients and negatively correlated with the progression of DN, suggesting that DHEA might be a protective factor of DN, and has important guiding significance for the prediction of type 2 diabetes. Further molecular and genetic studies are required to elucidate the pathophysiological mechanisms underlying the positive role of DHEA in DN.
+
+Supporting information
+
+DATA AVAILABILITY STATEMENT
+
+Data described in the manuscript, the code book, and the analytic code will be made available upon request.
+
+REFERENCES
+
+IDF diabetes atlas: global, regional and country‐level diabetes prevalence estimates for 2021 and projections for 2045
+
+The multiple roles of fibroblast growth factor in diabetic nephropathy
+
+The emerging role of vitamin D and vitamin D receptor in diabetic nephropathy
+
+Evaluation of measures of urinary albumin excretion in epidemiologic studies
+
+Diabetic nephropathy: Recent advances in pathophysiology and challenges in dietary management
+
+Dehydroepiandrosterone supplementation improves endothelial function and insulin sensitivity in men
+
+Dehydroepiandrosterone, glucose‐6‐phosphate dehydrogenase, and longevity
+
+Mechanisms of action of dehydroepiandrosterone
+
+Effects of dehydroepiandrosterone (DHEA) supplementation on cortisol, leptin, adiponectin, and liver enzyme levels: a systematic review and meta‐analysis of randomised clinical trials
+
+Therapeutic effects of dehydroepiandrosterone (DHEA) in diabetic mice
+
+Possible association of heart failure status with synthetic balance between aldosterone and dehydroepiandrosterone in human heart
+
+Sex‐dimorphic effects of dehydroepiandrosterone in diabetic neuropathy
+
+Relationship between dehydroepiandrosterone sulfate and diabetic nephropathy in type 2 diabetic patients
+
+DHEA supplementation to dexamethasone‐treated rabbits alleviates oxidative stress in kidney‐cortex and attenuates albuminuria
+
+DHEA‐pretreatment attenuates oxidative stress in kidney‐cortex and liver of diabetic rabbits and delays development of the disease
+
+Effects of dehydroepiandrosterone and quinapril on nephropathy in obese Zucker rats
+
+Diabetic nephropathy: a tangled web to unweave
+
+Impairment of renal steroidogenesis at the onset of diabetes
+
+Dehydroepiandrosterone and age‐related musculoskeletal diseases: connections and therapeutic implications
+
+Oxygen free radical scavenger properties of dehydroepiandrosterone
+
+Dehydroepiandrosterone and its sulfate predict the 5‐year risk of coronary heart disease events in elderly men
+
+Dehydroepiandrosterone activates endothelial cell nitric‐oxide synthase by a specific plasma membrane receptor coupled to G i2,3
+
+Dehydroepiandrosterone feeding prevents aortic fatty streak formation and cholesterol accumulation in cholesterol‐fed rabbit
+
+In vivo and in vitro evidences of dehydroepiandrosterone protective role on the cardiovascular system
+
+Beyond proteinuria: VDR activation reduces renal inflammation in experimental diabetic nephropathy
+
+1,25‐(OH)(2)D(3) and its analogue BXL‐628 inhibit high glucose‐induced activation of RhoA/ROCK pathway in HK‐2 cells
+
+Dehydroepiandrosterone sulfate and estradiol in men with diabetic nephropathy
+
+Dehydroepiandrosterone administration counteracts oxidative imbalance and advanced glycation end product formation in type 2 diabetic patients
+
+The effect of dehydroepiandrosterone (DHEA) on renal function and metabolism in diabetic rats
+
+Oxidative stress and kidney dysfunction due to ischemia/reperfusion in rat: attenuation by dehydroepiandrosterone
+
+Effects of age, smoking and vitamins on plasma DHEAS levels: a cross‐sectional study in men
+
+Cigarette smoking and levels of adrenal androgens in postmenopausal women
+
+Dehydroepiandrosterone sulfate, mortality, and cardiovascular disease
+
+Glomerular filtration rate and albuminuria for detection and staging of acute and chronic kidney disease in adults: a systematic review
+
+Early detection of diabetic kidney disease: present limitations and future perspectives
+

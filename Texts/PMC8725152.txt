@@ -1,0 +1,138 @@
+TITLE: Calculation of intraocular lens power and to determine the relationship between ocular biometry and severity of diabetic retinopathy in patients with type II diabetes mellitus
+
+Purpose:
+
+To calculate the intraocular lens power and to determine the relationship between ocular biometry and severity of diabetic retinopathy (DR) in patients with type II diabetes mellitus.
+
+Methods:
+
+The study group included 150 type II diabetic subjects with DR. The control group consisted of 150 type II diabetic subjects having no DR. Axial length (AL), corneal power, and anterior chamber depth were measured using LenStar. DR and diabetic macular edema were classified according to International DR Classification. Crystalline lens power was calculated using Barrett Universal II formula. AL to corneal radius ratio was calculated. Chi-square test was used for categorical variables.
+
+Results:
+
+In multivariate logistic models adjusting for age, sex, glycosylated hemoglobin, duration of diabetes, Mean age of patients in the study group was 62.45 ± 4.85 years, whereas in the control group, it was 63.37 ± 7.29 years. Of the eyes with DR, 117, 76, 69, and 38 had mild NPDR, moderate NPDR, severe NPDR, and PDR, respectively. The difference in the mean duration of diabetes mellitus and glycosylated hemoglobin in both study and control groups was found to be statistically significant. A progressive decrease in the mean AL and the anterior chamber depth was observed with increasing severity of DR, and difference was statistically significant. There was a progressive increase in intraocular lens power with increasing severity of DR, and difference was found to be statistically significant.
+
+Conclusion:
+
+In persons with diabetes mellitus, globe elongation plays quite an important role in protective effects against DR, with contribution from intraocular lens power and other refractive components.
+
+Globally, the growing burden of diabetes mellitus has been accompanied by an increase in number of type I and type II diabetics. It is estimated that by the year 2030, 439 million people worldwide will have diabetes mellitus and increase will be more pronounced in developing countries as compared to developed countries.
+
+Diabetes mellitus is accompanied by various systemic conditions related to hyperglycemia that degrade the endothelial lining of blood vessels of several organs. Diabetic retinopathy (DR) is a vision threatening microvascular complication of diabetes mellitus. It is an important cause of preventable blindness. The risk of onset and progression of retinopathy are modified by various ocular and systemic factors and a knowledge of these factors helps in the assessment of prognosis and risk.
+
+Crystalline lens becomes thicker and more convex with increasing glucose levels. Rabbetts presented a formula to calculate the crystalline lens power, based on refraction, corneal power (CP), anterior chamber depth (ACD), and axial length (AL). This formula can be used to calculate the mean values of crystalline lens power using LenStar.
+
+Longer AL has a protective effect against DR. AL to corneal radius ratio (AL/CR ratio) can determine the refractive status of human eye and describe the shape of the globe. Thus, this study has been carried out to evaluate the association between intraocular lens power and various ocular biometric parameters and the presence of different grades of DR in patients with Type II diabetes mellitus.
+
+Methods
+
+The study was performed after approval from the Institutional Ethics Committee. Informed written consent was obtained from all the participants. The study confirms adherence to the Declaration of Helsinki performed in a randomly selected sample of Type II diabetic patients attending outpatient department or admitted in a tertiary care hospital in Northern India from. The study group included 150 subjects with Type II diabetes mellitus and DR. The control group consisted of 150 Type II diabetic subjects having no DR. Patients with a history of previous ocular surgery, laser treatment and patients with clinically significant macular edema were excluded from the study. Patients with significant media opacities which hampered the recording of ocular biometric parameters were also excluded.
+
+All participants underwent a comprehensive ophthalmological examination, including a detailed questionnaire (including age, sex, age of onset and duration of diabetes, general, and ocular disease history), refractive error assessment, ACD, CP and AL of globe using LenStar, slit-lamp biomicroscopic examination of the anterior segment, fundus examination before and after pupillary dilation using indirect ophthalmoscope. Subjective refraction under cycloplegic was performed for all the subjects by a single optometrist. Ophthalmological examination of the eyelid, globe, pupillary reflex, and lens was performed by an experienced ophthalmologist. Participants with best-corrected visual acuity <6/18 or any sign of DR had dilated slit-lamp biomicroscopic fundus examination with Volk 90-diopter (D) lens.
+
+Lens Opacity Classification System II standard color photographs were used as a reference for grading of cataract. DR and diabetic macular edema (DME) were assessed according to the International DR Classification by two ophthalmologists using retinal photographs following standardized grading protocol.
+
+The AL/CR ratio was defined as AL divided by the mean corneal radius of curvature. The refractive power of the lens was calculated using the Barrett Universal II formula.
+
+Statistical analysis
+
+Chi-square test was used for categorical variables. t-Test and Mann–Whitney's test were used to find the significant difference of continuous variables. The P value <0.05 was considered significant. Each parameter was described by sex and age groups. Multiple linear regression models were used to investigate the independent effects of age and sex on lens power, AL, ACD, AL/CR ratio, and HbA1c, respectively. All statistical analysis was performed using Statistical Package for Social Sciences software for windows.
+
+Results
+
+Mean age of patients in the study group was 62.45 ± 4.85 years, whereas in the control group was 63.37 ± 7.29 years [Table 1]. The difference in the age of two groups was not statistically significant (P = 0.1991). The maximum number of subjects in both the groups was in the age group of 61–70 years. Of the eyes with DR, 117, 76, 69, and 38 had mild NPDR, moderate NPDR, severe NPDR, and PDR, respectively.
+
+Demographic characteristics of cases and controls
+
+Characteristics	Cases	Control	P	 	Age (in years) (Mean±SD)	62.45±4.85	63.37±7.29	0.1991	 	Male: Female	1.28	0.9	0.3080	 	Duration of diabetes (in years) (Mean±SD)	17.45±2.96	8.65±1.86	P<0.0001	 	HbA1c (Mean±SD)	11.76±3.54	6.98±5.87	P<0.0001
+
+The difference in the mean duration of diabetes mellitus and glycosylated hemoglobin in both the study and control groups was found to be statistically significant.
+
+AL did not change with age but was consistently shorter in females by around 0.47 mm. The difference in the mean AL in study and control groups was statistically significant (P < 0.0001). A progressive decrease in the mean AL was observed with increasing severity of DR, and this difference was statistically significant [Table 2].
+
+Ocular biometric parameters in cases and controls
+
+Characteristics	Cases	Control	P	 	Axial length	22.01±0.64	23.25±0.87	P<0.0001	 	Anterior chamber depth	2.97±0.42	3.56±0.65	P<0.0001	 	AL/CR ratio	2.46	3.08	0.0084	 	Corneal power	43.45±7.6	44.72±3.4	0.0627	 	Intraocular lens power	22.78±4.27	21.15±2.54	P<0.0001
+
+Table 3 shows the association of ocular biometric parameters in various subgroups of DR.
+
+Correlation of ocular biometric parameters with different grading of diabetic retinopathy
+
+Control	Mild NPDR	Moderate NPDR	Severe NPDR	PDR	 	Axial length	23.25±0.87	22.32±2.46 P<0.0001	22.18±3.04 P<0.0001	21.98±2.54 P<0.0001	21.56±2.43 P<0.0001	 	Anterior chamber depth	3.56±0.65	3.05±3.04 P=0.0454	3.03±2.03 P=0.0025	3.00±1.98 P=0.0011	2.80±2.03 P<0.0001	 	AL/CR ratio	3.08	2.54 P=0.0228	2.50 P=0.0141	2.42 P=0.0049	2.38 P=0.0027	 	Corneal power	44.72±3.4	43.67±2.93 P=0.0045	43.54±2.14 P=0.0004	43.12±3.03 P<0.0001	42.92±3.43 P<0.0001	 	Intraocular lens power	21.15±2.54	21.87±2.98 P=0.0250	22.05±2.43 P=0.0019	23.46±3.04 P<0.0001	23.74±3.94 P<0.0001
+
+The difference in the mean ACD in study and control groups was found to be statistically significant (P < 0.0001) [Table 2]. There was a reduction in mean ACD with age in linear fashion; it was shallower in females as compared to males by around 0.18 mm. It was observed that ACD was shorter in eyes with severe NPDR and PDR as compared to the mild NPDR group.
+
+Compared with subjects without DR or DME, those with DR, had a longer duration of diabetes (P < 0.0001), had higher HbA1c (P < 0.0001), had higher intraocular lens power (P = 0.0001), had lower AL/CR ratio (P = 0.0084), and had smaller AL (P < 0.0001).
+
+Discussion
+
+The study was performed in Type II diabetic patients attending outpatient department or admitted in a tertiary care hospital in Northern India. The study group included 150 subjects with Type II diabetes mellitus and DR. The control group consisted of 150 Type II diabetic subjects having no DR. The relationship of refractive lens power, AL/CR ratio, AL, and ACD with DR was explored.
+
+In the present study, the association between the duration of diabetes mellitus and the presence of DR was statistically significant (P < 0.0001). The result was consistent with studies done by Vinker et al. and Romera et al., which stated that longer duration of diabetes mellitus have an increased risk of developing DR.
+
+Clinical trials including diabetes control and complications trial and Wisconsin epidemiological study of DR emphasize a strong relationship of glycemic control on the development and progression of DR. Australian Diabetes Society reported that patients with DR had significant higher glycosylated hemoglobin levels. Our study also showed a highly positive correlation between glycemic control and DR grading (P < 0.0001).
+
+High myopia, in some studies, has been suggested to have a protective effect against DR. Eyes with high myopia have longer AL and deeper ACD were less likely to have any DR. In the present study, a progressive decline in the mean AL was observed with increasing severity of DR. The correlation of AL with severity of DR was statistically significant. This was in consistent with study done by Pan et al. In a study involving 630 eyes of 367 patients, Man et al. found that eyes with longer AL had a lower risk for any DR and DME, and that longer AL served as a protective factor for DR and DME. A decrease in blood flow with an increasing AL plays an important role in protective effect against DR. Decreased blood flow reduces leakage of blood components that act as a stimuli for proliferation. Second, in patients with greater AL, there is decreased retinal function in outer retina, which reduces the metabolic demand as well as the production of inflammatory or proangiogenic cytokines. Third, posterior vitreous detachment in myopic eyes helps in removal of vitreous scaffold for neovascular proliferation and improved oxygen diffusion across liquefied vitreous.
+
+The AL/CR ratio is an aggregative indicator that reflects the shape of the globe and is more strongly associated with refractive state than AL or SE alone. The relationship of the ratio of AL/CR with DR showed that a higher AL/CR ratio was associated with a lower risk of DR. This finding showed that axial elongation is the main contributor to protective association against DR. Overall, a higher AL/CR ratio and a longer AL were protective indicators against DR.
+
+We also found that there was no significant association between ACD and DR, similar to the results of Man et al. and not in agreement with the findings of Lim et al. Although ACD is a component of AL, this finding might suggest that the major contributor to this protective effect seems to be the length of lens and vitreous chamber. A longer lens and vitreous chamber, but not a deeper ACD, leads to stretching and thinning of retinal tissues and blood vessels, resulting in reduced blood flow, which has been postulated to reduce risk of any DR. The protective effect of posterior vitreous detachment has been ascribed to the removal of the vitreous scaffold for neovascular proliferation and improved oxygen diffusion across the liquefied vitreous.
+
+The lens is a component of the anterior segment, and lens power is an important component of the refractive system. In the present study, intraocular lens power was strongly correlated with the grading of DR in severe NPDR and PDR, which could be attributable to the stronger relationship between the intraocular lens power and the AL/CR ratio. The mean ± SD of intraocular lens power was 22.78 ± 4.27 D in the study group, while in the control group, it was 21.15 ± 2.54 D. Intraocular lens power generally reduces with age in linear fashion, but intraocular lens power was consistently higher in females by around 0.73 mm.
+
+Limitations
+
+Small sample size
+
+Selection bias.
+
+Conclusion
+
+Intraocular lens power, AL/CR ratio, and AL were associated with the presence of DR. Globe elongation plays a major role in protection against DR along with the contribution of intraocular lens power and other refractive components. These findings contribute further insights into the pathogenic pathways of DR. AL and anterior chamber protect against progression to severe forms of DR.
+
+Financial support and sponsorship
+
+Nil.
+
+Conflicts of interest
+
+There are no conflicts of interest.
+
+Global burden of diabetes, 1995-2025: Prevalence, numerical estimates, and projections
+
+Global estimates of the prevalence of diabetes for 2010 and 2030
+
+Endothelial dysfunction in diabetes mellitus
+
+The Wisconsin epidemiologic study of diabetic retinopathy. II. Prevalence and risk of diabetic retinopathy when age at diagnosis is less than 30 years
+
+The Wisconsin epidemiologic study of diabetic retinopathy. III. Prevalence and risk of diabetic retinopathy when age at diagnosis is 30 or more years
+
+UKPDS 50: Risk factors for incidence and progression of retinopathy in type II diabetes over 6 years from diagnosis
+
+Serum lipids and diabetic retinopathy. Early Treatment Diabetic Retinopathy Study Research Group
+
+Biometry of the crystalline lens in early-onset diabetes
+
+Biometry of the crystalline lens in late onset diabetes: The importance of diabetic type
+
+Longer axial length is protective of diabetic retinopathy and macular edema
+
+Axial length/corneal radius ratio: Association with refractive state and role on myopia detection combined with visual acuity in Chinese schoolchildren
+
+Impovment of early detection of diabetic retinopathy-A primary care intervention sudy
+
+Is microalbuminuria a risk factor for diabetic retinopathy?
+
+High myopia and diabetic retinopathy: A contralateral eye study in diabetic patients with high myopic anisometropia
+
+Differential associations of myopia with major age-related eye diseases: The Singapore Indian Eye Study
+
+Are myopic eyes less likely to have diabetic retinopathy?
+
+Myopia and associated pathological complications
+
+Ocular oxygenation and the treatment of diabetic retinopathy
+
+Mechanisms of retinal and choroidal neovascularization
+

@@ -1,0 +1,508 @@
+TITLE: Helichrysum Genus and Compound Activities in the Management of Diabetes Mellitus
+
+The global management of diabetes mellitus (DM) involves the administration of recommended anti-diabetic drugs in addition to a non-sedentary lifestyle upon diagnosis. Despite the success recorded from these synthetic drugs, the traditional method of treatment using medicinal plants is increasingly accepted by the locals due to its low cost and the perceived no side effects. Helichrysum species are used in folk medicine and are documented for the treatment of DM in different regions of the world. This study reviews Helichrysum species and its compounds’ activities in the management of DM. An extensive literature search was carried out, utilizing several scientific databases, ethnobotanical books, theses, and dissertations. About twenty-two Helichrysum species were reported for the treatment of diabetes in different regions of the world. Among these Helichrysum species, only fifteen have been scientifically investigated for their antidiabetic activities, and twelve compounds were identified as bioactive constituents for diabetes. This present review study will be a useful tool for scientists and health professionals working in the field of pharmacology and therapeutics to develop potent antidiabetic drugs that are devoid of side effects.
+
+1. Introduction
+
+Diabetes mellitus is a very prevalent disease affecting both developed and developing countries. Concerted efforts by the International Diabetes Federation (IDF) and the American Diabetes Association (ADA) to reduce the spike in global diabetes cases and mortality have witnessed different advocacies over the past years. The IDF report shows that 463 million (9.3%) adults worldwide are suffering from diabetes, and this number is projected to increase by 51% in 2030 (578 million) and 2045 (700 million). The prevalence of diabetes varies according to geographical region, with more than 80% of diabetic patients living in low-to-middle-income countries, which poses additional challenges with ineffective treatment. Diabetes mellitus is caused by increased blood glucose levels (hyperglycemia) due to defects in insulin action, insulin secretion, or both.
+
+The two common types of diabetes (insulin-dependent (type 1) and non-insulin-dependent (type 2)) occur when the body cannot properly store and use glucose. Type 1 is reported to be common in children and is controlled by an autoimmune disorder resulting in a lack of insulin production. Type 2 diabetes is prevalent among adults, characterized by insufficient insulin production and or sensitivity to glucose uptake. Both types of diabetes can lead to life-threatening complications such as neurological conditions, cardiovascular disease, damage to blood vessels, kidney disease, and vision loss. In general, the common symptoms of diabetes mellitus include increased hunger, numbness in hands and feet, frequent urination, excessive thirst, tiredness and fatigue, blurred vision, sores that take long to heal, and sexual dysfunction in men. To date, there is no cure for diabetes; however, several efforts including the use of medicinal plants such as Helichrysum species are continuously targeted to find a permanent treatment for diabetes.
+
+1.1. Conventional Treatment of Diabetes
+
+The conventional treatment of diabetes requires oral administration of synthetic hypoglycemic agents. These synthetic hypoglycemic agents include alpha-glucosidase inhibitors (acarbose and miglitol), insulin secretagogues (meglitinides and sulfonylureas), and insulin sensitizers (thiazolidinediones, biguanides, and metformin), among others that ultimately suppress increasing plasma glucose levels (Figure 1). These drugs are known to function in two distinct ways: (1) during glucose synthesis via enzyme inhibition of glycopolymers breakdown and, (2) insulin bioavailability via the repair of β-cells of the pancreas, thereby improving insulin release and sensitivity for glucose uptake. However, despite the use of these glucose-lowering drugs for the treatment of diabetes, most of these drugs have been reported with negative side effects, such as abdominal pain, headache, dizziness, diarrhea, flatulence, and digestive discomfort. In addition, the high cost of these drugs also limits their usage. Hence, there is a need for a cheaper and more efficient drug through the application of natural products from medicinal plants with near-zero side effects.
+
+1.2. Medicinal Plants as Alternative Therapies for Diabetes
+
+In line with some drawbacks linked with the use of current glucose-lowering (antidiabetic) drugs, medicinal plants have been reported to play a significant role and serve as alternative therapies for the treatment of diabetes mellitus. This is mostly due to the presence of several antidiabetic compounds (alkaloid, phenolic, flavonoid, and tannin), thereby improving the ability of pancreatic tissues to enhance insulin secretion or reducing the intestinal absorption of glucose. In addition, the least side effects, ease of availability, and lower cost also make medicinal plants the main key players in the treatment of diabetes. Recently, the number of people with diabetes cases has been growing steadily and causing increasing concerns in most developing countries. Despite the presence of several antidiabetic drugs in the pharmaceutical market, the treatment of diabetes using medicinal plants has been recommended and often successful. In the literature, various research areas have reported the use of medicinal plants and their active components as alternative sources for the treatment of diabetes. For example, Salehi et al. reported the antidiabetic of medicinal plants and their active compounds. In the study, the authors described several medicinal plants with anti-diabetic potential. Duarte et al. also reported naturally occurring compounds from different plant extracts exhibiting inhibition of alpha-amylase, alpha-glucosidase, and related enzymes in the management of type II diabetes. Another study by IfedibaluChukwu et al. reported in vivo antidiabetic properties of isolated compounds from the methanol stem bark extract of Vernonia amygdalina using streptozotocin-induced diabetes rats. In the study, it was revealed that the isolated compound (6β, 10β, 14β-trimethylheptadecan-15α-olyl-15-O-β-d-glucopyranosyl-1,5β-olide) demonstrated a significant reduction in the blood glucose as compared to standard metformin. Studies conducted by Hasan et al. reviewed a list of medicinal plants and their compounds with proven antidiabetic activities in vivo and in vitro. The antidiabetic properties of these reported plants are often attributed to their different phytochemical constituents. Interestingly, these phytochemicals are well distributed in many species, including the Helichrysum species used in folk medicine for the management of diabetes. However, there are inadequate studies reporting on Helichrysum species and their compounds used for the treatment of diabetes. Considering the traditional use of Helichrysum species in many parts of the world for the treatment of diabetes, the current study was undertaken to review the Helichrysum genus on species used in the management of diabetes and identify the bioactive constituents with reported antidiabetic activities. This review study is expected to identify the present knowledge gap and provide an important baseline for future studies.
+
+2. Results and Discussions
+
+2.1. An Overview of Ethnobotanical and Pharmacological Relevance of Helichrysum Genus
+
+The Helichrysum genus encompasses typically aromatic herbs and shrubs with dense leaves that belong to the family of Asteraceae. The genus is widely distributed worldwide but is mostly found in Africa, with its highest diversity in South Africa, where about 500 known species occur. The plants belonging to this genus are well-known as everlasting flowers with leaves oblong to lanceolate. They have been in use for more than 3000 years for various folkloric purposes. In traditional medicine, some Helichrysum plant parts are either drunk as teas or prepared as “burnt offering” smoke to appeal for blessings from the ancestors and are used to purify the home of the sick patients. In addition, the plant from the Helichrysum genus has also been reported in traditional medicine for the treatment of several ailments, including stomach pain, gall bladder problems, jaundice, colds, wound healing, diabetes mellitus, skin infections, and asthma. Nevertheless, with the emergence of scientific data on the use of Helichrysum species in the last few decades, some of the reported traditional claims have been scientifically supported. To mention a few, Tirillini et al. reported the antioxidant activity of methanol extract of Helichrysum foetidum from east Africa. Additionally, research conducted by Matić et al. revealed the antitumor potential of Helichrysum zivojinii extract. Another study conducted by Süzgeç-Selçuk and Birteksöz reported the antimicrobial actions of flavonoids isolated from Helichrysum chasmolycicum. Ranaivoarisoa et al. also reported the anti-plasmodial effect of Helichrysum gymnocephalum from Southern Africa. The anti-inflammatory activity of Helichrysum stoechas extracts from north Africa has also been reported among others. It is imperative to note that several plants belonging to the Helichrysum genus have been more extensively researched for various bioactivities than their role as antidiabetic agents.
+
+2.2. Antidiabetic Potentials of Helichrysum Species and Metabolites in Folk Medicine
+
+Several Helichrysum species used for the treatment of diabetes have been identified in the literature (Table 1). Despite this, not all have been scientifically investigated for their antidiabetic activity (Table 2). In addition, only a few compounds obtained from these Helichrysum species have been shown to exhibit antidiabetic activity (Figure 2). Thus, in this section, a comprehensive description of plant species belonging to the genus Helichrysum used in the management of diabetes along with the compounds displaying antidiabetic activity will be elaborated.
+
+2.2.1. Helichrysum arenarium
+
+Description and Ethnobotanical Usage
+
+Helichrysum arenarium (Figure 3) is a perennial herb that grows up to 50 cm in height with a robust and short rhizome. The stem of the plant is generally branched at the upper part and carries alternate leaves of about 2 to 5 cm in length. H. arenarium is widely dispersed in Europe, Central Asia, and China. The plant is well known in traditional medicine. The decoction from the aerial parts of H. arenarium is used for the treatment of diabetes. The flowers are also reported to contain constituents and bitter substances used to promote gastric and pancreatic secretion. In addition, the infusions of the H. arenarium inflorescence are also used in the treatment of gallbladder disorders (rheumatism, cystitis, gout, arthritis).
+
+Toxicity
+
+Kramberger et al. documented the toxicity of H. arenarium. In the study, the authors revealed that the aqueous extract was only toxic at the highest concentration (5%, v/v) against lymphoma (U937) cells, while the same extract displayed toxicity even at 1% (v/v) concentration in both the human colorectal adenocarcinoma (Caco-2) and primary colon fibroblast (CCD112CoN) cell lines.
+
+In Vitro Antidiabetic Study
+
+Research conducted by Morikawa et al. showed that the methanol extract of H. arenarium inhibited the dipeptidyl peptidase-IV (DPP4) activity with an IC50 value of 41.2 µg/mL.
+
+In Vivo Antidiabetic Study
+
+The in vivo antidiabetic studies conducted by Morikawa et al. also revealed that the extract showed significant inhibition against the increase in blood glucose levels in sucrose-loaded mice at a concentration of 500 mg/kg.
+
+Antidiabetic Activity of Isolated Compounds
+
+Two compounds, chalconaringenin 2′-O-β-D-glucopyranoside (isosalipurposide, 1) and aureusidin 6-O-β-d-glucopyranoside (2), obtained from the methanol flower extract of H. arenarium have been reported to exhibit strong inhibition against DPP4 enzyme activity, with IC50 values of 23.1 and 24.3 μM, respectively. The percentage composition of compounds 1 and 2 was reported to be 0.013% and 0.0025%, respectively.
+
+2.2.2. Helichrysum aureum
+
+Description and Ethnobotanical Usage
+
+Helichrysum aureum (Figure 4) is a perennial plant with a woody rootstock and rosette of radical leaves. It has flowering stems of 0.1–0.6 m in height with small leaves. H. aureum is native to Swaziland, Zimbabwe, Angola, South Africa, and Mozambique. In South Africa, it is broadly dispersed in the Cape provinces, KwaZulu-Natal, and Free State. Traditionally, H. aureum is used by the people of Basotho for the treatment of diabetes.
+
+Toxicity
+
+The cytotoxicity study reported by Lourens et al. revealed that the chloroform:methanol (1:1) extract of H. aureum displayed cytotoxic effects toward transformed human kidney epithelial (Graham) cells, breast adenocarcinoma (MCF-7), and glioblastoma (SF-268) cells at the tested concentration (0.1 mg/mL) with inhibition of 5%, 7%, and 35%, respectively.
+
+In Vitro Antidiabetic Study
+
+The literature surveys revealed no reported scientific validation of the in vitro antidiabetic activity of H. aureum.
+
+In Vivo Antidiabetic Study
+
+To date, there are no reported in vivo studies of any extracts from H. aureum.
+
+Antidiabetic Activity of Isolated Compounds
+
+Literature survey revealed no reports on the antidiabetic activity of compounds from H. aureum.
+
+2.2.3. Helichrysum caespititium
+
+Description and Ethnobotanical Usage
+
+Helichrysum caespititium (Figure 5) is a perennial creeping plant of 10 to 20 cm in height. The leaves of the plant are linear, clutching at the base and hairy on both sides, while its flowers are white to yellow. H. caespititium is broadly distributed in Lesotho, Zimbabwe, South Africa, and Swaziland. In South Africa, the whole plant of H. caespititium is cooked and then used to alleviate diabetes mellitus. Additionally, the plant is also used for the treatment of some medical conditions such as wounds, ulceration, skin infection diseases, nausea, tuberculosis, bronco-pneumonia, and sexually transmitted infections.
+
+Toxicity
+
+Research conducted by Mamabolo et al. reported the toxicity of H. caespititium. The findings of the study showed that the whole plant extracts (hexane, dichloromethane, methanol, and aqueous extracts) of H. caespititium had low-to-high toxic effects in rat hepatoma (H411E) cell lines. In the study, the highest toxicity was reported for the dichloromethane whole plant extract of H. caespititium with a lethal concentration 50 (LC50) value of 82.86 μg/mL compared to the standard control, doxorubicin (LC50 = 10.80 μg/mL).
+
+In Vitro Antidiabetic Study
+
+It is imperative to note that the in vitro antidiabetic activity of H. caespititium has not been scientifically investigated.
+
+In Vivo Antidiabetic Study
+
+To date, there has been no report on the in vivo antidiabetic activity of H. caespititium in the literature.
+
+Antidiabetic Activity of Isolated Compounds
+
+Presently, information on the antidiabetic activity of isolated compound from H. caespititium is very scanty in the literature.
+
+2.2.4. Helichrysum graveolens
+
+Description and Ethnobotanical Usage
+
+Helichrysum graveolens (Figure 6) is an herbaceous plant belonging to the Helichrysum genus, with grey-bushy foliage and thin everlasting flower-heads. The plant is native to Eastern Europe, Caucasus, Turkey, Iran, and South Africa. Traditionally, the decoction from H. graveolens has been reported to be active in the treatment of diabetes mellitus in several regions of South Africa, Anatolia, and Turkey. The capitulums of the plant are also reported to be consumed for the treatment of jaundice, diuretic, and wound healing in the rural districts of Anatolia.
+
+Toxicity
+
+Studies on the toxicity of H. graveolens revealed no toxicity activity displayed by the plant against the tested cells. Kutluk et al. investigated and reported that the whole plant aqueous and ethanol extracts were not toxic to Vero African green monkey kidney cell lines, even at the highest tested concentration of 64 µg/mL. Yazdi et al. supported these results, whereby they reported no toxicity effects of the aerial parts aqueous extract of H. graveolens in C26 colon carcinoma cells up to 5.0 µg/mL concentration.
+
+In Vitro Antidiabetic Study
+
+Several reports have confirmed the antidiabetic activities of H. graveolens. Orhan et al. revealed that the hydroethanolic extract from H. graveolens exhibited 55.7% inhibition at a concentration of 3000 µg/mL against alpha-amylase enzyme. In the same study, the authors also showed that the same extract demonstrated significant inhibition against the alpha-glucosidase enzyme with IC50 values of 0.7129 mg/mL.
+
+In Vivo Antidiabetic Study
+
+A study by Aslan et al. showed that the aqueous and ethanol extracts of H. graveolens significantly reduced blood glucose levels in streptozotocin-induced diabetic rats at a 500 mg/kg dose concentration.
+
+Antidiabetic Activity of Isolated Compounds
+
+A literature search revealed no report of antidiabetic compounds from H. graveolens.
+
+2.2.5. Helichrysum gymnocomum
+
+Description and Ethnobotanical Usage
+
+Helichrysum gymnocomum (Figure 7) is a straggling aromatic perennial herb with pleasantly scented flowers. The stems of the plant are often decumbent and rooting at the base while the leaves are very variable and pleasantly scented. H. gymnocomum grows abundantly in the Eastern Cape and KwaZulu-Natal provinces of South Africa. In addition, the plant is also native to Lesotho. Traditionally, the decoction of the fresh leaves of the plant is taken orally for the treatment of diabetes.
+
+Toxicity
+
+An extensive search of the literature at the time of compiling this review revealed no scientific report on the toxicity activity of H. gymnocomum.
+
+In Vitro Antidiabetic Study
+
+No reported in vitro studies were found in the literature.
+
+In vivo antidiabetic study
+
+No reported in vivo studies were found in the literature.
+
+Antidiabetic activity of isolated compounds
+
+Bioactive constituents in diabetes from H. gymnocomum are yet to be reported.
+
+2.2.6. Helichrysum italicum
+
+Description and Ethnobotanical Usage
+
+Helichrysum italicum (Figure 8) is a small evergreen shrub that grows on dry, rocky, and sandy ground. It has small leaves with a revolute margin and woody stems at the base and is 60 cm or more in height. H. italicum is native to Mediterranean countries such as Turkey, Portugal, Italy, and Greece. The infusion or decoction of the plant is traditionally used for the treatment of diabetes. In addition, infusion and decoction are also used to treat dermatologic, digestive, and respiratory disorders.
+
+Toxicity
+
+Toxicity studies involving H. italicum have mainly been concerted in vitro. Kramberger et al. evaluated cell viability on lymphoma cell line (U937), adenocarcinoma cell line (Caco-2), and primary colon fibroblasts (CCD112CoN) after exposure to the aerial parts infusion of H. italicum. The study reported that the infusion was not toxic up to 5% v/v concentration in U937 cells, whereas for Caco-2 it was toxic at 1% v/v. A higher concentration (2% v/v) was toxic for CCD112CoN cells than for cancerous cell line Caco-2. Staver et al. and Gismondi et al. independently showed that H. italicum essential oil exhibited toxicity effects against HeLa human cervix adenocarcinoma (IC50 = 0.075 mg/mL) and MCF-7 human breast cancer (IC50 = 0.057 mg/mL) cells, as well as B16F10 murine melanoma, respectively, in a dose-dependent manner. Nostro et al., in their research study assessing the genotoxicity of H. italicum, found that the diethyl ether extract of the plant exhibited no DNA damaging activity, even at the highest concentration (2000 g/disc).
+
+In Vitro Antidiabetic Study
+
+Research on the in vitro antidiabetic activity of H. italicum has been investigated. The study conducted by Pereira et al. revealed that the water-based preparation (infusion and decoction) from H. italicum flowers exhibited moderate inhibition of alpha-glucosidase activity compared to the control at 10 mg/mL. In the research study by de la Garza et al., the methanol:water (1:1) extract of H. italicum was reported to exhibit significant inhibitory activity against both alpha-glucosidase and alpha-amylase enzymes, with IC50 values of 0.19 and 0.83 mg/mL, respectively. Aćimović et al., in their research study, showed that H. italicum essential oil had strong inhibitory activity on alpha-glucosidase enzyme (62.02%) at the tested concentration (250 mg/mL).
+
+In Vivo Antidiabetic Study
+
+The in vivo study reported by de la Garza et al. demonstrated that H. italicum methanol:water (1:1) extract reduced blood glucose levels, thereby improving postprandial glycemic control in rats. In a separate study, it was shown by the authors that the methanol:water (3:1) extract of H. italicum ameliorated hyperglycaemia in db/db mice. Another research study revealed that the methanol:water (3:1) extract of H. italicum markedly reduced hyperinsulinemia and insulin resistance induced by high-fat sucrose (HFS) diet in insulin-resistant rats (at 2 g/kg concentration).
+
+Antidiabetic Activity of Isolated Compounds
+
+Presently, no studies have been reported on the antidiabetic activity of isolated compounds from H. italicum.
+
+2.2.7. Helichrysum nudifolium
+
+Description and Ethnobotanical Usage
+
+Helichrysum nudifolium (Figure 9) is a fast-growing plant with a light-yellow inflorescence and shiny green leaves. The plant’s flowering stalks can reach 1.5 m in height. It is very easy to grow in the garden and is widely found in South Africa. In South Africa, it is one of the most important species culturally, medicinally, and historically. Traditionally, the fresh leaves or roots of H. nudifolium are boiled and taken orally for the treatment of diabetes. Additionally, the leaves and roots are also used as traditional medicine for wound dressing, internal sores, and chest complaints.
+
+Toxicity
+
+The study conducted by Lourens et al. showed that the chloroform: methanol (1:1) extract of the plant displayed cytotoxicity activity with 73%, 83%, and 35% inhibitions, respectively, against transformed human kidney epithelial (Graham) cells, glioblastoma (SF-268) cells, and breast adenocarcinoma (MCF-7) at the tested concentration (0.1 mg/mL). Mokoka et al., however, revealed that the whole plant dichloromethane:methanol (1:1) extract of H. nudifolium had low toxicity in rat myoblast L6 cells with a reported IC50 value of 47.7 µg/mL.
+
+In Vitro Antidiabetic Study
+
+The literature search revealed no reported in vitro antidiabetic activity of H. nudifolium.
+
+In Vivo Antidiabetic Study
+
+To date, there are no reported in vivo antidiabetic activities of H. nudifolium.
+
+Antidiabetic activity of isolated compounds
+
+Regrettably, there are no reports on the antidiabetic activity of the isolated compounds from H. nudifolium.
+
+2.2.8. Helichrysum odoratissimum
+
+Description and Ethnobotanical Usage
+
+Helichrysum odoratissimum (Figure 10) is an aromatic, branched perennial plant with small grey leaves. The leaves of the H. odoratissimum vary from linear-oblong, lingulate, to lanceolate. This plant has a yellow flowerhead borne in clusters at the tips of the twigs. H. odoratissimum is broadly found in South Africa, Mozambique, Zimbabwe, Lesotho, and Malawi. In South Africa, it is found in the Eastern Cape across the mountains and coastal areas. In traditional medicine, the infusion from the whole plant is taken orally to treat diabetes. In Lesotho, the whole plant part is mixed with other plants as herbal medicine to treat backache.
+
+Toxicity
+
+Studies on the toxicity of H. odoratissimum were documented by Lourens et al. and Twilley et al.. Lourens et al. found the leaf and stem chloroform:methanol (1:1) extract of H. odoratissimum to be toxic against glioblastoma (SF-268) cells, transformed human kidney epithelial (Graham) cells, and breast adenocarcinoma (MCF-7) at 0.1 mg/mL, thereby displaying 48%, 17%, and 7.4% toxicity, respectively. While research conducted by Twilley et al. revealed that the ethanol (100%) leaf and stem extract of H. odoratissimum exhibits toxicity against malignant melanoma (A 375), human embryonic kidney (HEK-293), human epidermoid carcinoma (A 431), and cervical epithelial carcinoma (HeLa) cell lines, with IC50 values at 55.5, 37.1, 33.1, and 15.5 µg/mL, respectively.
+
+In Vitro Antidiabetic Study
+
+Comprehensive search of the literature revealed no reports of in vitro antidiabetic activity of H. odoratissimum.
+
+In Vivo Antidiabetic Study
+
+The in vivo antidiabetic activity of the aqueous leaf extract of H. odoratissimum in alloxan-induced rats was demonstrated by Ngagi et al.. The results indicated that the H. odoratissimum extract substantially lowered blood glucose levels in diabetic rats in a non-dose-dependent manner (between 50 to 150 mg/kg body weight).
+
+Antidiabetic Activity of Isolated Compounds
+
+To date, there are no reported studies involving the antidiabetic activity of the compounds from H. odoratissimum.
+
+2.2.9. Helichrysum platicum
+
+Description and Ethnobotanical Usage
+
+Helichrysum plicatum (Figure 11) is a species belonging to the Helichrysum genus with simple and broad leaves. It is an herbaceous perennial plant that grows up to 0.24 m in height. H. platicum is widely found in Balkan, Iran, and Anatolian Peninsulas. The infusion prepared from the plant is used to suppress diabetes symptoms.
+
+Toxicity
+
+Eroglu et al. reported that the methanol (100%) flower extract of H. platicum exhibits toxicity properties in human lymphocytes at 0.5 mg/mL concentration. A separate study conducted by Bigović et al. documented moderate toxicity of the ethanol (100%) and ethyl acetate: ethanol (100:0) flower extracts of the plant against human cervix adenocarcinoma cells (HeLa), prostate cancer (PC3) cells, and myelogenous leukemia (K562) cells, with IC50 values at 42.1 ± 0.05, 39.2 ± 1.1, and 25.9 ± 1.5 µg/mL, respectively.
+
+In Vitro Antidiabetic Study
+
+To the best of our knowledge, there are no reported of in vitro antidiabetic studies of H. plicatum.
+
+In Vivo Antidiabetic Study
+
+A research study indicated by Aslan et al. revealed the in vivo antidiabetic activity of H. plicatum aqueous and ethanol extracts in normal and streptozotocin-induced diabetic rats. In the study, the results showed that the aqueous and ethanol extracts demonstrated significant antihyperglycemic activity at a concentration of 500 mg/kg body weight as compared with tolbutamide used as a positive control.
+
+Antidiabetic Activity of Isolated Compounds
+
+A comprehensive literature search showed that compounds such as isosalipurposide (102 mg), helichrysin A (87 mg), helichrysin B (220 mg), apigenin (300 mg), astragalin (28 mg), β-sitosterol (35 mg), β-sitosterol-3-O-β-d-glucopyranoside (25 mg), and nonacosanoic acid (15 mg), isolated from H. platicum methanol extract have been reported to exhibit alpha-glucosidase activity.
+
+2.2.10. Helichrysum petiolare
+
+Description and Ethnobotanical Usage
+
+Helichrysum petiolare (Figure 12) is a vigorous shrub with silver-gray hair covering the aromatic round-shaped leaf. It is one of the well-known and most used members of the Helichrysum genus. The plant grows to about 0.5 to 1 m in height with its flower whitish-cream in color. H. petiolare is found in the drier inland parts of South African provinces, such as the Eastern Cape and KwaZulu-Natal. In South African traditional medicine, the infusion of the whole plant is taken orally to treat diabetes. In addition, the decoction of the leaves of H. petiolare is used to improve skin texture and for wound healing.
+
+Toxicity
+
+An extensive search of the literature revealed at least three documented studies investigating the toxicity of H. petiolare. Lourens et al. reported that the chloroform:methanol (1:1) extract of H. petiolare had toxic effects on glioblastoma (SF-268), transformed human kidney epithelial (Graham), and breast adenocarcinoma (MCF-7) cells at 0.1 mg/mL, showing 76%, 59%, and 33% activity, respectively. The work of Aladejana et al. revealed that the whole plant ethanol extract of H. petiolare demonstrated significant toxicity in L6 myocytes cells and HepG2 (C3A) hepatocytes at 100 μg/mL concentration. Sagbo and Otang-Mbeng in their toxicity assessment of the methanol extract of H petiolare also reported that the extract was toxic against B16F10 mouse melanoma cells and MeWo human melanoma cells in a dose-dependent manner. The same group also reported the genotoxicity of the plant extract (methanol) against the Vero cell line at the highest three concentrations tested (50, 100, and 200 µg/mL).
+
+In Vitro Antidiabetic Study
+
+The in vitro antidiabetic potential of H. petiolare using human hepatoma (HepG2/C3A) and rat skeletal (L6) myoblast cell lines has been shown. The results of the study indicated that the whole plant boiled and cold aqueous extracts of H. petiolare significantly increased glucose uptake in L6 and HepG2/C3A cell lines at 25 µg/mL and 50 µg/mL, respectively. In the same study, it was also indicated that the extracts inhibited alpha-amylase and alpha-glucosidase activities in a dose-dependent manner as compared to the respective positive controls. In another study, the aqueous acetone extract of H. petiolare was shown to display an increased glucose uptake in HepG2 cells in a concentration-dependent manner and had moderate inhibitory effects against alpha-amylase and alpha-glucosidase activity compared to the acarbose, the positive control used in the study.
+
+In Vivo Antidiabetic Study
+
+To the best of our knowledge, there are no antidiabetic studies reported in vivo.
+
+Antidiabetic Activity of Isolated Compounds
+
+The compounds of H. petiolare displaying antidiabetic activity are yet to be reported.
+
+Helichrysum species used in the management of diabates mellitus.
+
+S/N	Helichrysum Species	Plant Part Used	Mode of Preparation	Country Used for Diabetes	Reference	 	1	Helichrysum arenarium (L.) Moench	Aerial part	The aerial parts are used to make a decoction which is then taken orally	Turkey		 	2	Helichrysum armenium DC. subsp. Armenium	Aerial parts	The decoction from the aerial parts is then taken orally	Turkey		 	3	Helichrysum aureum (Houtt.) Merr.	Leaves	The crude (aqueous extract) is taken orally	South Africa, Mozambique, Zimbabwe, Lesotho, and Swaziland		 	4	Helichrysum caespititium (DC.) Harv.	Whole plant	The whole plant is cooked and then taken orally	South Africa		 	5	Helichrysum chionophilum Boiss. & Balansa 	Unspecified	Unspecified	Turkey		 	6	Helichrysum crispum (L.) D. Don	Unspecified	The infusion is taken orally	South Africa		 	7	Helichrysum cymosum (L.) D. Don subsp. cymosum	Unspecified	Unspecified	South Africa		 	8	Helicrysum devium J.Y. Johnson	Unspecified	Unspecified	Portugal		 	9	Helichrysum foetidum (L.) Moench	Unspecified	Unspecified	South Africa		 	10	Helichrysum graveolens (Bieb.) Sweet	Capitulums	The capitlums decoction is taken orally	Anatolia, Turkey, and South Africa		 	11	Helichrysum gymnocomum DC var. acuminatum DC.DC.	Leaves	The leaves are used to make a decoction and then taken orally.	South Africa		 	12	Helichrysum italicum (Roth) G. Don	Unspecified	The infusion is taken orally	Turkey, Portugal, Italy, and Greece		 	13	Helichrysum melaleucum Rchb. Ex Holl	Unspecified	Unspecified	Portugal		 	14	Helichrysum monizii Lowe.	Unspecified	Unspecified	Portugal		 	15	Helichrysum nudifolium (L.) Less. 	Leaves, roots	The decoction prepared from the leaves or roots is taken orally.	South Africa		 	16	Helichrysum obconicum DC.	Unspecified	Unspecified	Portugal		 	17	Helichrysum odoratissimum (L.) Sweet	Whole plant	The whole plant parts are used to make a decoction which is then taken orally	South Africa		 	18	Helichrysum pallasii (Sprengel) Ledeb	Leaf, Flower	The leaf or flower is used to make Infusion which is then taken orally	Turkey		 	19	Helichrysum plicatum DC.	Flower	The flower is used to make infusion where is then taken orally	Solhan, Anatolia, and Turkey		 	20	Helichrysum petiolare Hilliard & B.L. Burtt	Whole plant	The infusion prepared from the fresh plant is taken orally.	South Africa		 	21	Helichrysum sanguineum (L.) Kostel.	Unspecified	Unspecified	Palestine		 	22	Helichrysum stoechas (L.) Moench	Unspecified	Unspecified	Spain
+
+Reported antidiabetic activities of Helichrysum species.
+
+S/N	Helichrysum Species	Plant Part Used	Extract	Antidiabetic Isolated Compounds	Toxicity	Antidiabetic Mechanism of Action	Model	Reference	 	1	H. arenarium	Flowers	Methanol	Isosalipurposide (1), aureusidin 6-O-β-d-glucopyranoside (2)	Toxic to Caco-2 and CCD112CoN at 1% v/v concentration	Inhibit Dipeptidyl peptidase-4 (DPP-4) activity and inhibitory effect against the increase in blood glucose levels in sucrose-loaded mice at 500 mg/kg concentration	In vitro and in vivo		 	2	H. aureum	*	*	*	Displayed cytotoxic effects toward Graham, MCF-7, and SF-268 cells at 0.1 mg/mL	*	*		 	3	H. caespititium	*	*	*	The dichloromethane extract has moderate toxicity toward H411E cell at 82.86 µg/mL concentration	*	*		 	4	H. chionophilum	Flowers and stem	Ethanol, methanol, and ethyl acetate	*	*	Inhibit alpha-glucosidase (between 3.77 to 25.42 mmol) and alpha-amylase (between 149.16 to 193.36 mmol) activities	In vitro		 	5	H. cymosum (L.) D. Don subsp. cymosum	Aerial parts	Methanol	Allopatuletin (3), dihydrobaicalein (4), helichrysetin (5)	Displayed cytotoxicity towards transformed human kidney epithelial cells at 17.47 µg/mL	Inhibit alpha-glucosidase activity between 14 to 44 µM concentrations	In vitro		 	6	H. devium	Leaves, flowers	Methanol	*	Toxic to Brin shrimp larvae between 2.36 to 4.85 µg/mL 	Inhibit alpha-glucosidase (between 1.44 to 2.13 mg/mL) and alpha-amylase (between 1.85 to 2.39 mg/mL) activities	In vitro		 	9	H. foetidum	Leaves, flowers	Methanol	Helichrysetin (5)	Reported toxicity to Ha-CaT keratinocytes cells between 20 to 100 µg/mL	Inhibit alpha-glucosidase activity between 19.4 to 27.3 µg/mL	In vitro		 	10	H. graveolens	Capitulums	Ethanol, hydro-ethanolic and water	*	Not cytotoxic in Vero African green monkey kidney (up to 64 µg/mL) and C26 cells (up to 5.0 µg/mL)	Reduction of blood glucose levels in streptozotocin-induced diabetic rat (at 500 mg/kg), inhibition against alpha-glucosidase (at 0.7129 mg/mL), and alpha-amylase (at 3 mg/mL) activities	In vitro and in vivo		 	11	H. italicum	Flowers	Methanol-water	*	Toxic to U937 cell line (at 5% v/v concentration), Caco-2 cell line (at 1% v/v concentration), CCD112CoN cell line (at 2% v/v concentration), HeLa cell line (at 0.075 mg/mL), MCF-7 cell line (0.057 mg/mL), and B16F10 cell line	The inhibition against alpha-glucosidase (IC50 = 0.19 mg/mL) and alpha-amylase (IC50 = 0.83 mg/mL) activities and reduction of blood glucose levels in rats (at 2g/kg dose concentration)	In vitro and in vivo		 	12	H. melaleucum	Leaves, flowers	Methanol	*	Toxic to Brin shrimp larvae between 0.18 to 7.64 µg/mL concentrations	Inhibit alpha-glucosidase (between 0.99 to 0.125 mg/mL) and alpha-amylase (between 1.71 to 2.15 mg/mL) activities	In vitro		 	13	H. monizii	Aerial parts	Methanol	*	*	Inhibit alpha-glucosidase (at 2.76 mg/mL) and alpha-amylase (4.29 mg/mL) activities	In vitro		 	14	H. nudifolium	*	*	*	Exhibits cytotoxicity effects to Graham (at 0.1 mg/mL), SF-268 (at 0.1 mg/mL), MCF-7 (at 0.1 mg/mL), and rat myoblast L6 cells (IC50 = 47.7 µg/mL)	*	*		 	15	H. obconicum	Leaves	Methanol	*	Toxic to Brin shrimp larvae between 0.57 to 15.0 µg/mL concentrations	Inhibit alpha-glucosidase (at 1.35 mg/mL) and alpha-amylase (at 2.48 mg/mL) activities	In vitro		 	16	H. odoratissimum	Leaves	Aqueous	*	Shows toxicity to SF-268 (at 0.1 mg/mL), Graham (at 0.1 mg/mL), MCF-7 (at 0.1 mg/mL), A375 (IC50 = 55.5 µg/mL), HEK-293 (IC50 = 37.1 µg/mL), A431 (IC50 = 33.1 µg/mL), and HeLa (IC50 = 15.5 µg/mL) cells	Reduction of blood glucose level in the diabetes rat between 50 to 150 mg/kg dose concentration	In vivo		 	17	H. plicatum	Capitulums	Aqueous and ethanol	Isosalipurposide (1), helichrysin A (6), helichrysin B (7), apigenin (8), astragalin (9), β-sitosterol (10), β-sitosterol-3-glucoside (11), and nonacosanoic acid (12)	Exhibits toxicity effects against HeLa (IC50 = 42.1 µg/mL), PC3 (IC50 = 39.2 µg/mL), K562 (IC50 = 25.1 µg/mL), and human lymphocytes (at 0.5 mg/mL)	Reduction of blood glucose levels in streptozotocin-induced diabetic rat at 500 mg/mL dose concentration	In vivo		 	18	H. petiolare	Whole plant	Aqueous	*	Toxic to SF-268 (at 0.1 mg/mL), Graham (0.1 mg/mL), MCF-7 (at 0.1 mg/mL), HepG2 (C3A), L6 (at 100 µg/mL), B16F10 (between 25 to 100 µg/mL), MeWo (between 12.5 to 100 µg/mL), and Vero cells (between 50 to 200 µg/mL)	Enhance glucose uptake in L6 (at 25 µg/mL) and C3A (at 50 µg/mL) cell line	In vitro		 	19	H. sanguineum	Aerial parts	Aqueous	*	Reported to be toxic at high concentrations on human lymphocyte cells at 0.5 mg/mL concentration	Inhibit alpha-amylase activity with an IC50 = 28.1 µg/mL	In vitro		 	20	H. stoechas	Aerial parts	Methanol 	*	Moderate toxicity was reported at the highest concentration (1 mg/mL) in HeLa cells	Inhibit alpha-amylase (between 0.46 to 0.63 mmol), alpha-glucosidase (IC50 = 481.0 µg/mL), and DPP-4 activity (IC50 = 81.7 µg/mL)	In vitro
+
+* = Not available.
+
+3. Material and Methods
+
+A comprehensive literature survey was carefully conducted from August 2021 to February 2022. A report about the Helichrysum genus used traditionally in the management of diabetes was retrieved from various scientific databases such as Science Direct, Medline, Scopus, Web of Science, PubMed, Google Scholar, and Medline. In addition, ethnobotanical books, theses, and dissertations were also retrieved from various university libraries. The keywords and terms used during the search to obtain relevant articles or research papers were “Helichrysum species”, “diabetes”, “traditional medicine”, and “ethnopharmacology”.
+
+4. Conclusions and Recommendations
+
+The present study reviews the Helichrysum genus and its compounds’ activities in the management of diabetes mellitus. Out of the twenty-two Helichrysum species reported for the management of diabetes, only fifteen species have been scientifically evaluated, and many of these reported species exhibited their antidiabetic through inhibition of carbohydrate hydrolyzing enzymes (alpha-amylase and alpha-glucosidase) and reduction of blood glucose levels in streptozotocin-induced diabetic rats. The antidiabetic effects of these plants are attributed to several antidiabetic compounds, and only a few bioactive compounds have been identified in some species. However, it is worth noting that effort should be made to isolate more antidiabetic compounds from these species. In addition, an effort also needs to be devoted to the mechanism of antidiabetic action (in vitro and in vivo studies) of many previously explored and unexplored Helichrysum species.
+
+Publisher’s Note: MDPI stays neutral with regard to jurisdictional claims in published maps and institutional affiliations.
+
+Author Contributions
+
+Conceptualization, W.T.M. and A.A.H.; writing—original draft, A.O.A., I.J.S. and M.M.; editing, I.J.S., M.M., W.T.M. and A.A.H.; supervision, W.T.M. and A.A.H. All authors have read and agreed to the published version of the manuscript.
+
+Institutional Review Board Statement
+
+Not applicable.
+
+Informed Consent Statement
+
+Not applicable.
+
+Data Availability Statement
+
+Not applicable.
+
+Conflicts of Interest
+
+The authors declare no conflict of interest.
+
+References
+
+IDF Diabates Atlas
+
+Pathophysiology of Type 2 diabetes Mellitus
+
+Report of the Expert Committee on the Diagnosis and Classification of Diabetes Mellitus
+
+A review of α-amylase inhibitors on weight loss and glycemic control in pathological state such as obesity and diabetes
+
+Relationship between hyperglycemia, antioxidant capacity and some enzymatic and non-enzymatic antioxidants in African patients with type 2 diabetes
+
+Dipsogenic diabetes insipidus: Report of a novel treatment strategy and literature review
+
+Natural products for type II diabetes treatment
+
+Natural products as a potential sources of antidiabetic drugs
+
+The potential of chalcone-capped gold nanoparticles for the management of diabetes mellitus
+
+Recent discovery of plant-derived anti-diabetic natural products
+
+Medicinal plants used for treatment of diabetes by the Marakh Sect of the Garo Tribe living in Mymensingh district, Bangladesh
+
+Traditional medicinal plants used for the treatment of diabetes in rural and urban areas of Dhaka, Bangladesh—An ethnobotanical survey
+
+Medicinal plants used for the traditional management of diabetes in the Eastern cape, South Africa:pharmacology and toxicology
+
+The role of medicinal plants in the treatment of diabetes: A systematic review
+
+Traditional medicine and Its role in the management of Diabetes mellitus: “patients’ and herbalists’ perspectives”
+
+Isolation and characterization of bioactive compounds from plant resources: The role of analysis in the ethnopharmacological approach
+
+Diabetes mellitus and nature’s pharmacy of putative antidiabetic plants
+
+Antidiabetic potential of medicinal plants and their active components
+
+Phytopharmacological strategies in the management of type 2 diabetes mellitus
+
+Antidiabetic, anthelmintic and antioxidation properties of novel and new phyto compounds isolated from the methanolic stem-bark of Vernonia amygdalina Delile (Asteraceae)
+
+Animal models and natural products to investigate in vivo and in vitro antidiabetic activity
+
+Potential antidiabetic phytochemicals in plant roots: A review of in vivo studies
+
+Medicinal properties and In vitro biological activities of selected Helichrysum species from South Africa: A review
+
+Helichrysum italicum: From traditional use to scientific data
+
+A new acetophenone derivative from flowers of Helichrysum italicum (Roth) Don ssp. italicum
+
+Helichrysum caespititium (DC.) Harv.: Review of its medicinal uses, phytochemistry and biological activities
+
+Antioxidant activity of methanol extract of Helichrysum foetidum Moench
+
+In vitro antitumor actions of extracts from endemic plant Helichrysum zivojinii
+
+Flavonoids of Helichrysum chasmolycicum and its antioxidant and antimicrobial activities
+
+Antiplasmodial Activity of the Extracts and Flavonoids Isolated from Helichrysum gymnocephalum Humbert (Asteraceae) from Madagascar
+
+Phytochemical analysis, antioxidant and anti-inflammatory activities of Helichrysum stoechas (L.) Moench extracts
+
+Sandy everlasting (Helichrysum arenarium (L.) Moench): Botanical, chemical and biological properties
+
+Medicinal plants of the Russian Pharmacopoeia; their history and applications
+
+Plants of the World Online
+
+A comparative study of the antioxidative effects of Helichrysum italicum and Helichrysum arenarium infusions
+
+Dipeptidyl peptidase-IV inhibitory activity of dimeric dihydrochalcone glycosides from flowers of Helichrysum arenarium
+
+Antidiabetic medicinal plants used by the Basotho Tribe of Eastern Free State: A Review
+
+Red List of South African Plants
+
+Antimicrobial activity and in vitro cytotoxicity of selected South African Helichrysum species
+
+In vitro inhibition of drug-resistant and drug-sensitive strains of Mycobacterium tuberculosis by Helichrysum caespititium
+
+Cytotoxic and antibacterial activity of selected medicinal
+
+Flora of Zimbabwe: Species Information: Individual Images: Helichrysum caespititium
+
+Evaluation of antigonorrhea activity and cytotoxicity of Helichrysum caespititium (DC) Harv. whole plant extracts
+
+A study of antidiabetic and antioxidant effects of Helichrysum graveolens Capitulums in Streptozotocin-Induced Diabetic Rats
+
+Plants of the World Online
+
+Antibacterial, antifungal and antiviral bioactivities of selected Helichrysum species
+
+Green synthesis of silver nanoparticles using Helichrysum graveolens for biomedical applications and wastewater treatment
+
+Enzyme inhibitory and radical scavenging effects of some antidiabetic plants of Turkey
+
+Antimicrobial acylphloroglucinols and dibenzyloxy flavonoids from flowers of Helichrysum gymnocomum
+
+Ethnobotanical survey of medicinal plants used for the management of diabetes mellitus in the Nkonkobe municipality of South Africa
+
+FOSTER (The Friends of the St Francis Nature Areas)
+
+Volatile constituents of four Helichrysum species growing in Greece
+
+Chemical profiling of infusions and decoctions of Helichrysum italicum subsp. picardii by UHPLC-PDA-MS and in vitro biological activities comparatively with green tea (Camellia sinensis) and rooibos tisane (Aspalathus linearis)
+
+American Botanical Council
+
+A Review and Evaluation of the Data Supporting Internal Use of Helichrysum italicum
+
+In vitro antiproliferative and antimicrobial activity of the essential oil from the flowers and leaves of Helichrysum italicum (Roth) G. Don growing in central Dalmatia (Croatia)
+
+Helichrysum italicum (Roth) G. Don essential oil: Composition and potential antineoplastic effect
+
+Evaluation of antiherpesvirus-1 and genotoxic activities of Helichrysum italicum extract
+
+Helichrysum and grapefruit extracts inhibit carbohydrate digestion and absorption, improving postprandial glucose levels and hyperinsulinemia in Rats
+
+Helichrysum italicum (Roth) G. Don Essential Oil from Serbia: Chemical Composition, Classification and Biological Activity—May It Be a Suitable New Crop for Serbia?
+
+Modulation of hyperglycemia and TNFα-mediated inflammation by Helichrysum and grapefruit extracts in diabetic db/db mice
+
+Helichrysum and grapefruit extracts boost weight loss in overweight rats reducing inflammation
+
+The history and ethnobotany of Cape herbal teas
+
+An ethnobotanical study of plants used for the treatment of diabetes in the Eastern Cape Province, South Africa
+
+Flora of Zimbabwe: Species Information: Individual Images: Helichrysum nudifolium var. pilosellum
+
+In vitro screening of traditional South African malaria remedies against Trypanosoma brucei rhodesiense, Trypanosoma cruzi, Leishmania donovani, and Plasmodium falciparum
+
+A synthesis and a review of medicinal uses, phytochemistry and biological activities of Helichrysum odoratissimum (L.) Sweet
+
+Helichrysum odoratissimum
+
+The effect of Helichrysum odoratissimum (L.) sweet on cancer cell proliferation and cytokine production
+
+Hypoglycemic effect of Helichrysum odoratissimum in alloxan induced diabetic mice
+
+Composition, antioxidant potential, and antimicrobial activity of Helichrysum plicatum DC. various extracts
+
+Traditional uses of medicinal plants in Solhan (Bingöl—Turkey)
+
+Plants of the World Online
+
+In vitro cytotoxic effects of methanol extracts of six Helichrysum taxa used in traditional medicine
+
+Antiradical and cytotoxic activity of different Helichrysum plicatum flower extracts
+
+In vivo antidiabetic and antioxidant potential of Helichrysum plicatum ssp. plicatum capitulums in streptozotocin-induced-diabetic rats
+
+Secondary metabolites of Helichrysum plicatum DC. subsp. plicatum flowers as strong carbonic anhydrase, cholinesterase and α-glycosidase inhibitors
+
+Plant species used in the treatment of diabetes by South African traditional healers: An inventory
+
+Comparative chemical profiling and antimicrobial activity of two interchangeably used ‘Imphepho’species (Helichrysum odoratissimum and Helichrysum petiolare)
+
+Plants used for cosmetics in the Eastern Cape Province of South Africa: A case study of skin care
+
+Helichrysum petiolare
+
+In vitro evaluation of the anti-diabetic potential of Helichrysum petiolare Hilliard & B.L. Burtt using HepG2 (C3A) and L6 cell lines
+
+Anti-proliferative and genotoxic activities of the Helichrysum petiolare Hilliard & BL Burtt
+
+In Vitro Evaluation of the Anti-Diabetic Potential of Aqueous Acetone Helichrysum petiolare Extract (AAHPE) with Molecular Docking Relevance in Diabetes Mellitus
+
+Plant Taxa Used in the Treatment of Diabetes in Van Province, Turkey
+
+Ethnobotanical study on medicinal plants in villages of Çatak (Van-Turkey)
+
+Ethnobotanical survey of medicinal plants used by Bapedi healers to treat diabetes mellitus in the Limpopo Province, South Africa
+
+An assessment of phenolic profiles, fatty acid compositions, and biological activities of two Helichrysum species: Helichrysum plicatum and Helichrysum chionophilum
+
+Antimicrobial activity of Elytropappus rhinocerotis (Asteraceae) against micro-organisms associated with foot odour and skin ailments
+
+Phytochemical and Biological Studies of Helichrysum cymosum
+
+Evaluation of Asteraceae herbal extracts in the management of diabetes and obesity. Contribution of caffeoylquinic acids on the inhibition of digestive enzymes activity and formation of advanced glycation end-products (in vitro)
+
+Chemical composition, antioxidant, antiobesity, and antidiabetic effects of Helichrysum sanguineum (L.) Kostel. from Palestine
+
+Everlasting flower (Helichrysum stoechas Moench) as a potential source of bioactive molecules with antiproliferative, antioxidant, antidiabetic and neuroprotective properties
+
+The antimicrobial, antimalarial and toxicity profiles of helihumulone, leaf essential oil and extracts of Helichrysum cymosum (L.) D. Don subsp. cymosum
+
+Antioxidant capacity, cytotoxicity and antimycobacterial activity of madeira archipelago endemic Helichrysum dietary and medicinal plants
+
+In vitro genotoxic effects of four Helichrysum species in human lymphocytes cultures
+
+A comparative exploration of the phytochemical profiles and bio-pharmaceutical potential of Helichrysum stoechas subsp. barrelieri extracts obtained via five extraction techniques
+
+Several action sites of conventional medicines (current antidiabetic drugs).
+
+Secondary metabolites isolated from Helichrysum species with antidiabetic activity. The numbers 1–12 correspond to the compounds reported in Table 2.
+
+H. arenarium. Source: POWO.
+
+H. aureum. Source: SANBI.
+
+H. caespititium. Source: Flora of Zimbabwe.
+
+H. graveolens. Source: POWO.
+
+H. gymnocomum. Source: FOSTER.
+
+H. italicum. Source: American Botanical Council.
+
+H. nudifolium. Source: Flora of Zimbabwe.
+
+H. odoratissimum. Source: SANBI.
+
+H. plicatum. Source: POWO.
+
+H. petiolare. Source: SANBI.
+

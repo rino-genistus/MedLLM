@@ -1,0 +1,258 @@
+TITLE: Thirst for Information and Needs Reflections of Type 2 Diabetes Patients Receiving Insulin Treatment in North-East Ethiopia: A Qualitative Exploration
+
+Objectives:
+
+Ongoing, proactive, planned, and patient-centered diabetes education is the cornerstone of care for all persons with diabetes. Thus, the aim of this study was to explore the information needs of type 2 diabetes mellitus patients receiving insulin treatment in North-East Ethiopia.
+
+Methods:
+
+The study was conducted from July 2019 to January 2020 using a qualitative enquiry (phenomenological approach) with purposive sampling. Face-to-face in-depth interviews were used to collect data until reaching theoretical saturation. The participants were type 2 diabetes patients receiving insulin treatment. They were identified from the diabetes patients’ registration book at the diabetes clinic and interviewed at their appointment time, and were selected to include wide variations in terms of socio-demographic characteristics. Twenty-four participants (11 men and 13 women), with a median age of 57 years, were interviewed. The data were organized using QDA Miner Lite version 2.0.7 and analyzed thematically using narrative strategies.
+
+Results:
+
+Most participants had not heard of diabetes before their diagnosis. They had limited knowledge of diabetes, but ascribed different connotations for it in the local language (Amharic). The needs reflections of patients were categorized into diabetes education and participants’ recommendations. Diabetes education was totally absent at hospitals, and patients received education primarily from the Ethiopian Diabetes Association and broadcast and digital media. Thus, the major concern of patients was the availability of diabetes education programs at health institutions.
+
+Conclusions:
+
+Patients’ main concern was the absence of routine diabetes education, which necessitates urgent action to implement diabetes education programs, especially at health institutions.
+
+INTRODUCTION
+
+Diabetes education is an ongoing, proactive, and planned set of actions facilitating the information, skills, and ability to engage in self-management behaviors for the disease. It is the cornerstone of care for all persons with diabetes, and a knowledge of risk and healthy lifestyle are mandatory to prevent complications of type 2 diabetes mellitus (T2DM). Thus, integration of education into diabetes management is essential for effectively controlling diabetes, and diabetes education needs to be implemented in a sufficiently flexible manner, not just a formal and structured format.
+
+Since the ability to manage diabetes relies upon the active participation of people with diabetes and their family members, diabetes education should be viewed from the clients’ perspectives, or should be patient centered; that is, it should focus on solving problems that arise in the self-regulation of one’s own treatment regimen. As patients’ beliefs impact their commitment and motivation to carry out self-care behaviors, diabetes self-management strongly requires patients’ dedication, and is deeply rooted in patients’ unique life situations. Shared decision-making focused on the patient’s unique needs has been found to reduce serious complications. Thus, mutual decision-making is key for providing patient-centered care. For better shared decision-making, practitioners’ patient-centered communication skills are pivotal in establishing an effective relationship to provide successful patient-centered care. Introducing a patient-centered approach has been found to be cost-effective in improving the self-management practices and quality of health outcomes of T2DM patients. As a result, contemporary medicine highlights this approach.
+
+Although many clinicians favor patient-centered care as a concept, the practical implementation remains challenging. To overcome these challenges, patients’ own knowledge is indispensable. However, the information needs of diabetes patients, including the obstacles they encounter and their degree of satisfaction with the acquisition of information, is a relatively unexplored domain of diabetes care. The aim of this study was to explore the information needs of T2DM patients receiving insulin treatment in Dessie City Administration, North-East Ethiopia.
+
+METHODS
+
+Design and Setting
+
+The study employed a qualitative exploration with a phenomenological approach. The data collection technique used was face-to-face in-depth interviews. Data were collected until theoretical saturation (the point at which no more emerging themes were found) from July 2019 to January 2020 to explore the information needs of T2DM patients receiving insulin treatment.
+
+The study was conducted at the Dessie Comprehensive Specialized Hospital (DCSH) in Dessie City Administration, Amhara Region, Ethiopia. Dessie is the largest city and urban center in North-East Ethiopia. The largest and highest-level tertiary hospital, which covers a huge catchment area, in North-East Ethiopia is the DCSH. It covers South Wollo, North Wollo, Waghmira, the Oromia Special Zones, and some parts of the North Shoa Zone in the Amhara region, as well as the Afar and South Tigray regions. Diabetes patients are served at DCSH in a separate diabetes clinic operated by nurses, general practitioners, and internists.
+
+Participants and Sample
+
+The participants were T2DM patients attending DCSH for follow-up treatment. They were chosen purposively to include patients who were on insulin treatment, had no known or overt psychiatric problems, and were able to effectively communicate. Apart from these criteria, patients were purposively selected to include a wide variation in terms of socio-demographic characteristics (gender, age, marital status, educational level, religious affiliations). The participants were primarily identified by the principal investigator (EMB) from the diabetes patients’ registration book, which was accessible at the diabetes clinic of DCSH, as a preliminary screening. However, the participants who actually participated in the study were adults over 35 years of age identified by healthcare providers at DCSH who were knowledgeable about T2DM. After the provision of sufficient patient information (Supplemental Material 1) and consent (Supplemental Material 2), only those T2DM patients who were interested in participating in the research were interviewed (n=24). Incentives were not given to the interviewees to participate in the study. Multiple interviews were not carried out. None of the recruited patients refused to participate or dropped out.
+
+Instrument, Data Collection, and Analysis
+
+The data was collected by the principal investigator (EMB). As given in Supplemental Material 3, the data collection tool employed was a semi-structured interview guide prepared in the local language (Amharic). Face-to-face in-depth interviews were used to collect the data. The interviews were recorded using an audio device by the other researcher (BDW). Field notes and memos were taken simultaneously with the interviews. The interviews were done at the patients’ appointment time in various quiet locations free from distractions (separated locations of the hospital, isolated spots of cafes, work areas of participants, and their homes). The interviews were continued until data saturation was reached (when no new ideas were obtained). The interviews took 23 minutes to 71 minutes (average, 46).
+
+The interviews were transcribed verbatim into MS Word by the principal investigator (EMB) and rechecked by other members of the research team (MHK and BDW). The transcription and analysis were done simultaneously with data collection. Three analysts (EMB and other Amharic-speaking team members, MHK and BDW) immersed themselves in the data by reading and open-coding the transcripts independently and developing preliminary codes. These three individuals met regularly to discuss emerging themes and to refine code definitions, with periodic input from the entire research team, until agreement was reached on codes and their definitions. The analysis was done by reading the transcripts repeatedly for better conceptualization. The coding was started and done in the Amharic language, and then was translated into English and repeated for consistency. The coding process started with the first interview, and was conducted by reading the transcripts line by line. The analysis was performed along with the data collection and coding procedures. The key quotes of participants were taken to provide illustrations of the results of the study. Discussions were held on each code and emerging theme by the research team on regular basis to provide genuine findings. The emerging categories were finally combined to form higher-level conceptual themes. The computer software used for data analysis was QDA Miner Lite version 2.0.7 (https://provalisresearch.com/).
+
+The researchers followed various strategies to assure data trustworthiness. The interview guide was pre-tested on two similar patients, who were not considered to be study participants. The transcripts were returned to the participants before they were translated to English. The findings were also given back to the participants, who confirmed that the explanations reflected their own perceptions and experiences. More than two investigators participated in the research process. The write-up of the report of the study was guided by the Consolidated Criteria for Reporting Qualitative Studies (Supplemental Material 4).
+
+Reflexivity
+
+The principal investigator (EMB) appreciates that the results of the study stem from the interactions between him and the participants. He has been part of the community since his childhood, and is very familiar with local slang terms, which helped him interpret the words of the participants from the lay perspective. EMB has a BSc in nursing, BPharm, and MSc in social and administrative pharmacy. He is currently in practice in both disciplines (a lecturer and researcher at Wollo University in social and administrative pharmacy, and a part-time nurse practitioner at a private hospital). He is very experienced with both disciplines. These issues made him an appropriate investigator for this research, although participants perceived him as a powerful individual due to his position as a member of the elite and a senior pharmacist and nurse. However, EMB was careful regarding how the data collection process was influenced by perceptions of himself, and how other people responded to him. Thus, he was conscious of his previous knowledge of local jargon, diabetes, biases, and values. Moreover, MHK is very experienced in conducting both quantitative and qualitative research in health science issues and has published more than 20 papers. He also received training in advanced qualitative research methodology at the University of Toronto, Canada.
+
+Ethics Statement
+
+Permission was granted by the Ethical Review Committee of the College of Medicine and Health Science, Wollo University (No. CMHS: 443/13/11) and the DCSH administration office (No. 7789/2011) for the study. Written informed consent (Supplemental Material 2) was signed by all the study participants before interviews were done. Coding was used instead of the names of participants in the data collection and analysis process. Finally, the data sets were kept confidential.
+
+RESULTS
+
+As shown in Table 1, 24 patients (11 men and 13 women) were interviewed. The minimum and maximum ages of the participants were 35 years and 75 years, respectively, and the approximate median age was 57 years. The approximate average lifespan with diabetes and insulin use duration of the participants were 12 years and 5 years, respectively.
+
+The findings of this study were categorized into two main themes: labeling diabetes and needs reflections, the latter of which included diabetes education (sources and/or enablers, obstacles, and impacts) and participants’ recommendations (Supplemental Material 5).
+
+Labeling Diabetes
+
+Most patients had not heard of diabetes before being diagnosed, but they ascribed various meanings for their disease condition in Amharic (the local language). In Amharic, the patients referred to diabetes mellitus as ye-siquar beshita, which literally means “the disease of sugar,” and diabetes as siquar, which means “sugar.” This term (siquar) was also used to denote blood sugar levels and table sugar. Hence, siquar should be understood contextually. Body weight and blood glucose levels were expressed only as unitless numbers (e.g., 92).
+
+Needs Reflections
+
+Diabetes education
+
+Sources and/or enablers
+
+The enablers and/or sources of information for the patients, in decreasing order of frequency, were the Ethiopian Diabetes Association (EDA) through trainings, broadcast and media (radio, television, and the Internet), reading materials (books, magazines, and guidelines), and experienced patients.
+
+While the most common source of diabetes education was the EDA, guided by a peer-to-peer education system (training) and provision of manuals; the least common source was advice from experienced patients, whether at the time of appointment or in their surroundings. The patients reported that education was given by the EDA if they were EDA members. The patients who were members reported that they had been given various manuals, magazines, and guidelines.
+
+It (the injection technique) was very difficult in the beginning. They (the health professionals at the hospital) did not show it to me and they did not teach me. It is my membership in the association (EDA) that made it possible for me to know how to do it. That is where I got a better education. I learned all the lessons from there. At the hospital, they showed me only (injections in) the hand. And I did not know that it could be injected in the abdomen and thigh. While I was injecting into my hand, when I entered to the association, they gave me a manual too. And I learned a lot about it by reading the manual, and gradually became accustomed to it. (Woman, 42 years, secondary school completed)
+
+I have participated in two trainings prepared by the EDA. Thus, I think the trainings have supported and helped me; they have raised my knowledge of diabetes to some level. (Man, 48 years, bachelor’s degree holder)
+
+The second most common source of diabetes education was broadcast and digital media, followed by reading materials. Broadcast and digital media (including radio, television, and the Internet), were preferred by patients as convenient and accessible options to become familiar with their disease and its management.
+
+On one occasion, when I was in Megenagna (a county in Addis Ababa), I heard an instructor (an invited doctor on a TV show) from the Black Lion Hospital on TV talk about the causes of ‘siquar’ (diabetes) and its symptoms. The symptoms which were mentioned were similar to my case. Then, I came to this hospital (DCSH) with my daughter. Then, it was found that my ‘siquar’ (blood glucose) was raised to 265. (Man, 66 years, basic literacy)
+
+… if I show you Medscape on my phone; I am interested in reading a great deal of information. If I get access to the material, I read from books, the Internet, and many other sources. (Man, 48 years, bachelor’s degree holder)
+
+Obstacles
+
+The obstacles to diabetes education mentioned by the participants were the unavailability of diabetes education programs (DEPs) at health institutions (the most common), being in the countryside (inconvenient), nurses’ ignorance, interruptions at the EDA, and physical disability (least common). All participants reported that there were no DEPs at health institutions. The patients did not receive information about their disease except at their time of diagnosis and for no more than a few minutes at health institutions; furthermore, they only received education from nurses or doctors at the time of their first insulin injection experience for a few minutes. Thus, only those who were relatively proactive used alternative sources of information.
+
+… No! No, there is no education program here (DCSH). No patients have been given information here. I learned about my disease by reading magazines. (Woman, 42 years, secondary school completed)
+
+I’ve never heard of education at a health organization (DCSH). The doctors can only explain the condition when we are treated. (Woman, 35 years, diploma holder)
+
+Inconvenience due to living in the countryside or far from the center of the city was mentioned as the second most common obstacle to diabetes education access. It was explained that if someone in the countryside became sick, the only option was to travel to a health institution, and no prior education was known to be given due to inconvenience or unavailability.
+
+No, I have never been given education; I am far from the city (countryside), and there is no education there. If you are sick, it is to the hospital that you will come. (Man, 63 years, illiterate)
+
+I live in the countryside; I come only at the date of appointment. I did not get any education. (Man, 46 years, illiterate)
+
+Participants also reported that the nurses at hospitals were reluctant to provide diabetes education and were ignored patients’ needs on the topic. The patients were not allowed to wait for an adequate period to be informed of the status of their disease, details about their medications, and self-care issues in managing their disease conditions.
+
+He (the doctor) wrote to me first for an emergency. It was hard in an emergency. They (the nurses) gave me education only one night. The next day, they told me to leave. I asked them that why the doctor had written instructions for me so that I could learn, but they ignored me (Woman, 42 years, secondary school completed).
+
+It was also reported that the diabetes education provided by the EDA was not formally organized and was regularly interrupted; that is, the EDA was not professionally assisted, did not function regularly, and was not formally organized.
+
+I was part of an association (EDA). They gave me a lesson there, but not now. Though it is not functioning right now, my experience was improved by the knowledge that I got from it; there is nothing here (DCSH). (Man, 73 years, diploma holder)
+
+There was an old association (EDA). And we were going there to learn. But it does not exist now. (Man, 72 years, secondary school completed)
+
+It (EDA) does not provide formal education. It is not professionally assisted. There is a process of learning from one another. On their own, the patients teach what they read. (Man, 59 years, master’s degree holder)
+
+Physical disability was another obstacle that hindered access to diabetes education. Being unable to move without assistance due to various physical disorders, especially visual disturbances, was reported as an obstacle to receive proper diabetes education.
+
+How could I go if it (education) was present? I will not attend the meeting. I cannot receive education due to my backache and problems with my vision. (Woman, 71 years, illiterate)
+
+Impacts
+
+According to the patients’ explanations, diabetes education could have both positive and negative impacts on treatment, based on whether it has been given or not. Adequate diabetes education can improve the proper utilization of treatment, self-care practices, and treatment outcomes. Failing to provide adequate diabetes education would impose different constraints on treatment outcomes. Patients faced unbelievable experiences with insulin treatment when they did not receive proper training.
+
+… They (health professionals) did not properly educate me on how to inject it (insulin), but let me tell you what I did: I only drew out the plunger, I did not know that the water (insulin) should go down into the needle with it. When I was injecting it that way, I would not be able to become better. How strange it was! Because instead, the water should be drawn up into the needle at that exact place (the mark on the syringe) in order to convey it into my body. What I was injecting before was nothing, not the medicine, because it was not being drawn up into the needle. What I did was only piercing the vial and removing it empty, and then wounding my body. The time my neighbors were going to bring me to the hospital again, “Why will you take me before my medicine is done? Watch me while injecting!” I said to them. It was then that someone noticed my mistake and wondered; and I started to draw it correctly and became better then. (Man, 63 years, illiterate)
+
+Participants’ recommendations
+
+Patients raised different issues facing patients with diabetes, healthcare providers, the government, and the scientific community. The most common one was that patients advised other patients to handle and use insulin properly with sufficient information in order to live a better life.
+
+He (a patient with diabetes) should handle and use it (insulin) properly with sufficient information as long as he has diabetes, because it is a matter of life and death. (Man, 72 years, secondary school completed)
+
+If you decide not to take it (insulin), you choose death; I swear! I would say. If you do not want to live, you can leave it. If they (patients) do not want to live, they can leave it. (Man, 52 years, secondary school completed)
+
+The second most important recommendation was that there should be DEPs at health institutions and that patients should also attend.
+
+No adequate education has been given on the injection technique, so sometimes patients feel worried/burdened about taking it. So, there is a clear problem with insulin injection technique education; they (doctors and nurses) do not describe the appropriate injection site clearly. So, many patients have trouble with it. (Man, 48 years, bachelor’s degree holder)
+
+It’s good to provide it (diabetes education) at health facilities, because someone who does not know will be able to understand it. If it does, I say, I will have a better understanding of what I say. There are others who know nothing. Therefore, they can develop their knowledge of what to do with the condition of the disease; so they can use it (insulin) correctly. (Man, 73 years, diploma holder)
+
+The third recommendation of participants was for self-care activities (monitoring blood glucose with follow-up; being cautious in diet, dressing, physical activities, and hygiene; minimizing physical traumas such as injuries from extreme heat and physical objects; and avoiding upsetting and negative rumors).
+
+They (patients) must control their diet; they should know about exercise, they should know about foot care, they should know when to check their blood glucose. They should know how to contact the right professionals. Giving them insulin alone is useless. (Man, 48 years, bachelor’s degree holder)
+
+The other recommendations were for insulin to be given in tablet dosage form, for insulin to be free or for expenses to be waived, for the treatment modality to be patient-based or individualized and holistic, and for there to be adequate patient counseling and participatory decision-making.
+
+Why does not the government do this (provide insulin) for free? It would be good if it contributed for those who are disabled. For instance, since my foot was operated, I cannot work. What if it (the government) could help someone with a case like this? (Woman, 36 years, illiterate)
+
+They (doctors) should be able to provide patients with complete information so that they can weigh the effects of the medicines and their side effects. Not only should the doctor decide, the patient should also take part in recovery. They (patients) must be able to participate in the decision. Because after the doctor has ordered the treatment, the patient should be instructed about where the medicine is coming from, how much insulin should be injected, how to get it, and the like. The doctor and the patient must be able to talk; they must be able to trust each other. Also, it may be good if insulin could be in tablet form. (Man, 48 years, bachelor’s degree holder)
+
+It was also recommended that familiarizing one’s disease to others was an important part of diabetes management. If diabetes patients expressed their experiences and familiarized others with their situations, they could be assisted properly. It was considered mandatory for patients to educate others about their condition.
+
+They (families and neighbors) should know. Because if may I be in misfortune, they are the ones who will help me. I have to let them to know so that they have to help me if I collapse. I will teach them to give me something sweet. (Woman, 42 years, secondary school completed)
+
+DISCUSSION
+
+This study employed a qualitative enquiry with the phenomenological approach to explore the information needs of T2DM patients. The patients had no preconceived ideas about diabetes, and most did not know what diabetes was prior to their diagnosis. Similar studies in Saudi Arabia and Congo showed that the majority of patients with diabetes did not have a significant knowledge of their disease. Another study in Juba, South Sudan also reported that patients had a poor knowledge of diabetes. Due to the lack of knowledge of their disease, the patients in this study ascribed various meanings to their disease based on local slang. The same expressions were also reported in a study done in Butajira and Addis Ababa, Ethiopia, which might be due to the linguistic and socio-cultural similarities of the populations.
+
+Though it was not functioning regularly, diabetes education was only provided by the EDA for those who were members through the provision of reading materials for patients who could read and in turn train those who could not. However, nationally, only 1.86% of diabetes patients in Ethiopia were found to be members of the EDA. The other important source of information for diabetes was found to be broadcast and digital media. The use of social media was found to be important to manage diabetes and to improve patients’ outcomes. The Internet was reported to be a valuable educational resource for diabetes patients. However, most of the patients in this study were illiterate, who therefore were not able to use the Internet as a contemporary, versatile form of social media, and therefore relied on traditional broadcast media (radio and television), which could be major alternative sources for diabetes education. However, social media might also propagate incorrect information about diabetes.
+
+Most patients had not received proper diabetes education. The need for diabetes education was found to be high. However, no DEP was in place in the hospital. Patients received little information, in a brief education session that lasted for only a few minutes at the first visit discussing insulin administration. Even though the patients had major needs for information, diabetes education was totally absent at health institutions. In the same manner, another study found that patients were likely to emphasize the importance of receiving sufficient, appropriate, and consistent information. Similarly, in other studies, patients demonstrated major information needs about diabetes and the prescribed treatment. A study in Australia also reported that patients needed information immediately after diagnosis followed by additional informal education. According to studies in Sweden, although the challenge for caregivers is to create interactions in an open learning climate that initiates and supports reflection to promote health and well-being, the search for knowledge and sensitivity to changes is a constant requirement for people with diabetes. However, a randomized controlled trial conducted in China found that diabetes education did not require much effort, as a 2-session DEP could effectively improve diabetes management in patients with T2DM. In a study in south London, United Kingdom, group education was reported to be a way of addressing negative insulin beliefs.
+
+Similarly, the patients in this study were pointed out their need for diabetes education; they recommended that DEPs should be implemented in hospitals. The needs for diabetes education and recommendations focused on handling insulin properly with proper information or knowledge. As the participants in this study used the term, “handling” referred to taking care of insulin and using it properly, and more generally to adherence to insulin therapy. With this goal in mind, the patients emphasized their recommendation for DEPs at health facilities. A study in Addis Ababa, Ethiopia reported that most patients adhered well to medication prescriptions, but they lacked proper information and knowledge. Another similar study in Baghdad, Iraq, found that although patients properly adhered to anti-diabetic medications, most patients reported having a self-management deficit due to a lack of proper information/knowledge and needing face-to-face educational sessions. A study in South Africa also reported that a diabetes-related knowledge deficit was the main barrier for effective self-management, for which patients desired a monthly DEP with strategies for motivating and sustaining program participation (e.g., testimonials from successful participants) along with family support. A content analysis study in Malawi also revealed that patients had a positive regard for diabetes education sessions.
+
+In general, most participants had not experienced diabetes education due to the lack of DEPs in hospitals. Only those who were members of the EDA received information, although not regularly. Some participants received information through social media. Therefore, as stakeholders, they recommended that functional DEPs be made available.
+
+The research was conducted at the largest hospital in the region, which covers the widest catchment area. More than two investigators, all indigenous, participated. Face-to-face in-depth interviews were conducted to explore information in detail. This is the first qualitative study investigating the information needs of T2DM patients receiving insulin treatment in Ethiopia.
+
+The interview data were collected from only patients who attended treatment visits at DCSH. It did not include those who received treatment at private hospitals. The study also did not include health workers’ perceptions and experiences. Thus, due to these issues and the qualitative nature of the research, the findings may not be generalizable to both private and governmental hospitals.
+
+In conclusion, there should be functional and multidisciplinary diabetes education teams at hospitals, health centers, health posts, kebele administrators, academic institutions (elementary and high school, colleges, and universities), religious places, and the EDA, as well as regular media broadcasts. A manual for diabetes education, which might be a promising guideline, has been developed for the sub-Saharan region.
+
+Interventional research that will direct or implement effective means to address the information needs of diabetes patients should be conducted.
+
+CONFLICT OF INTEREST
+
+The authors have no conflicts of interest associated with the material presented in this paper.
+
+FUNDING
+
+None.
+
+AUTHOR CONTRIBUTIONS
+
+Conceptualization: EMB, MHK, BDW. Data curation: EMB. Formal analysis: EMB, MHK, BDW. Funding acquisition: None. Methodology: EMB, MHK. Project administration EMB, MHK, BDW. Visualization: EMB, MHK. Writing – original draft: EMB. Writing – review & editing: EMB, MHK, BDW.
+
+SUPPLEMENTAL MATERIALS
+
+Supplemental materials are available at https://doi.org/10.3961/jpmph.20.510.
+
+REFERENCES
+
+Lived experience of diabetes among older, rural people
+
+Premorbid risk perception, lifestyle, adherence and coping strategies of people with diabetes mellitus: a phenomenological study in the Brong Ahafo Region of Ghana
+
+A qualitative study of health education experiences and self-management practices among patients with type 2 diabetes at Malamulo Adventist Hospital in Thyolo District, Malawi
+
+Diabetes education training manual for sub-Saharan Africa
+
+Listening to older adults’ values and preferences for type 2 diabetes care: a qualitative study
+
+Self-management of type 2 diabetes mellitus: a qualitative investigation from the perspective of participants in a nurseled, shared-care programme in the Netherlands
+
+Patient-centered education to improve health outcomes of adult Jamaicans with diabetes
+
+Initiation of insulin for type 2 diabetes mellitus patients: what are the issues? A qualitative study
+
+Groupbased, person-centered diabetes self-management education: healthcare professionals’ implementation of new approaches
+
+Communication as a key issue in the care of diabetes mellitus
+
+Patient-centered care, glycemic control, diabetes self-care, and quality of life in adults with type 2 diabetes
+
+Information seeking behavior of patients with diabetes mellitus: a cross-sectional study in an outpatient clinic of a university-affiliated hospital in Athens, Greece
+
+The largest cities in Ethiopia. Ethiopian Gazette
+
+Consolidated criteria for reporting qualitative research (COREQ): a 32-item checklist for interviews and focus groups
+
+Level of diabetic patients’ knowledge of diabetes mellitus, its complications and management
+
+Knowledge of type 2 diabetic patients about their condition in Kimpese Hospital diabetic clinic, Democratic Republic of the Congo
+
+Knowledge of type 2 diabetes mellitus and adherence to management guidelines: a cross-sectional study in Juba, South Sudan
+
+Explanatory models of adult patients with type 2 diabetes mellitus from urban centers of central Ethiopia
+
+IDF diabetes atlas
+
+Exploring the role of social media as a support mechanism among persons with diabetes: an online ethnographic study
+
+Social media use in interventions for diabetes: rapid evidence-based review
+
+A new dawn: the role of social media in diabetes education
+
+The misuse of social media and the propagation of incorrect information about diabetes
+
+Information needs of young adults with type 2 diabetes
+
+Information and decision support needs in patients with type 2 diabetes
+
+A focus group study of patient’s perspective and experiences of type 2 diabetes and its management in Jordan
+
+Experiences of diabetes selfmanagement: a focus group study among Australians with type 2 diabetes
+
+Patients’ experiences of support for learning to live with diabetes to promote health and well-being: a lifeworld phenomenological study
+
+Manoeuvring between anxiety and control: patients’ experience of learning to live with diabetes: a lifeworld phenomenological study
+
+Effects of an outpatient diabetes self-management education on patients with type 2 diabetes in china: a randomized controlled trial
+
+Experiences of attending group education to support insulin initiation in type 2 diabetes: a qualitative study
+
+Self-care practices among diabetes patients in Addis Ababa: a qualitative study
+
+Self-management knowledge and practice of type 2 diabetes mellitus patients in Baghdad, Iraq: a qualitative study
+
+Stakeholders’ perceptions of dietary and related self-management challenges and education programme preferences for type 2 diabetes adults
+
+Socio-demographic variables of study participants (n=24)
+
+Variables	No. of patients	Variables	No. of patients	 	Age (y)		 Military/policing	1	 	 30-39	4	 Teaching	1	 	 40-49	4	 Health care practice	1	 	 50-59	6	 Storekeeping	1	 	 60-69	5	 Housewife	3	 	 ≥70	5	 Retired	3	 	Marital status		 Jobless/unemployed	5	 	 Married	17	Residence		 	 Widowed	6	 Urban	17	 	 Single/divorced	1	 Rural	7	 	Religion		Diabetes duration (y)		 	 Orthodox	11	 1-5	6	 	 Muslim	12	 6-10	7	 	 Protestant	1	 11-15	3	 	Educational status		 16-20	4	 	 Illiterate	11	 21-25	2	 	 Basic literacy (read and/or write)	4	 26-30	1	 	 Secondary school complete	4	 31-35	1	 	 Diploma	2	Insulin duration (y)		 	 Graduate	2	 <1	4	 	 Postgraduate	1	 1-5	13	 	Occupational status		 6-10	4	 	 Farming	5	 11-15	1	 	 Merchandise	3	 16-20	1	 	 Managerial work	1	 21-25	1
+

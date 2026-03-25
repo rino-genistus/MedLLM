@@ -1,0 +1,276 @@
+TITLE: A male’s foot is being shot by an ulcer, not a gunshot! The magnitude and associated factors of diabetic foot ulcer among diabetes mellitus patients on chronic care follow-up of southwestern Ethiopian hospital: A cross-sectional study
+
+Background
+
+Diabetic foot ulcer (DFU) is one of the main complications of diabetes mellitus associated with major morbidity and mortality. DFU is the major cause of infection and lower extremity amputations in diabetic patients. Despite this, there was a scanty finding on associated factors of foot ulcer among diabetes mellitus.
+
+Methods
+
+Facility-based cross-sectional study was conducted among diabetes mellitus patients at BGH from August 1, 2021 - 30, 2021. The validated tool of the Nottingham Assessment of Functional Footcare (NAFF) was used to assess the diabetic foot self-care practice. Multivariate logistic regression was used to analyze the associations between the dependent variables and independent variables. Data were analyzed using a statistical package for social science (SPSS version 23).
+
+Results
+
+A total of 162 respondents with a response rate of 100% have participated in the study. Of the respondents, 88 (54.3%) were females and the mean and SD of the age were 35.8 and 12.70. The prevalence of diabetic foot ulcers in our study area was 24(14.81%). The results of the multivariable logistic regression analysis revealed that being a male (AOR = 2.143; 95% CI: 0.691–6.65), poor diabetic foot care practice (AOR = 3.761; 95CI: 1.188–11.90), and having a co-morbidity (AOR = 2.507; 95CI: 3.270–5.95)were more likely to experience a diabetic foot ulcer than their counterparts.
+
+Conclusion
+
+The prevalence of diabetic foot ulcers among diabetic patients in BGH was found to be high. The presence of comorbidity, being a male, and foot care practice were factors that predict the occurrences of diabetic foot ulcers. Therefore, the ongoing medical education on the foot care practices should be given to diabetes mellitus patients.
+
+Highlights
+
+Diabetic foot ulcer is one of the main complications in diabetes mellitus.
+
+Diabetic foot is defined as the presence of infection, ulceration and/or destruction of deep tissues.
+
+Diabetic foot ulcer is a major cause of infection and lower extremity amputations in diabetic patients.
+
+Background
+
+Diabetes mellitus (DM) is a chronic and life-threatening metabolic disorder characterized by multiple long-term complications affecting almost every system in the body. It is also classified under one of the metabolic diseases and one of four priority of non-communicable diseases that had given biggest impact on the health, social and economic status worldwide.
+
+Diabetic foot ulcer (DFU) is one of the main complications in diabetes mellitus (DM) with a lifetime risk of 15% in all diabetic patients and is associated with major morbidity, mortality, costs, and reduced quality of life. As the incidence of diabetes mellitus is increasing globally, the increase in complications is also unquestionable.
+
+Diabetic foot is defined as the presence of infection, ulceration and/or destruction of deep tissues associated with neurological abnormalities and various degrees of peripheral arterial disease (PAD) in the lower limb in patients with diabetes. The pathogens involved in these infections vary from aerobic to anaerobic species, which may include Staphylococcus spp., Streptococcus spp., Proteobacteria, Pseudomonas aeruginosa and coliform bacteria.
+
+DFU is a major cause of infection and lower extremity amputations in diabetic patients. Every 30 s a lower limb or part of a lower limb is lost to amputation somewhere in the world as a consequence of diabetes. In addition, 28%–51% of amputated diabetics will have a second amputation of the lower limb within five years of the first amputation. Patients who were prescribed inappropriate antibiotics and advanced foot ulcer grade were unlikely to heal. Besides to this about 85% are preceded by foot ulceration which subsequently deteriorates to severe gangrene or infection.
+
+DFU is preventable, and the frequency of lower limb amputations can be lowered by 49–87% by preventing the development of DFU. Evidence in the literature suggests that the early detection and treatment of diabetic foot complications could reduce the prevalence of ulceration by 44%–85%.
+
+It is a significant cause of morbidity and can lead to prolonged hospital stays, which is evidenced by the fact that ∼20% of diabetes-related hospitalizations are related to DFU. The mortality rate in patients with DFU is also high and is approximately twice that of the patients without ulceration. Other than morbidity and mortality, the toll of economic burden in terms of direct and indirect costs is also high for those having DFU. It is also estimated that 24.4% of the total health care expenditure among the diabetic population is related to foot complications.
+
+Increased age, male gender, peripheral vascular disease, peripheral neuropathy, and renal disease, increased body mass index, poor diabetes control, and longer duration of diabetes were common risk factors for death after ulceration Therefore early identifications of the potential risk factors is important to prevent the development of foot ulcers and its associated morbidity.
+
+A majority of studies on diabetic foot ulcers have mainly been conducted in high and middle-income regions and few studies on this condition have been conducted in Africa, a majority of which have been conducted in urban areas thus the statistics do not offer a clear depiction of the situation. Similarly, very few studies have been conducted in Ethiopia and as such no prevalence and correlated factors have been investigated in our study area despite it being among a rural area. On top of that in our study area, more than half of the diabetes mellitus patients had poor knowledge of diabetic foot ulcer care which might increase the prevalence of foot ulcers. So, this study aims to assess the magnitude and associated factors of DFU among ambulatory diabetic patients of Bedele general hospital.
+
+Patients and methods
+
+Study area, design and period
+
+Institutional-based descriptive cross-sectional quantitative study design was conducted in BGH, which was found in Bedele town, Bunno Bedele zone, Oromia, southwest Ethiopia. It is a public governmental hospital and serves about 770,568 people. It is found 480 km from Addis Ababa, the capital city of Ethiopia. It has five major wards, namely medical, surgical, pediatrics, Gynecology/Obstetrics and Ambulatory ward, and also it has three clinics namely TB clinic, ART clinics and Dental clinics. The study was conducted from August 1, 2021 to August 30, 2021.
+
+Study participants and eligibility criteria
+
+All diabetic clients above or equal to18 years at follow-up and who had at least one visit at an out-patient clinic and those who were willing to participate in the study were included whereas diabetic clients who are critically ill and mentally incompetent who were unable to provide the required information by themselves were excluded.
+
+Study variables and outcome endpoints
+
+The dependent variable includes the prevalence of diabetic foot ulcers whereas independent variables include socio-demographic characteristics like age, sex, educational level, marital status, income, place of residence, occupation and clinical factors like diabetic complications, presence of comorbidity, duration of diabetes, types of diabetes. The Wagner classification of diabetic foot ulcers was used to assess the severity of foot ulcers.
+
+Sample size and sampling technique
+
+P = 11.6%
+
+Za/2 = with 95% confidence interval is 1.96 d = 5% margin of error n = i.e. (1.96)2(1–0.116)*0.116/(0.05)2 = 158
+
+Single population proportion formula was used to calculate the sample size. The sample size was determined based on “P” value which were taken from JMC, P = 11.6%(0.116)[4].Where n = sample size.
+
+Since the total source population from September 2020 E C to December 2020E.C is less than 10,000, which is 2123, a reduction formula was applied as follow;
+
+By adding a 10% nonresponse rate final sample size was 162. To select the study participants average numbers of patients within one month who have follow-up in a diabetes mellitus clinic were taken and then the list of diabetic patients were obtained from the follow-up registration book and study participants was selected using a simple random sampling technique and interviewed.
+
+Data collection process and management
+
+One medical doctor, one nurse and one pharmacist were recruited as data collectors; one medical doctor was assigned to supervise the data collection process. The supervisor and principal investigator closely followed the data collection process on the spot. Data was collected by using a questionnaire. The questionnaire was distributed by the interviewer administered by face-to-face contact with the patients in the clinic during their follow-up visit. Data collectors collect all relevant information on the presence/absence of co-morbidity and diabetic complications from the case records and interviews. They record the presence of co-morbidity and diabetic complications when the patient was previously diagnosed with co-morbidity and any diabetic complications and receiving medication to treat those diseases. To maintain the quality of the data structured and validated English versions of the questionnaire were adapted and translated to Afaan Oromo. Data collector training was given for half a day on how to collect the data and the completeness of the questionnaire. All the collected data were checked daily for the completeness, accuracy and consistency by the principal investigator. Five percent of the sample was pre-tested to check the acceptability and consistency of the data collection tool two weeks before the actual data collection. The work has been reported in line with the strengthening of the reporting of cohort studies in surgery (STROCSS) criteria.
+
+Data processing and analysis
+
+The data were entered into the computer using EPI-manager 4.0.2 software. Data checking and cleaning were done by the principal investigator on the daily basis during collection before actual analysis. The analysis was done using statistical software for social sciences (SPSS) 24. IBM (International Business Machines). Descriptive data was generated and placed in terms of frequency and percentage. The results were expressed as proportions and as means ± Standard Deviations (SD). Multivariable logistic regression was used to analyze the associations between dependent variable and independent variables by using crude odds ratio (COR) and adjusted odds ratio (AOR) at 95% confidence level. Each variable was evaluated independently in a bivariate analysis and the association was determined using cross-tabulation and COR with 95% CI. All variables associated with the prevalence of foot ulcers at a probability level of less than or equal to 0.25 on the bivariate analysis were entered into a multivariable logistic regression analysis to control for confounders. A p-value of less than 0.05 is considered statistically significant.
+
+Ethics approval and consent-to-participate
+
+Ethical approval was obtained from the Research Ethics Review Committee(RERC) of Mettu University with the reference number of MEU/CHS/RERC89/2021. Written informed consent was obtained from the parents of the participants. The study was registered researchregistry.com with a unique reference number of “researchregistry7865”.
+
+Operational definitions
+
+Foot ulcer: This phrase refers to persons with Diabetes mellitus who had a history of treatment at the leg/foot area and the wound is existed because of diabetes mellitus.
+
+Neuropathy: It was diagnosed if the patient had at least one manifestation from the following list of manifestations: burning pain, vibration from the skin, gradual numbness, freezing, extreme sensitive to touch, muscle weakness, and lack of coordination.
+
+Glycemic control: For purpose of this study we categorized patients based on American Diabetics.
+
+Good glycemic control: Fasting blood glucose of 70–130 mg/dl.
+
+Poor glycemic control: Fasting blood glucose of <70 mg/dl and >130 mg/dl
+
+Association (ADA) recommendations into two groups:
+
+Peripheral Vascular Disease: It was diagnosed if the diabetic patient had at least one of the following manifestations: painful cramping in their hip, muscle cramping after movement, leg numbness, change in the color of the legs, shiny skin on the leg, sores on the toes, feet or legs that will not heal, and erectile dysfunction.
+
+Result
+
+Socio-demographic characteristics
+
+Socio-demographic characteristics of diabetes mellitus patients at BGH.
+
+Table 1
+
+Variables	Category	Frequency	Percentage	 	Age	18–27 years	27	16.7	 	28–37 years	64	39.5	 	38–47 years	39	24.1	 	≥48 years	32	19.8	 	Sex	Male	74	45.7	 	Female	88	54.3	 	Residence	Urban	82	50.6	 	Rural	80	49.4	 	Marital status	Married	53	32.72	 	Single	55	33.95	 	Divorced	30	18.52	 	Widowed	24	14.81	 	Occupation	Farmer	30	18.52	 	Merchant	28	17.28	 	Govt employee	46	28.39	 	Housewife	25	15.43	 	Student	20	12.35	 	Daily labour	5	3.09	 	Private	8	4.94	 	Level of education	No formal education	28	17.3	 	Primary	51	31.5	 	Secondary	56	34.6	 	College and above	27	16.7
+
+A total of 162 respondents with a response rate of 100% have participated in the study. Of the respondents, 88 (54.3%) were females and the mean and SD of the age were 35.8 and 12.70. Regarding their area of residency about half of them, 82(50.6) were from urban. About two-thirds 56(34.6%) of the participants were completed their secondary school and 46(28.39) were government employees (Table 1).
+
+Lifestyle approach of diabetic patients
+
+Of the total of our participants 43(26.5%) were currently chewers. Out of 162 respondents.
+
+Life style approach of diabetic patients at BGH.
+
+Table 2
+
+Variable	Category	Frequency	Percentage	 	Do you ever drink alcohol regularly	Yes	19	11.7	 	No	143	88.3	 	Do you ever smoke cigarettes?	Yes	5	3.1	 	No	157	96.9	 	Do you ever chew a chat?	Yes	43	26.5	 	No	119	73.5	 	Do you perform physical exercise	Yes	143	88.3	 	No	19	11.7
+
+143(88.3%) were performing physical exercises which could be walking jogging or running three times per week that lasts 30minutes or more(Table 2).
+
+Diabetic foot care practice of diabetic mellitus patients
+
+The practice of patients with DM on diabetic foot self-care at BGH, 2021.
+
+Table 3
+
+Variable	Category	Frequency	Percentage	 	Frequency of foot inspection	More than once a day	22	13.6	 	Once a day	99	61.1	 	Weekly	41	25.3	 	Frequency of feet washing	More than once a day	86	53.1	 	Once a day	71	43.8	 	Weekly	5	3.1	 	Frequency of checking feet drying after washing	Often	9	5.6	 	Rarely	98	60.5	 	Never	55	34.0	 	Use of moisturizing cream on feet	Yes	35	21.6	 	No	127	78.4	 	Frequency of putting moisturizing cream between toes	Daily	22	13.6	 	Weekly	10	6.2	 	Monthly	4	2.5	 	Never	126	77.8	 	Frequency of using sandals/slippers	Most of the time	92	56.8	 	Rarely	68	42.0	 	Never	2	1.2	 	Frequency of wearing shoes without socks/stockings/tights	Often	37	22.8	 	Rarely	109	67.3	 	Never	16	9.9
+
+In our study, a total of 22(13.6%) and 86(53.1) patients with DM inspect their feet and washed their feet more than once a day respectively. Concerning the use of moisturizing cream on feet, the majority, 127(78.4%) of them had never used cream. About three-thirds of them, 109(67.3%) had rarely practiced wearing shoes without socks. Overall, 97(59.88) of patients with DM had a poor practice of diabetic foot self-care (Table 3).
+
+Clinical characteristics of DM patients
+
+Clinical characteristics of diabetic mellitus patients at BGH, 2021.
+
+Table 4
+
+Variables	Category	Frequency	Percentage	 	DM types	Type 1	56	34.57	 	Type 2	106	65.43	 	DM duration	<5years	37	22.84	 	5–10 years	45	27.78	 	>10 years	80	49.38	 	BMI(Kg/m2)	18–24.5 kg/m2	46	28.39	 	24.5–29.9 kg/m2	52	32.09	 	>30 kg/m2	64	39.51	 	Diabetic foot care practice	Poor	97	59.88	 	Good	65	40.12	 	Glycemic control	Good	69	42.59	 	Poor	93	57.41	 	Diabetic complication	Yes	77	47.53	 	No	85	52.47	 	Comorbidity	Yes	76	46.91	 	No	86	53.09	 	Anti-diabetic drugs	Insulin	38	23.46	 	Metformin	60	37.04	 	Metformin + Glibenclamide	54	33.33
+
+Over the study period, a total of 106(65.43) patients had DM type two and the duration of diabetes were >10 years almost in half of 80(49.38) of the patients. According to ADA about 93(57.41) of the patients had poor blood glucose control. Regarding the anti-diabetic medications, metformin was the most commonly prescribed that accounts 60(37.04) (Table 4).
+
+Factors associated with the prevalence of DFU
+
+Bi-variable and Multivariable logistic regression analysis result of factors associated with DFU among diabetic patients on chronic care follow-up of southwestern Ethiopian hospital.
+
+Table 5
+
+Variables	Category	DFU	COR(95%CI)	AOR(95%CI)	P-value	 	Yes (n = 24)	No(n = 138)		 	Sex	Female	7(29.17)	81(58.69)	1	1	0.01	 	Male	17 (70.83)	57(41.31)	3.45(1.34–8.86)	2.143 (0.691–6.65)	 	Residency	Urban	17(70.83)	65(47.11)	1	1	0.254	 	Rural	7 (29.17)	73(52.89)	2.727 (1.064–6.99)	0.516 (.166–1.61)	 	BMI	>30 kg/m2	9(37.5)	55(39.86)	1.865(.608–5.72)			 	24.5–29.9 kg/m2	6(25)	46(33.33)	1.486 (.539–4.09)		 	18–24.5 kg/m2	9(37.5)	37(26.81)			 	DM types	Type 1	17(70.83)	39(28.26)	1	1	0.125	 	Type 2	7 (29.17)	99(71.74)	6.16 (2.37–16.02)	2.142(0.547–2.385)	 	Diabetic foot care practice	Poor	20(83.33)	77(55.79)	3.961(1.286–12.19)	3.761 (1.188–11.90)	0.024	 	Good	4(16.87)	61(44.21)	1	1	 	Diabetic complication	Yes	14((58.33)	63(45.65)	1.67(0.487–4.60)	1.25(0.76–3.51)	0.074	 	No	10(41.67)	75(54.35)	1	1	 	Co-morbidity	Yes	16(66.67)	60(43.48)	2.60(1.856–6.914)	2.507(3.270–5.95)	0.014	 	No	8 (33.33%)	78(56.52)	1	1	 	Blood glucose control	Good	11(45.83)	58(42.03)	1	1	0.084	 	Poor	13(54.17)	80(57.97)	1.167(0.87–5.74)	1.11(0.9–4.64)	 	DM duration	<5years	8(33.33)	29(21.01)	1	1	0.345	 	5–10 years	7 (29.17)	38(27.54)	2.18(0.765–6.19)	1.87(0.74–4.27)	0.14	 	>10 years	9 (37.5)	71(51.45)	1.49(0.49–4.61)	1.2(0.94–3.52)	0.48
+
+AOR: Adjusted odd ratio; CI: Confidence interval; COR: Crude odd ratio.
+
+The prevalence of diabetic foot ulcers in our study area was 24(14.81%). Bivariate and multivariable analysis was performed between diabetic foot ulcer and independent variable. The results of the multivariable logistic regression analysis revealed that male patients with diabetes mellitus were 2 times (AOR = 2.143; 95% CI: 0.691–6.65) more likely to develop foot ulcers compared to females. Patients who had poor diabetic foot care practice had 3.8(AOR = 3.761; 95CI: 1.188–11.90) more likely to develop diabetic foot ulcers than their counterparts. Similarly Diabetic mellitus patients having a co-morbidity had 2.5 (AOR = 2.507; 95CI: 3.270–5.95) more likely to experience a diabetic foot ulcer than the patients who have a single disease (Table 5).
+
+Discussion
+
+The increase in the prevalence of diabetes is accompanied by an increase in its complications such as foot ulcers and lower extremity amputations. This study assessed the magnitude and associated factors of diabetic foot ulcers at MKCSH, south western Ethiopia. The study found that the incidence of diabetic foot ulcers amongst diabetic patients at the NRH was 24(14.81%). This is lower than the study of TASH 20.7%.Eastern Ethiopian hospital 21.1%. The difference may be due to variation patient flows, settings and lifestyle variations of study participants. Studies in the Gondar and public hospitals found in Gamo and Gofa zones, Ethiopia found prevalence of 13.6% and 15.5%. The figures are comparable, but if the differences were significant, this may be a reflection of regional variations in the prevalence of diabetes mellitus and the local operating risk factors of diabetic foot ulcer disease.
+
+The study revealed that male patients with diabetes mellitus were 2 times (AOR = 2.143; 95% CI: 0.691–6.65) more likely to develop foot ulcers compared to females. This is consistent with the study of public hospitals found in Gamo and Gofa zones, Ethiopia, and Bangladesh. This might be in our area males are invested their daily life outside home and farming by their bare foot that can increase the risk of trauma to their foot.
+
+Diabetic mellitus patients having a co-morbidity had 2.5 (AOR = 2.507; 95CI: 3.270–5.95) more likely to experience a diabetic foot ulcer than their counterparts. This was similar to the study of Eastern Ethiopian hospitals. This was inconsistent with the study of Arbaminch. The presence of comorbidity may increase the burden of Diabetic mellitus complications that result in foot ulcers.
+
+Patients who had poor diabetic foot care practice had 3.8(AOR = 3.761; 95CI: 1.188–11.90) more likely to develop diabetic foot ulcers than their counterparts. This is consistent with the study of Tolossa T et al., 2020(10). Similar reports were obtained from Gondar referral hospital and public hospitals found in Gamo and Gofa zones, Ethiopia. Poor self-care practice could increase the development of diabetic foot ulcers because they did not wash their own feet regularly, and did not evaluate their feet. We found a high magnitude of diabetic foot ulcers among males. As result, we expect the impact of the disease on the family's economy since the economy of the family depends on the productivity of the males in our set-up. Therefore, the patients should be educated regarding diabetic foot ulcer care practices to reduce the prevalence of foot ulcer. Besides this, the high clinical burden of diabetic foot ulcer-like amputations could happen if the preventive mechanism was not taken for diabetic foot ulcer patients.
+
+Strength and limitation of the study
+
+As strength, glycemic control was assessed and as limitation, the study was a single-center and a retrospective nature. Fasting plasma glucose was used to assess the adequacy of glycemic control instead of glycosylated hemoglobin(HbA1c). Therefore, the future researchers should conduct a multicenter prospective study by using glycosylated hemoglobin(HbA1c).
+
+Conclusion
+
+The prevalence of diabetic foot ulcers among diabetic patients in BGH was found to be high. The presence of comorbidity, being a male, and foot care practice were factors that predict the occurrences of diabetic foot ulcers. Therefore, the ongoing medical education of health professionals who care for diabetic foot ulcers should include information on the foot care practices and special attention should be given to patients having comorbidity.
+
+Authors’ contributions
+
+FB and FK contribute to the preparation of the proposal, methodology, and statistical analysis. FB and BS were participated in preparing the first draft of the manuscript. BS was contributed to the editing of the manuscript. All authors checked and confirmed the final version of the manuscript.
+
+Funding
+
+None.
+
+Availability of data and materials
+
+The materials used while conducting this study are obtained from the corresponding author on reasonable request.
+
+Consent for publication
+
+Not applicable. No individual person's personal details, images, or videos are being used in this study.
+
+Provenance and peer review
+
+Not commissioned, externally peer-reviewed.
+
+Ethical approval
+
+Ethical clearance was obtained from the Institutional Review Board (IRB) of mettu University, college of health science.
+
+Sources of funding for your research
+
+This work was funded by Mettu University. The funding body did not have any role in study design, data collection, data analysis, interpretation of data or in writing the manuscript.
+
+Author contribution
+
+FB and FK contribute to the preparation of proposal, methodology, and statistical analysis. FB and BS was participated in preparing the first draft of the manuscript. BS was contributed to the editing of the manuscript. All authors checked and confirmed the final version of the manuscript.
+
+Registration of research studies
+
+Name of the registry: RESEARCH REGISTRY, https://www.researchregistry.com
+
+Unique Identifying number or registration ID: researchregistry7865
+
+https://www.researchregistry.com/register-now#home/registrationdetails/5d70f2520791fb0011b79e9f/
+
+Hyperlink to the registration (must be publicly accessible):
+
+Guarantor
+
+Firomsa Bekele.
+
+Consent
+
+Not applicable. No individual person's personal details, images or videos are being used in this study.
+
+Declaration of competing interest
+
+No competing interests exist.
+
+References
+
+Prevalence of diabetic foot ulcer and associated factors among diabetic patient in Tikur Anbessa Specialized Hospital, Addis Ababa, Ethiopia
+
+Prevalence and associated factors of diabetic foot at risk among type 2 diabetes mellitus patients attending primary health clinics in kuantan
+
+Prevalence of diabetic foot ulcer and associated factors among adult diabetic patients on follow-up clinic at Jimma Medical Center, Southwest Ethiopia, 2019: an institutional-based cross-sectional study
+
+Prevalence and factors influencing diabetic foot ulcer among diabetic patients attending Arbaminch Hospital, South Ethiopia
+
+Global epidemiology of diabetic foot ulceration: a systematic review and meta-analysis
+
+Risk of diabetic foot ulcer and its associated factors among Bangladeshi subjects: a multicentric cross-sectional study
+
+Biofilms in diabetic foot ulcers: impact, risk factors and control strategies
+
+Incidence of diabetic foot ulcer among diabetes mellitus patients admitted to Nekemte referral Hospital, Western Ethiopia: prospective observational study
+
+Prevalence and associated factors of foot ulcer among diabetic patients in Ethiopia: a systematic review and meta-analysis
+
+Determinants of diabetic foot ulcer among adult patients with diabetes attending the diabetic clinic in tikur anbessa specialized hospital, Addis Ababa, Ethiopia: unmatched case–control study
+
+Prevalence of diabetic foot ulceration and associated risk factors: an old and still major public health problem in Khartoum, Sudan?
+
+Amputation rate of diabetic foot ulcer and associated factors in diabetes mellitus patients admitted to Nekemte referral hospital, western Ethiopia: prospective observational study
+
+Epidemiological factors associated with the evolution of the diabetic foot
+
+Incidence of diabetic foot ulcer and its predictors among diabetes mellitus patients at Felege Hiwot Referral Hospital, Bahir Dar, Northwest Ethiopia: a retrospective follow-up study
+
+Sociodemographic and lifestyle factors as the risk of diabetic foot ulcer in the University of Malaya Medical Centre
+
+Prevalence of diabetic complications and risk factors among diabetic foot ulcer patients: a retrospective hospital-based study
+
+Prevalence and factors associated with diabetic foot ulcer among adult patients attending diabetic clinic at nyeri level 5 hospital
+
+Loss of a limb is not loss of a life”. Knowledge and attitude on diabetic foot ulcer care and associated factors among diabetic mellitus patients on chronic care follow-up of southwestern Ethiopian hospitals: a multicenter cross-sectional study
+
+STROCSS 2021: strengthening the Reporting of cohort, cross-sectional and case-control studies in Surgery
+
+Prevalence of diabetic foot ulcer and associated factors among adult diabetic patients who attend the diabetic follow-up clinic at the University of Gondar Referral Hospital, North West Ethiopia, 2016: institutional-based cross-sectional study
+
+Magnitude of diabetic foot ulcer and associated factors among diabetic patients who attended diabetic follow-up clinics in Gamo and Gofa zones, southern Ethiopia
+
+Supplementary data
+
+The following is the Supplementary data to this article:
+
+Supplementary data to this article can be found online at https://doi.org/10.1016/j.amsu.2022.104003.
+

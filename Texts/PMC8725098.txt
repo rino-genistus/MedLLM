@@ -1,0 +1,1010 @@
+TITLE: Knowledge, attitude, and practice patterns and the purported reasons for delayed presentation of patients with sight-threatening diabetic retinopathy at a tertiary eye-care facility in Central India: A questionnaire-based study
+
+Purpose:
+
+To identify the reasons for delayed presentation among patients with sight-threatening diabetic retinopathy (STDR) and to assess their knowledge, attitude, and practice (KAP) patterns in context to diabetes mellitus (DM) and diabetic retinopathy (DR).
+
+Methods:
+
+Single-center, cross-sectional, questionnaire-based KAP survey. All consecutive cases of STDR who presented to our tertiary eye care facility from June 2020 to November 2020 were recruited. The KAP scoring survey tool was incorporated into the questionnaire to help evaluate and represent the patient's disease.
+
+Results:
+
+170 patients with STDR were enrolled in the study. The mean age of patients was 54 ± 9.34 years (Range: 21–70 years); 110 patients (64.7%) were between 41 and 60 years; 131 patients (76%) had DM for more than 5 years. The STDR changes were more prevalent in patients with an educational qualification of high school or less (n = 142; 83.5%). Fifty-two patients (30.6%) had been informed regarding the detrimental effect of diabetes on the eyes and were recommended to consult an ophthalmologist by the treating physician. Of these, 24 (46.15%) patients were educated about retinal changes due to diabetes. Eighty-five (50%) patients in our study had good knowledge about DM; 13 (7.6%) patients had good knowledge about DR. For patients not compliant for follow-ups with the treating physician, the use of “home glucometers for self-monitoring (n = 60, 35.3%) was the most prevalent reason. The main reason for poor compliance for undergoing a dilated fundus examination by the ophthalmologist was “Had good vision, so didn’t feel the need” in 143 (90.5%) patients.
+
+Conclusion:
+
+The absence of visual complaints, lack of knowledge, and failure to undergo a dilated fundus examination in the past were the prevalent risk factors in patients presenting with STDR. Knowledge/practice about DR was poor among the patients with STDR. The treating physicians and ophthalmologists were the most common sources for patient education.
+
+Diabetes mellitus (DM) remains a major concern worldwide due to its increasing prevalence and association with high morbidity. India is home to 69.2 million diabetics, which is projected to increase to 123.5 million by 2040, making India the diabetic capital of the world in the not so distant future.
+
+Diabetic retinopathy (DR) is the leading cause of visual disability in diabetics due to progressive damage to the retinal microvasculature. The reported prevalence of DR in India has been estimated to range between 17.6% and 28.2%, with central India reporting a prevalence of 12.27%.
+
+Increasing awareness about DR among diabetics is of paramount importance to ensure a prompt diagnosis, prevent vision loss due to sight-threatening retinopathy, and reduce the eventual financial burden. It is already known that maintaining good metabolic control and periodic screening is crucial in the prevention of sight-threatening DR (STDR). However, several investigators have expressed their concerns regarding the prevalent knowledge gap among the patients as well as their treating physicians on the importance and implications of screening methods for early detection of DR.
+
+In absence of a state-run screening program for DR and its related complications, the early identification of DR is solely determined by the health-seeking behavior of the population and their knowledge and attitude toward the disease.
+
+The limited resources and unequal distribution of health care facilities where the majority of the centers’ cluster in and around urban establishments, coupled with higher illiteracy rates deprives the rural population of the elementary health care facilities.
+
+Insight into the prevalent knowledge-attitude-practice (KAP) parameters in context to retinopathy awareness among diabetic patients is still insufficient. While many cross-sectional studies have attempted to evaluate the KAP scores among DR patients to better understand patient compliance issues, insight into the factors responsible for a delayed first presentation in patients with STDR still remains unclear. Understanding the existing limitations from the patient's perspective can aid in strengthening strategies and improving upon the existing programs to decrease the DR-related blindness burden.
+
+The aim of our study was to identify the reasons for delayed presentation among patients with STDR and to assess their knowledge, attitude, and practice patterns in context to DM and DR among them.
+
+Methods
+
+We performed a single-center, cross-sectional, questionnaire-based KAP survey with the aim to understand the prevalent reasons for the delayed presentation of newly diagnosed cases of STDR. The study population included all consecutive cases of STDR who presented to our tertiary eye care facility from June 2020 to November 2020. The KAP scoring survey tool was incorporated into the questionnaire to help evaluate and represent the patient's disease understanding regarding DR and DM. The study has been approved by our institutional review board.
+
+The study protocol was approved by the Institutional Review Board and the study was conducted in accordance with the tenets of the Declaration of Helsinki. Informed consent was obtained from all participants before enrolling them in the study. All treatment-naive patients presenting with STDR during the study period were included in the study. Patients were classified as having STDR if they had any one or more of the following in the worst affected eye: proliferative diabetic retinopathy (PDR), vitreous hemorrhage, tractional retinal detachment, and neovascular glaucoma. Those with visual loss due to other ocular comorbidities like advanced glaucoma, mature cataract, or other retinal pathologies like macular degeneration, retinal vein occlusion, and anterior ischemic optic neuropathy were excluded.
+
+A KAP scoring questionnaire was provided to all cases who were labeled as STDR. Following the administration of the questionnaire, the patients were counseled to undergo mandatory patient education and awareness sessions where they were explained the need for metabolic control and details about systemic implications of DM.
+
+Best-corrected visual acuity (BCVA) was assessed by Snellen's chart, the values of which were converted to LogMAR for statistical analysis. The clinical grading of retinopathy for the enrolled patients was performed by two vitreo-retina specialists. Evaluation for systemic control included fasting blood sugar (FBS) and post-prandial blood sugar (PPBS), glycosylated hemoglobin (HbA1c), and hemoglobin levels.
+
+The questionnaire used by the existing studies on DR-related KAP scoring on Indian populations was reviewed and compiled to formulate a customized questionnaire. The compiled questionnaire was tested and validated by a pilot study on ten subjects. The questionnaire was translated into Hindi, which is the major dialect used in the region [Annexure 1]. The questions were read out to the patient by one designated vitreo-retina fellow in the presence of the patient's attendant and the patient's responses were then noted serially for every question.
+
+For understanding the distribution of scoring across the patient's knowledge, attitude, and practice patterns, the questionnaire was divided into three segments. Section 1 consisted of 14 questions regarding the demography and metabolic status of the patients, section 2 had 10 questions that aimed to assess the role of physicians and general ophthalmologists in spreading awareness about DR, section 3 had 46 questions to test the knowledge, attitude, and practice patterns about DM and DR in these patients. Each segment of the questionnaire consisted of two sets of questions: 1) those used for scoring KAP (italicized) and 2) those used to reason out the causes for a poor KAP response. The correct responses were decided based on the questionnaires taken from parent studies. The answers were then scored according to the option chosen and tallied for each section. Based on their responses to these questions, the patients were categorized to have good or poor knowledge, good or poor practices, and positive or negative attitudes for DM and DR. The patient was deemed to have a correct “attitude” response if his/her opinion about DM and DR corresponded with the predecided correct responses and an incorrect “attitude” response when it did not. The scores were then tallied for individual sections of DM and DR and the patient was deemed to have a “positive attitude” if his/her overall score favored the correct responses and “negative attitude” when the overall score did not favor the correct responses.
+
+At the end of the questionnaire, the diagnosis and visual status of the patient were also noted. The worst eye from each patient was chosen for statistical analysis.
+
+Statistical analysis
+
+In India, the prevalence of DR is reported to be 12.27%. With a prevalence rate of 12.3% and a precision error of 5%, the sample size of 166 was calculated. Data were analyzed using the SPSS (IBM SPSS Statistics for Windows, Version 20.0. IBM Corp). Frequency and percentages were used for the categorical variables.
+
+Results
+
+Demography
+
+One hundred and seventy patients with STDR were enrolled in the study. The mean age of patients was 54 ± 9.34 years (Range: 21 to 70 years). The demographic details of the patients are listed in Table 1. The majority of the patients (n = 110; 64.7%) were between the age group of 41 and 60 years. A total of 131 patients (76%) had DM for more than 5 years. Details regarding the duration of DM and treatment taken are demonstrated in Table 2. Among the 177 patients, 142 (83.5%) patients had an educational qualification of high school or less.
+
+Distribution of cases according to demography
+
+Factor	Number (Percentage)	 	Age		 	 21-40 years	14 (8.2%)	 	 41-60 years	110 (64.7%)	 	 >61 years	46 (27.1%)	 	Gender		 	 Male	125 (73.5%)	 	 Female	45 (26.5%)	 	Residence		 	 Rural	82 (48.2%)	 	 Urban	88 (51.8%)	 	Literacy		 	 Illiterate	28 (16.5%)	 	 Primary school	6 (3.5%)	 	 Middle school	39 (22.9%)	 	 High school	69 (40.6%)	 	 Graduate	17 (10%)	 	 Postgraduate	10 (5.9%)	 	 Professional degree	1 (0.6%)	 	Socioeconomic status (modified Kuppuswamy scale)		 	 Upper	5 (2.9%)	 	 Upper middle	40 (23.5%)	 	 Lower middle	59 (34.7%)	 	 Upper lower	62 (36.5%)	 	 Lower	4 (2.4%)
+
+Distribution of cases according to the duration of diabetes mellitus and treatment taken
+
+Duration	Number of patients	Percentage	 	>10 years	100	58.8%	 	6-10 years	31	18.2%	 	<5 years	39	23%	 	Treatment taken			 	 Oral hypoglycemics	133	78.2%	 	 Insulin injection	11	6.5%	 	 Combination of oral hypoglycemics and insulin injection	26	15.3%
+
+In our cohort, 77 patients (45.3%) had PDR with macular edema, 22 patients (12.9%) had PDR without diabetic macular edema, 51 patients (30%) had vitreous hemorrhage, 18 patients (12.6%) had tractional retinal detachment, and 2 patients (1.2%) patients had neovascular glaucoma.
+
+The mean BCVA of the patients was LogMAR 1.82 ± 1.49 (Range: LogMAR 0.00 to LogMAR 2.8). A total of 92 patients (54.1%) had a BCVA between PL and 3/60, 59 patients (34.7%) had a BCVA between 4/60 and 6/18, and 19 patients (11.2%) had a BCVA better than 6/18. The mean FBS was 172.7 ± 75.50 mg/dl ranging from 70–450 mg/dl. The mean PPBS was 257.84 ± 90.00 mg/dl (Range: 88–510 mg/dl). Mean HBA1c was 7.73 ± 2.14 (Range: 5.0–13.4). Eighty-nine (52.4%) patients also suffered from coexisting hypertension.
+
+Role of physicians and ophthalmologists
+
+All patients had been to physicians for the treatment of DM. There were 52 patients (30.6%) who had been informed regarding the detrimental effect of diabetes on the eyes and were recommended to consult an ophthalmologist by the treating physician. Of these 52 patients, 24 (46.15%) patients were educated about retinal changes due to diabetes. None of the patients had undergone dilated fundus examination for screening and grading of background retinopathy by the physician at the diagnosis of DM.
+
+There were 116 (68.2%) patients that had visited a general ophthalmologist at some point in time after diagnosis of DM. Among them, 51 (43.9%) patients were informed regarding the effect of diabetes on sight by the concerned ophthalmologist. Out of these 51 patients, 29 (56.3%) patients were informed about the importance of regular eye check-ups in DM. Out of the 116 patients, 34 patients (29.3%) underwent dilated fundus examination. 55 patients underwent fundus examination only (34.25%) after a recent-onset deterioration of vision (within 2 months of visiting us).
+
+Knowledge attainment, patient attitude, and practice (KAP) pattern regarding DM and DR
+
+There were 85 (50%) patients in our study who had good knowledge about DM, whereas only 13 (7.6%) patients had good knowledge specifically about DR. In our cohort, 133 (78.2%) patients knew that kidneys are affected in DM and 105 (61.7%) patients were aware that eyes, in general, are affected in DM. One fifty-eight (93%) patients had not gone for regular eye check-ups. Of the 105 patients who received some form of patient education regarding DR, only 35 (33.3%) patients were aware/recalled the need for regular eye check-ups. From the 105 patients who were aware of DR, the physicians were the source of information and patient education in 48 (45.7%) cases, ophthalmologists were responsible in 29 cases (27.6%), 23 (21.9%) patients got the information through family and friends, while 5 (4.7%) patients gathered this information through self-reading/learning via available literature in the media and books.
+
+A positive attitude toward DM and DR was present in 99 (58.2%) and 91 (53.5%) patients, respectively. Good practice for DM was present in 69 (40.6%) patients while good practice for DR was present in 13 (7.6%) patients. In our study, 152 (89.4%) patients were aware that life-long treatment is required for DM, 14 (8.3%) patients did not know how long the treatment should be taken, and 4 (2.4%) patients believed that medications should be taken until the sugar levels were controlled.
+
+While evaluating treatment compliance practices for DM, our study found that 147 (85.9%) patients took diabetic medications regularly, 45 (26.5%) patients exercised, 102 (60%) patients followed dietary control, and 63 (36.5%) patients went for regular physician follow-ups.
+
+For patients not compliant for follow-ups with the treating physician, the use of “home glucometers for self-monitoring” (n = 60, 35.3%) was the most prevalent reason. The other reasons for poor follow-up with the treating physician were financial restraints (n = 20, 11.85%), lazy attitude (n = 8; 4.7%), lack of family support (n = 7, 4.1%), unawareness, and lack of insight into the importance of follow-up (n = 9, 7.3%) and other preoccupations in 4 (2.4%) patients.
+
+The reason for poor compliance for undergoing examination by the ophthalmologist was “Had good vision, so didn’t feel the need” in 143 (90.5%) patients, “Lazy attitude” in 7 (4.4%) patients, “Financial problem” in 3 (1.9%) patients, “Long-distance from the hospital” in 3 (1.9%) patients, and “Poor family support” in 2 (1.2%) patients. 118 (69.4%) patients stated that they were having their first dilated eye examination today, i.e. on the day when they visited our hospital.
+
+Discussion
+
+This was a hospital-based study in which a questionnaire was presented to 170 patients with sight-threatening complications of DR for determining the factors responsible for delayed presentation. The majority of the patients with STDR were clustered between the ranges of 41 and 60 years and showed a male preponderance. There was no apparent difference in the distribution of cases among urban and rural populations, with the majority of patients having DM for more than five years and educational qualification of high school or less. PDR was the most common presenting cause of STDR; the mean presenting vision for STDR cases was LogMAR 1.82 ± 1.49. The physician was the source of patients’ information regarding the effects of DM on the eye in one-third of the cases out of which half of the patients were made aware of the secondary retinal changes associated with DM. Two-thirds of the patients visited an ophthalmologist following the diagnosis of DM, and a third of them underwent a dilated fundus examination for DR screening. Forty percent were informed regarding the effects of DM on eyes by the ophthalmologist. Half of the STDR cases presented to us had a good knowledge pertaining to DM and a positive attitude toward DM was found in 58.2% of cases. However, less than ten percent had adequate knowledge about DR while a positive attitude to DR was seen in 53.5% of cases. Good practice for DM was present in 40.6% of patients and in 7.6% of patients for DR.
+
+Duration of diabetes and poor metabolic control are established risk factors for the progression of DR and was also noted in our study. We noted that in our series we had more patients with education qualifications less than high school both among rural and urban backgrounds. Also, a majority of the patients belonged to the low socioeconomic group followed by the lower middle class. Educational levels have been found to be a major moving determinant for knowledge acquisition, its comprehension, and application and this has been supported by other KAP studies. It is for this reason that these patients with marginal or no educational qualifications may require repeated sessions of counseling in order to reinforce the importance and significance of the information content. Hamzeh et al. in their study of 260 patients found similar results wherein most of their patients had low socioeconomic status, low educational level, and a quarter of them were illiterate.
+
+The distribution of disease-specific knowledge content can be transferred to the patient population through three pivotal sources. These include active instruments like available medical literature, which can be accessed via online resources or published text; treating physicians who describe the nature of the disease to the patient; and public information and educational programs, which are distributed via mass media communication platforms through audio-visual aids to stress upon the important aspects of the disease. All the aforementioned patient education channels individually as well as collectively are important progenitors for the creation of any socio-medical knowledge and development of general public awareness.
+
+Even though all the patients were under treatment with the physician, only a third of the patients being treated were counseled about the disease and its manifestations, and out of this only half were made aware of the requirement of an ophthalmic examination. Although about two-thirds of the patients in our cohort did consult an ophthalmologist, only a third of them underwent a dilated fundus examination. This deficiency to achieve adequate distribution of patient information and completion of a retinal examination in eyes developing STDR reflects on the failure of the existing architecture of primary prevention and screening.
+
+Another important observation that we made was that although many patients had good knowledge of DM, only 7.6% had good knowledge in respect to DR. This reflects on the chasm between the awareness of DM and DR and also highlights the need for a more robust program to increase public awareness regarding the two entities, especially DR. The patients were made aware about DR predominantly by physicians as well as ophthalmologists; however, awareness generated by media and books constituted a very minuscule proportion. This existing lacuna in public information might be an area for implementing programs that can encompass a greater population of diseased individuals and attempt to make the target population more knowledgeable about the two diseases.
+
+While a positive attitude was present in more than half of the patients, good practice patterns were lacking among STDR cases. The DM part was well managed in most of the patients who were aware of the need for lifelong medications and maintained good compliance. However, the same did not apply for DR as the major chunk did not feel the need to undergo a baseline screening by the ophthalmologist in view of their good vision. Thus, the existing patient information and education tools should be designed to clear the misconception of consulting an ophthalmologist only when the vision drops in patients with DM so as to detect retinopathy changes in the early stages and not when STDR develops. The existing datasets from epidemiological studies have also shown that diabetic patients have poor knowledge about their disease and potential complications.
+
+The previous KAP studies have found a strong concordance between the patients’ knowledge/attitude toward disease-modifying practice patterns. Since all the three variables in KAP are interdependent, we suggest a three-step approach for all diabetic patients who receive treatment by physicians or are being examined by ophthalmologists “screen all, educate all, motivate all” in order to achieve primary prevention goals to modify the disease process. Advancements in technology have enabled affordable, nonmydriatic cameras to be used for fundus imaging which can be efficiently utilized by physicians and general ophthalmologists for screening and identifying DR changes before the disease reaches the STDR stage. The fast image acquisition and user-friendly interfaces of these cameras ensure their potential use where time constraints and lack of training hinder dilated fundus examinations. Additionally, health education measures should be implemented at all levels of health care either through mass media, pamphlets, or posters about DR. This would help in creating awareness about DR, especially among people in the lower educational and socioeconomic status groups. Paramedical personnel like chemists and pathology staff who provide services to diabetics can also be utilized for spreading awareness about DR to widen the awareness loop.
+
+Our study evaluated KAP parameters specifically for STDR cases, which reflects the deficits of achieving primary prevention in our current socio-medical structure. The integrated 56 points validated questionnaire was pilot tested and refined for our population to improve the internal validity and avoid leading question and wording biases. Hence, the questionnaire represents well the prevalent reasons for poor knowledge and practices among STDR cases. We avoided the possibility of confirmation bias by blinding the doctor who was administering the questionnaire.
+
+While question order bias is unavoidable with questionnaire-based studies, we tried to minimize it by ordering the questions such that the general questions fall before specific questions. Being a tertiary referral center in a remote location, our patient population comprises both rural as well as urban patients from different strata of the society and represents the general population characteristics thus strengthening the external validity of our study. Our study is limited by the recall bias of patients in answering the specific data points.
+
+Conclusion
+
+In summary, knowledge and practice about DR were poor among the patients with STDR. The treating physicians and ophthalmologists play a pivotal role in supplementing information and motivating patients, which may help to reduce the disease burden in diabetic patients. General ophthalmologists must perform a dilated fundus examination for all newly diagnosed or previously diabetic patients irrespective of the presenting visual acuity.
+
+Financial support and sponsorship
+
+Nil.
+
+Conflicts of interest
+
+There are no conflicts of interest.
+
+Annexure 1
+
+PROFORMA OF QUESTIONNAIRE
+
+Section 1
+
+1) MRD No.
+
+2) Name:
+
+(I) Demography
+
+3) Age
+
+21–40 yrs
+
+41–60 yrs
+
+>61yrs
+
+Actual age in years =
+
+4) Gender
+
+Male
+
+Female
+
+5) Locality
+
+Rural
+
+Urban
+
+6) Education
+
+Illiterate
+
+Primary school
+
+Middle school
+
+High school
+
+Intermediate/post-high school diploma
+
+Graduate
+
+Postgraduate
+
+Professional degree
+
+7) Occupation
+
+Unemployed
+
+Unskilled worker
+
+Semi-skilled worker
+
+Clerical, shop owner, farm
+
+Semi-professional
+
+Professional
+
+Retired
+
+8) Socioeconomic status (Modified Kuppuswamy scale)
+
+Upper
+
+Upper middle
+
+Lower middle
+
+Upper lower
+
+Lower
+
+Modified Kuppuswamy scale (update for Feb 2019)
+
+Education of head of family	Score	 	Professional degree	7	 	Graduate or postgraduate	6	 	Intermediate or post high school diploma	5	 	High school certificate	4	 	Middle school certificate	3	 	Primary school certificate	2	 	Illiterate	1	 	Occupation of head of family		 	Professional (white collar)	10	 	Semi-professional	6	 	Clerical, shop-owner/farm	5	 	Skilled worker	4	 	Semi-skilled worker	3	 	Unskilled worker	2	 	Unemployed	1	 		 	Monthly income of family	 		 	In 2001 (Base year)	In 2017 (January 2017 CPI)	In 2019 (February 2019 CPI)	Score	 		 	>15,197	>41,430	>52,734	12	 	7,595-15,196	20,715-41,429	26,355-52,733	10	 	5,694-7,594	15,536-20,714	19,759-26,354	6	 	3,793-5,693	357-15,535	13,161-19,758	4	 	2,273-3,792	6,214-10,356	7,887-13,160	3	 	761-2,272	2,092-6,213	2,641-7,886	2	 	<760	<2,091	^2,640	1	 		 	Socioeconomic class	Total score	 		 	I	Upper	26-29	 	II	Upper middle	16-25	 	III	Lower middle	11-15	 	IV	Upper lower	5-10	 	V	Lower	01-04
+
+(II) Chief complaints with the duration of complaints and source of referral
+
+9) Chief complaints
+
+Diminution of vision
+
+any other
+
+10) If diminution of vision is present, then since how long
+
+1–10 days
+
+11–30 days
+
+1month–6 months
+
+7 months–1 yr
+
+>1 yr
+
+11) Who referred you here today?
+
+Physician at a local hospital
+
+Self
+
+Ophthalmologist at a local hospital
+
+Optometrist
+
+Referred from eye camp
+
+Any other
+
+(III) Diabetic status
+
+12) Duration of DM
+
+<1 yr
+
+1–2 yrs
+
+3–5 yrs
+
+6–10 yrs
+
+>10 yrs
+
+Blood sugar levels
+
+FBS
+
+PPBS
+
+HbA1c
+
+13) Family history of DM
+
+Yes
+
+No
+
+Don’t know
+
+14) Family history of vision loss
+
+Yes
+
+No
+
+Don’t know
+
+15) Hypertension
+
+Yes
+
+No
+
+16) Medication for DM
+
+Oral
+
+Insulin
+
+Both
+
+The questionnaire was administered to the patient by a Vitreo-retina fellow after translating it into Hindi language. The questionnaire was not shown to the patient.
+
+The correct answers in the knowledge and practice sections are marked in bold, whereas the questions which don’t have any specific correct answer are unmarked. The questions used for scoring are in italics.
+
+Similarly, in the Attitude section, the response which best indicates the positive attitude is marked in bold.
+
+Questions with more than 1 right answer are marked with an asterisk (*)
+
+A score of one is allotted for each right answer.
+
+SECTION 2
+
+(IV) Role of physicians and general ophthalmologists in spreading awareness regarding diabetic retinopathy (applicable for those patients who went to them)
+
+A) Questions regarding advice given by Physician:
+
+1) Did the physician tell you that diabetes can affect your eyes and recommend an ophthalmologist consultation?
+
+Yes
+
+No
+
+2) If told to visit an ophthalmologist, when was the check-up recommended?
+
+Immediately
+
+When vision is affected
+
+Within 6 months
+
+6 months–1 yr
+
+After a year
+
+Other
+
+Did not mention the time
+
+3) About which complications did he tell you?
+
+Can damage the retina
+
+Other (specify)
+
+Just told that it can affect the eye
+
+B) Questions regarding the role of general ophthalmologist or optometrist
+
+4) Have you ever visited any doctor for eye problems after diagnosis of DM (before 6 months of visiting us) and when?
+
+Yes
+
+No
+
+If the answer is no, Proceed to section 2
+
+If the answer is yes, proceed to question 9
+
+5) Reason for going?
+
+Diminution of vision
+
+Other
+
+6) To whom did you consult?
+
+General Ophthalmologist
+
+Optometrist
+
+Other
+
+7) What did he tell you regarding your eye problem?
+
+Told you to get operated for cataract
+
+Changed the glass prescription
+
+Just gave the medicine
+
+Checked the retina
+
+Other
+
+8) Did he give you information that Diabetes mellitus can affect your eyes?
+
+Yes
+
+No
+
+9) Did he tell you about the need for periodic eye examinations in a Diabetes mellitus patient?
+
+Yes
+
+No
+
+10) Did you visit an ophthalmologist recently (within 2 months) before visiting us?
+
+Yes
+
+No
+
+SECTION 3
+
+(V) Checking for the knowledge, attitude, and practice regarding DM and DR among the patients
+
+Knowledge Regarding Diabetes Mellitus
+
+1) What are the symptoms of DM or how will you come to know that you have diabetes*?
+
+Increase in frequency of urination or nocturia
+
+Repeated infections with poor healing
+
+Tingling numbness in extremities
+
+Other
+
+No symptoms (diagnosed by a blood test)
+
+Unaware
+
+2) What is the cause of DM*?
+
+Eating too many sweets
+
+Stress
+
+Family history
+
+Lack of exercise
+
+Other
+
+Unaware
+
+3) Which tests are done to diagnose diabetes*?
+
+Blood tests
+
+Urine tests
+
+Any other (specify)
+
+Unaware
+
+4) What is the normal blood sugar level?
+
+<200 mg/dl
+
+Any other
+
+Unaware
+
+5) What are the ways to keep diabetes under control*?
+
+Medication
+
+Diet
+
+Exercise
+
+Weight reduction
+
+Going for a regular check-up
+
+Any other (specify)
+
+Unaware
+
+6) After the diagnosis of diabetes, how long should treatment be continued?
+
+Till the sugar levels get under control
+
+Lifelong
+
+Any other (specify)
+
+Unaware
+
+7) Which parts of the body are affected by diabetes*?
+
+Kidney
+
+Feet
+
+Eyes
+
+Nerves
+
+Heart
+
+Any other (specify)
+
+Unaware
+
+If option 3 in Question 7 has been circled (diabetes can affect eye), proceed to question 8; if not, skip to the Attitude section
+
+8) How does DM affect eyes*?
+
+Cataract
+
+Retinopathy (damage to retina/nerve at the back of the eye due to diabetes)
+
+Infections in the eye
+
+Defective vision
+
+Any other (specify)
+
+Unaware
+
+Total score for knowledge regarding diabetes: 26
+
+Good knowledge: score of 13 and above
+
+Poor knowledge: score of less than 13
+
+Knowledge regarding diabetic retinopathy (To be asked only to those patients who are aware regarding eyes being affected in diabetes mellitus)
+
+9) Who told you that DM can affect eyes for the first time?
+
+Physician
+
+Optometrist
+
+Ophthalmologist
+
+Family and friends
+
+Got information from media, books
+
+Any other (specify)
+
+10) Should patients with diabetes have a regular dilated eye check-up to look for diabetic retinopathy?
+
+Yes
+
+No
+
+Unaware
+
+11) After how many years of diagnosis of diabetes do you think that one should go to an ophthalmologist or retina specialist for screening for diabetic retinopathy if the physician/optometrist or ophthalmologist has not examined the retina respectively?
+
+At the time of diagnosis
+
+Any other (specify the time interval in years since diagnosis of diabetes)
+
+When the vision decreases
+
+Unaware
+
+12) How often should patients with DM but no DR get their eyes examined?
+
+Once in 6 months
+
+Once in a year
+
+Other (specify)
+
+Unaware
+
+13) How often should patients with DM and diagnosed with DR get their eyes examined?
+
+Once in 6 to 12 months
+
+Once in 2 years
+
+Once in 5 years
+
+Other (specify)
+
+Depends on the stage of the DR
+
+Unaware
+
+(A score of 1 is given if the patient gives the correct answer according to the stage of DR)
+
+14) Can diabetic retinopathy cause blindness?
+
+Yes
+
+No
+
+Do not know
+
+15) Can a person with diabetic retinopathy have normal vision?
+
+Yes
+
+No
+
+Do not know
+
+16) What are the treatment options available for diabetic retinopathy*?
+
+Spectacles
+
+Laser
+
+Surgery
+
+Injection into the eye
+
+Any other (specify)
+
+Unaware
+
+Total score for knowledge regarding diabetic retinopathy: 9
+
+Good knowledge: score of 5 and above
+
+Poor knowledge: score of less than 5
+
+ATTITUDE FOR DM
+
+The patient is asked about his opinion for the following statements. The answers are only limited to yes; no and can’t say
+
+1) Diabetes occurs only in obese.
+
+Yes
+
+No
+
+Can’t say
+
+2) Skipping medicine for DM for some days is okay.
+
+Yes
+
+No
+
+Can’t say
+
+3) Exercise is not a must in diabetics as the daily activity they are doing is enough.
+
+Yes
+
+No
+
+Can’t say
+
+4) Diabetes is cured once blood glucose levels reach normal levels.
+
+Yes
+
+No
+
+Can’t say
+
+5) All fruits are healthy to eat. So a diabetic can have as many/whichever fruits he wants.
+
+Yes
+
+No
+
+Can’t say
+
+6) A diabetic should go to the doctor, even if the blood sugar levels are under control.
+
+Yes
+
+No
+
+Can’t say
+
+7) Herbal treatment cures diabetes, whereas allopathic Diabetic medicines have a lot of side effects. So the best treatment for DM is herbal treatment.
+
+Yes
+
+No
+
+Can’t say
+
+Total score for patient's attitude toward DM: 7
+
+Positive attitude: score of 5 and above
+
+Negative attitude: score of less than 5
+
+ATTITUDE FOR DR
+
+8) Despite the fact that an ophthalmologist tells me to come regularly for an eye check-up, I think it's okay if I don’t go to him as my sugar level is under control.
+
+Yes
+
+No
+
+Can’t say
+
+9) Although my ophthalmologist tells me to come for regular check-ups, it's okay if I don’t go to him till my vision is good.
+
+Yes
+
+No
+
+Can’t say
+
+10) Ophthalmologists say that good diabetic control prevents problems due to diabetic retinopathy, but it is not possible to keep sugars under perfect control.
+
+Yes
+
+No
+
+Can’t say
+
+11) No matter what I do, my vision may become poor/may not improve. So what is the use of doing all this treatment/follow-up for diabetic retinopathy?
+
+Yes
+
+No
+
+Can’t say
+
+Total score for patient's attitude toward diabetic retinopathy: 4
+
+Positive attitude: score of 3 and above
+
+Negative attitude: score of less than 3
+
+PRACTICE FOR DM
+
+The patient is asked a few questions to find out what they actually do regarding the treatment and control of diabetes and its complications.
+
+1) Do you take your medicines for diabetes regularly as advised by the physician?
+
+Yes
+
+No
+
+2) Do you follow the diet which you are supposed to follow as told by the physician?
+
+Yes
+
+No
+
+3) Do you perform regular exercise?
+
+Yes (specify type: walking/jogging/cycling/work out in gym/any other; duration per day; how often in a week)
+
+Recommended exercise regime: Regular moderate-intensity physical activity; 30-60 min daily, 5–7 days/week
+
+No
+
+4) Is your diabetes under control at present? (Verify later with FBS, PPBS, and HbA1C levels)
+
+Yes (Also mention the blood sugar levels which the patient tells)
+
+No
+
+Do not know
+
+5) Do you go for regular follow-up as advised by your physician?
+
+Yes > skip to Question 7
+
+No > proceed to Question 6
+
+6) Why don’t you go for regular follow-up as advised by your physician?
+
+Cannot afford
+
+No family support
+
+Do not think it is important
+
+Did not find time
+
+Checking sugar levels with a glucometer at home is sufficient
+
+Did not know that a regular follow-up is necessary
+
+Lazy attitude
+
+Any other (specify)
+
+Total score for patient's practice pattern regarding diabetes: 5
+
+Good practice pattern: score of 4 and above
+
+Poor practice pattern: score of less than 4
+
+PRACTICE FOR DR
+
+7) Do you go for regular eye check-ups?
+
+Yes > proceed to Question 8
+
+No > skip to Question 11
+
+8) To whom do you go for your regular eye check-up?
+
+Physician at a local hospital
+
+Optometrist at a local optical dispensary
+
+Ophthalmologist at a local hospital
+
+Ophthalmologist at Tertiary Eye hospital
+
+Eye camps
+
+Any other (specify)
+
+(If any of the above-marked options is given as an answer, give a score of 1)
+
+9) Why do you go for a regular eye check-up?
+
+For follow-up of diabetic retinopathy
+
+The doctor has told me but I don’t know the reason
+
+For getting my eyeglasses checked
+
+Any other (specify)
+
+10) How often do you go for a dilated eye check-up?
+
+Once in 3 months
+
+Once in 6 months
+
+Once a year
+
+As advised by the ophthalmologist (specify)
+
+Any other (specify)
+
+(Correct option will depend on the presence and level of diabetic retinopathy. A score of 1 for a correct answer)
+
+11) Why have you not gone for a periodic/regular eye check-up? (For those who haven’t gone for regular eye check-up)
+
+Do not trust the local doctor
+
+Poor family support
+
+Long-distance from the hospital (in hours of travel by the means of transport usually utilized by the patient)
+
+Financial problems
+
+Physically unwell (specify details of physical ailment)
+
+Did not know that periodic eye check-up should be done
+
+Had good vision; so did not feel the need for a check-up
+
+Lazy attitude
+
+Any other (specify)
+
+12) Why did you come to the eye hospital today?
+
+For a general eye check-up
+
+To check the power of glasses
+
+Defective vision so came on my own
+
+To have tests/treatment for diabetic retinopathy
+
+Any other (specify)
+
+If option 4 has been given as an answer to the above question, then proceed to Question 13; if not, skip to Question 14.
+
+13) Who referred you for tests/treatment for diabetic retinopathy to this hospital?
+
+Physician
+
+Referred from eye camp
+
+Ophthalmologist at a local hospital
+
+Optometrist at a local optical dispensary
+
+Came on my own
+
+Any other (specify)
+
+14) How long after the diagnosis of diabetes did you have your first dilated eye check-up?
+
+Within 3 months of diagnosis of diabetes (though it should be done at the time of diagnosis but even if the patient has gone within 3 months of diagnosis, give the score of 1)
+
+>3 months to 1 year after diagnosis of diabetes
+
+>1 year to 5 years after diagnosis of diabetes
+
+>5 years to 10 years after diagnosis of diabetes
+
+>10 years to 15 years after diagnosis of diabetes
+
+>15 years to 20 years after diagnosis of diabetes
+
+>20 years after diagnosis of diabetes (specify the number of years)
+
+Having it today for the first time after diagnosis of diabetes
+
+Any other (specify the time interval in years since diagnosis of diabetes)
+
+15) Why did you go for your first dilated eye check-up?
+
+Was referred by the physician (specify the reason for referral)
+
+Was referred by optometrist (specify the reason for referral)
+
+Was referred from eye camp
+
+Went on my own because I knew that diabetes can cause retinopathy
+
+Went on my own because I had problems in the eye (specify nature of the problem)
+
+Any other (specify)
+
+16) When were you first diagnosed to have diabetic retinopathy?
+
+Within 3 months of diagnosis of diabetes
+
+>3 months to 1 year after diagnosis of diabetes
+
+>1 year to 5 years after diagnosis of diabetes
+
+>5 years to 10 years after diagnosis of diabetes
+
+>10 years to 15 years after diagnosis of diabetes
+
+>15 years to 20 years after diagnosis of diabetes
+
+>20 years after diagnosis of diabetes (specify the number of years)
+
+Having it today for the first time after diagnosis of diabetes
+
+Any other (specify the time interval in years since diagnosis of diabetes)
+
+17) Were you advised to undergo treatment for diabetic retinopathy?
+
+Yes (specify treatment) > proceed to Question 18
+
+No > Questionnaire ends
+
+Total score for patient's practice pattern regarding diabetic retinopathy, who were not advised for treatment of DR: 5
+
+Good practice pattern: score of 4 and above
+
+Poor practice pattern: score of less than 4
+
+18) How long after the diagnosis of diabetic retinopathy were you advised to undergo treatment for diabetic retinopathy?
+
+As soon as the diagnosis of diabetic retinopathy was made (inference: delayed diagnosis)
+
+Any other (specify the time interval in years since diagnosis of diabetic retinopathy)
+
+In a patient who has diabetic retinopathy requiring treatment, but recently diagnosed – within one month of diagnosis (not enough time for commencement of treatment) - Questionnaire ends
+
+In a patient who has diabetic retinopathy requiring treatment (more than one month after diagnosis of retinopathy), proceed to Question 19
+
+19) Why have you not taken treatment for diabetic retinopathy? (For those who did not take the treatment despite being advised)
+
+Was physically unwell (specify details of physical ailment)
+
+Could not afford treatment
+
+Did not have family support
+
+Did not have any problems with vision
+
+Center with facilities for treatment is too far from home (in hours of travel by the means of transport usually utilized by the patient)
+
+Could not stay on for the required period of time for treatment
+
+Wanted to complete treatment for the systemic disease before taking treatment for diabetic retinopathy
+
+Was told that treatment could not be started without control of systemic disease
+
+Lazy Attitude
+
+Any other (specify)
+
+The impact of diabetic retinopathy on quality of life: Qualitative findings from an item bank development project
+
+Global prevalence and major risk factors of diabetic retinopathy
+
+Global data on visual impairment in the year 2002
+
+Population based assessment of diabetic retinopathy in an urban population in southern India
+
+Prevalence of retinopathy at diagnosis among type 2 diabetic patients attending a diabetic centre in South India
+
+Prevalence of diabetic retinopathy among subjects with known diabetes in China: The Beijing Eye Study
+
+Prevalence and associated factors of diabetic retinopathy in rural central India
+
+Prevalence of diabetic retinopathy in India: The All India Ophthalmological Society Diabetic Retinopathy Eye Screening Study 2014
+
+Prevalence of diabetic retinopathy, cataract and visual impairment in patients with diabetes in sub-Saharan Africa
+
+Causes of vision loss worldwide, 1990-2010: A systematic analysis
+
+Diabetic retinopathy: An epidemic at home and around the world
+
+Awareness of diabetes and diabetic retinopathy among a group of diabetic patients in main public hospitals in Damascus, Syria during the Syrian crisis
+
+Advanced glycation index and its association with severity of diabetic retinopathy in type 2 diabetic subjects
+
+Knowledge and awareness about diabetes mellitus and diabetic retinopathy in suburban population of a South Indian state and its practice among the patients with diabetes mellitus: A population-based study
+
+Knowledge of diabetes and diabetic retinopathy among rural populations in India, and the influence of knowledge of diabetic retinopathy on attitude and practice
+
+Changing clinical presentation, current knowledge-attitude-practice, and current vision related quality of life in self-reported type 2 diabetes patients with retinopathy in Eastern India: The LVPEI eye and diabetes study
+
+Awareness and knowledge of diabetic retinopathy and associated factors in Goa: A hospital-based cross-sectional study
+
+Diabetes and diabetic retinopathy: Knowledge, attitude, practice (KAP) among diabetic patients in a tertiary eye care centre
+
+How level of education relates to knowledge, attitude and practices regarding breast cancer and its screening methods
+
+Association between the level of education and knowledge, attitudes and practices regarding dengue in the Caribbean region of Colombia
+
+The profile of sight-threatening diabetic retinopathy in patients attending a specialist eye clinic in Hangzhou, China
+
+Review of retinal cameras for global coverage of diabetic retinopathy screening
+

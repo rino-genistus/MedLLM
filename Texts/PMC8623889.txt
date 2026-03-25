@@ -1,0 +1,662 @@
+TITLE: Anti-Inflammatory and Antioxidant Properties of Carvacrol and Magnolol, in Periodontal Disease and Diabetes Mellitus
+
+Periodontal disease and diabetes mellitus are two pathologies that are extremely widespread worldwide and share the feature of chronic inflammation. Carvacrol is a phenolic monoterpenoid, produced by a variety of herbs, the most well-known of which is Origanum vulgare. Magnolol is a traditional polyphenolic compound isolated from the stem bark of Magnolia officinalis, mainly used in Chinese medicine. The purpose of this paper is to review the therapeutic properties of these bioactive compounds, in the treatment of periodontitis and diabetes. Based on our search strategy we conducted a literature search in the PubMed and Google Scholar databases to identify studies. A total of one hundred eighty-four papers were included in the current review. The results show that carvacrol and magnolol have anti-inflammatory, antioxidant, antimicrobial, anti-osteoclastic, and anti-diabetic properties that benefit both pathologies. Knowledge of the multiple activities of carvacrol and magnolol can assist with the development of new treatment strategies, and the design of clinical animal and human trials will maximize the potential benefits of these extracts in subjects suffering from periodontitis or diabetes.
+
+1. Introduction
+
+Periodontal disease is the subject of a public health problem, being a pathology that joins general conditions. This pathology, also called periodontitis, is an infectious disease of the oral cavity, characterized by irreversible destruction of the tooth-supporting structures: Alveolar bone, periodontal ligament, and cementum. Periodontitis is one of the major causes of tooth loss, which endangers the functions of the stomatognathic system: Mastication, phonation, physiognomy, aesthetics, as well as self-confidence, self-esteem, and quality of life of patients. According to a 2016 survey fulfilled by the Global Burden of Disease (GBD), severe periodontal disease was the 11th most widespread disease on the globe. In the case of periodontitis, a prevalence of 20–50% worldwide has been noted.
+
+Diabetes is characterized by the body′s inability to control blood glucose levels. Type 1 and type 2 diabetes are the forms of diabetes that have been stated to act upon periodontium. In type 1 diabetes, pancreatic β-cells do not synthesize insulin or synthesize an insufficient amount, patients are treated with insulin, and therefore this type of diabetes is also known as insulin-dependent diabetes mellitus (IDDM). Type 2 diabetes is also called non-insulin-dependent diabetes (NIDDM) and is characterized by a deficiency of insulin receptors. The prevalence of diabetes is constantly rising on all continents and can be classified as an epidemic, due to alarming proportions: 415 million people have been diagnosed with diabetes and it is expected that the values will increase to about 640 million in 2040. Diabetes mellitus will be the seventh leading cause of mortality by 2030, as per World Health Organization (WHO) statistics.
+
+Herbal extracts have been considered therapeutic elements since ancient times. Currently, more and more natural compounds, essential oils, and vegetable extracts have attracted interest from researchers, due to their antioxidant properties and benefits for the wellbeing of the human body.
+
+Carvacrol is a phenolic monoterpenoid, produced by many herbs, the best known of which are Origanum vulgare (Greek oregano, wild marjoram), Origanum majorana (marjoram), Satureja hortensis (summer thyme), Thymus vulgaris (thyme), and Satureja montana (winter thyme). Carvacrol has long been recognized as a component of oregano essential oil, being one of its most investigated components. Thymol is a structural isomer of carvacrol, with the hydroxyl group (–OH) in the second position and similar characteristics to those of carvacrol. Carvacrol possesses anti-inflammatory, antioxidant, and antibacterial properties. At the same time, carvacrol has other biological properties, being anti-diabetic, antifungal, antitumor, antimutagenic, analgesic, anti-hepatotoxic, cardioprotective, and antiparasitic.
+
+Magnolol is a binaphthalene polyphenolic compound, isolated from the stem bark of Magnolia officinalis, being a traditional extract, used mainly in Chinese medicine. Honokiol is the structural isomer of magnolol. Magnolol was first isolated in 1930 from the magnolia root by Sugii, a Japanese scientist, and was first synthesized by Holger Erdtman and Johan Ludvig Runeberg, two Swedish scientists, using p-allylphenol as a raw material. Magnolia officinalis has been described since ancient times, in the “Shennong Herbal Classic”, dating from Qin and Han Dynasty, around 221 B.C. to 220 A.D. Magnolol is widely used in Oriental medicine. There is ample evidence that magnolol exerts a wide variety of beneficial pharmacological activities. Magnolia officinalis extract has plentiful attributes, such as anti-inflammatory, antioxidant, antibacterial, anti-osteoclastic, antianxiety, anti-diabetic, antiplatelet, and anticarcinogenetic. Figure 1 shows the chemical structure of carvacrol and magnolol.
+
+The purpose of this manuscript is to conduct a literature review on the therapeutic properties of two natural bioactive extracts, carvacrol and magnolol, as well as their impact on periodontal disease and diabetes mellitus. The aim of this assessment is to evaluate the pathogenesis of periodontitis and diabetes, as well as the interdependence between periodontitis and diabetes, and the biological effects of these extracts in these diseases. Last but not least, we will investigate the toxicity of carvacrol and magnolol at various doses. The objective of this review, in summary, is to create a synthesis of the effects of carvacrol and magnolol on periodontitis and diabetes, based on literature research.
+
+2. Materials and Methods
+
+2.1. Search Strategy
+
+We conducted a review of the properties of bioactive plant extracts, carvacrol and magnolol, against periodontal disease and diabetes mellitus.
+
+This narrative review was conducted using two databases: PubMed and Google Scholar. In order to identify the most revealing articles, the search strategy included combined keywords such as “carvacrol” or “magnolol”, “anti-inflamatory” or “antioxidant” or “antimicrobial” or “anti-osteoclastic” or “bone resorption” or “anti-diabetic”, “periodontitis” or “gingivitis”, “diabetes” or “hyperglycemia”. The databases were searched for studies published between 1986 and 2021.
+
+The search strategy was designed to identify in vivo or in vitro studies on the anti-inflammatory, antioxidant, antimicrobial, anti-osteoclastic, anti-diabetic, and toxicity effects of carvacrol and magnolol on the treatment of various inflammatory diseases, particularly periodontal disease and diabetes mellitus.
+
+2.2. Study Selection and Eligibility Criteria
+
+The authors carefully reviewed the articles found and selected the ones that were the most informative in terms of the topic they were looking for. Although there was no restriction on the year of publication for the studies included, the majority of the papers were published after 2010.
+
+All electronically searched titles, selected abstracts and full-text publications were independently reviewed by a minimum of two reviewers. We included in our manuscript papers containing the keywords mentioned. The inclusion criteria were in vivo or in vitro studies, the use of carvacrol or magnolol, the treatment of periodontitis or diabetes or other inflammatory diseases, and the evaluation of anti-inflammatory, antioxidant, antimicrobial, anti-osteoclastic, anti-diabetic action, or toxicity of these extracts. The selected in vivo studies have been conducted on both animals and humans. Exclusion criteria were studies that did not meet the required criteria. Furthermore, we excluded papers that were published in languages other than English. Disagreements over whether texts fit the inclusion or exclusion criteria were resolved through consensus.
+
+Through database research, 438 records were identified. After removing 151 duplicates, as well as 86 irrelevant articles whose theme did not match the standards of this review, we proceeded to read the remaining 201 titles and abstracts eligible for inclusion. We removed 17 articles not meeting all the inclusion criteria. Ultimately, based on our search strategy, we included 187 references that met the criteria of the study. One hundred and sixty-five of these are found in the PubMed database and 14 in the Google Scholar database. The remaining number to complete the total is represented by 7 sites and 1 book. A flow chart regarding the selection criteria of the articles that were taken into account for this review is illustrated in Figure 2.
+
+A section on bibliometric information was included to increase the value of the research. The articles’ quality was evaluated based on the number of citations in the literature and the impact factor of the journals where they were published. As shown in Scheme 1, the percentage distribution of the articles included in the study was calculated based on their citations number. Thus, 46% have been quoted 1–100 times, 25% have been quoted 100–200 times, 16% have been quoted 200–500 times, 8% have between 500 and 1000 citations, and 5% have over 1000 citations.
+
+Simultaneously, the articles were classified based on the impact factor of the journals where they were published. Thus, 92 articles had an impact factor of 3.00 to 6.00, 43 publications had an impact factor of 1.00 to 3.00, 35 had an impact factor of 6.00 to 9.00, and 17 had an impact factor greater than 9.00. Scheme 2 depicts the distribution of articles based on the journals’ impact factor.
+
+3. Pathogenesis of Periodontal Disease and Diabetes Mellitus
+
+Periodontal disease is an inflammatory condition of the superficial or deep marginal periodontium, with the primary etiological factor of bacterial biofilm. Periodontal pathogens, represented mainly by the anaerobic flora, induce cellular inflammation, local edema, and consequent vasodilation through their products. Chronic inflammation from gingivitis or periodontitis degrades the supporting structures of the tooth, also acting on the alveolar bone, and in severe cases reaching the avulsion of the teeth.
+
+Periodontal disease is a pathology with a very high prevalence among the population and is a non-specific inflammatory condition. It is a condition closely related to other systemic inflammatory or non-inflammatory disorders, including coronary heart disease and diabetes.
+
+Periodontal pathogens can be grouped into bacterial complexes according to their properties and pathogenicity. One of the oldest classifications of subgingival bacteria was made by Socransky, who grouped periodontopathogenic bacteria into complexes, associated with different periodontal statuses. This classification is still valid today and can be observed in Figure 3.
+
+Those bacteria that rapidly colonize the bacterial plaque, with the ability to adhere to the film, are bacteria from the green, purple, or yellow complex. The orange complex comprises moderately pathogenic periodontal microorganisms such as Fusobacterium nucleatum (F. nucleatum) and normally occurs after the first colonizers appear in the bacterial plaque. They associate with other bacteria to colonize the gingival sulcus. The bacteria in the red complex have the greatest pathogenicity: Porphyromonas gingivalis (P. gingivalis), Treponema denticola (T. denticola), and Tannerella forsythia (T. forsythia), the most important in the periodontal disease of adults. The pathogenicity of these bacteria increases significantly through the production of various enzymes and toxins. The loss of gingival attachment and the increase in the depth of the periodontal pockets is due to bacteria belonging to the orange complex. Through their metabolism, they provide living conditions for microorganisms in the red complex, strictly anaerobic bacteria, which multiply in the crevicular groove. The presence of bacteria in the red complex and the identification of Aggregatibacter actinomycetemcomitans (A. actinomycetemcomitans) is evidence of the final colonization of the periodontium.
+
+The pathogenesis of periodontal disease would therefore be the result of dysbiosis, caused by ecological stress, generated by the multiplication of numerous periodontal pathogens.
+
+In the etiopathogenesis of periodontal disease, complex interactions are involved between numerous mediators of inflammation and mediators of tissue remodeling. Lipopolysaccharides (LPS) are the main constituent of the outer shell of Gram-negative microorganisms, playing a role in the production of many cytokines, such as tumor necrosis factor alpha (TNF-α), interleukin-1β (IL-1β), and interleukin-6 (IL-6). These cytokines infiltrate the gingival tissue and cause local inflammation. Matrix metalloproteinases (MMPs) are a group of host factors, involved in periodontal pathology, being incriminated for the degradation of collagen and the extracellular matrix in periodontal tissue. In addition, gelatinases such as gelatinase A (MMP-2) and gelatinase B (MMP-9) have been associated with periodontitis.
+
+During the inflammation generated by periodontitis, there is a significant increase in interleukin expression (IL-1β, IL-6) and transforming growth factor-1β (TGF-1β), which play a key role. At the same time, an alarming increase in growth factors has been observed in diabetes. IL-6 is produced by most cells of the immune system and can have anti-inflammatory or pro-inflammatory effects, depending on the circumstances in which it is secreted. The anti-inflammatory effect of IL-6 is mediated by the inhibition of TNF-α and interleukin-1 (IL-1), but also by the activation of agonist receptors of IL-1 and interleukin-10 (IL-10). On the other hand, IL-6 is the mediator of the induction of acute phase proteins, such as the C-reactive protein (CRP). IL-6 is responsible, among other things, for the differentiation and proliferation of B lymphocytes, for the differentiation of monocytes in macrophages, and for the induction of osteoclast formation. The most important function of interleukin (IL) is the regulation of bone metabolism.
+
+Last but not least, TGF-1β is a multifunctional cytokine with a pleiotropic effect, similar to IL-6, both pro-inflammatory and anti-inflammatory. It stimulates inflammation by chemotactism for monocytes, neutrophils, or lymphocytes and stimulates the production of inflammatory cytokines (IL-1, IL-6). As an anti-inflammatory cytokine, it plays a role in suppressing the humoral response. TGF-1β is secreted by lymphocytes, monocytes, neutrophils, and platelets, making it a very important molecule in wound healing and tissue regeneration.
+
+A lack of insulin causes diabetes. Insulin deficiency is generated by insufficient insulin production in IDDM or by insulin resistance in NIDDM, leading to hyperglycemia. Elevated blood sugar levels are associated with disruption of carbohydrate metabolism, which is controlled by enzymes.
+
+Chronic hyperglycemia and hyperlipidemia activate oxidative stress, which causes diabetes, cardiovascular, renal, or ocular complications. The liver is the organ that accounts for glucose utilization (30–60% of glucose intake) and regulates blood glucose levels. Glucose homeostasis is maintained through carbohydrate metabolism pathways, such as aerobic oxidation, anaerobic glycolysis, and glycogen synthesis.
+
+Complications of diabetes include cardiovascular disease, neuropathy, diabetic nephropathy, retinopathy, and diabetic foot gangrene. In the oral cavity, there are characteristic manifestations of diabetes: Halitosis, xerostomia, sialadenitis, cheilitis, glossodynia, ulcers, increased incidence of infections, and delayed wound healing.
+
+The relationship between oral infections and diabetes is far from being fully elucidated by the medical community. However, there are theories that chronic hyperglycemia and hypersecretion of prostaglandins E2 (PGE2) and TNF-α are due to the accumulation of advanced glycation end products (AGEs). A change in collagen metabolism was also observed because of increased collagenase activity and decreased collagen synthesis.
+
+Both pathologies have chronic inflammation as a common feature. Several studies have shown the bidirectional relationship between periodontal disease and diabetes mellitus. Both pathologies are extremely widespread worldwide, but the mechanisms that link them are not fully understood.
+
+Diabetes is a clinical syndrome characterized by hyperglycemia, which affects all age groups. NIDDM significantly increases the risk of developing periodontal disease and has been suggested to modulate oral microbial communities. The increase in bacterial load could explain the risk of periodontal disease in diabetics. Other studies have shown that NIDDM alters the subgingival bacterial community through inflammation and high blood sugar levels in the crevicular fluid. This would explain the changes in the sulcus in the case of diabetes, with the crevicular groove being a reservoir of bacterial growth.
+
+An observational research study observed that periodontitis had a higher predominance in patients suffering from diabetes, compared to patients without hyperglycemia, regardless of differences in age or sex. There is clear evidence that diabetes is a risk factor for gingivitis and periodontitis, and high blood sugar levels are a determining factor in this two-way relationship. Increased values of inflammation have been reported in patients with poor diabetes control. Diabetes is considered to be the only systemic condition with a positive association in terms of loss of gingival attachment. The hyperglycemic environment causes the thickening of the basement membrane of the capillaries, the alteration of the oxygen distribution in the tissues, and the elimination of toxic products. Neutrophil hypofunction alters host defense mechanisms and discredits the immune system against infections.
+
+Hyperglycemia modifies fibroblast metabolism, inhibits osteoblastic cell proliferation, and compromises bone healing. Elevated blood glucose levels are a vector for the production and accumulation of AGEs. AGEs bind to monocytes and macrophages, causing them to release several pro-inflammatory cytokines such as IL-1β, TNF-α, and PGE2, causing tissue damage. Therefore, diabetes contributes to the aggravation of periodontal pathology through increased levels of inflammation, oxidative stress, and changes in the body’s defenses.
+
+In the case of periodontal disease, several inflammatory molecules are released, such as IL-1β, IL-6, interleukin-8 (IL-8), LPS, TNF-α, and PGE2. These molecules are able to interplay with free fatty acids, lipids, and AGEs, all characteristic of hyperglycemia. Thus, some intracellular pathways associated with insulin resistance are affected, such as nuclear factor-kappa B (NF-κB), the inhibitor of kappa B kinase (IκB), or the inhibitor of kappa B kinase β (IκBβ).
+
+Systemic levels of inflammation mediators, such as CRP, TNF-α, and IL-6, are elevated in periodontal disease and may represent the link between diabetes and periodontitis. Another association between periodontitis and hyperglycemia is oxidative stress, which can activate pro-inflammatory pathways similar to both diseases.
+
+Patients with diabetes have an increased risk of developing periodontal disease, especially when they do not control their blood sugar levels. Prevention and treatment of pathologies in the superficial and deep marginal periodontium must be judiciously considered in the management of patients with hyperglycemia. It has been shown that keeping blood sugar levels under control has advantages over periodontal disease, while the treatment of periodontal disease improves metabolism in patients with diabetes. Clear health strategies need to focus on periodontal disease, as a risk factor for diabetes and cardiovascular disease, through prevention and treatment programs for all chronic infections.
+
+4. Chemistry of Carvacrol and Magnolol
+
+Carvacrol is a liquid phenolic monoterpenoid, present in the essential oil of oregano (Origanum vulgare), thyme (Thymus vulgaris), pepper (Lepidium flavum), wild bergamot (Citrus aurantium var. Bergamia Loisel), and other plants. It is also known as 5-Isopropyl-2-methylphenol. Other synonyms for carvacrol are isopropyl-o-cresol, p-cymen-2-ol, 2-hydroxy-p-cymene, 5-isopropyl-2-methylphenol, or iso-thymol. Carvacrol is registered in the IUPAC (International Union of Pure and Applied Chemistry) chemical nomenclature of organic compounds under the name 2-methyl-5-propan-2-ylphenol, with the molecular formula C10H14O and the CAS identification number 499-75-2. It has a molecular weight of 150.22 g/mol, a density of 0.976 g/mL at 20 °C, and a boiling point of 236–237 °C. It is insoluble in water, but very soluble in ethanol, acetone, and diethyl ether. Commercial carvacrol is synthesized by chemical and biotechnological methods.
+
+Magnolol is a bioactive plant extract, isolated from the bark and root of various species of magnolia, among which we mention Magnolia officinalis. This substance of natural origin is a binaftelic polyphenolic compound, also known as 2,2′-Bichavicol or 5,5′-Diallyl-2,2′-biphenyldiol. Magnol is registered in the chemical nomenclature IUPAC of organic compounds under the name 2-(2-hydroxy-5-prop-2-enylphenyl)-4-prop-2-enylphenol, with the molecular formula C18H18O2 and CAS identification number 528-43-8. It has a molecular weight of 266.33 g/mol, water solubility of 1.24 mg/L at 25 °C, and a boiling point of 101.5–102 °C.
+
+5. Biological Activities of Carvacrol and Magnolol on Periodontitis and Diabetes
+
+Over time, a wide variety of therapeutic methods for the removal of periodontal disease have emerged. One of the most common approaches is mechanical treatment and periodontal surgery, in order to annihilate the microbial load on the periodontium. However, this approach is not always optimal, as periodontal disease is immunogenetically modulated and therefore requires adjuvant therapies. The increased incidence of marginal periodontitis, increased resistance of Gram-negative bacteria to routine antibiotics, and even their side effects motivate researchers to discover new treatment schemes for the prevention and treatment for this illness.
+
+Hence the emergence of new herbal medicine formulas, with bioactive molecules, would be beneficial for minimally invasive treatment, simple and predictable, but also with prophylactic potential in the occurrence of marginal periodontitis. Natural medicines consist of plant extracts that are considered to have therapeutic properties. At present, phytotherapy is gaining more and more followers, due to the complex action of the extracts, minimal side effects, and low cost compared to synthetic drugs. At the same time, modern medicines can generate resistance to antibiotics, so herbal treatments are an alternative in combating various diseases of the body and oral cavity.
+
+Plant extracts have been paid more and more attention on account of their anti-inflammatory and antibacterial properties and their role in modulating the inflammatory response. Recent research also shows that certain flavonoids have particularly beneficial properties. In recent years, more and more plant extracts have been scientifically investigated in terms of their effect on the bacterial flora of periodontal disease. Many of these studies are experimental research on rats, as this animal model has similar histological, immunological, and biochemical mechanisms to those found in humans.
+
+A number of natural extracts have been shown to improve the symptoms of diabetes and chronic marginal periodontitis. Two of these extracts are carvacrol and magnolol. An in vivo study showed that carvacrol improves experimentally induced periodontitis in rats and analyzed the effect of intragastric (IG) administration of carvacrol on alveolar bone resorption, using radiographic examinations. The use of carvacrol in small doses is safe and helpful in the treatment of periodontal disease. The results showed that carvacrol protects gingival tissue in rats with periodontal disease, which is mediated by carvacrol through the inhibitory effect on inflammation and degradation of periodontal tissue. Carvacrol also reduces the inflammatory reaction and expression of MMP-9. Other studies have used carvacrol incorporated into herbal periodontal gels to treat experimentally induced periodontitis in rats and it has been shown that local application of carvacrol has reduced alveolar bone resorption.
+
+Magnolol has been shown to reduce hyperglycemia and alleviate the complications of diabetes. It has also been shown to relieve the accumulation of stress thanks to its antioxidant properties and reduce inflammation in ligature-induced marginal periodontitis in rats. Last but not least, magnolol reduces the inflammation induced by P. gingivalis LPS in macrophages. Figure 4 summarizes the properties of carvacrol and magnolol.
+
+5.1. Anti-Inflammatory Effects of Carvacrol and Magnolol
+
+It is known that cytokines are the link between cell damage and signs of inflammation (cell migration, edema, fever, or hyperalgesia). Cytokines are produced and released by many cell types in response to inflammatory stimuli. Inflammatory cytokines, such as IL-1β and TNF-α, are followed by the appearance of anti-inflammatory cytokines, IL-10, or interleukin-4 (IL-4). It is documented that cytokines such as TNF-α, IL-1β, and interleukin-17 (IL-17) play a substantial role in the inflammatory response. TNF-α is secreted by mononuclear phagocytes and can induce acute phase proteins. IL-17 produced by T helper 17 cells (Th17), natural killer (NK) cells, and neutrophil cells can exacerbate inflammation by proliferating the number of immune cells and indirect recruitment of neutrophils. IL-1β is recognized as an acute phase mediator of the inflammatory response against infections.
+
+Therefore, the ratio between pro- and anti-inflammatory cytokines modulates the intensity of inflammation. Inflammation is also characterized by oversynthesis of inducible nitric oxide synthase (iNOS), oversynthesis of cyclooxygenase-2 (COX-2), and excess synthesis of nitric oxide (NO) and prostaglandins (PGE). Carvacrol has been shown to inhibit inflammatory cytokine levels and the expression of iNOS and COX-2. Other research has displayed that carvacrol inhibits neutrophil elastase production and the production of PGE2, prostaglandins F1 (PGF1), and prostaglandins F2 (PGF2).
+
+da Silva Lima et al. (2013) demonstrated in an in vivo animal study that the administration of carvacrol, in doses of 50–100 mg/kg, has an anti-inflammatory effect, attenuates inflammatory edema in rat paws, and reduces IL-1β and PGE2. At the same time, they demonstrated that the administration of a dose of 100 mg/kg reduces COX-2 and IL-1β messenger ribonucleic acid (mRNA) expression. Levels of IL-10 and anti-inflammatory cytokines were increased by carvacrol, which highlights the protective effect of this natural extract. The anti-inflammatory effect of carvacrol may be due to the inhibition of one or both of the cyclooxygenase (COX) enzymes, an effect previously suggested in other studies, which shows the inhibitory effect of carvacrol on cyclooxygenase-1 (COX-1) and COX-2. Another study indicates that carvacrol plays an anti-inflammatory role by inhibiting inflammatory edema and leukocyte migration.
+
+Tabibzadeh Dezfuli et al. (2017) also demonstrated that oral administration of carvacrol, once daily, in animals with streptozotocin (STZ)-induced diabetes, reduces the levels of IL-1β, IL-6m and TNF-α. On the other hand, contradictory results were obtained, claiming that carvacrol has a positive effect in reducing IL-1β, IL-4, and IL-8, but would not have an effect on IL-6 and TNF-α, probably due to the methodology used in the studies by de Carvalho et al. (2020).
+
+In research on human subjects, Xiao et al. (2018) showed that carvacrol is able to inhibit the production of NO and PGE2, induced by IL-1β, but it also reduced the expression of iNOS, COX-2, and MMPs in chondrocytes by suppressing the signaling pathway NF-κB.
+
+The anti-inflammatory characteristics of magnolol have also been investigated in abundant conditions. Magnolol exerts anti-inflammatory activity by inhibiting the formation of reactive oxygen species (ROS), COX-2 and iNOS expression, activating NF-κB, a transcription factor that directs inflammation in inflammatory diseases induced by LPS, and inhibiting the formation of pro-inflammatory cytokines.
+
+In vitro studies coordinated by Lai et al. (2011) suggested that a dose of 5–15 μM magnolol may exhibit anti-inflammatory activity in LPS-induced RAW 264.7 cells. At the same time, magnolol inhibited iNOS and COX-2 gene and protein expression. In another study, Lu et al. (2015) concluded that a dose of 5–20 μM magnolol significantly reduced inflammation, decreased the production of pro-inflammatory nitrates and PGE2, reduced iNOS and COX-2 expression, and activated NF-κB. At the same time, nuclear factor erythroid 2-related factor 2 (Nrf2) and hemogen oxygenase (HO) expression increased.
+
+In an in vivo study by Lin el al., intraperitoneal (IP) injection of 20 mg/kg magnolol was shown to significantly improve the inflammatory response in Sprague–Dawley rats. Magnolol can attenuate ROS production, iNOS, and COX-2 expression, and NF-κB activation, as well as up-regulate of peroxisome proliferator-activated receptor gamma (PPAR-γ) expression. Magnolol administered IP by Yang et al. (2016) has been shown to develop therapeutic potential in retinal angiogenesis and glial dysfunction, by decreasing inflammatory cytokines.
+
+Research by Lu et al. (2013) on male rats of the Sprague–Dawley breed, with ligature-induced experimental periodontitis, showed that oral administration of Magnolia officinalis extract for 9 days inhibited neutrophil migration, myeloperoxidase (MPO) activity, COX-2 expression, and iNOS in gingival tissue. In another investigation, Lee et al. (2005) highlighted the anti-inflammatory activity of magnolol and honokiol on a pathogenic anaerobic, Propionibacterium acnes (P. acnes), responsible for acne. This time, magnolol has been shown to inhibit NF-κB from COX-2, IL-8, and TNF-α promoters.
+
+The abovementioned reveal that carvacrol and magnolol could be used successfully in the treatment of various inflammatory conditions, such as periodontal disease, whose main component is chronic inflammation, affecting the superficial and deep periodontal tissue, endangering the support of the tooth in the dental alveolus. Table 1 presents the anti-inflammatory effects of carvacrol and magnolol and Scheme 3 shows the anti-inflammatory mechanism of carvacrol and magnolol in periodontitis and diabetes.
+
+5.2. Antioxidant Properties of Carvacrol and Magnolol in Association with Periodontal Disease and Diabetes Mellitus
+
+Carvacrol has strong antioxidant properties and can be effective in preventing and inhibiting many pathologies. Oxidative stress is a substantial mechanism that may be involved in cytotoxicity induced by chronic stress.
+
+Oxidative stress is the expression utilized for pathologies caused by ROS, imposed by free radicals. Oxidative stress is defined as the imbalance between oxidants and antioxidants, in favor of oxidants, with destructive and pathogenetic potential. Depending on the intensity, oxidative stress can occur intra or extracellularly. Intracellular oxidative stress can cause cell necrosis or more or less marked disorganization of the cell, with catastrophic effects in the case of a cell that cannot reproduce. Extracellular oxidative stress is cytotoxic, too. Free radicals are substances derived from incompletely oxidized compounds, which have undergone partial combustion, with oxygen groups in their structure capable of initiating aggressive oxidation reactions on the surface of cell membranes or even inside cells.
+
+Rapid metabolism entrains additional free radicals, producing an imbalance between ROS generations and the antioxidant system. These free radical species lead to oxidative damage to various cells such as lipids, proteins, or nucleic acids. The first-line defense antioxidants basically include superoxide dismutase (SOD), catalase (CAT), and glutathione peroxidase (GPx).
+
+Carvacrol treatment significantly improves glutathione (GSH) levels. The maintenance of GSH levels by carvacrol occurs mainly due to the removal of ROS, through its radical elimination effects. Carvacrol has also been shown to increase antioxidant capacity in cell cultures and animals. Oregano extract has been proved to have a protective effect against the function of free radicals, with the ability to prevent tissue damage, induced by chronic stress. The harmful effects of chronic stress have been demonstrated to be ameliorated by carvacrol treatment. Carvacrol prevents lipid peroxidation by inducing SOD, GPx, glutathione reductase (GR), and CAT. Carvacrol effectively eliminates free radicals, such as peroxyl radicals, superoxide radicals, hydrogen peroxide, and NO.
+
+Carvacrol exerts antioxidant effects in vitro and in vivo, and the antioxidant activity is attributed to the presence of the –OH, related to the aromatic ring. Another study, conducted by Samarghandian et al. (2016), showed that carvacrol inhibits oxidative damage to the brain, liver, and kidneys, being a new pharmacological agent, fruitful for relieving oxidative damage, induced by chronic stress.
+
+In research by Tabibzadeh Dezfuli et al. (2017) it was shown that oral administration of 15 mg/kg body carvacrol, per day, to diabetic rats, can lower malondialdehyde (MDA) levels and increase CAT, SOD, and GPx activity, compared to rats to whom the extract has not been administrated, suggesting that carvacrol has antioxidant properties.
+
+It is verified that the accrual of oxidative stress plays a critical role in the aggravation of both pathologies: Periodontitis and diabetes. In addition to its anti-inflammatory effects, magnolol has also antioxidant properties. Besides, it has been stated that magnolol scavenges hydroxyl radical, peroxy-nitrite, and hydrogen peroxide to reduce or suppress the generation of ROS. As well, there is additional direct proof of its anti-oxidative effect on intracellular GSH depletion or enzymatic system capacity in the rat model.
+
+A study conducted by Zhao et al. (2016) shows that magnolol supplements are useful in wound healing and modulating inflammation by decreasing Nrf2 in patients with diabetes and periodontitis. Nrf2 is a transcription factor with a crucial role in regulating the antioxidant response and has been decreased in oral neutrophils in patients with aggressive periodontitis.
+
+Nrf2 and hemogen oxygenase-1 (HO-1), one of its main target genes, have been proved to be in charge of the increased inflammation in osteoarthritis associated with NIDDM. Several studies have suggested that Nrf2 is crucial in regulating antioxidants in patients with advanced periodontitis. Therefore, treatments targeting the Nrf2/HO-1 axis can relieve oxidative stress and inflammation in diabetic patients with periodontal disease.
+
+Other authors have shown that magnolol amplifies the expression of the Nrf2/HO-1 axis, depending on the dose, suggesting that magnolol can attenuate ROS generation by activating Nrf2/HO-1 signaling. They also proved that magnolol reduces the production of two cytokines, IL-6 and IL-8. The production of IL-6 and IL-8, induced by AGEs, has been prevented with Nrf2, concluding that the increase in Nrf2 suppresses these cytokines. On the other hand, the production of ROS induced by AGEs also decreased after the administration of the magnolia extract. Furthermore, magnolol has been illustrated to activate Nrf-2/HO-1 signaling and suppress inflammation induced by P. gingivalis LPS in macrophages.
+
+Proteins and lipids are often subjected to irreversible non-enzymatic glycosylation in patients with chronic hyperglycemia, leading to the formation of AGEs. The role of AGEs in potentiating diabetic complications is discussed by activating cellular responses by AGEs-modified proteins, which interact with specific receptors on the cell surface. A recent study shows that in patients with marginal periodontitis and diabetes, the levels of AGEs in the blood are significantly increased.
+
+In in vitro examinations, the use of a dose of 16 μM magnolol reduced the oxidative stress caused by acrolein in human SH-SY5Y cells and acted on the following signaling pathways: JNK (c-Jun N-terminal kinase), mitochondria, caspase, phosphoinositide 3-kinase (PI3K), mitogen-activated protein kinase (MEK), extracellular signal-regulated kinases (ERK), protein kinase B (Akt), and forkhead box protein O1 (FOXO1). It also inhibited the accumulation of ROS and the accumulation of intracellular GSH. It has been found that IV administration of 20 mg/g magnolol could significantly reduce MPO activity and the expression of TNF-α, IL-6, and iNOS, so as to inhibit oxidative stress.
+
+Consequently, magnolol down-regulates MPO activity, TNF-α, IL-6, and iNOS expression due to JNK, mitochondria, caspase modification, and PI3K, MEK, ERK, Akt, and FOXO1 signaling pathways.
+
+5.3. Antimicrobial Activity of Carvacrol and Magnolol against Periodontal Pathogens
+
+Carvacrol, similar to thymol, acts on microbial cells and causes structural and functional damage to bacterial membranes. Carvacrol is one of the few elements of essential oil that has the ability to dissolve the outer membrane of gram-negative bacteria, causing the release of LPS.
+
+Research conducted by Wang and et al. (2016) evaluated the antibacterial character of the phenolic components of oregano essential oil against oral microorganisms. The components evaluated were hinokitiol, carvacrol, thymol, and menthol. In this study, the minimum inhibitory concentration (MIC) and minimum bactericidal concentration (MBC) of these components were demonstrated, as a result of the fact that carvacrol has an MIC of 200–400 µg/mL and an MBC of 200–600 µg/mL on A. actinomycetemcomitans, Streptococcus Mutans (S. Mutans), Methicillin-resistant Staphylococcus aureus (MRSA), and Escherichia. Coli (E. Coli).
+
+Another analysis, conducted by Maquera-Huacho et al. (2018) evaluated the antibacterial properties of carvacrol and terpinen-4-ol against P. gingivalis and F. nucleatum and the cytotoxic effect on fibroblasts. The MIC and MBC of carvacrol were 0.007% for P. gingivalis and 0.002% for F. nucleatum. The results showed anti-biofilm activity of carvacrol (0.26%, 0.06%) and the cytotoxicity was similar to that of chlorhexidine (CHX).
+
+Therefore, the authors demonstrated that carvacrol has antibacterial activity on the periodontal biofilm.
+
+In an in vitro study, Lu et al. (2013) showed that Magnolia officinalis extract inhibited key pathogens in the initiation of periodontal disease, P. gingivalis and A. actinomycetemcomitans.
+
+Ho et al. (2001) demonstrated through in vitro studies the MIC of magnolol in order to exert the antimicrobial effect. At an MIC dose of 25 µg/mL, magnolol has a marked antimicrobial effect against P. gingivalis, A. actinomycetemcomitans, Prevotella intermedia (P. intermedia), Micrococcus luteus (M. luteus), and Bacillus subtilis (B. subtilis), so it can be used as an adjunct in the treatment of periodontitis.
+
+Another in vitro study determined the MIC and MBC of honokiol and magnolol on oral bacteria. Thus, Chiu et al. (2021) discovered that the MIC of magnolol was 10 µg/mL for A. actinomycetemcomitans and the MBC of magnolol was 20 µg/mL, 20 µg/mL, and 30 µg/mL for A. actinomycetemcomitans, S. mutants, and MRSA.
+
+The results of the studies presented above emphasize the antimicrobial properties of carvacrol and magnolol on periodontal pathogens. The MIC and MBC of carvacrol and magnolol for the periodontal pathogens are summarized in Table 2 and Table 3.
+
+5.4. Anti-Osteoclastic Properties of Carvacrol and Magnolol
+
+One of the key mediators of bone resorption, of a local or general nature, is chronic inflammation. Chronic inflammation is found in both periodontitis and diabetes; therefore, these patients have an increased risk of osteoporotic fracture.
+
+Bone tissue is a dynamic tissue that undergoes continuous remodeling, generated by the activity of osteoblasts and osteoclasts. Osteoclast activity is increased in periodontitis, with adverse consequences on bone trabeculae and alveolar ridges. Osteoclasts appear as an inflammatory response to the production of receptor activators of nuclear factor-kappa B ligand (RANKL) and bacterial LPS, generated by cytokines.
+
+One of the inflammatory biomarkers is IL, whose values are increased in pathologies such as periodontitis. IL-1 directly stimulates bone resorption through osteoclasts, while prolonging their lifespan. Osteoclasts are multinucleated cells, differentiated from monocytes or macrophages, involved in bone resorption. IL-1 has an indirect effect on osteoclast differentiation by increasing RANKL expression and decreasing osteoprotegerin (OPG), an inhibitory factor in osteoclastogenesis. OPG is a trap receptor for RANKL in osteoblasts.
+
+Carvacrol abolished the RANKL-induced formation of tartrate-resistant acid phosphatase (TRAP)-positive multinucleated cells in RAW 264.7 macrophages and human CD14+ monocytes. Moreover, oregano extract inhibited LPS-induced osteoclast formation in RAW 264.7 macrophages. Exploration of the underlying molecular mechanisms revealed that carvacrol down-regulated RANKL-induced NF-κB activation in a dose-dependent manner. Furthermore, the suppression of NF-κB activation is correlated with the inhibition of inhibitor of kappa B kinase (IκB) activation and the attenuation of inhibitor of kappa B kinase α (IκBa) degradation. Carvacrol potentiated apoptosis in mature osteoclasts by caspase-3 activation and DNA fragmentation. Furthermore, carvacrol did not influence the viability of proliferating MC3T3-E1 osteoblast-like cells. Together, these results founded by Deepak et al. (2016) demonstrate that carvacrol mitigates osteoclastogenesis by damaging the NF-κB pathway and induction of apoptosis in mature osteoclasts.
+
+A study by Bothelo et al. (2009) showed that local treatment with carvacrol gel significantly inhibited bone resorption in the alveolar bone of rats with experimentally induced periodontal disease. The topical application of carvacrol gel also inhibited the multiplication of periodontal microorganisms in these animal models.
+
+Magnolia extract has been shown to modulate the resorption of alveolar bone in rats. In the same study, it was revealed that magnolol reduces RANKL expression, reduces gingival inflammation, and decreases the number of osteoclasts. A dose of 5–20 µM magnolol has been shown to be effective in inhibiting RANKL-induced osteoclast differentiation from macrophage-like cells called RAW 264.7 cells. On the other hand, a dose of up to 20 µM does not influence the differentiation of osteoclasts induced by RANKL expression in rats.
+
+In vitro cell culture research has shown that magnolol inhibits IL-1 induced osteoclast differentiation, decreases RANKL expression in IL-1 stimulated osteoblasts, and reduces IL-1 induced PGE2 production, by inhibiting COX-2 expression. Magnolol restrains the formation of osteoclasts.
+
+Hwang et al. (2018) studied the effect of magnolol on osteoclast differentiation and concluded that Magnolia officinalis extract prevents the formation of IL-1 induced osteoclasts by the following mechanisms: Inhibition of COX-2 expression, inhibition of PGE2 synthesis, and suppression of RANKL expression. PGE2 mediates bone resorption generated by inflammation and Magnolia officinalis extract inhibits PGE2 synthesis, thus demonstrating the protective effect of magnolol on marginal periodontitis. In addition to the anti-osteoclastogenetic effect, magnolol stimulates the differentiation of osteoblasts and their proliferation.
+
+A dose of 0.1 μM magnolol modulated the production of factors that induce osteoclast differentiation, such as TNF-α, IL-6, and RANKL. In RANKL-induced RAW 264.7 cells, 75–150 μM magnolol reduces osteoclast differentiation, TRAP activity of differentiated cells, and the area of bone resorption generated by osteoclasts. Furthermore, 2.5–20 μM magnolol attenuates RANKL-induced osteoclast differentiation by inhibiting ROS production, suppressing mitogen-activated protein kinase (MAPK), C-proto-oncogene (c-fos), activator protein-1 (AP-1) and NF-κB, and increasing HO-1 expression.
+
+In rats in which periodontal disease was experimentally induced by ligature, the administration of 100 mg/kg magnolol per os (PO) significantly decreased the resorption of the alveolar bone, the volume of osteoclast cells at the level of the alveolar ridge, as well as the RANKL expression. The same dose of magnolol could reduce the expression of MMP-9, MMP-1, iNOS, and the activation of TNF-α and COX-2. At the same time, in the case of experimental periodontitis induced in rats, an increase in neutrophil infiltrate was observed. Following the administration of magnolol extract, the values of superoxide, NF-κB, iNOS, COX-2, MMP-1, and MMP-9 in the gingival tissues decreased. Magnolol significantly reduced the resorption of the alveolar ridge in rats with experimentally induced periodontitis, suppressing the accumulation of periodontal bacteria, suppressing the synthesis of the inflammation mediator mediated by NF-κB, reducing RANKL, and therefore partially blocking osteoclast formation.
+
+Thus, magnolol has a number of activities to stimulate osteoblasts and inhibit osteoclasts in cell cultures and has been recommended for screening for anti-osteoporosis activity.
+
+5.5. Anti-Diabetic Properties of Carvacrol and Magnolol
+
+There is little knowledge about the effects of carvacrol on diabetes. However, Bayramoglu et al. (2014) evaluated the anti-diabetic properties of carvacrol in STZ-induced diabetic rats. Following PO administration of carvacrol doses of 25 mg/kg body weight (BW) and 50 mg/kg BW, there was a reduction in serum glucose, a significant reduction in total plasma cholesterol (TC), and a reduction in aspartate aminotransferase (AST), alanine aminotransferase (ALT), and lactate dehydrogenase (LDH). Therefore, it has been established that this extract provides partial protection against liver enzymes.
+
+In another experimental study, Li et al. (2020) used lower doses, 10 mg/kg BW and 20 mg/kg BW administered IP in mice and after 4 to 6 weeks administration determined the following values: TC, triglycerides (TG), AST, ALT, alkaline phosphatase (ALP), LDH, and the activity of liver enzymes involved in glucose metabolism. They showed that regardless of the dose administered, carvacrol decreased blood glucose levels and the 20 mg/kg dose significantly reduced LDH plasma levels. They concluded that this extract exerts anti-hyperglycemic effects in rats with experimentally induced diabetes.
+
+Another study showed that the combination of rosiglitazone (RSG), an antidiabetic drug of the thiazolidione family, and carvacrol has antihyperglycemic effects, beneficial in improving carbohydrate metabolism, in mice with NIDDM who were given a diet rich in fats.
+
+Several studies have shown that major bioactive constituents of Magnolia officinalis extract contribute to glycemic control. Studies in diabetic rats have proved that magnolol is effective against oxidative damage to the liver, modulating hyperglycemia and hyperlipidemia. At the same time, it has been stated to inhibit the activity of cytochrome (P450 2E1), a mechanism against insulin resistance.
+
+Wang et al. (2014) studied the effects of magnolol on hyperglycemia, hyperlipidemia, and hepatic oxidative stress in a diabetic model in rats, established using STZ and a high-fat diet (HFD). Following PO administration of doses of 25, 50, and 100 mg/kg for 10 weeks, the values of TC, TG, and low-density lipoprotein (LDL) cholesterol decreased significantly, while the antioxidant liver enzymes (CAT, GSH) increased. These results illustrate that magnolol is effective against liver damage induced by oxidative stress, acting as support against hyperglycemia and hyperlipidemia. Simultaneously, in other in vivo studies, oral treatment with 200 mg/kg honokiol, the isomer of magnolol, for 8 weeks significantly decreases fasting blood glucose in NIDDM mice.
+
+Most studies have shown that the anti-inflammatory and antioxidant effects of magnolol are closely correlated with the preventive effects against diabetes and its complications. The anti-diabetic properties of carvacrol and magnolol in in vivo animal model research are shown in Table 4.
+
+5.6. Toxicity of Carvacrol and Magnolol
+
+Most drugs have the ability to develop potential side effects, and natural extracts do not make an exception. It is difficult to record the toxicity of essential oils, as the toxicity varies depending on the number of components that compose the aromatic oil. However, essential oils are considered safe for consumption, as a natural substitute for antioxidant food additives.
+
+Kohlert et al. (2002) have shown that the most toxic concentration of carvacrol is 36–49 mg/L. Carvacrol at a concentration of up to 25 μM in V79 fibroblast cells in the lungs of hamsters did not cause DNA damage, according to measurements made by Undeger et al. (2009).
+
+Suntres et al. (2015, 2020) identified the average lethal doses of carvacrol in rats: A dose of 810 mg/kg in oral administration, 80 mg/kg in IV administration, and 73 mg/kg in IP injection. In 2017, Kuo et al. (2017) administered IG with a dose of 70 mg/kg of carvacrol in rats and found that they suffered from dehydration, diarrhea, or even mortality, 2–3 days after treatment, which emphasize carvacrol toxicity at this dose.
+
+Caco-2 intestinal cells were used to study the mutagenic and genotoxic effect of carvacrol. Elevated doses of 460 μM carvacrol were used and these caused damage to the purine bases in DNA but had no adverse effects on hamster lung fibroblasts or human hepatocytes and lymphocytes.
+
+In their studies regarding magnolol toxicity, conducted in 2006, Saito et al. (2006) found that magnolol extract did not show mutagenic toxicity and genotoxicity. A more recent study, conducted by Sarrica et al. (2018), showed through in vivo and in vitro experiments that concentrated magnolia root extract (MRE) has no mutagenic or genotoxic potential, while an OECD (Organisation for Economic Co-operative and Development) study established that no adverse effects occur at MBE (magnolia bark extract) concentrations >240 mg/kg, thus being considered safe for consumption.
+
+Studies in humans have shown that dietary supplementation with magnolol affects only 1/22 patients, with symptoms such as heartburn, thyroid dysfunction, or shaking hands, but the link between these symptoms and the treatment could not be explained. Another experiment by Mucci et al. (2006) included 89 postmenopausal women who received 60 mg of MRE and 50 mg of magnesium. The treatment was tolerated by 94% of subjects without side effects. However, studies by Teschke et al. (2014–2016) have reported that some Magnolia-based mixtures may be hepatotoxic.
+
+Carvacrol has been approved for food use by the Food and Drug Administration. It has been included by the Council of Europe in the list of approved chemical flavorings. This extract is also used in food, spice, or pharmaceutical industries. Nevertheless, different institutions have comprised Magnolia officinalis in lists of herbal preparations suitable for inclusion in food supplements, because of its digestive and rebalancing activity upon the oral microbiome. In the market, anti-ageing cosmetics containing magnolol have also appeared.
+
+Therefore, when the doses are obeyed, the two natural extracts, carvacrol and magnolol, can be considered safe, but further research is needed to determine their toxicity when administered in periodontitis and diabetes.
+
+6. Conclusions and Prospective
+
+Our manuscript reviewed the results of various surveys on the topic and emphasized the therapeutic effects of carvacrol and magnolol on periodontal disease and diabetes mellitus. Following this analysis, it is obvious that carvacrol and magnolol have beneficial properties in the investigated pathologies, as demonstrated by in vitro and in vivo studies. These natural extracts have potential as a future “key-role player” that can be integrated into new treatment formulas, effective both in reducing gingival inflammation and periodontal pockets, while also controlling blood sugar in diabetic patients. For example, a new treatment perspective could be the development of a periodontal gel containing magnolol as an active ingredient, as the literature has only revealed the use of a topical carvacrol-based periodontal gel.
+
+We believe that this literature review is of interest because no papers have been published that evaluate the potential benefits of both extracts in the same study. However, future studies are needed to maximize the therapeutic potential of carvacrol and magnolol to bring these compounds to the clinic.
+
+Publisher’s Note: MDPI stays neutral with regard to jurisdictional claims in published maps and institutional affiliations.
+
+Author Contributions
+
+Conceptualization, G.I.P.C. and P.A.B.; methodology, G.I.P.C., P.A.B., G.C. and I.S.; writing—original draft preparation, G.I.P.C., G.M.I., G.C., M.G., H.C. and A.P.; writing—review and editing, G.I.P.C., H.C., A.P. and M.G.; supervision, P.A.B. and I.S. All authors have read and agreed to the published version of the manuscript and contributed to the manuscript equally.
+
+Funding
+
+This review received no external funding.
+
+Institutional Review Board Statement
+
+Not applicable.
+
+Informed Consent Statement
+
+Not applicable.
+
+Conflicts of Interest
+
+The authors declare no conflict of interest.
+
+Abbreviations
+
+A. actinomycetemcomitans	Aggregatibacter actinomycetemcomitans	 	A.D.	Anno Domini	 	AGEs	advanced glycation end products	 	Akt	protein kinase B	 	ALP	alkaline phosphatase	 	ALT	alanine aminotransferase	 	AP-1	activator protein-1	 	AST	aspartate aminotransferase	 	B.C.	Before Christ	 	B. subtilis	Bacillus subtilis	 	BW	body weight	 	CAR	carvacrol	 	CAS	Chemical Abstracts Service	 	CAT	catalase	 	c-fos	C-proto-oncogene	 	CFA	complete Freund’s adjuvant	 	CHX	chlorhexidine	 	COX	cyclooxygenase	 	COX-1	cyclooxygenase-1	 	COX-2	cyclooxygenase-2	 	CRP	C-reactive protein	 	CYP2E1	cytochrome P450 2E1	 	DM	diabetes mellitus	 	DMSO	dimethylsulfoxide	 	DNA	deoxyribonucleic acid	 	E. coli	Escherichia coli	 	F. nucleatum	Fusobacterium nucleatum	 	FOXO1	forkhead box protein O1	 	ERK	extracellular signal-regulated kinases	 	GBD	Global Burden of Disease	 	GPx	glutathione peroxidase	 	GR	glutathione reductase	 	GSH	glutathione	 	HFD	high-fat diet	 	HO	hemogen oxygenase	 	HO-1	hemogen oxygenase-1	 	IDDM	insulin-dependent diabetes mellitus	 	IG	intragastric	 	IκB	inhibitor of kappa B kinase	 	IκBa	inhibitor of kappa B kinase α 	 	IκBβ	inhibitor of kappa B kinase β 	 	IL	interleukin	 	IL-1	interleukin-1	 	IL-1β	interleukin-1β	 	IL-4	interleukin-4	 	IL-6	interleukin-6	 	IL-8	Interleukin-8	 	IL-10	interleukin-10	 	IL-17	interleukin-17	 	iNOS	inducible nitric oxide synthase	 	IP	intraperitoneal	 	IUPAC	International Union of Pure and Applied Chemistry	 	IV	intravenous	 	JNK	c-Jun N-terminal kinase	 	LDH	lactate dehydrogenase	 	LDL	low-density lipoprotein	 	LPS	lipopolysaccharides	 	M. luteus	Micrococcus luteus	 	MAG	magnolol	 	MAPK	mitogen-activated protein kinase	 	MBC	minimum bactericidal concentration	 	MBE	magnolia bark extract	 	MRE	magnolia root extract	 	MDA	malondialdehyde	 	MEK	mitogen-activated protein kinase	 	MIC	minimum inhibitory concentration	 	MMP-2	matrix metalloproteinase-2, gelatinase A	 	MMP-3	matrix metalloproteinase-3	 	MMP-9	matrix metalloproteinase-9, gelatinase B	 	MMP-13	matrix metalloproteinase-13	 	MMPs	matrix metalloproteinases	 	MPO	myeloperoxidase	 	mRNA	messenger ribonucleic acid	 	MRSA	Methicillin-resistant Staphylococcus aureus	 	NF-κB	nuclear factor-kappa B	 	NIDDM	non-insulin-dependent diabetes mellitus	 	NK	natural killer	 	NO	nitric oxide	 	Nrf2	nuclear factor erythroid 2-related factor 2	 	OECD	Organisation for Economic Co-operative and Development	 	–OH	hydroxyl group	 		 	OG	 			 	oral gavage	 		 	OPG	osteoprotegerin	 	P. gingivalis	Porphyromonas gingivalis	 	P. intermedia	Prevotella intermedia	 	PGE	prostaglandins	 	PGE2	prostaglandins E2	 	PGF1	prostaglandins F1	 	PGF2	prostaglandins F2	 	PI3K	phosphoinositide 3-kinase	 	PO	per os	 	PPAR-γ	peroxisome proliferator-activated receptor gamma	 	Propionibacterium acnes	P. acnes	 	RANKL	receptor activator of nuclear factor-kappa B ligand	 	ROS	reactive oxygen species	 	RSG	rosiglitazone	 	S. mutans	Streptococcus mutans	 	SOD	superoxide dismutase	 	STZ	streptozotocin	 	T. denticola	Treponema denticola	 	T. forsythia	Tannerella forsythia	 	TC	total plasma cholesterol	 	TG	triglycerides	 	TGF-1β	transforming growth factor-1β	 	Th17	T helper 17 cells	 	TNF-α	tumor necrosis factor alpha	 	TRAP	tartrate-resistant acid phosphatase	 	WHO	World Health Organization
+
+References
+
+Mesenchymal stem cells of dental origin for inducing tissue regeneration in periodontitis:A mini-review
+
+Periodontal disease has an impact on patients′ quality of life
+
+Impact of the global burden of periodontal diseases on health, nutrition and wellbeing of mankind: A call for global action
+
+Global, regional, and national incidence, prevalence, and years lived with disability for 328 diseases and injuries for 195 countries, 1990–2016:A systematic analysis for the Global Burden of Disease Study 2016
+
+European workshop in periodontal health and cardiovascular disease-scientific evidence on the association between periodontal and cardiovascular diseases: A review of the literature
+
+Diabetes mellitus and periodontal diseases
+
+IDF Diabetes Atlas: Global estimates for the prevalence of diabetes for 2015 and 2040
+
+Projections of global mortality and burden of disease from 2002 to 2030
+
+Protective effects of carvacrol against oxidative stress induced by chronic stress in rat’s brain, liver, and kidney
+
+The bioactivity and toxicological actions of carvacrol
+
+Mechanisms of membrane toxicity of hydrocarbons
+
+Antimicrobial activity of the essential oil from Lippia sidoides, carvacrol and thymol against oral pathogens
+
+Biological and pharmacological activities of carvacrol and carvacrol bearing essential oils
+
+Carvacrol inhibits osteoclastogenesis and negatively regulates the survival of mature osteoclasts
+
+Chemistry and multibeneficial bioactivities of carvacrol (4-isopropyl-2-methylphenol), a component of essential oils produced by aromatic plants and spices
+
+Anticarcinogenic and antiplatelet effects of carvacrol
+
+The effects of thyme volatiles on the induction of DNA damage by the heterocyclic amine IQ and mitomycin C
+
+In vitro inhibition of prostaglandin biosynthesis by essential oils and phenolic compounds
+
+Effects of carvacrol upon the liver of rats undergoing partial hepatectomy
+
+Inhibition of enteric parasites by emulsified oil of oregano in vivo
+
+The antibacterial properties of phenolic isomers, carvacrol and thymol
+
+Effect of magnolol on the function of osteoblastic MC3T3-E1 cells
+
+Magnolol attenuates sepsis-induced gastrointestinal dysmotility in rats by modulating inflammatory mediators
+
+Formulations of dietary supplements and herbal extracts for relaxation and anxiolytic action: Relarian
+
+Antioxidative and hepatoprotective effects of magnolol on acetaminophen-induced liver damage in rats
+
+Wnt/β-catenin signaling mediates the antitumor activity of magnolol in colorectal cancer cells
+
+Beneficial effects of magnolol in a rodent model of endotoxin shock
+
+Antiinflammatory activity of methanol extract isolated from stem bark of Magnolia kobus
+
+The antiplatelet activity of magnolol is mediated by PPAR-β/γ
+
+Merck
+
+PubChem
+
+The role of inflammatory mediators in the pathogenesis of periodontal disease
+
+Clinical trials in periodontal therapy
+
+Nature of periodontal diseases:Pathogenic mechanisms
+
+Effect of periodontal disease on diabetes:Systematic review of epidemiologic observational evidence
+
+Microbial complexes in subgingival plaque
+
+Quantitative molecular detection of 19 major pathogens in the interdental biofilm of periodontally healthy young adults
+
+Mixed red-complex bacterial infection in periodontitis
+
+Periodontium and periodontal disease
+
+gingivalis in periodontal disease and atherosclerosis–scenes of action for antimicrobial peptides and complement
+
+Cytokines that promote periodontal tissue destruction
+
+Cytokine profiling of macrophages exposed to Porphyromonas gingivalis, its lipopolysaccharide, or its FimA protein
+
+Lipopolysaccharide (LPS) of Porphyromonas gingivalis induces IL-1β, TNF-α and IL-6 production by THP-1 cells in a way different from that of Escherichia coli LPS
+
+Matrix metalloproteinases and periodontal diseases
+
+Gingival crevicular fluid levels of MMP-8, MMP-9, TIMP-2, and MPO decrease after periodontal therapy
+
+Diabetes mellitus-associated periodontitis:Differences between type 1 and type 2 diabetes mellitus
+
+PGE2, IL-1 β, and TNF-α responses in diabetics as modifiers of periodontal disease expression
+
+Monocytic TNFα secretion patterns in IDDM patients with periodontal diseases
+
+Interleukin-6 and diabetes:The good, the bad, or the indifferent?
+
+Effects of growth factors and cytokines on osteoblast differentiation
+
+Role of growth factors in cutaneous wound healing: A review
+
+TGF-beta (transforming growth factor-beta) in chronic inflammatory conditions-a new diagnostic and prognostic marker
+
+A major advance in the use of growth factors to enhance wound healing
+
+Antihyperglycemic and antioxidant effect of Berberis aristata root extract and its role in regulating carbohydrate metabolism in diabetic rats
+
+Fibrosis in diabetes complications:Pathogenic mechanisms and circulating and urinary markers
+
+Liver glucose metabolism in humans
+
+Epidemiology of diabetes and diabetes-related complications
+
+Effect of diabetes mellitus on cementum periodontal interface in streptozotocin-induced diabetic rat model
+
+Mechanistic links between type 2 diabetes and periodontitis
+
+Type 1 diabetes mellitus and oral health:Assessment of periodontal disease
+
+Oral manifestations and complications of diabetes mellitus: A review
+
+Chemerin as a novel crevicular fluid marker of patients with periodontitis and type 2 diabetes mellitus
+
+Cationic antimicrobial peptides and periodontal physiopathology: A systematic review
+
+Scientific evidence on the links between periodontal diseases and diabetes: Consensus report and guidelines of the joint workshop on periodontal diseases and diabetes by the International Diabetes Federation and the European Federation of Periodontology
+
+Impact of chronic periodontitis on levels of glucoregulatory biomarkers in gingival crevicular fluid of adults with and without type 2 diabetes
+
+Diabetes and periodontal disease:A two-way relationship
+
+Local inflammatory reactions in patients with diabetes and periodontitis
+
+Diabetes-enhanced inflammation and apoptosis—impact on periodontal pathology
+
+Experimental gingivitis in type 1 diabetics:A controlled clinical and microbiological study
+
+Correlation between levels of sulcular and capillary blood glucose
+
+Fluid dynamics of gingiva in diabetic and systemically healthy periodontitis patients
+
+Pro-inflammatory biomarkers during experimental gingivitis in patients with type 1 diabetes mellitus:A proof-of-concept study
+
+Plasma levels of tumour necrosis factor-alpha in patients with chronic periodontitis and type 2 diabetes
+
+Periodontal disease in adults with diabetes, prevalence and risk factors. Results of an observational study
+
+Relationship between markers of metabolic control and inflammation on severity of periodontal disease in patients with diabetes mellitus
+
+Assessment of risk for periodontal disease. I. Risk indicators for attachment loss
+
+Diabetes and periodontal diseases
+
+Inflammatory mediator response as a potential risk marker for periodontal diseases in insulin-dependent diabetes mellitus patients
+
+Impact of periodontitis on the diabetes-related inflammatory status
+
+Periodontal infections contribute to elevated systemic C-reactive protein level
+
+Elevation of systemic markers related to cardiovascular diseases in the peripheral blood of periodontitis patients
+
+Examination of the relation between periodontal health status and cardiovascular risk factors:Serum total and high density lipoprotein cholesterol, C-reactive protein, and plasma fibrinogen
+
+Association of periodontal parameters with metabolic level and systemic inflammatory markers in patients with type 2 diabetes
+
+Chronic periodontitis in type 2 diabetes mellitus:Oxidative stress as a common factor in periodontal tissue injury
+
+The assessment of two-way relationship between periodontal diseases and diabetes mellitus
+
+Periodontal disease:A risk factor for diabetes and cardiovascular disease
+
+Upregulation of Slug expression by cyclosporine A contributes to the pathogenesis of gingival overgrowth
+
+PubChem
+
+Synthesis of carvacrol by Friedel–Crafts alkylation of o-cresol with isopropanol using superacidic catalyst UDCaT-5
+
+Activation of Nrf2/HO-1signaling pathway involves the anti-inflammatory activity of magnolol in Porphyromonas gingivalis lipopolysaccharide-stimulated mouse RAW 264.7 macrophages
+
+Therapeutic applications of compounds in the Magnolia family
+
+Adjuvant therapy with sodium alendronate for the treatment of experimental periodontitis in rats
+
+High resistance against clindamycin, metronidazole and amoxicillin in Porphyromonas gingivalis and Aggregatibacter actinomycetemcomitans isolates of periodontal disease
+
+Herbal therapy in periodontics: A review
+
+Diacerein:A potential therapeutic drug for periodontal disease
+
+Evaluation of the efficacy of 2% Ocimum sanctum gel in the treatment of experimental periodontitis
+
+Protective effects of baicalin on ligature-induced periodontitis in rats
+
+Berberine’s effect on periodontal tissue degradation by matrix metalloproteinases:An in vitro and in vivo experiment
+
+Adjunctive periodontal treatment with Centella asiatica and Punica granatum extracts in supportive periodontal therapy
+
+Protective effect of topical Cordia verbenacea in a rat periodontitis model: Immune-inflammatory, antibacterial and morphometric assays
+
+Carvacrol ameliorates ligation-induced periodontitis in rats
+
+Protective effect of locally applied carvacrol gel on ligature-induced periodontitis in rats: A tapping mode AFM study
+
+Effects of a herbal gel containing carvacrol and chalcones on alveolar bone resorption in rats on experimental periodontitis
+
+Magnolol ameliorates ligature-induced periodontitis in rats and osteoclastogenesis:In vivo and in vitro study
+
+Elevated Snail expression in human gingival fibroblasts by cyclosporine A as the possible pathogenesis for gingival overgrowth
+
+Cytokines and fever
+
+Peripheral hyperalgesic cytokines
+
+The pathophysiological role of cytokines
+
+The role of pro-inflammatory cytokines in neuroinflammation, neurogenesis and the neuroendocrine system in major depression
+
+TNF biology, pathogenic mechanisms and emerging therapeutic strategies
+
+Pathogenic role of IL-17-producing immune cells in obesity, and related inflammatory diseases
+
+The neutrophil NLRC4 inflammasome selectively promotes IL-1β maturation without pyroptosis during acute Salmonella challenge
+
+Anti-inflammatory effects of carvacrol:Evidence for a key role of interleukin-10
+
+Antifungal effect of magnolol and honokiol from Magnolia officinalis on Alternaria alternata causing tobacco brown spot
+
+Carvacrol exerts neuroprotective effects via suppression of the inflammatory response in middle cerebral artery occlusion rats
+
+In vitro anti-inflammatory activity of carvacrol: Inhibitory effect on COX-2 catalyzed prostaglandin E 2 biosynthesisb
+
+Carvacrol, a component of thyme oil, activates PPARα and γ and suppresses COX-2 expression [S]
+
+Effects of thymol and carvacrol, constituents of Thymus vulgaris L. essential oil, on the inflammatory response
+
+Carvacrol Alleivated Negative Effects of Diabetes on Inflammation and Oxidation by Modulation in Gene Expression of Inflammatory and Antioxidant System in Diabetic Rat Model
+
+Anti-inflammatory and antioxidant activity of carvacrol in the respiratory system: A systematic review and meta-analysis
+
+Carvacrol ameliorates inflammatory response in interleukin 1β-stimulated human chondrocytes
+
+Magnolol potently suppressed lipopolysaccharide-induced iNOS and COX-2 expression via downregulating MAPK and NF-κB signaling pathways
+
+Magnolol Inhibits RANKL-induced osteoclast differentiation of raw 264.7 macrophages through heme oxygenase-1-dependent inhibition of NFATc1 expression
+
+Magnolol ameliorates lipopolysaccharide-induced acute lung injury in rats through PPAR-γ-dependent inhibition of NF-kB activation
+
+Anti-angiogenic and anti-inflammatory effect of Magnolol in the oxygen-induced retinopathy model
+
+Anti-inflammatory effects of magnolol and honokiol are mediated through inhibition of the downstream pathway of MEKK-1 in NF-κB activation signaling
+
+Carvacrol-induced [Ca2+] i rise and apoptosis in human glioblastoma cells
+
+Free radicals, antioxidants, and human disease:Curiosity, cause, or consequence?
+
+Analize Medicale
+
+First line defence antioxidants-superoxide dismutase (SOD), catalase (CAT) and glutathione peroxidase (GPX): Their fundamental role in the entire antioxidant defence grid
+
+Antioxidant actions of thymol, carvacrol, 6-gingerol, zingerone and hydroxytyrosol
+
+The effect of carvacrol on healthy neurons and N2a cancer cells:Some biochemical, anticancerogenicity and genotoxicity studies
+
+Sub-acute effects of diazinon on biochemical indices and specific biomarkers in rats:Protective effects of crocin and safranal
+
+Oxidation of biological systems:Oxidative stress phenomena, antioxidants, redox reactions, and methods for their quantification
+
+Protective effect of carvacrol on oxidative stress and cellular DNA damage induced by UVB irradiation in human peripheral lymphocytes
+
+Bioassay-guided evaluation of antioxidant and antinociceptive activities of carvacrol. Basic
+
+The protective efficacy of magnolol in hind limb ischemia-reperfusion injury
+
+Chemistry Study on Protective Effect against· OH-induced DNA Damage and Antioxidant Mechanism of Cortex Magnoliae Officinalis
+
+Anti-diarrhea and anti-oxidant properties of Magnolol
+
+Extracts of magnolia species-induced prevention of diabetic complications:A brief review
+
+Involvement of HO-1 and autophagy in the protective effect of magnolol in hepatic steatosis-induced NLRP3 inflammasome activation in vivo and in vitro
+
+High glucose-induced oxidative stress increases IL-8 production in human gingival epithelial cells
+
+Magnolol ameliorates the accumulation of reactive oxidative stress and inflammation in diabetic periodontitis
+
+Antimicrobial activity of honokiol and magnolol isolated from Magnolia officinalis
+
+Advanced glycation endproducts:What is their relevance to diabetic complications?
+
+Expression of periodontal interleukin-6 protein is increased across patients with neither periodontal disease nor diabetes, patients with periodontal disease alone and patients with both diseases
+
+Magnolol protects against oxidative stress-mediated neural cell damage by modulating mitochondrial dysfunction and PI3K/Akt signaling
+
+Atomic force microscopy analysis shows surface structure changes in carvacrol-treated bacterial cells
+
+Characterization of the action of selected essential oil components on Gram-negative bacteria
+
+Evaluation of the antibacterial potential of liquid and vapor phase phenolic essential oil compounds against oral microorganisms
+
+In vitro antibacterial and cytotoxic activities of carvacrol and terpinen-4-ol against biofilm formation on titanium implant surfaces
+
+In vitro antimicrobial and antipro-inflammation potential of honokiol and magnolol against oral pathogens and macrophages
+
+Positive regulators of osteoclastogenesis and bone resorption in rheumatoid arthritis
+
+Regulation of osteoclast differentiation and function by interleukin-1
+
+Interleukin 1 induces multinucleation and bone-resorbing activity of osteoclasts in the absence of osteoblasts/stromal cells
+
+IL-1α stimulation of osteoclast survival through the PI 3-kinase/Akt and ERK pathways
+
+Role of RANKL in physiological and pathological bone resorption and therapeutics targeting the RANKL–RANK signaling system
+
+α-Lipoic acid inhibits inflammatory bone resorption by suppressing prostaglandin E2 synthesis
+
+Water extract of Magnolia officinalis cortex inhibits osteoclastogenesis and bone resorption by downregulation of nuclear factor of activated T cells cytoplasmic 1
+
+Magnolol inhibits osteoclast differentiation via suppression of RANKL expression
+
+Carvacrol partially reverses symptoms of diabetes in STZ-induced diabetic rats
+
+Effect of long-term treatment of Carvacrol on glucose metabolism in Streptozotocin-induced diabetic mice
+
+Antihyperglycemic effect of carvacrol in combination with rosiglitazone in high-fat diet-induced type 2 diabetic C57BL/6J mice
+
+Honokiol:A non-adipogenic PPARγ agonist from nature
+
+Magnolol enhances adipocyte differentiation and glucose uptake in 3T3-L1 cells
+
+The antidiabetic and hepatoprotective effects of magnolol on diabetic rats induced by high-fat diet and streptozotocin
+
+Hypoglycemic effect and mechanism of honokiol on type 2 diabetic mice
+
+Essential oils:Renewal of interest and toxicity
+
+Essential oils:Their antibacterial properties and potential applications in foods—a review
+
+Systemic availability and pharmacokinetics of thymol in humans
+
+Antioxidant activities of major thyme ingredients and lack of (oxidative) DNA damage in V79 Chinese hamster lung fibroblast cells at low levels of carvacrol and thymol
+
+Carvacrol and human health: A comprehensive review
+
+Evaluation of the mutagenicity and genotoxic potential of carvacrol and thymol using the Ames Salmonella test and alkaline, Endo III-and FPG-modified comet assays with the human cell line Caco-2
+
+In vitro toxicological evaluation of essential oils and their main compounds used in active food packaging: A review
+
+In vitro genotoxicity testing of carvacrol and thymol using the micronucleus and mouse lymphoma assays
+
+In vitro anti-mutagenic effect of magnolol against direct and indirect mutagens
+
+Safety and toxicology of magnolol and honokiol
+
+Effect of a proprietary Magnolia and Phellodendron extract on weight management:A pilot, double-blind, placebo-controlled clinical trial
+
+Soy isoflavones, lactobacilli, Magnolia bark extract, vitamin D3 and calcium. Controlled clinical study in menopause
+
+Herbal hepatotoxicity–an update on traditional Chinese medicine preparations
+
+Traditional Chinese Medicine and herbal hepatotoxicity:A tabular compilation of reported cases
+
+Traditional Chinese medicine (TCM) and herbal hepatotoxicity: RUCAM and the role of novel diagnostic biomarkers such as microRNAs
+
+COMMISSION DECISION
+
+EAFUS: A Food Additive Database.1998
+
+Biological activity and toxicity of the Chinese herb Magnolia officinalis Rehder & E. Wilson (Houpo) and its constituents
+
+Figures, Schemes and Tables
+
+(A) The chemical structure of carvacrol; (B) the chemical structure of magnolol.
+
+Flow chart illustrating the selection process of the references included in this review.
+
+A Pie chart depicting the percentage distribution of the articles included in the study based on the number of citations in the literature.
+
+Column chart depicting the distribution of articles based on the journals’ impact factor.
+
+Scheme adapted according to Socransky, regarding the classification of subgingival bacteria in complexes.
+
+Properties of carvacrol and magnolol bioactive natural extracts.
+
+The anti-inflammatory mechanism of carvacrol and magnolol in periodontitis and diabetes. ↑: Increase or upregulate; ↓: Decrease or down-regulate.
+
+Anti-inflammatory effects of carvacrol and magnolol.
+
+Researcher	Study Design	Doses of Treatment	Main Results	References	 		 	da Silva Lima et al. (2013)	 		Model: Swiss mice (22–28 g)Disease model: CFA paw edema	Treatment: 50 mg/kg, 100 mg/kg CAR, 40 min before CFAType of administration: IP	↓IL-1β↓PGE2⟷ TNF-α local levels↓COX-2↓IL-1β mRNA expression↑IL-10↑IL-10 mRNA expression		 	Tabibzadeh Dezfuli et al. (2017)	Model: RatsDisease model: STZ induced DM	Treatment: 5 mg/kg, 10 mg/kg, 15 mg/kg BW CARType of administration: OG		 	↓	 	IL-1β	 	↓	 	IL-6	 	↓	 	TNF-α		 	de Carvalho et al. (2020)	Model: Animals or humansDisease model: Pulmonary injury	Treatment: Different doses of CARType of administration: IP/ diluted in water/ PO/ capsule	↓IL-1β↓IL-4↓IL-8⟷ IL-6⟷ TNF-α		 	Xiao et al. (2018)	Model: Human articular cartilage (8 patients, age 24–41 years), chondrocyte cultureDisease model: Articular cartilage with degenerative changes, osteoarthritisTreatment: Various concentrations of CAR (0 µg/mL, 1 µg/mL, 5 µg/mL and 10 µg/mL), for 2 hType of administration: in vitro 	Treatment: Various concentrations of CAR (0 µg/mL, 1 µg/mL, 5 µg/mL and 10 µg/mL), for 2 hType of administration: in vitro	inhibits IL-1β-induced NOinhibits PGE2↓iNOS↓COX-2 expressionsuppressed IL-1β-induced MMP-3 and MMP-13 expressioninhibits the activation of NF-κB signaling pathway in chondrocytes		 	Lai et al. (2011)	Model: RAW 264.7 cells, derived from murine macrophages, induced by LPSDisease model: Inflammation	Treatment: 5–15 μM MAG dissolved in DMSO were added together with LPSType of administration: in vitro		 	significantly inhibited LPSstimulated iNOS and COX-2 protein and gene expression	 			 	Lu et al. (2015)	Model: RAW 264.7 macrophagesDisease model: Inflammation	Treatment: 5–20 μM MAGType of administration: in vitro	↓production of pro-inflammatory nitrates↓PGE2↓iNOS↓COX-2 expressionactivated NF-κB↑Nrf2↑HO		 	Lin el al. (2015)	Model: Male Sprague–Dawley rats (200–230 g)Disease model: Acute lung injury	Treatment: 10 mg/kg, 20 mg/kg BW MAG, for 1 hType of administration: IP	↓iNOS expression↓COX-2 expression↓NF-κB activation↑PPAR-γ expression		 	Yang et al. (2016)	Model: Neonatal C57BL/6J miceDisease model: Oxygen-induced retinopathy	Treatment: 25 mg/kg MAG, once a dayType of administration: IP	↓inflammatory cytokines		 	Lu et al. (2013)	Model: Male Sprague–Dawley rats (250–350 g)Disease model: Ligature induced periodontitis	Treatment: 100 mg/kg MAG, for 9 days, starting 1 day before ligatureType of administration: OG		 	inhibited neutrophil migration in gingival tissueinhibited MPO activity in gingival tissueinhibited COX-2 expression in gingival tissue inhibited iNOS in gingival tissue	 			 	Lee et al. (2005)	Model: Human monocyte THP-1 cell lineDisease model: Acne	Treatment: 10–15 μM MAG and 10–15 μM honokiol dissolved in 10% DMSOType of administration: in vitro		 	inhibit NF-κB from COX-2, IL-8 and TNF-α promoters	 	↓	 	IL-8	 	↓	 	TNF-α	 	↓	 	COX-2
+
+↑: Increase or upregulate; ↓: Decrease or down-regulate; ⟷: No change.
+
+MIC and MBC of carvacrol for the periodontal pathogens.
+
+Periodontal Pathogens	CAR	References	 	MIC	MBC	 	A. actinomycetemcomitans	200 µg/mL	200 µg/mL		 	E. coli	400 µg/mL	400 µg/mL		 	F. nucleatum	0.002%	0.002%		 	MRSA	400 µg/mL	600 µg/mL		 	P. gingivalis	0.007%	0.007%		 	S. mutans	400 µg/mL	600 µg/mL
+
+MIC and MBC of magnolol for the periodontal pathogens.
+
+Periodontal Pathogens	MAG	References	 	MIC	MBC	 	A. actinomycetemcomitans	10 µg/mL, 25 µg/mL	20 µg/mL		 	B. subtilis	25 µg/mL			 	E. coli	>100 µg/mL	>100 µg/mL		 	F. nucleatum	25 µg/mL			 	M. luteus	25 µg/mL			 	MRSA	10 µg/mL	30 µg/mL		 	P. gingivalis	25 µg/mL			 	P. intermedia	25 µg/mL			 	S. mutans	10 µg/mL	20 µg/mL
+
+The anti-diabetic properties of carvacrol and magnolol in in vivo animal model research.
+
+Researcher	Study Design	Doses of Treatment	Main Results	References	 	Bayramoglu et al. (2014)	Animals: Adult Sprague–Dawley rats (195–215 g)Disease model: STZ-induced DM	Treatment: 25 mg/kg, 50 mg/kg BW CAR for 7 daysType of administration: PO	↓in serum glucose↓TC↓AST↓ALT↓LDH protection against liver enzymes		 	Li et al. (2020)	Animals: Adult male C57BL/6 mice (20.0 ± 2.0 g)Disease model: STZ-induced IDDM	Treatment: 10 mg/kg, 20 mg/kg, 40 mg/kg BW CAR, once a day, for 2 weeksType of administration: IP	↓plasma glucose levels↓level of fasting plasma glucose improved glucose tolerance↓the level of TG⟷ on the serum level of AST, ALT or ALPno effect on the serum level of AST,ALT, or ALPno effect on the serum level of AST,ALT, or ALPno effect on the serum level of AST,ALT, or ALPno effect on the serum level of AST,ALT, or A↓LDH plasma levels↓reduced significantly the activity of hepatic enzymes		 	Ezhumalai et al. (2014)	Animals: Male C57BL/6J mice (20–30 g)Disease model: NIDDM + HFD	Treatment: 20 mg/kg BW CAR + 4 mg/kg BW RSG, daily, for 35 daysType of administration: IG	 antihyperglycemic effects improving carbohydrate metabolism↓plasma glucose↓activity of hepaticmarker enzymes		 	Wang et al. (2014)	Animals: Male C57BL/6J mice (20–30 g)Disease model: STZ-induced DM + HFD	Treatment: 25 mg × kg(–1) × d(–1), 50 mg × kg(–1) × d(–1), 100 mg × kg(–1) × d(–1) MAG, for 10 daysType of administration: PO	↓TC levels↓TG levels↓LDL levels↓hepatic CYP2E1 activity↓MDA↑CAT↑GSH		 	Sun et al. (2015)	Animals: Male Chinese Kunming mice (18–22 g)Disease model: STZ-induced NIDDM	Treatment: Honokiol 200 mg/kg, once a day, for 8 weeksType of administration: OG	↓fasting blood glucose↓blood glucose levels ameliorates body weight disorder enhances insulin signaling
+
+↑: Increase or upregulate; ↓: Decrease or down-regulate; ⟷: No change.
+

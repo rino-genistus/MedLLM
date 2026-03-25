@@ -1,0 +1,256 @@
+TITLE: Incidence of Diabetic Retinopathy and Its Predictors Among Newly Diagnosed Type 1 and Type 2 Diabetic Patients: A Retrospective Follow-up Study at Tertiary Health-care Setting of Ethiopia
+
+Background
+
+With an increasing number of diabetes patients in developing countries, the burden of diabetes-related blindness is undoubtedly posing a massive challenge to the sustainable health care system due to the cost of care. Despite this fact, to date, most of the epidemiological research on diabetic retinopathy (DR) in eastern Africa, including Ethiopia, has been limited to survey studies. Thus, we determined the incidence of retinopathy and its predictors among diabetic patients in Jimma University Medical Center, Southwest Ethiopia.
+
+Methods
+
+A retrospective follow-up study was conducted on 402 randomly selected diabetic patients of aged ≥15 years. A preliminary reviewed checklist was used to obtain information on the demographics, clinical and physiological attributes. Data were entered using EpiData version 4.6 and analyzed using Stata version 14. All variables at P-values less than 0.2 in bivariable analysis were exported to multivariable analysis. Multivariable accelerated failure time (AFT) regression analyses using Weibull distribution were used to examine the predictors of DR at a 5% level of significance.
+
+Results
+
+Throughout a median follow-up period of 5.9 years, the cumulative incidence of DR was 20.15% (95%CI: 16.50–24.37) and the incidence rate was 36.9 per 1000 person years (PY) (95%CI: 29.7–45.9). Multivariable Weibull AFT regression analyses showed that type two diabetes mellitus (T2DM) (adjusted time ratio (ATR) 0.4095%CI: 0.20–0.78), hypertension (HTN) (ATR 0.54; 95%CI: [0.35, 0.82]), low high density lipoprotein cholesterol (HDL-C) (ATR 0.51; 95%CI: 0.36–0.73), and borderline high total cholesterol (TC) (ATR 0.63; 95%CI: 0.42–0.94) were a predictor of time to DR.
+
+Conclusion
+
+The overall incidence of DR among patients with diabetes mellitus was estimated to be 20.15% and is becoming a public health burden in Ethiopia. Our results indicate that T2DM, HTN, low HDL-C and borderline high TC independently predicts an increased incidence/decreased survival time of retinopathy among diabetes patients. The low HDL-C, HTN, and high TC are modifiable risk factors that should be managed along with diabetes.
+
+Introduction
+
+Diabetes mellitus (DM) is a prevalent metabolic disease that causes high mortality associated with its complications and has physical, social, and economic consequences on the community. With an increasing number of diabetes patients worldwide, predominantly in developing countries, the burden of diabetes-related blindness certainly poses massive challenges to the sustainable health-care system because of the cost of care. In 2019 to the International Diabetic Federation (IDF), there were an estimated 4.2 million deaths among the 20–79 age group attributed to its complications and this corresponds to one death every eight seconds. One of the complications of DM is that nearly all patients with type one diabetes mellitus (T1DM) and more than 60% of patients with type two diabetes mellitus (T2DM) will develop retinopathy within the first two decades of diagnosis. Diabetic retinopathy (DR) may lead to visual loss in the proliferative stage either from growth of new retinal vessels, or increased permeability of vessels which possibly depends on local production of angiogenic and growth factors. The high-mobility-group A1 protein plays a great role in lowering risk of developing DR by downregulating the expression of vascular endothelial growth factor A, which is a major activator for angiogenesis. In Africa the age standardized mortality rate due to diabetes and its complications was estimated to be 111.3 per 100,000 population and 22 per 1000 deaths were attributed to diabetes in Ethiopia.
+
+Globally DR in people with diabetes was estimated to be 35% with vision-threatening diabetic retinopathy (VTDR) present in 12%. It was predicted that DR will grow from 5.5 million in 2005 to 16.0 million in 2050 and the incidence of VTDR is expected to grow from 1.2 million in 2005 to 3.4 million in 2050. The annual incidence of DR ranged from 2.2% to 12.7% and annual progression to VTDR ranged from 3.4% to 12.3%. In Africa retinopathy was estimated to affect 30.2–31.6% of diabetes patients and the prevalence is growing most rapidly in Sub-Saharan Africa (SSA) countries imposing a large economic burden. The prevalence of retinopathy in Ethiopia was 19.48% with the highest prevalence in Oromia (24.8%), followed by in Amhara region (19.99%).
+
+DR is one of the leading causes of blindness in the working age population with devastating consequences, despite being possibly preventable and treatable. Globally approximately 4.8% of cases of vision loss were caused by DR. Eighty-six percent of younger-onset blindness and one-third of older-onset blindness was attributable to DR. DR caused 1.9% of moderate or severe visual impairment globally and 2.6% of blindness in 2010 and it is the sixth leading cause of global visual impairment.
+
+From multiple risk factors of DR, the duration of DM and age of the patient are supposed to be the strongest predictors. Other risk factors like hypertension (HTN), blood glucose and high body mass index (BMI) were also shown to have associations with DR.
+
+Even though high plasma glucose level was a conventional risk factor for DR, better glucose control was reported to have an unacceptable effect on preventing the development of DR. The study reported that only 11% of the total risk of DR could be explained by hyperglycemia, and the remaining 89% might be caused by other potential risk factors. Therefore, exploring other potential risk factors and prevention of DR would be imperative.
+
+To date, most of the epidemiological research on DR in eastern Africa including Ethiopia has been limited to prevalence estimates from cross-sectional studies. Thus, we determined the incidence of retinopathy and its predictors among T1DM and T2DM patients in Jimma University Medical Center, Southwest Ethiopia.
+
+Patients and Methods
+
+Study Setting, Period, Design and Population
+
+A facility-based retrospective follow-up study was conducted at Jimma University Medical Center, Southwest Ethiopia from September 5, 2012 to February 25, 2020. The study population was all newly diagnosed T1DM and T2DM patients from September 5, 2012 to August 2015 whose age was ≥15 and who fulfilled the inclusion criteria of the study. In contrast, we recruited those newly diagnosed DM patients from September 5, 2012 to August 28, 2015 in our study and followed them until February 25, 2020. Once diagnosed with T1DM or T2DM during the recruitment time, we immediately started follow-up making unbalanced nature of data. Those patients who have no medical charts, with a unknown date of DM diagnosis, who were referred from another health facility, and who had history of retinopathy from other underlying causes, or before diabetes diagnosis were excluded from the study.
+
+Sample Size and Sampling Procedure
+
+The final sample size for this study (428) was determined using predictors significantly associated with risk of DR from previous studies using Schoenfeld formula under Stata software version 14.
+
+And  = Schoenfeld formula for manual calculation.
+
+Where E=number of required events, n=sample size,  is hazard ratio of selected covariates, p1 is proportion of subjects under exposure group,  and  is probability of an event. After sampling frame was prepared using identification number of DM patients from the registration book, subject was randomly selected by simple random sampling technique.
+
+Variables and Operational Definitions
+
+The incidence of DR in patients with T1DM and T2DM was our primary outcome variable. Alternatively, explanatory variables contained demographic variables: age, sex, and residence; clinical: family history of DM, type of DM, type of treatment, creatinine, hemoglobin and comorbidities; and physiologic variables: BMI, HDL-C, low density lipoprotein cholesterol (LDL-C), triglyceride (TG), TC, DBP and SBP).
+
+Diabetic retinopathy was defined as a microvascular complication of diabetes that was evaluated by clinical examination or indirect ophthalmoscopy by ophthalmologists and classified as present (yes) or absent (no) from the charts based on ophthalmologists decision.
+
+Time to DR was the time gap in years between diagnoses of diabetes mellitus and first episode of DR.
+
+Event was development of DR.
+
+Censored, in our study, was death, lost to follow-up, and being event free at the end of the study.
+
+Body mass index was defined as physiologic factors that measured in weight in kilograms per squared meter of height (kg/m2) and was subdivided as low (<18.5 kg/m2), normal (18.5–24.9 kg/m2) and high (≥25 kg/m2) according to World Health Organization criteria.
+
+Hypertension was defined as an average systolic/diastolic blood pressure of 140/90 mmHg or higher taken on two or more separate days and the measurement was taken from record review.
+
+Data Collection and Quality Assurance
+
+We used data abstraction format from different literature to collect necessary information from patients’ medical files. Using a uniform checklist, relevant secondary data was collected from patient intake form, follow-up card, DM registration book, and electronic information databases, recorded routinely by the hospitals for follow-up, monitoring, and evaluation purposes. To ensure data quality, we performed a preliminary review for consistency of understanding the review tools and completeness of data items. Then adequacy of checklist was evaluated and variables on which data did not exist were excluded from checklist. Before actual data collection, training on record review was given to data collectors and supervisors for two days. All completed checklists/data were examined for consistency and completeness during data management, cleaning, and analysis. Strict supervision was applied by supervisors and investigators during data collection.
+
+Data Management and Analysis
+
+The data were checked for inconsistencies, coding errors, completeness and clarity before entry. Data entry was done using EpiData version 4.6 and then exported to Stata software version 14 for further cleaning and analysis. Normally distributed continuous variables were described in terms of mean with standard deviation, and median with interquartile range was used for asymmetrically distributed variables. Categorical characteristics, including the outcome variable were described in terms of frequencies and percentages. Pearson’s chi-squared test was used to compare the cohort’s baseline categorical variables based on the status of DR during follow-up. Independent sample t-test was used to compare normally distributed baseline continuous variables based on status of DR during follow-up and the Mann–Whitney U-test if the data for the continuous variables were non-normally distributed.
+
+The incidence rate was computed for the entire cohort by dividing the total number of incident cases of DR to the total person-years of follow-up. Survival time was estimated using Kaplan–Meier curves and log rank test was used to compare survival time between groups of categorical variables. Variables with a P-value less than 0.2 in the bivariable analysis were transferred to multivariable analysis to control confounding effect. Weibull regression was selected as a best fitting survival model based on Akaike information criteria (AIC). Goodness of fit of the model was assessed by Cox–Snell residual. Finally, variables with a P-value of less than 0.05 in multivariable regression analysis were considered to be a significant predictor of the outcome variable.
+
+Results
+
+Baseline Sociodemographic and Clinical Characteristics of Diabetic Patients According to Their Status of Diabetic Retinopathy, 2020
+
+Variables	Total (n=402)	No DR (n=321)	DR (n=81)	P-value	 	Age (years) (mean ±SD)	43.82±15.86	42.34±16.23	49.70±12.78	<0.001	 	Sex (male)	247 (61.4)	194 (64.4)	53 (65.4)	0.409	 	Residence (urban)	238 (59.2)	190 (59.2)	48 (53.1)	0.991	 	Family history of DM (Yes)	112 (27.9)	89 (27.7)	23 (28.4)	0.904	 	Type of DM (T2DM)	282 (70.2)	208 (64.8)	74 (91.4)	<0.001	 	Type of treatment					 	 OHA	214 (53.2)	157 (48.9)	57 (70.4)	<0.001	 	 Insulin	122 (30.4)	114 (35.5)	8 (9.9)	 	 Both	66 (16.4)	50 (15.6)	16 (19.8)	 	Comorbidities					 	 CKD (yes)	63 (15.7)	33 (10.3)	30 (37.0)	<0.001	 	 HTN (yes)	193 (48.0)	129 (40.2)	64 (79.0)	<0.001	 	 CVD (yes)	55 (13.7)	34 (10.6)	21 (25.9)	<0.001	 	Creatinine (mg/dL)	0.85 (0.67, 1.18)	0.81 (0.64, 1.02)	1.03 (0.76, 1.80)	<0.001	 	Hemoglobin (g/dL)	13.5 (12.3, 15.2)	13.1 (12.5, 15.21)	13.7 (11.1, 14.9)	0.010
+
+Abbreviations: DM, diabetes mellitus; T2DM, type 2 diabetes mellitus; OHA, oral hypoglycemic agents; CKD, chronic kidney disease; HTN, hypertension; CVD, cardiovascular disease.
+
+Baseline Physiological Characteristics of Diabetic Patients According to Their Status of Diabetic Retinopathy, 2020
+
+Variables	Total (n=402)	No DR (n=321)	DR (n=81)	P-value	 	TC (mg/dL)					 	 Desirable	257 (64.6)	223 (69.5)	34 (42.0)	<0.001	 	 Borderline	74 (18.6)	47 (14.6)	27 (33.3)	 	 High	67 (16.8)	47 (14.6)	20 (24.7)	 	TG (mg/dL)					 	 Normal	202 (50.3)	178 (55.5)	24 (29.6)	<0.001	 	 Borderline	83 (20.6)	62 (19.3)	21 (25.9)	 	 High	117 (29.1)	81 (25.2)	36 (44.4)	 	LDL-C (mg/dL) ≥100	153 (38.5)	108 (33.6)	45 (55.6)	<0.001	 	HDL-C (mg/dL)					 	 Poor	95 (23.9)	61 (19.0)	34 (42.0)	<0.001	 	 Better	240 (60.5)	201 (62.6)	39 (48.1)	 	 Best	62 (15.6)	54 (16.8)	8 (9.9)	 	BMI (kg/m2)					 	 <18.5	28 (6.9)	26 (8.1)	2 (2.5)	<0.001	 	 18.5–24.9	252 (62.7)	222 (69.2)	30 (37.0)	 	 ≥25	122 (30.4)	73 (22.7)	49 (60.5)	 	DBP (mmHg) ≥90	130 (32.3)	95 (29.6)	35 (43.2)	0.019	 	SBP (mmHg) ≥140	144 (35.8)	104 (32.4)	40 (49.4)	0.004
+
+Note: TC for five subjects and HDL-C for four subjects were missed.
+
+Abbreviations: TC, total cholesterol (desirable: <200, borderline high: 200–239, high: ≥240); TG, triglyceride (normal: <150, borderline high: 150–199, high: ≥200); HDL-C, high density lipoprotein cholesterol (poor: <40, better: 40–59, best: ≥60); LDL-C, low density lipoprotein cholesterol; BMI, body mass index.
+
+We included 402 (94% of response rate) T1DM and T2DM patients who met the inclusion criteria from the 428 total sample size of whom 247 (61.4%) were male and 238 (59.2%) were urban residents. The age of study participants at baseline ranged from 15 to 90 years with the mean and standard deviation of 43.82 and 15.86, respectively. The average age of respondents at baseline were 25.14 and 51.77 years for T1DM and T2DM respectively. Table 1 shows the cohort’s baseline sociodemographic and clinical characteristics and Table 2 shows physiological characteristics and their comparison according to the status of DR during follow-up. Compared with those who did not develop DR during follow-up, those who developed DR were older and took oral hypoglycemic agent more frequently at baseline, and they had a high proportion of chronic kidney disease (CKD), HTN and cardiovascular disease (CVD). Similarly, they had a higher BMI, TC level, TG level, LDL-C level, creatinine level, hemoglobin level, SBP, DBP and lower HDL-C levels at baseline when compared with those who did not develop DR during follow-up.
+
+During the median follow-up time of 5.89 years (IQR: 7.85, 9.58 years), 81 subjects developed DR making a cumulative incidence of 20.15% (95%CI: 16.50–24.37). Overall, the incidence rate for DR was 36.9 per 1000 person years (PY) (95%CI: 29.7–45.9). The incidence rate was 9.66 (95%CI: 4.6–20.25) and 50.42 (95%CI: 40.14–63.32) per 1000 PY among T1DM and T2DM, respectively.
+
+Predictors of Time to Diabetic Retinopathy Among Diabetic Patients
+
+Multivariable Weibull AFT Regression Model Analysis of Time to Diabetes Retinopathy and Its Predictors Among Diabetes Mellitus Patients, 2020
+
+Variables	Categories	CTR (95%CI)	ATR (95%CI)	P-value	 	Age (years)	0.98 (0.97–0.99)	1.01 (1.00–1.03)	0.100	 	Hemoglobin (g/dL)	1.09 (1.02–1.16)	1.04 (0.98–1.12)	0.210	 	Type of DM	T1DM	1	1		 	T2DM	0.29 (0.16–0.54)	0.40 (0.20–0.78)	0.008	 	CKD	No	1	1		 	Yes	0.37 (0.26–0.54)	1.13 (0.76–1.67)	0.555	 	HTN	No	1	1		 	Yes	0.32 (0.21–0.50)	0.54 (0.35–0.82)	0.004	 	CVD	No	1	1		 	Yes	0.54 (0.36–0.79)	0.93 (0.63–1.36)	0.706	 	BMI (kg/m2)	<18.5	1	1		 	18.5–24.9	0.83 (0.29–2.37)	1.07 (0.39–2.95)	0.895	 	≥25	0.23 (0.08–0.65)	0.45 (0.16–1.25)	0.126	 	HDL-C (mg/dL)	≥40	1	1		 	<40	0.37 (0.25–-0.53)	0.51 (0.36–0.73)	<0.001	 	LDL-C (mg/dL)	<100	1	1		 	≥100	058 (0.41–0.81)	1.18 (0.83–1.69)	0.400	 	TC (mg/dL)	<200	1	1		 	200–239	045 (0.30–0.67)	0.63 (0.42– 0.94)	0.025	 	≥240	0.51 (0.33–0.78)	0.76 (0.74–1.88)	0.492	 	TG (mg/dL)	Normal	1	1		 	Borderline high	0.54(0.34–0.84)	0.97(0.61–1.53)	0.883	 	High	046 (0.30–0.69)	0.86 (0.57–1.30)	0.466
+
+Abbreviations: DM, diabetes mellitus; T2DM, type 2 diabetes mellitus; T1DM, type 1 diabetes mellitus; CKD, chronic kidney disease; HTN, hypertension; CVD, cardiovascular disease; BMI, body mass index; HDL-C, high density lipoprotein cholesterol; LDL-C, low density lipoprotein cholesterol; TC, total cholesterol; TG, triglyceride (normal: <150, borderline high: 150–199, high: ≥200).
+
+Table 3 shows the predictors associated with development of DR among cohorts of diabetic patients. The tolerance of all variables ranged from 0.62 to 0.92, indicating the absence of multicollinearity. The multivariable accelerated failure time model using Weibull distribution was the parsimonious model (because of lowest AIC=440.7). From the Cox–Snell residual plot, cumulative hazard plot follows a straight line through the origin with slope one indicating satisfaction of goodness of fit of the model. In the multivariable analysis four variables (type of DM, HTN, HDL-C and TC) were statistically significantly associated with DR among diabetic patients. According to this model, patients with T2DM (ATR 0.40; 95%CI: 0.20–0.78), HTN (ATR 0.54, 95%CI: 0.35–0.82), low HDL-C (ATR 0.51; 95%CI: 0.36–0.73), and borderline high TC (ATR 0.63; 95%CI: 0.42, 0.94) have lower survival time compared to their counterparts.
+
+Discussion
+
+According the current study, the incidence density of DR was 3.69 per 100 PY (95%CI: 2.97–4.59) or 3.08 per 1000 patient-months (95%CI: 2.48–3.83). Similarly, the overall cumulative incidence of DR was 20.15% with 95%CI: 16.50–24.37. A similar incidence of DR was observed from studies done in Tikur Anbessa Hospital, Addis Ababa (2.65 per 1000 PM) and southern parts of Ethiopia at Arbaminch General Hospital (3.6 per 100 PY) and Japan (38.3/1000 PY). This could be due to almost similar health service provided for the diabetic patients. For the study done in Japan the possible reason for comparable incidence of DR is that the follow-up period is almost similar, which was 8 years for Japan and 7.5 in our study. We found that incidence of DR was high compared to incidence previously reported in China, Spain, Australia, and another study in China, which reported 1.81/100 PY, 2.43/100PY, 14.4% and 15.16% of incidence respectively. All these studies were followed-up for a period of four to five years which is lower than the follow-up period of our study. However, the finding of the current study was lower than the reported previous studies done in England (36% of cumulative incidence after five years of follow-up), Kenya (22.47 per 100 PY after median follow-up period of 5.5 years with mean age of 62.7 years), Scotland (5.1/100 PY).
+
+Despite its insignificant effect in the multivariable model, our study found a correlation between DR and renal damage. This result is supported by the study conducted in Italy which depicted the relationship between albumin uric CKD and DR. This might be attributed to the close coexistence/link of microvascular and macrovascular complication of DM which is posing greater global burden for the economically weaker national health systems.
+
+In our follow-up study, type of DM was a significant predictor of time to DR. Hence, the average disease-free survival time for T2DM patients was 0.40 times that of T1DM patients. This finding is analogous to the studies conducted at Ayder referral hospital and Tikur Anbessa Hospital in Ethiopia, which found that T2DM patients had higher risk of developing DR and other microvascular complications than T1DM patients. This could be due to the fact that most of the T2DM patients are older compared to T1DM patients. Furthermore, the age of onset of T2DM is decreasing nowadays and allowing enough duration of diabetes to develop microvascular complications. In contrast to our finding, Spanish and Scottish studies found that T1DM patients had a higher risk of developing DR than T2DM patients. The possible variation of these results could be due to differences in the study population. The Spanish study included all T1DM and T2DM aged 12 years and over at the start of the study (not at the date of diabetes diagnosis). But our study included patients aged 15 years and over at diagnosis, which may exclude a significant number of T1DM patients.
+
+We also identified that patients with HTN had a 46% lower survival rate than patients who had no HTN, which is in keeping with several other studies. Those studies reported the increment in hazard ratio of DR among diabetic patients with HTN comorbidity. The innovative UK Prospective Diabetes Study had elucidated the importance of controlling blood pressure in patients with DR and the Hoorn study estimated double risk of DR among DM patients with HTN. This noticeable connection between HTN and DR may be clarified by the frequent clinical co-existence of HTN and diabetes. HTN might cause DR through morphological changes in the retinal vessels such as retinal hemorrhages, hard exudates and cotton-wool spots.
+
+Poor HDL-C was found to decelerate the time to DR in this study. After adjusting for the other factors, the time to develop DR among patients with HDL-C <40 mg/dL was significantly decreased by 49% (ATR=0.51) compared to patients with HDL-C ≥40 mg/dL. To our knowledge this was the first cohort study that showed the significant effect of HDL-C on survival time of DR among type 1 and 2 diabetic patients. The follow-up study regarding the association of HDL-C and incidence was very limited. But a crossectional survey in Democratic Republic of Congo revealed the significant U-shaped relationship between DR rates and HDL-C. In another observational study, a modest association was found for higher levels of HDL-C and decreased prevalence of proliferative DR. The reason could be HDL-C maintains the endothelial cells, and in doing so, prevents atherosclerosis, which is a pathological hallmark of microvascular complications of DM. However, various studies showed insignificant association between DR and HDL-C. Unlike the results of our study, findings from “NO BLIND Study Group” reported the novel association between high HDL-C and DR. The contribution of high HDL-C to the pathogenesis of DR is still not clear and the explanation of this association is beyond the scope of this study. Therefore, further studies are required to elucidate the mechanisms by which high HDL-C causes DR.
+
+Furthermore, our study identified that diabetes patients with borderline high TC had a 37% lower survival time compared to DM patients with desirable TC. Even though the relationship between the serum lipids and DR was controversial, some preceding studies found that high TC was associated with incidence of DR. The possible reason could be due to lipid-induced arteriosclerotic changes that principally accounted for the pathology of DR.
+
+Limitations of the Study
+
+Despite its strength the current study had some limitations. Because of the retrospective nature of the study, lack of full records on behavioral factors like smoking, physical exercise, treatment adherence, and lack of information on some common drugs in the diabetic patient, such as aspirin from the medical charts may underestimate the effects and subject variations in the development of incidence of DR. Even though the study was conducted in the largest national medical center in the country for DM follow-up, the findings might not be representative of the diabetes population in the country because of possible selection bias.
+
+Conclusion
+
+In conclusion, DR among patients with T1DM and T2DM accounted for 9.66 and 50.42 per 1000 PY, respectively and it is becoming a public health burden in Ethiopia. Our findings suggest that T2DM, low HDL-C, HTN and borderline high TC independently predict an increased incidence/decreased survival time of DR among T1DM and T2DM. Modifiable risk factors like low HDL-C, HTN, and high TC should be managed aggressively along with diabetes. We recommend further prospective studies using primary data, which includes by including variables that were unavailable from the medical charts.
+
+Abbreviations
+
+ATR, adjusted time ratio; AIC, Akaike information criterion; BMI, body mass index; CTR, crude time ratio; CKD, chronic kidney disease; CVD, cardiovascular disease; DM, diabetes mellitus; HDL-C, high-density lipoprotein cholesterol; HTN, hypertension; LDL-C, low-density lipoprotein cholesterol; OHA, oral hypoglycemic agent; PY, person years; SSA, Sub-Saharan African; TG, triglyceride; T1DM, type 1 diabetes mellitus; T2DM, type 2 diabetes mellitus; VTDR, visual threatening Diabetic retinopathy.
+
+Data Sharing Statement
+
+Data will be available from the corresponding author upon request.
+
+Ethics Approval and Informed Consent
+
+Ethical clearance and letter of cooperation for Jimma University Medical Center were obtained from the Institutional Review Board of the University of Gondar. Waiver letter was obtained from the medical director of the hospitals in order to access medical records of patients. Confidentiality during all phases of research activities was kept and data were held on a secure password-protected system. This study was conducted in accordance with the Declaration of Helsinki.
+
+Author Contributions
+
+All authors equally contributed to conception, design of the study, acquisition of data supervision of data collection, analysis and interpretation, drafting or revising the article, have agreed on the journal to which the article will be submitted, gave final approval of the version to be published, and agree to be accountable for all aspects of the work.
+
+Disclosure
+
+The authors report no conflicts of interest in this work.
+
+References
+
+Retinal blood flow in diabetic retinopathy
+
+Diabetic retinopathy and systemic factors
+
+Incidence of diabetic retinopathy in Bangladesh: a 15‐year follow‐up study
+
+Retinopathy in diabetes
+
+Diabetic retinopathy and angiogenesis
+
+A polymorphism of HMGA1 protects against proliferative diabetic retinopathy by impairing HMGA1-induced VEGFA expression
+
+WHO Global report on diabetes: a summary
+
+IDF Diabetes Atlas: global estimates for the prevalence of diabetes for 2015 and 2040
+
+TADDS: tool for the assessment of diabetic retinopathy and diabetes management systems
+
+Projection of diabetic retinopathy and other major eye diseases among people with diabetes mellitus: united States, 2005–2050
+
+Incidence and progression of diabetic retinopathy: a systematic review
+
+Epidemiology of diabetic retinopathy and maculopathy in Africa: a systematic review
+
+First prospective cohort study of diabetic retinopathy from sub-Saharan Africa: high incidence and progression of retinopathy and relationship to human immunodeficiency virus infection
+
+Costs and quality of life in diabetic macular edema: canadian burden of diabetic macular edema observational study (C-REALITY)
+
+Diabetic retinopathy in Ethiopia: a systematic review and meta-analysis
+
+The economic impact of sight loss and blindness in the UK adult population
+
+Leading causes of certification for blindness and partial sight in England & Wales
+
+Global data on visual impairment in the year 2002
+
+Causes of vision loss worldwide, 1990–2010: a systematic analysis
+
+Global estimates of visual impairment: 2010
+
+The incidence of diabetes mellitus and diabetic retinopathy in a population-based cohort study of people age 50 years and over in Nakuru, Kenya
+
+Incidence and factors associated with diabetic retinopathy among diabetic patients at arbaminch general hospital, gamo gofa Zone (longitudinal follow up data analysis)
+
+Incidence density and risk factors of diabetic retinopathy within type 2 diabetes: a five-year cohort study in China (Report 1)
+
+Risk factors for diabetic retinopathy among Jordanian diabetics
+
+Effect of intensive treatment of hyperglycaemia on microvascular outcomes in type 2 diabetes: an analysis of the ACCORD randomised trial
+
+Effect of glycemic exposure on the risk of microvascular complications in the diabetes control and complications trial—revisited
+
+Sample-size formula for the proportional-hazards regression model
+
+Proposed international clinical diabetic retinopathy and diabetic macular edema disease severity scales
+
+Physical status: the use and interpretation of anthropometry
+
+Diagnosis and management for patients with hypertension: noncommunicable disease education manual for primary health care professionals and patients
+
+Incidence of diabetes retinopathy and determinants of time to diabetes retinopathy among diabetes patients at Tikur Anbessa Hospital, Ethiopia: a retrospective follow up study
+
+Incidence and progression of diabetic retinopathy in Japanese adults with type 2 diabetes: 8 year follow-up study of the Japan Diabetes Complications Study (JDCS)
+
+Four-year incidence of diabetic retinopathy in a Spanish cohort: the MADIABETES study
+
+Five-year incidence and progression of diabetic retinopathy in a defined older population: the Blue Mountains Eye Study
+
+Incidence of diabetic retinopathy in a Hong Kong Chinese population
+
+Incidence and progression of diabetic retinopathy during 17 years of a population-based screening program in England
+
+Predicted impact of extending the screening interval for diabetic retinopathy: the Scottish Diabetic Retinopathy Screening programme
+
+Relationship between albuminuric CKD and diabetic retinopathy in a real-world setting of type 2 diabetes: findings from No blind study
+
+Cardiorenal prognosis by residual proteinuria level in diabetic chronic kidney disease: pooled analysis of four cohort studies
+
+Correlates of time to microvascular complications among diabetes mellitus patients using parametric and non-parametric approaches: a case study of Ayder referral hospital, Ethiopia
+
+Changes in age at diagnosis of type 2 diabetes mellitus in the United States, 1988 to 2000
+
+Differences in incidence of diabetic retinopathy between type 1 and 2 diabetes mellitus: a nine-year follow-up study
+
+Rates of referable eye disease in the Scottish national diabetic retinopathy screening programme
+
+The 16-year incidence, progression and regression of diabetic retinopathy in a young population-based Danish cohort with type 1 diabetes mellitus: the Danish cohort of pediatric diabetes 1987 (DCPD1987)
+
+Associations between diabetic retinopathy and systemic risk factors
+
+Risks of progression of retinopathy and vision loss related to tight blood pressure control in type 2 diabetes mellitus: UKPDS 69
+
+Risk factors for incident retinopathy in a diabetic and nondiabetic population: the Hoorn study
+
+Inflammation, haemostatic disturbance, and obesity: possible link to pathogenesis of diabetic retinopathy in type 2 diabetes
+
+Associations of high density lipoprotein cholesterol and framingham cardiovascular risk with diabetic retinopathy in african type 2 diabetics
+
+Serum lipids and proliferative diabetic retinopathy and macular edema in persons with long-term type 1 diabetes mellitus: the wisconsin epidemiologic study of diabetic retinopathy
+
+Cardioprotective functions of HDLs
+
+Predictors for diabetic retinopathy in normoalbuminuric people with type 2 diabetes mellitus
+
+High HDL cholesterol: a risk factor for diabetic retinopathy? Findings from NO BLIND study
+
+Risk factors of retinopathy in type 2 diabetes mellitus at a tertiary care hospital, Bahawalpur Pakistan
+
+The association of atherosclerosis, vascular risk factors, and retinopathy in adults with diabetes: the atherosclerosis risk in communities study
+

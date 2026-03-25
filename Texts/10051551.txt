@@ -1,0 +1,306 @@
+TITLE: Enrichment of Acid-Associated Microbiota in the Saliva of Type 2 Diabetes Mellitus Adults: A Systematic Review
+
+It could conceivably be hypothesized that a link exists between an altered microbiota due to local hyperglycemia and the increased risk of caries in diabetes mellitus (DM). This systematic review aimed to perform a cross-study comparison into the salivary microbiota of adults with type 2 diabetes mellitus (T2D) compared to adults without T2D, particularly focusing on the abundance of acid-associated bacteria. This report follows PRISMA (Preferred Reporting Items for Systematic Reviews and Meta-Analyses). Studies using next-generation sequencing and other molecular techniques are included. The methodological quality of individual studies was assessed using appropriate Joanna Briggs Institute tools. The certainty of the evidence considering the effect direction was evaluated using the GRADE approach. From 2060 titles retrieved, 12 were included in the data synthesis, totalling 873 individuals with T2D and controls evaluated across the literature. Weighted averages of blood glucose levels (HbA1c—fasting blood glucose) were 8.21%—172.14 mg/dL and 5.12%—84.53 mg/dL for T2D and controls, respectively. In most studies, the relative abundance of acidogenic and aciduric bacteria was higher in diabetics when compared to their normoglycaemic controls. Whilst the evidence certainty was very low, there was a consistent Proteobacteria depletion and Firmicutes enrichment in T2D. As for the acid-associated genera, there was consistent enrichment of Lactobacillus and Veillonela for T2D. Tannerella/T. forsythia was enriched in T2D saliva, but the certainty is low. Further well-designed cohorts are needed to clarify the distribution of acid-associated microorganisms in the saliva of adults with T2D and how this can be clinically manifested (PROSPERO = CRD42021264350).
+
+1. Introduction
+
+According to the International Diabetes Federation’s Atlas, diabetes mellitus (DM) affects 537 million people worldwide. It is a growing condition, with an expected incidence of 643 million people by 2030 and 783 million by 2045. More than 90% of people diagnosed with DM suffer from type 2 DM (T2D), which is associated with tissue damage, dysfunction of several body systems, and an increased risk of oral diseases. Salivary fluid reflects altered serum glucose levels and inflammatory cytokines, both of which are related to oral manifestations of DM. Glucose transporters are found in salivary glands, which means that glucose is transported from the blood to saliva. In addition, the salivary flow, which is critical to maintaining oral health, is reduced in people living with DM.
+
+There is an association between dental caries and DM. It was shown that T2D may be a risk factor for increased number of teeth affected by coronal and root caries in adults. This can be influenced by reduced salivary flow and altered microbiota due to local hyperglycaemia. The increased availability of glucose in saliva creates an environment that can favour the growth of caries-associated acidogenic and aciduric microorganisms. This hypothesis has been tested in adolescents, where high salivary glucose levels were associated with an increase in acidogenic microorganisms in diabetic saliva and an increased risk of caries. In this study, more than 50% of the bacteria tested using the checkerboard DNA–DNA hybridization approach were Neisseria mucosa, Eikenella corrodens, Streptococcus mitis, Prevotella melaninogenica, Veillonella parvula, Streptococcus oralis, and Streptococcus salivarius, with several acidogenic microorganisms enriched in hyperglycemic saliva. Nevertheless, there is still a lack of evidence on adults with T2D, and the generalizability of age on this issue may be problematic.
+
+A comprehensive understanding of how DM contributes to changes in the salivary microbial profile is still lacking. Because saliva can reflect the entire oral micro-ecosystem, understanding the composition of the saliva microbiota would be more useful in understanding individuals’ general health prospects than specific site biofilms. Hence, this systematic review aimed to compare the salivary microbiota of adults with type 2 diabetes mellitus (T2D) to that of adults without T2D, with a particular focus on the abundance of acid-associated bacteria. The hypothesis is that there may be an enrichment of acidogenic and aciduric microorganisms in the saliva of T2D individuals due to increased salivary glucose levels, which could be involved in oral manifestations of T2D such as caries, periodontal disease, and fungal infections.
+
+2. Materials & Methods
+
+2.1. Study Design
+
+The acronym PECOs (Population, Exposure, Comparison, Outcomes, and Studies) was used to build the following research question: “Is there an enrichment of acid-associated (aciduric and/or acidogenic microorganisms) in the saliva of adults with T2D when compared to individuals without T2D or with controlled T2D?”, where P = saliva of adults, E = T2D or uncontrolled T2D, C = individuals without T2D or controlled T2D, O = salivary microbiota, the abundance of aciduric, and/or acidogenic microorganisms, and S = clinical/observational studies.
+
+2.2. Eligibility Criteria and Search Strategy
+
+Studies must assess the salivary microbiome in individuals with T2D and have a control group of individuals without DM (or controlled T2D) to be eligible. The relative abundance of microorganisms should be evaluated using molecular microbiology techniques, such as species-specific PCR, DNA–DNA hybridization, and nucleic acid sequencing. Exclusion criteria were (1) non-human samples; (2) samples other than saliva (e.g., biofilm, crevicular fluid); (3) samples from children or adolescents; (4) samples including individuals with type 1 or gestational DM; (5) studies not using molecular methods for analysis of the salivary microbiome (e.g., culture methods); and (6) studies involving animals, in vitro studies, reviews, book chapters, opinions, letters, conference abstracts, study protocols, case reports, and case series.
+
+A detailed search strategy was developed and adapted for each of the following bibliographic databases: PubMed/MEDLINE, EMBASE, LILACS, Web of Science, Scopus, and grey literature (Google Scholar, Livivo, and ProQuest Dissertations & Theses Global) (Supplementary Table S1). Additional expert searches and manual searches of reference lists were performed. Duplicate studies were removed using the reference manager software (EndNote®, Thomson Reuters, Philadelphia, NC, USA).
+
+2.3. Studies Selection
+
+Two independent reviewers (L.G.R. and J.A.C.) selected the studies in two phases using the Rayyan data manager (Rayyan QCRI®; Qatar Computer Research Institute, Doha, Qatar): (1) selection based on titles and abstracts and (2) reading of the full texts. Any discrepancies were resolved through consensus.
+
+2.4. Data Collection and Analysis
+
+Two reviewers (L.G.R. and J.A.C.) extracted information from the selected articles, which was then revised for accuracy by a third reviewer (N.D-T.). The data recorded were: year and country of the study, number of participants, caries and periodontal disease status, details on the saliva collection and its clinical diagnosis (including hyposalivation and xerostomia), DNA extraction method, primers and the molecular approach employed, the database used for mapping genetic sequences (when applicable), taxonomy at the phylum level, taxa related to low pH, the relative abundance of acid-associated microorganisms for each group of participants, diabetes diagnosis, and glucose levels in all participants (blood and saliva).
+
+Weighted averages of HbA1c and fasting blood glucose (FBG) levels were calculated for both the T2D and control groups across all included studies. The overall microbiota and the acid-associated microbiota were evaluated based on their effect direction (whether they were significantly enriched or depleted in T2D) according to the following categories: phylum, acid-lactic bacteria (LAB), main saccharolytics that produce short-chain fatty acids (such as butyrate, succinate, acetate, and propionate), and acid-associated microorganisms (such as lactate metabolizers).
+
+2.5. Methodological Quality Assessment
+
+Two reviewers (L.G.R. and J.A.C.) independently evaluated the methodological quality of the studies using the Joanna Briggs Institute (JBI) checklist for cross-sectional studies. The checklist consisted of eight items, from which items 1–4 were considered critical for this systematic review. Items 5–8 were considered non-critical outcome-related criteria. Low methodological quality was indicated by at least one “no” and one “not clear” or two “not clear” in critical items, or two “not clear” and one or more “no” in non-critical items. Before applying the instrument, the research team discussed the critical and non-critical items, as well as the classification system, as described in the JBI Reviewer’s Manual. Disagreements were resolved by consensus.
+
+2.6. Certainty of the Evidence
+
+The analysis of the risk of bias, inconsistency, imprecision, indirectness, and publication bias was performed for reaching the certainty of evidence through the GRADE (Grading of Recommendations, Assessment, Development, and Evaluation) approach for narrative synthesis. Only taxa with effect direction were analysed by the GRADE approach.
+
+3. Results
+
+3.1. Characteristics of Selected Studies
+
+After the initial screening of titles and abstracts, 59 were selected for full-text reading. Among them, 12 studies were eligible for the qualitative synthesis. These studies were conducted in 10 different countries, including Brazil (1), Portugal (1), United Arab Emirates (1), India (1), Thailand (1), Pakistan (1), Japan (1), the United States of America (1), Saudi Arabia (1), and China (3). The process of study identification, inclusion, and exclusion is presented in Figure 1. Detailed information on the reasons for exclusion after full-text reading is provided in Supplementary Table S2.
+
+A total of 418 individuals with T2D and 494 individuals without DM were included in the analysis. Sample sizes ranged from 3 to 79 individuals with T2D and 10 to 80 controls. The classification of individuals as cases or controls followed the criteria of each included study separately. Table 1 shows the results of the methodological quality assessment of the individual studies, the type and method of sample collection, and the microbial analysis approach. Six articles were classified as having low methodological quality due to a lack of detailed descriptions of participants and study scenario, as well as a lack of identification and strategies for dealing with confounding factors. Three studies were classified as high quality, and three as moderate quality (see Supplementary Table S3 for details).
+
+The level of HbA1c was the most commonly used criterion for DM diagnosis, although the cut-off points were varied (>6%, 6.5%, 7%, or 8%). We calculated the weighted average of HbA1c and FBG levels across all included studies to confirm the global difference between groups. For participants with T2D, these levels were 8.21% and 172.14 mg/dL (9.56 mmol/L), respectively. The average levels of HbA1c and FBG for participants without T2D were 5.12% and 84.53 mg/dL (4.7 mmol/L), respectively. Some studies used the participant’s self-reported diagnosis of DM to define groups, which can generate bias if DM is not confirmed through clinical and laboratorial exams, as recommended by the IDF, ADA, or WHO. In one of the studies, the validation of DM diagnosis by blood glucose tests was only performed in individuals who self-reported a history of DM, meaning that control individuals could also have high levels of blood glucose. A single study declared that they followed the ADA criteria to classify a participant as “controlled T2D” (“diabetes in remission is a return of HbA1C to less than 6.5% that occurs spontaneously or following an intervention, which persists for at least three months”). The small sample size is another issue that may bias the data of some studies.
+
+Most studies reported the participants’ periodontal status. One study reported the DMFT (decayed, missing, and filled teeth) for three participants with T2D, while other studies reported the mean DMFT in individuals with or without T2D. Only one study reported glucose concentrations in saliva. Unstimulated saliva was the most common method of sample collection. A single study addressed data on the salivary flow diagnosis (normal flow, hyposalivation, asialia).
+
+3.2. Salivary Microbiota
+
+The partial amplification and sequencing of the 16S rRNA gene was the most commonly used approach. The sequenced regions of the 16S rRNA gene ranged from V2 to V9, with V3 and V4 being the most commonly used. Four studies used qPCR (real-time PCR) analysis, with or without a sequencing approach. Regarding the DNA extraction, two studies employed manual protocols, two used automated protocols, and eight used commercially available extraction kits (Table 1).
+
+A consensus regarding differences in alpha and beta diversity between the DM and control groups was not reached. One study reported a remarkable increase in alpha diversity within the DM group when compared to normoglycemic controls, whereas others observed the opposite trend or found no significant differences.
+
+Table 2 displays the directional effect of the salivary microbiota at various taxonomic levels. To enable cross-study comparison, microorganisms were analysed based on the following categories: phyla in general, lactic acid bacteria (LAB), main saccharolytic bacteria producing butyrate or other short-chain fatty acids (succinate, acetate, propionate), and acid-associated microorganisms (lactate metabolizers, other acidurics). Variations in the diversity and abundance of the acidogenic/aciduric microbiota were observed among studies and groups. The same bacteria comprising the core of the salivary microbiome were found in both groups, with no pronounced changes in abundance. At the phyla level, Firmicutes, Bacteroidetes, and Proteobacteria were the most predominant for both, diabetics and controls. Streptococcus, Veillonella, and Fusobacterium were among the most common genera. Interestingly, when a significant difference between groups was observed, some well-known acidogenic taxa were overrepresented in T2D, such as Bifidobacteriaceae, Bifidobacterium, Scardovia, Parascardovia, and Lactobacillus (Table 2).
+
+The certainty of the evidence presented in the outcome (main taxa that displayed an effect direction) was evaluated using the GRADE approach, as shown in Table 3. Based on the GRADE recommendation, the certainty of observational studies began at a low level, and no upgrades were applicable in the context of this review. The direction and degree of the effect varied across studies. In general, the findings indicated a slight increase in the targeted microorganisms in individuals with DM, or no significant difference between groups.
+
+Nonetheless, the relative abundance of certain acid-associated bacteria may be higher in individuals with T2D compared to those without T2D. Lactobacillus (acidogenic) and Veillonela (lactate-metabolizing, aciduric) consistently displayed an effect direction towards T2D, albeit the evidence was very uncertain. Additionally, Prevotella and Fusobacterium were enriched in the saliva of adults with T2D compared to those without T2D or with controlled T2D, but the evidence was very uncertain. At the phylum level, there was a clear and consistent depletion of Proteobacteria (Gram-negative, often associated with proteolytic metabolism) and enrichment of Firmicutes (including lactic-acid bacteria) in T2D (very low certainty). Meanwhile, Tannerella/T. forsythia was enriched in T2D (low certainty).
+
+4. Discussion
+
+In a previous study, we demonstrated a significant correlation between blood and salivary glucose levels, as well as their impact on increasing the number of caries lesions in adults with T2D. This led us to question whether an acid-associated microbiota could be enriched in saliva due to high levels of salivary glucose. We conducted a systematic review of the literature to respond to this question. The weighted average of HbA1c and FBG levels across all studies included in this review confirmed the presence of hyperglycemia in the test groups, which was associated with the enrichment or depletion of some bacterial taxa. This included a significant enrichment of certain acid-associated bacteria, thus supporting our initial hypothesis.
+
+Characterizing the salivary microbiota of T2D is a challenge. Apart from the expected individual variations, external factors such as diet and geographical differences can influence oral microbiome composition. Coexisting conditions, such as periodontal disease, caries, obesity, hyposalivation, polypharmacy, and other comorbidities can introduce biases in studies evaluating the salivary microbiota. For instance, periodontal disease impacts the oral microbiome and the T2D levels. Despite this, only half of the included studies in this review reported on individuals’ periodontal status. Our study confirmed a significant enrichment of the periodontal disease-associated bacteria Tannerella in T2D saliva.
+
+Saliva is not an optimal sample for identifying differences between the periodontal microbiome of diabetic and non-diabetic individuals. Nevertheless, the salivary fluid can still be useful in exploring the influence of other clinical parameters in the oral microbiome, such as fluctuations in pH, glucose levels, and flow volumes. As the salivary microbiome reflects the entire oral environment, it can be more representative for investigating shifts from homeostasis to dysbiosis related to systemic conditions. In addition, saliva may be better for detecting the enrichment of acid-associated microorganisms, and this could shed light on the association between dental caries and T2D. These findings might be consistent with other studies linking an increased risk for candidiasis in diabetic patients and their oral mycobiome, although we could not evaluate the acidogenic mycobiome here, as most of the included studies used prokaryote analysis of 16S rRNA.
+
+Most studies did not take into account confounding factors, such as salivary hypofunction and the individual’s dietary habits. There is a consensus that the combination of DM, poor glycemic control, and polypharmacy are associated with xerostomia and the hypofunction of salivary glands in T2D patients. Consequently, changes in the main oral microorganisms, as detected here, can be observed between individuals with xerostomia and those with normal salivary function. In terms of dietary habits, sugar intake may contribute to an increase in blood glucose levels and a decrease in oral pH, promoting the growth of acid-associated bacteria. These facts highlight the need for a global study of the microbiota in populations with distinct dietary habits for a proper assessment of their importance in the human microbiome architecture.
+
+At the phylum level, three studies did not find significant differences in the abundance of Firmicutes between T2D and control groups. Several factors could explain the discrepant result, such as the presence of individuals who had taken antibiotics within one month before the study in the no-T2D group, the categorization of the no-T2D group based on their weight, the method of saliva collection, and the type of molecular method used for microbial identification. For example, one of these studies collected stimulated saliva after a tongue smear. In addition, the variation in the type of primers and 16S rRNA regions used could have influenced the results. On the other hand, Proteobacteria showed a significant effect direction, and the single divergent study used a different molecular approach (RT-PCR), while all the others were based on 16S rRNA sequencing.
+
+Surprisingly, only one study reported salivary glucose levels, which were evaluated using stimulated saliva and a colorimetric kit. The levels were categorized as high (≥0.35 mg/dL) or low (<0.35 mg/dL), and the average salivary glucose concentration was higher in the T2D group (0.84 mg/dL) than in the control group (0.37 mg/dL). Goodson et al. (2017), comparing adolescents with high and low salivary glucose levels, found that higher salivary glucose levels were associated with lower bacterial counts, particularly of non-saccharolytic bacteria, such as Prevotella spp. Although with very uncertain evidence, our systematic review showed a divergent result for this taxon in adults.
+
+Several limitations may introduce bias into this cross-study analysis, including the lack of a clear definition of DM diagnosis in the included studies. In some studies, individuals classified as diabetics used drugs such as metformin and insulin, and they were not always categorized as controlled or uncontrolled T2D. This could result in misinterpretation of the data from the salivary microbiota. However, due to the weighted averages of HbA1c and FBG, we believe that this issue affected the results at the minimum level. Additionally, most of the included studies were cross-sectional, making it impossible to determine how long it takes for the microbiota to change. Cohort studies would be valuable in understanding the transition from homeostatic to dysbiotic state in the diabetic salivary microbiome. Furthermore, a quantitative analysis (meta-analysis) was not feasible due to the lack of standardization across reports on microbiological data, emphasizing the importance of developing a specific guideline.
+
+5. Conclusions
+
+Studies with molecular microbiology analyses suggest that some typically acidogenic and aciduric microbiota may be enriched in the salivary microbiome of individuals with T2D when compared to controls without T2D, although the evidence is uncertain. The effect direction consistently showed enrichment of Firmicutes, Lactobacillus, Veillonela, and Tannerella/T. forsythia in T2D, and a depletion of Proteobacteria. However, it was not possible to associate these results with increased salivary glucose levels due to the lack of information within the included studies. Future well-designed cohorts are needed to clarify the distribution of acid-associated microorganisms in the saliva of adults with T2D, and how this can be clinically manifested.
+
+6. Records
+
+This systematic review was reported following the Preferred Reporting Items for Systematic Reviews and Meta-Analyses (PRISMA) and its extension Synthesis Without Meta-analysis (SWiM). The review protocol was registered in the International Prospective Register of Systematic Reviews (PROSPERO) under number CRD42021264350.
+
+Disclaimer/Publisher’s Note: The statements, opinions and data contained in all publications are solely those of the individual author(s) and contributor(s) and not of MDPI and/or the editor(s). MDPI and/or the editor(s) disclaim responsibility for any injury to people or property resulting from any ideas, methods, instructions or products referred to in the content.
+
+Supplementary Materials
+
+The following supporting information can be downloaded at: , Table S1: Complete search strategies for each database and grey literature; Table S2: Excluded studies and reason for exclusion (n = 47); Table S3: Quality assessment of the individual included studies (n = 12) using The Joanna Briggs Institute Critical Appraisal Checklist for Cross-sectional Studies. References are cited in the supplementary materials.
+
+Author Contributions
+
+J.A.C., L.G.R. and N.D.-T. contributed to the conception, design, and data analysis and drafted and critically revised the manuscript; C.M.S. contributed to the conception and data analysis and critically revised the manuscript; A.K.A.d.L. contributed to the conception and design; C.P.V.L. contributed to data analysis. All authors have read and agreed to the published version of the manuscript.
+
+Institutional Review Board Statement
+
+Not applicable.
+
+Informed Consent Statement
+
+Not applicable.
+
+Data Availability Statement
+
+Data is contained within the article or supplementary material.
+
+Conflicts of Interest
+
+The authors declare no potential conflict of interest concerning the authorship and/or publication of this article.
+
+References
+
+IDF Diabetes Atlas: Global, regional and country-level diabetes prevalence estimates for 2021 and projections for 2045
+
+The salivary microbiome of diabetic and non-diabetic adults with periodontal disease
+
+Evaluation of relationship between dental caries, diabetes mellitus and oral microbiota in diabetics
+
+Characterization of the Oral Microbiome of Medicated Type-2 Diabetes Patients
+
+Oral bacterial communities in individuals with type 2 diabetes who live in southern Thailand
+
+The complex interrelationship between diabetes mellitus, oral diseases and general health
+
+The Oral Microbiota Is Modified by Systemic Diseases
+
+Potential risk factors for dental caries in Type 2 diabetic patients
+
+Manifestações bucais em pacientes portadores de Diabetes Mellitus: Uma revisão sistemática
+
+Can hyperglycemia be associated with caries activity and root caries in adults?
+
+The salivary microbiome is altered in the presence of a high salivary glucose concentration
+
+Salivary parameters of adults with Diabetes Mellitus: A systematic review and meta-analysis: Short title: Salivary parameters in diabetes mellitus
+
+Diabetes mellitus and poor glycemic control increase the occurrence of coronal and root caries: A systematic review and meta-analysis
+
+Enrichment of sulphate-reducers and depletion of butyrate-producers may be hyperglycaemia signatures in the diabetic oral microbiome
+
+Characterization of Oral bacteriome dysbiosis in type 2 diabetic patients
+
+Subgingival biodiversity in subjects with uncontrolled type-2 diabetes and chronic periodontitis
+
+The microbiological profiles of saliva, supragingival and subgingival plaque and dental caries in adults with and without type 2 diabetes mellitus
+
+The oral microbiome diversity and its relation to human diseases
+
+Influence of saliva on the oral microbiota
+
+What kind of systematic review should I conduct? A proposed typology and guidance for systematic reviewers in the medical and health sciences
+
+Checklist for analytical cross sectional studies
+
+Rating the certainty in evidence in the absence of a single estimate of effect
+
+The Relation between Periodontopathogenic Bacterial Levels and Resistin in the Saliva of Obese Type 2 Diabetic Patients
+
+Alteration of salivary microbiome in periodontitis with or without type-2 diabetes mellitus and metformin treatment
+
+Characterizations of oral microbiota in elderly nursing home residents with diabetes
+
+Changes of saliva microbiota in the onset and after the treatment of diabetes in patients with periodontitis
+
+Relative reduction of biological and phylogenetic diversity of the oral microbiota of diabetes and pre-diabetes patients
+
+The salivary microbiota of Thai adults with metabolic disorders and association with diet
+
+A salivary microbiome-based auxiliary diagnostic model for type 2 diabetes mellitus
+
+Next generation sequencing of oral microbiota in Type 2 diabetes mellitus prior to and after neem stick usage and correlation with serum monocyte chemoattractant-1
+
+Human oral microbiota and its modulation for oral health
+
+Weight gain as a risk factor for clinical diabetes mellitus in women
+
+Global diversity in the human salivary microbiome
+
+Diabetes and periodontal disease
+
+Medications that cause dry mouth as an adverse effect in older people: A systematic review and metaanalysis
+
+Diabetes and oral diseases—A review
+
+Oral microbiota in xerostomia patients—A preliminary study
+
+Microbial ecology of dental plaque and its significance in health and disease
+
+Geography, ethnicity or subsistence-specific variations in human microbiome composition and diversity
+
+A perspective on 16S rRNA operational taxonomic unit clustering using sequence similarity
+
+Exploring microbial diversity and taxonomy using SSU rRNA hypervariable tag sequencing
+
+Reporting guidelines for human microbiome research: The STORMS checklist
+
+Mapping of reporting guidance for systematic reviews and meta-analyses generated a comprehensive item bank for future reporting guidelines
+
+Synthesis without meta-analysis (SWiM) in systematic reviews: Reporting guideline
+
+Diversity, frequency and antifungal resistance of Candida species in patients with type 2 diabetes mellitus
+
+Association between salivary factors and cariogenic bacteria in type-2 diabetes patients
+
+“Incidenza della candidosi orale in un gruppo campione di soggetti affetti da diabete mellito” [Incidence of oral candidiasis in a sample group of diabetics]
+
+Candida albicans, Staphylococcus aureus and Streptococcus mutans colonization in patients wearing dental prosthesis
+
+Comparison of Oral Microflora of Diabetic and Non-Diabetic Patients with Periodontitis
+
+Candida Carriage Rate and Growth Characteristics of Saliva in Diabetes Mellitus Patients: A Case-Control Study
+
+Global metabolomic analysis of human saliva and plasma from healthy and diabetic subjects, with and without periodontal disease
+
+Dynamic Core Taxonomical and Metabolic Signatures in the Perinatal Period
+
+Factors Related to Oral Candidiasis in Elderly Users and Non-Users of Removable Dental Prostheses
+
+Prevalence and antifungal resistance profile of Candida spp. oral isolates from patients with type 1 and 2 diabetes mellitus
+
+Candidal Prevalence in Diabetics and its Species Identification
+
+Gestational diabetes and the human salivary microbiota: A longitudinal study during pregnancy and postpartum
+
+Mixed salivary glucose levels and candidal carriage in patients with diabetes mellitus
+
+Distribution of genotypes of Porphyromonas gingivalis in type 2 diabetic patients with periodontitis in Mexico
+
+Identifikasi Candida Albican Pada Saliva Wanita Penderita Diabetes Melitus
+
+Detection of sulphate-reducing bacteria in human saliva
+
+Salivary inflammatory markers and microbiome in normoglycemic lean and obese children compared to obese children with type 2 diabetes
+
+Periodontal conditions, oral Candida albicans and salivary proteins in type 2 diabetic subjects with emphasis on gender
+
+Xerostomia, hyposalivation, and oral microbiota in type 2 diabetic patients: A preliminary study
+
+Detection of periodontal pathogens from saliva of type 2 diabetic patients in urban area of Beijing
+
+Salivary microbial profiles in relation to age, periodontal, and systemic diseases
+
+Gender-associated differences in oral microbiota and salivary biochemical parameters in response to feeding
+
+1555-P: Differences in Oral Microbiota as Risk Factors for Periodontal Disease in Diabetic Subjects
+
+Oral dysbacteriosis in type 2 diabetes and its role in the progression to cardiovascular disease
+
+Assessing oral candidal carriage with mixed salivary glucose levels as non-invasive diagnostic tool in type-2 diabetics of davangere, karnataka, India
+
+Characterization of salivary microbiota in elderly patients with type 2 diabetes mellitus: A matched case-control study
+
+Sequencing of Porphyromonas gingivalis from saliva in patients with periodontitis and type 2 diabetes mellitus
+
+Isolation, identification and characterization of bacteria occurring in the oral cavity of diabetic and non diabetic individuals
+
+Quantitative PCR analysis of salivary pathogen burden in periodontitis
+
+Salivary biomarkers of bacterial burden, inflammatory response, and tissue destruction in periodontitis
+
+A cross-sectional study of the Candidal Species Isolated in the Oral Cavities of Type II Diabetic Patients
+
+Relationship between periodontal disease, Porphyromonas gingivalis, peripheral vascular resistance markers and coronary artery disease in Asian Indians
+
+A comparative study of oral candidal species carriage in patients with type1 and type2 diabetes mellitus
+
+Candidal carriage in diabetic patients: A microbiological study
+
+Candida species and other yeasts in the oral cavities of type 2 diabetic patients in Cali, Colombia
+
+Clinical, microbiological, and salivary biomarker profiles of dental implant patients with type 2 diabetes
+
+A Case-Control Study to Evaluate Candidal Parameters in the Oral Cavity of Patients with Type 2 Diabetes Mellitus
+
+Dysbiosis of maternal and neonatal microbiota associated with gestational diabetes mellitus
+
+Association of the oral microbiome with the progression of impaired fasting glucose in a Chinese elderly population
+
+Identification of hyperglycemia-associated microbiota alterations in saliva and gingival sulcus
+
+Flowchart of the study selection according to the PRISMA (Preferred Reporting Items for Systematic Reviews and Meta-Analyses) guidelines.
+
+Characteristics of the included studies (n = 12 studies) evaluating the salivary microbiota of individuals with and without type 2 diabetes mellitus (T2D).
+
+Study	Mq *	Group with DM	Controls	Salivary Collection 	Microbiota Assessment 	 	Almeida-Santos, 2021Portugal	−	T2D reported and treated for more than 14 years (HbA1c = 7.2% ± 1.0) n = 25, mean age: 62.7 ± 7.0 yo.	Those reporting no T2Dn = 25, mean age: 60.0 ± 8.8 yo.	Not reported **	16S rRNAV3–V4 region	 	Al-Rawi, 2017United Arab Emirates 	−	Obese with T2D (FBG = 205.5  ± 83.9 mg/dL)n = 26, mean age: 51.1  ±  5.7 yearsObese without T2D (FBG = 106.2  ±  24.9 mg/dL)n = 26, mean age: 47.9 ± 5.7 yo.	Non-obese and non-diabetic (FBG = 94  ±  17.1 mg/dL)n = 26, mean age: 47.4 ± 5 yo.	Whole saliva, unstimulated 	RT-PCR using taxon-specific primers targeting six proteolytic bacteria, and including a universal 16S rRNA primer	 	Anbalagan, 2017India	−	T2D reported (HbA1c = 11.33% ± 1.56)n = 24, mean age: 50.5 ± 14.72 yo.	Those reporting no T2D (HbA1C < 6.5%)n = 10	Whole saliva, unstimulated	16S rRNAV6 region	 	Chumponsuk, 2021Thailand	+	T2D according to FBG (FBG= 119.37 ± 37.12 mg/dL)n = 25, mean age: 50.64 ± 13.75 yo.	Non-diabetics were categorized into 3 groups according to BMI (FBG = 96.11 ± 6.7 mg/dL)n = 80, mean age: 44.82 ± 2.5 yo.	Whole saliva, unstimulated	RT-PCR using several taxon-specific primers targeting 16S rRNA 	 	Kori, 2020Pakistan	−	T2D reported (HbA1c = 8.3% ± 1.7)n = 49, mean age: 53.1± 7.9 yo.	Those reporting no T2D (HbA1c= 5.2% ± 0.4)n = 50, mean age: 39.7 ± 11.8 yo.	Whole saliva, unstimulated	16S rRNAV3-V4 region	 	Vieira Lima, 2022Brazil	++	T2D reported and treated (HbA1c = 8.83% ± 2.02, FBG= 148.13 ± 65.43 mg/dL)n = 23, mean age: 58.52 ± 8.5 yo.	Those reporting no T2D (HbA1c = 5.25% ± 0.41, FBG = 89.67 ± 13.07 mg/dL)n = 25, mean age: 43.13 ± 12.98 yo.	Whole saliva, unstimulated and stimulated	16S rRNAV4 region	 	Liu, 2021China	+	Reported and untreated T2D (HbA1c = 8.51% ± 2.33)n = 24, mean age: 47(33–65) yo.	Those reporting no T2D (HbA1c = 5.25% ± 0.41)n = 21, mean age: 47.24(35∼61) yo.	Whole saliva, unstimulated 	16S rRNAV3-V4 region	 	Ogawa, 2017Japan	−	Those who reported treatment for T2D (HbA1c = 8.51% ± 2.33)n = 3, mean age: 85.3 ± 4.5 yo.	Those reporting no T2Dn = 12, mean age: 83.9 ± 8.4 yo.	Unstimulated saliva 	16S rRNAV4 region	 	Sabharwal, 2018United States	−	Self-reported T2D (HbA1c = 7.37% ± 0.30)n = 79, mean age: 52.9 ± 2.13 yo.	Those reporting no T2Dn = 64, mean age: 39.3 ± 8.5 yo.	Unstimulated saliva 	16S rRNAV3-V4 region	 	Saeb,2019Saudi Arabia	++	T2D reported and treated (HbA1c = 9.5% ± 0.83) for more than 11 yearsn = 15, mean age: 51.2 ± 3.14 yo.	Those reporting no T2Dn = 19, mean age: 41–56 yo.	Whole saliva spat out after tongue rubbing (OM501 Kit for Microbial DNA Analysis)	16S rRNAqPCRV2-4 and V6-9 regions	 	Sun, 2020China	++	Reported and treated T2D (HbA1c = 7.7% ± 2.06)n = 75, mean age: 54.96 ± 8.95 yo.	Those with no reported T2D (HbA1c = 4.96% ± 0.15)n = 58, mean age: 36.66 ± 11.15 yo.	Unstimulated saliva, after rinsing with tap water	16S rRNAqPCRV3-V4 region	 	Yang, 2020China	+	T2D reported or reported and treated (FBG = 11.58 ± 0.99 mmol/L)n = 70, mean age: 54.62 ± 12.13 yo.	Those with no reported T2D (FBG = 5.38 ± 0.48 mmol/L)n = 32, mean age: 49.18 ± 8.72 yo.	Unstimulated saliva, after rinsing with sterile distilled water	16S rRNAV3-V4 region
+
+Mq * = Methodological quality, where ++ low risk of bias; + moderate risk of bias; − high risk of bias (according to JBI criteria); ** Not reported = authors did not describe the collection method; “16S rRNA” means amplification and partial sequencing of the 16S rRNA gene. DM = Diabetes mellitus; T2D = Type 2 diabetes mellitus; FBG = Fasting Blood Glucose; HbA1c = Glycated haemoglobin; yo. = years-old.
+
+Analysis of the general salivary microbiota and that typically acidogenic or acid-related in individuals with and without type 2 diabetes mellitus (T2D).
+
+Microorganism **	Al-Rawi l, 2017	Sun, 2020	Anbalagan, 2017	Yang, 2020	Kori, 2020	Chumponsuk,2021	Almeida-Santos,2021	Liu, 2021	Ogawa, 2017	Sabharwal, 2019	Saeb, 2019	Vieira Lima, 2022	 	Phyla in general	 	Firmicutes				↑	↑	NS		NS		↑ *	NS		 	Bacterioidetes		↑ *		↑	NS			NS	↓ *		NS		 	Actinobacteria					NS	NS	NS			↑ *	NS	↓ *	 	Proteobacteria				↓	↓	NS		NS		↓ *		↓	 	Spirochaetota					NS		NS						 	Euryarchaeota													 	Fusobacteria				↑	NS			NS					 	Lactic acid bacteria (LAB)	 	Streptococcus		↓ *	↑ *			NS					NS	NS	 	Lactobacillus spp.		↑ *		↑		NS					NS	NS	 	Bifidobacteriaceae, Bifidobacterium						NS		↑ *			NS	NS	 	Scardovia, Parascardovia								↑ *				NS	 	Enterococcus													 	Other LAB (Lactococcus, Leuconostoc, Pediococcus, Vagococcus, Aerococcus, Tetragenecoccus, Carnobacterium)													 	Bacteria producing butyrate or other short chain fatty acids (succinate, acetate, propionate)	 	Butyvibrio												↓	 	Bacteroides						NS					NS		 	Prevotella		↑ *		↑	↑	NS		↓ *			NS		 	Alloprevotella									↓ *				 	Paraprevotella													 	Fusobacterium	↑		↑ *			NS			↑ *				 	Tannerella, T. forsythia	↑	↑ *										↑	 	Treponema, T. denticola	NS							↓ *					 	Acid-associated microorganisms (lactate metabolizers, other acidurics)	 	Veillonella			↑ *		↑	NS			↑ *		NS	NS
+
+↑ Significant enrichment in T2D when compared to healthy controls; ↓ Significant depletion in T2D when compared to healthy controls; NS = non-significant differences reported by the included studies; * Reports taxon increase in one of the groups, but without explicit statistical analysis; ** Blank boxes mean that the studies did not report increased or decreased presence of the taxon. Some taxa were screened but no studies reported them.
+
+Certainty of the evidence assessed by the GRADE system for the phyla in general, as well as for the acid-associated bacteria. Only taxa with some effect directions were included.
+
+Certainty Assessment	Impact	Certainty	 	№ of Studies	Study Design	Risk of Bias	Inconsistency	Indirectness	Imprecision	Other Considerations	 	Firmicutes	 	12	Observational 	Not serious a	Very serious b	Not serious	Serious	None	The evidence is very uncertain about the enrichment of Firmicutes in the saliva of adults with T2D when compared to individuals without T2D or with controlled T2D.	⨁◯◯◯Very low	 	Proteobacteria	 	12	Observational 	Not serious a	Very serious b	Not serious	Serious c	None	The evidence is very uncertain about the depletion of Proteobacteria in the saliva of adults with T2D when compared to individuals without T2D or with controlled T2D.	⨁◯◯◯Very low	 	Prevotella	 	12	Observational 	Not serious a	Very serious b	Not serious	Serious c	None	The evidence is very uncertain about the enrichment of Prevotella in the saliva of adults with T2D when compared to individuals without T2D or with controlled T2D.	⨁◯◯◯Very low	 	Fusobacterium	 	12	Observational studies	Not serious a	Very serious b	Not serious	Serious c	None	The evidence is very uncertain about the enrichment of Fusobacterium in the saliva of adults with T2D when compared to individuals without T2D or with controlled T2D.	⨁◯◯◯Very low	 	Veillonella	 	12	Observational studies	Not serious a	Very serious b	Not serious	Serious c	 None	The evidence is very uncertain about the enrichment of Veillonella in the saliva of adults with T2D when compared to individuals without T2D or with controlled T2D.	⨁◯◯◯Very low	 	Lactobacillus spp.	 	12	Observational 	Not serious a	Very serious b	Not serious	Serious c	 None	The evidence is very uncertain about the enrichment of Lactobacillus spp. in the saliva of adults with T2D when compared to individuals without T2D or with controlled T2D.	⨁◯◯◯Very low	 	Tannerella/T. forsythia	 	12	Observational	Not serious a	Serious b	Not serious	Serious c	 None	Tannerella/T. forsythia may be enriched in the saliva of adults with T2D when compared to individuals without T2D or with controlled T2D, although the certainty is low.	◯⨁◯◯Low
+
+(a) There was a comprehensive search in databases, grey literature, and manual search, attempting to avoid publication bias; However, some included studies had low and moderate methodological quality. (b) The direction and magnitude of the effect varied between different studies. (c) The optimal information size (OIS) is borderline and there were small effects or ‘no effects’ reported in studies. ⨁◯◯◯—very low certainty of evidence; ◯⨁◯◯—low certainty of evidence; ◯◯⨁◯—moderate certainty of evidence; ◯◯◯⨁—high certainty of evidence.
+

@@ -1,0 +1,232 @@
+TITLE: Diabetic Self-Care Knowledge and Associated Factors Among Adult Diabetes Mellitus Patients on Follow-Up Care at North Shewa Zone Government Hospitals, Oromia Region, Ethiopia, 2020
+
+Background
+
+Inadequate diabetes self-care knowledge leads to developing diabetic complications and death. Diabetic complications are directly related to the patient’s level of diabetic self-care knowledge.
+
+Objective
+
+The purpose of this study was to assess diabetic self-care knowledge and its associated factors among adult diabetes mellitus patients on follow-up care at North Shewa Zone government hospitals, Oromia Region, Ethiopia, 2020.
+
+Methods
+
+An institution-based cross-sectional study was employed using a consecutive sampling technique from January 1 to February 30/2020 among 245 adult diabetes mellitus patients on follow-up care at North Shewa Zone government Hospitals, Oromia Region, Ethiopia. We used Epi data version 3.1 to enter the data and SPSS version 25 for analysis. Both bivariable and multivariable logistic regression was used to identify significant factors for knowledge of diabetic self-care.
+
+Results
+
+In this study, from a total of 245 diabetic patients, 230 participated giving a response rate of 93.87%. More than half of the study respondents, 156 (67.8%), had good diabetes self-care knowledge and variables such as being employed (AOR; 0.146, 95%; CI 0.18–0.94), having information on diabetic self-care (AOR; 3.003, 95% CI 1.24–5.3) and urban residency (AOR; 0.27, 955 CI 0.099–0.532) were found to be independent factors affecting diabetic self-care knowledge.
+
+Conclusion
+
+The magnitude of diabetes self-care knowledge was not adequate and some critical knowledge gaps were also identified in specific areas which reflect that there is a need to improve diabetic self-care knowledge among patients by implementing adequately and continuous diabetic self-care education programs.
+
+Introduction
+
+Diabetes mellitus (DM), which is described by an increased blood glucose level, is a metabolic disorder of multiple etiologies resulting in disturbances of carbohydrate, fat, and protein metabolism due to dysfunction in insulin secretion, insulin action, or both. This long-lasting high blood glucose level and the resultant metabolic deregulations is associated with secondary damage in multiple organ systems, specifically the kidneys, eyes, nerves, and blood vessels. Furthermore, diabetes mellitus increases the risk of developing coronary artery and cerebrovascular disease. Worldwide, approximately 75–80% of people with diabetes die due to cardiovascular complications. Diabetes mellitus, especially, Type 2 DM is increasing much more rapidly because of increasing obesity, reduced activity levels as countries become more industrialized, and the aging of the population. Diabetes mellitus is a complex chronic illness demanding continuous medical and self-care. According to Orem’s definition, self-care is a personal activity to take care and maintain one’s own health and prevention of disease-related complications.
+
+Diabetes self-care, which includes activities such as healthful eating, regular physical activity, foot care, medication adherence, and self-monitoring of blood glucose, is very important to keep the disease under control. The American Diabetic Association underlined that diabetic self-care is necessary to limit potential organ damage, and it can reduce the likelihood of hospitalizations and emergency visits. Patient knowledge concerning disease and self-care practices for patients is important to achieve the desired treatment targets and for the appropriate management of their disease.
+
+Studies had highlighted that factors such as diabetes knowledge, physical activities, social support, and self-efficacy can affect self-care practice.
+
+In Ethiopia, Studies showed that the feature of self-care practices towards diabetes mellitus was not adequate. Another study conducted in Addis Ababa, Ethiopia on diabetes self-care knowledge reflected that overall knowledge about diabetes self-care was not adequate; some critical knowledge gaps were also identified in specific areas and there is a need to improve diabetic self-care knowledge. Most studies are done on patients with type 2 diabetes and little is known about the factors associated with knowledge of diabetic self-care with diabetes in Ethiopia. Therefore, this study aimed to assess diabetic self-care knowledge and the associated factors to improve self-care knowledge among diabetes patients attending North Shewa Zone Hospitals.
+
+Methods
+
+Study Area and Design
+
+An institution-based cross-sectional study was conducted from January 1 to February 30/2020 among 245 adult diabetic patients on follow-up care at North Showa Zone government hospitals Oromia Region, Ethiopia. North Showa is one of the zones of Oromia regional states in Ethiopia. According to 2007 Central Statistics Agency (CSA) report, the zone had a total population of 1,431,305. The zone has fourteen woreda, three town administrations, and four government hospitals, 268 kebeles, 64 health centers, and 272 health posts. There are a total of 550 adult diabetic patients on follow-up care at those four government hospitals.
+
+Sample Size Determination
+
+To determine the final sample size, single population proportion formula was employed by taking an assumption of 95% CI, 5% margin of error, and 58% prevalence of diabetic self-care knowledge from a study done in Addis Ababa.
+
+Where, n= required sample size, Zα/2 is a critical value at 95% CI (1.96), and at 5% margin of error (d = 0.05), and p is the prevalence of self-care knowledge=58%.
+
+Accordingly,
+
+However, the source population is less than 10,000 adjusted formulas were used.
+
+Where
+
+nf = final sample size, ni = initial sample size=374, and N = the source population=550.
+
+Accordingly,
+
+By adding 10% of the non-response rate, it gives a final sample size of 245 diabetic patients.
+
+Sampling Procedures
+
+There are four hospitals and we include all of them in our study. First, we identified the number of diabetic patients of each hospital and then based on their numbers we proportionally allocated the sample size.
+
+Sampling Technique
+
+Sample flow chart.
+
+To select the final sample size, we employed a consecutive sampling technique. Study participants were selected when they came for follow-up care (Figure 1).
+
+Source Population
+
+All diabetes mellitus patients in North Showa Zone Hospitals.
+
+Study Population
+
+All diabetes mellitus patients in North Showa Zone hospitals during the study period.
+
+Inclusion Criteria
+
+The study included all diabetes patients that are diagnosed as having diabetes mellitus for at least 6 months.
+
+Exclusion Criteria
+
+The study excludes those diabetes patients admitted due to severe acute complication like hypoglycemia, diabetic ketoacidosis, who were mentally impaired, and cannot hear.
+
+Study Variables
+
+Dependent Variable
+
+Diabetic self-care knowledge.
+
+Independent Variables
+
+Demographic factors: Age, Sex, Ethnicity, Educational status, marital status, Occupation, Residence, Clinical and other related factors (duration of after diagnosis, diabetic-related long term complication, type of complications, information about diabetic self-care, source of information).
+
+Operational Definition
+
+Good Self-Care Knowledge
+
+Refer to those study participants who answered more than or equal to 70% of knowledge questions correctly. On the contrary, those study participants who answered less than 70% of knowledge questions were poor Self-Care Knowledge. Exposure to diabetic health education: if a client has received health education about diabetes and self-care, he is said to be exposed to diabetic health education.
+
+Duration after diagnosis: it was the total period after the client has been medically confirmed to be a diabetic patient.
+
+Data Collection Tools
+
+The structured and pre-tested interviewer-administered questionnaires developed from previous studies was used to collect data. The tool has three parts: Part one is Sociodemographic characteristics with six questions; Part two includes clinical and other related factors with 5 questions; and Part three is about diabetic self-care knowledge with DSCKQ-30 item questions. The DSCKQ-30 item questions was used to assess knowledge of diabetic patients on modifiable lifestyle, adherence to diabetic self care, and consequence of uncontrolled blood sugar level. The tool was validated with Cornbrash’s alpha of 0.967; the relevance of all items of the questionnaire was checked, and it was translated by a language expert.
+
+Data Collection Procedures
+
+To collect the data, first, we briefly explain to the respondents the purpose of the study. Next, we took a written informed consent from those who voluntarily participated in the study. Sociodemographic and knowledge-related data were collected by interviewing the study participants wherea; clinical and other related data were collected by reviewing patients’ charts.
+
+Data Quality Control
+
+To assure data quality, four BSc degree holders for data collection and two MSc nurses for supervisors were recruited and nine day training and orientation was given by the principal investigator. The tools were first organized in English language and translated into the local Afan Oromo then back to English to ensure its consistency. Additionally, a pretest was conducted before actual data collection on 5% (12) of the samples in Chancho Hospital, and any ambiguity, confusion, difficult words, and differences in understanding were revised and corrected.
+
+Data Management and Analysis
+
+Data were entered into Epi data version 3.1 and analyzed by SPSS version 25 statistical software. Descriptive statistics such as frequency and percentage have been presented using tables and text. A binary logistic regression model was used to identify the potential predictor variables for diabetics’ self-care knowledge. Variables with a p-value of less than 0.2 in the binary logistic regression analysis were entered into multivariable logistic regression analysis. Then Adjusted Odds Ratio (AOR) with 95% CI and p-value < 0.05 were used to identify factors significantly associated with diabetics’ self-care knowledge.
+
+Ethical Approval Statement
+
+An ethical clearance letter was obtained from the Ethical Review Committee of Salale University. Permission letter was obtained from Oromia Health Bureau and each respective hospital. The study was conducted according to the Declaration of Helsinki. Participation in this study was voluntary, and information was collected anonymously after obtaining written consent from each respondent by assuring confidentiality throughout the data collection period and explained the importance and purpose of the study. Any potential identifiers were eliminated from the questionnaires to ascertain confidentiality.
+
+Results
+
+Socio-Demographic Characteristics
+
+Sociodemographic Characteristics of Adult Diabetes Mellitus Patients in North Showa Zone Hospitals, Oromia Region, Ethiopia, 2020 (n=230)
+
+Variable	Categories	N (%)	 	Sex	Male	88(38.3)	 	Female	142(61.7%)	 	Age	≤ 40years	72(31.3)	 	40–49	58(25.2)	 	50–59	52(22.6)	 	≥60	48(20.9)	 	Educational status	Cannot read and write	44(19.1)	 	Read and write	47(20.4)	 	Primary (1–8)	44(19.1)	 	Secondary (9–12)	47(20.4)	 	Above secondary	48(20.9)	 	Marital status	Single	41(17.8)	 	Married	126(54.8)	 	Divorced	34(14.8)	 	Widowed	29(12.9)	 	Occupation	Employed	140(60.9)	 	Unemployed	90(39.1)	 	Residence	Urban	172(74.8)	 	Rural	58(25.2)
+
+From a total of 245 study participants, 230 had participated with a response rate of 93.87%. The mean age of study participants was 47.24 (SD ±15.24) with 72 (31.3%) of respondents aged 40 years and below. Of the study participants, 142 (61.7%) were female, and nearly most of them, 172 (74.8%) were urban residents. Regarding the educational status, 48 (20.9%) above the secondary school (Table 1).
+
+Clinical and Other Related Factors of the Study Participants
+
+Clinical and Other Related Factors of Adult Diabetes Mellitus Patients in North Showa Zone Hospitals, Oromia Region, Ethiopia, 2020 (n=230)
+
+Variable	Categories	Number	Percentage	 	Duration as diagnosed Diabetes Mellitus	<5 years	112	48.7	 	5–10years	67	29.1	 	>10years	51	22.2	 	Any diabetic-related long term complication	Yes	149	64.8	 	No	81	35.2	 	Type of complications	Diabetic nephropathy	33	14.3	 	Diabetic neuropathy	29	12.6	 	Diabetic retinopathy	85	37.0	 	Diabetic foot ulcer	59	25.7	 	Diabetic related heart	24	10.4	 	Received information about diabetes self-care	Yes	133	57.8	 	No	97	42.2	 	Source of information	Health professional	170	73.9	 	Mass media	60	26.1
+
+Among the total of 230 study participants, 112 (48.7%) and 67 (29.1%) had a duration of the disease less than 5 and between 5 to 10 years, respectively, with a mean duration of 6.79 (SD 4.68). More than half of the study participants, 133 (57.8%), had received information about diabetes self-care. The source of information was health care professionals and mass media which accounts for 170 (73.9%) and 60 (26.1%) study participants. Of the total study participants, 149 (64.8%) of them had experienced medically confirmed long-term complications of the disease; of them, 85 (37.0%) had diabetic retinopathy followed by diabetic foot ulcer 59 (25.7%) (Table 2).
+
+Participants’ Diabetes Self-Care Knowledge
+
+Overall Performance of Respondents on Modifiable Lifestyles in North Shewa Zone Government Hospital, 2020 (n=230)
+
+Questions	Responses	Correctness	 	Yes	No	 	Blood glucose level should be measured before and after every physical activity. (Yes)	183(79.56%)	47(20.43%)	183(79.56%)	 	A fasting blood sugar (FBS) test can be used to monitor blood sugar control for 2–3 months. (No)	132(57.39%)	98(42.60%)	98(42.60%)	 	A person with diabetes should take care of his/her teeth and brush and floss his/her teeth every day. (yes)	209(90.86%)	21(9.1%)	209(90.86%)	 	Tight elastic hose or socks are not bad for a person with diabetes. (No)	79(34.34%)	151(65.65%)	151(65.65%)	 	Self-blood glucose monitoring (SBGM) enables a person with diabetes to monitor and react to changes in his/her blood sugar levels. (Yes)	202(87.87%)	28(12.17%)	202(87.87%)	 	Only the doctors should make plans on how a person with diabetes can achieve his/her target goals. (No)	103(44.78%)	127(55.21%)	127(55.21%)	 	Maintaining a healthy weight is not important in the management of diabetes. (No)	66(28.89%)	164(71.3%)	164(71.3%)	 	Self-blood glucose monitoring (SBGM) allows the doctor and other healthcare teams to gather data for treatment planning. (Yes)	200(86.95%)	30(13.04%)	200(86.95%)	 	No person should check the blood sugar and blood pressure of a diabetic patient except the qualified medical doctor and other health personnel in the hospital. (yes)	126(54.78%)	104(45.21%)	126(54.78%)	 	Having a physical activity for 20–30 minutes per session at least 3 days per week is essential. (Example of physical activities: Brisk walking, house activities, climbing staircase). (Yes)	212(92.7%)	18(7.82%)	212(92.7%)	 	A person with diabetes should report any change in his eyesight to his doctor. (yes)	214(93.04%)	16(6.95%)	214(93.04%)	 	There should be a mutual agreement between a person with diabetes and the doctor if he/she cannot change a particular lifestyle. (yes)	214(93.04%)	16(6.95%)	214(93.04%)	 	A person with diabetes should take extra care of his/her feet especially when cutting his/her toenails. (yes)	167(72.60%)	63(27.4%)	167(72.60%)	 	Regular exercise does not reduce the need for insulin or other diabetic drugs. (No)	214(93.05%)	16(6.95%)	16(6.95%)	 	A person with diabetes should only ask for help when he/she feels sick from his/her healthcare team. (no)	216(93.915)	63(27.39%)	63(27.39%)	 	At the initiation of insulin therapy for a person with diabetes who may require it, appropriate advice on Self-blood glucose monitoring (SBGM) and diets should be given to the person. (yes)	202(87.82%)	140(60.86%)	202(87.82%)	 	Cigarette smoking can worsen diabetes. (yes)	202(87.82%)	19(6.08%)	202(87.82%)	 	Monitoring blood pressure is not as important as monitoring blood glucose in a person with diabetes. (No)	157(68.26%)	73(31.73%)	73(31.73%)	 	Overall correctness			67.3%
+
+Overall Performance of Respondents on Knowledge of Adherence to Diabetes Self-Care in North Shewa Zone Government Hospitals, 2020 (n=230)
+
+Questions	Responses	Correctness	 	Yes	No	 	Regular medical checkups are not essential when a person with diabetes is feeling well. (No)	75(32.605)	155(67.39%)	155(67.39%)	 	Dietary instructions should be written out, even if the person with diabetes is illiterate: someone at home should be available to interpret it for him/her. (yes)	149(64.78%)	81(35.21%)	149(64.78%)	 	Instructions about drugs and other self-care practices should not be strictly followed. (No)	73(31.73%)	157(68.26%)	157(68.26%)	 	Taking a low dose Aspirin tablet every day decreases the risk of having a heart attack and stroke. (yes)	126(54.78%)	104(45.21%)	126(54.78%)	 	A person with diabetes taking medicines when he/she feels good is a waste of money. (No)	39(16.95%)	191(83.04%)	191(83.04%)	 	Being drunk while on diabetic drugs is not a serious problem. (No)	33(14.34%)	197(85.65%)	197(85.65%)	 	Diet and exercise are not as important as medication in the control of diabetes. (No)	52(22.60%)	178(77.39%)	178(77.39%)	 	Diabetes drugs are not taken throughout the lifetime of a person with diabetes. (No)	53(23.04%)	177(76.95%)	177(76.95%)	 	Overall correctness			72.3%
+
+Knowledge of Respondents on Consequences of Uncontrolled Blood Sugar Level North Shewa Zone Government Hospitals, 2020 (n=230)
+
+Questions	Response	Correctness	 	Yes	No	 	If blood sugar is close to normal, a person with diabetes is likely to have more energy, feel less thirsty, and urinate less often. (yes)	195(84.78%)	35(15.21%)	195(84.78%)	 	Prolonged high blood sugar levels can cause eye problems or even blindness. (yes)	206(89.56%)	24(10.43%)	206(89.56%)	 	Prolonged uncontrolled blood sugar levels can cause heart attack, stroke, and kidney problems. (yes)	212(92.17%)	18(7.82%)	212(92.17%)	 	Shaking, confusion, behavioral changes, and sweating are signs of high blood sugar. (No)	189(82.17%)	41(17.82%)	41(17.82%)	 	Overall correctness			71.0%
+
+In this study, the overall knowledge of study participants towards diabetes self-care was 67.8%. Similarly, the overall self-care knowledge of study respondents on modifiable lifestyles, adherence to diabetes self-care, and consequence of uncontrolled blood glucose level was 67.3% 72.3%, and 71.0% respectively (Tables 3,4–5).
+
+Factors Associated with Diabetic Self-Care Knowledge
+
+Bivariate and Multivariate Analysis of Factors Associated with Diabetic Self-Care Knowledge Among Adult Diabetes Mellitus Patients in North Showa Zone, Oromia, Region, Ethiopia 2020 (n=230)
+
+Variables	Knowledge	COR (95% CI)	AOR (95% CI)	P-value	 	Good N (%)	Poor N (%)	 	Occupation	Unemployed	50(61.0)	40(29)	1	1		 	Employed	106(95.0)	34(45)	0.401(0.227–0.707)	0.416(0.18–0.94)	0.023*	 	Residence	Urban	123(116.7)	49(55.3)	1.902(1.027–3.522)	0.269(0.099–0.732)	0.010*	 	Rural	33(39.3)	25(18.7)	1			 	Duration of DM	<5 years	75(76.0)	37(36.0)	1	1		 	5–10years	55(45.4)	12(21.6)	2.261(1.081–4.73)	0.64(0.16–2.54)	0.523	 	10>years	26(34.6)	25(16.4)	0.513(0.26–1.008)	0.804(0.193–3.35)	0.764	 	Got diabetes self-care information	Yes	105(90.2)	28(42.8)	3.38(1.9–6.01)	3.003(1.24–5.3)	0.015*	 	No	51(65.8)	46(31.2)	1	1
+
+Note: *Showed variables that significantly associated in the logistic regression analysis at p-value < 0.05.
+
+A binary logistic regression model was applied to identify the potential predictor variables that affect diabetics’ self-care knowledge. Variables having a p-value less than 0.2 in the binary logistic regression were entered in the multivariable logistic regression model. In this study variables that showed significant association were occupational status, residence, and received diabetes self-care information. Unemployed study participants have 58.4% reduced odds of diabetic self-care knowledge (AOR; 0.146, 95% CI; 0.18–0.94) as compared with study participants who were employed. Similarly, the odds of diabetic self-care knowledge among urban residents study participants was 73.1% higher (AOR; 0.269, 95% CI 0.099–0.532) than study participants who were rural residents. Furthermore, study participants who have received diabetic self-care-related information were three times more likely (AOR; 3.003, 95% CI 1.24–5.3) to have good diabetic self-care knowledge when compared with their counterparts (Table 6).
+
+Discussion
+
+In Ethiopia, few studies address diabetic self-care knowledge level. Moreover, no studies were conducted in the study area. This study tried to assess the level of diabetes self-care knowledge and its associated factors in the study area. Overall diabetic self-care knowledge of participants in this study was 67.8% (95% CI; 62–74%). When compared to other studies, it is in line with a study finding in Ethiopia at Ayder Hospital in the Tigray region (70.4%). This might be due to similarity in socio-demographic characteristic of study participants. It is lower than the study findings in Ethiopia, Oromia Region, and Nigeria (77.6%, 79.5%). However, it is higher than a study finding in Addis Ababa (58%) and India (44.2%). This discrepancy might be due to differences in the socio-economic status of respondents, access to diabetic information, and educational level. Besides, the magnitude of items of diabetic self-care knowledge for modifiable lifestyle was 67.3%. This result is lower than a study result in Addis Ababa and Nigeria (73.2%, 81.6%). Similarly, the magnitude of items of knowledge of adherence to diabetic self-care was 72.3%, which is almost in line with a study result in Addis Ababa (70.4%), and lower than a study finding from Nigeria (77.2%).
+
+The magnitude of knowledge for consequences of uncontrolled blood sugar level was found to be 71%, which is almost congruent with a study finding in Addis Ababa (72%), and lower than a study from Nigeria (77.5%). This inconsistency might be due to differences in study populations.
+
+This study also identified that being employed, urban residence, and having prior diabetic self-care knowledge were factors significantly associated with diabetic self-care knowledge of the study participants. According to the current study participants that have received information about diabetes self-care were 3.003 times more knowledgeable about diabetic self-care than those who have not received any information about diabetic self-care. A similar finding was obtained from a study done in Addis Ababa. The possible reason for this similarity could be information is one way by which knowledge is acquired so those participants that have exposure to diabetic self-care information have a better knowledge of self-care than those who do not have any information.
+
+The study result revealed that the odds of diabetic self-care knowledge among urban residents study participants were 73.1% higher than study participants who were rural residents. This finding is in line with the study in Tigray Region Ethiopia and Egypt. The possible reason for this similarity might be due to participants from Urban areas having more opportunities for diabetes self-care information through the mass media, books, and the internet. Likewise, unemployed study participants have 58.4% reduced odds of diabetic self-care knowledge as compared with study participants who were employed; this finding is in line with a study finding from Egypt. The possible justification might be that unemployed persons will not have access to meet with different individuals which limits access to get information from colleagues.
+
+Conclusions and Recommendations
+
+In this study factors like occupation status, residence, and having information about diabetes self-care were significantly associated with diabetic self-care knowledge. Knowledge of the study participant’s about diabetes self-care was not adequate where there is a need to improve diabetic self-care knowledge. This study recommends that nurses and doctors who work in the chronic outpatient department should educate diabetic patients through the application of visual, auditory, and tactile aids to improve self-care knowledge in the study area.
+
+Limitation of the Study
+
+Due to the nature of the cross-sectional study design, the accuracy of the response might be compromised and the precedence of outcome or exposure is not clear.
+
+Abbreviations
+
+DM, diabetes mellitus; DSCK, diabetic self-care knowledge; IDF, International Diabetic Federation; FBS, fast blood sugar; WHO, World Health Organization.
+
+Data Sharing Statement
+
+Except with reasonable request, data supporting this study cannot be made available at present time.
+
+Disclosure
+
+All the authors reported no conflicts of interest for this work and declare that they had no competing interests regarding the publication of this paper.
+
+References
+
+IDF Diabetes Atlas; 9th edition 2019
+
+Google search
+
+Increasing prevalence of diabetes mellitus in a developing country and its related factors
+
+Diagnosis and classification of diabetes mellitus
+
+Dorothea Orem: self care deficit theory study guide
+
+Self-care practice and associated factors among Diabetes Mellitus patients on follow up in Benishangul Gumuz Regional State Public Hospitals, Western Ethiopia: a cross-sectional study
+
+Standards of medical care in diabetes—2016 Abridged for primary care providers
+
+Diagnosis and classification of diabetes mellitus
+
+Knowledge, attitude, and practice regarding lifestyle modification in type 2 diabetic patients
+
+Role of self-care in management of diabetes mellitus
+
+Self-efficacy and confidence in outcomes as determinants of self-care practices in inner-city, African-American women with non-insulin-dependent diabetes
+
+Self care behavior among patients with diabetes in Harari, Eastern Ethiopia: the health belief model perspective
+
+Assessment of knowledge of self-care and associated factors among type 2 diabetic patients on follow up visits in government hospitals of Addis Ababa, Ethiopia [Thesis]
+
+The construct validity of an instrument for measuring type 2 diabetes self-care knowledge in Nigeria
+
+Self-care related knowledge, attitude, practice and associated factors among patients with diabetes in Ayder Comprehensive Specialized Hospital, North Ethiopia
+
+Assessment of knowledge, attitude and practices regarding life style modification among type 2 diabetic mellitus patients attending Adama Hospital Medical College, Oromia Region, Ethiopia
+
+Knowledge of self-care among type 2 diabetes patients in two states of Nigeria
+
+Knowledge of diabetes among diabetic patients in government hospitals of Delhi
+

@@ -1,0 +1,354 @@
+TITLE: Perceptions and Correlates of Distress Due to the COVID-19 Pandemic and Stress Management Strategies Among Adults With Diabetes: A Mixed-Methods Study
+
+Background
+
+Greater risk of adverse health outcomes and public health measures have increased distress among people with diabetes during the coronavirus-2019 (COVID-19) pandemic. The objectives of this study were to explore how the experiences of people with diabetes during the COVID-19 pandemic differ according to sociodemographic characteristics and identify diabetes-related psychosocial correlates of COVID distress.
+
+Methods
+
+Patients with type 1 or 2 diabetes were recruited from clinics and community health centres in Toronto, Ontario, as well as patient networks. Participants were interviewed to explore the experiences of people with diabetes with varied sociodemographic and clinical identities, with respect to wellness (physical, emotional, social, financial, occupational), level of stress and management strategies. Multiple linear regression was used to assess the relationships between diabetes distress, diabetes self-efficacy and resilient coping with COVID distress.
+
+Results
+
+Interviews revealed that specific aspects of psychosocial wellness affected by the pandemic, and stress and illness management strategies utilized by people with diabetes differed based on socioeconomic status, gender, type of diabetes and race. Resilient coping (β=−0.0517; 95% confidence interval [CI], −0.0918 to −0.0116; p=0.012), diabetes distress (β=0.0260; 95% CI, 0.0149 to 0.0371; p<0.0001) and diabetes self-efficacy (β=−0.0184; 95% CI, −0.0316 to −0.0052; p=0.007) were significantly associated with COVID distress.
+
+Conclusions
+
+Certain subgroups of people with diabetes have experienced a disproportionate amount of COVID distress. Assessing correlates of COVID distress among people with diabetes will help inform interventions such as diabetes self-management education to address the psychosocial distress caused by the pandemic.
+
+Key Messages
+
+People with diabetes have had decreased physical and psychological wellness after past public health emergencies.
+
+Perceptions of the pandemic and stress and illness management strategies differed based on sociodemographic and clinical characteristics.
+
+Diabetes distress, resilient coping and diabetes self-efficacy were associated with COVID distress among people with diabetes.
+
+Introduction
+
+The novel coronavirus disease-2019 (COVID-19) pandemic represents one of the greatest contemporary public health challenges. People with diabetes (PwD) are at greater risk of medical complications and fatality, and have endured strict quarantine measures to minimize their risk. PwD may also have endured worsening glycemic control during lockdown due to reduced capacity to exercise and control their diet, and reduced availability of antidiabetes medications and medical advice. Despite the many possible challenges of managing diabetes during the pandemic, the lived experiences of PwD and how they have been impacted psychosocially have not been adequately explored.
+
+It has been shown that the COVID-19 pandemic negatively impacts certain populations more so than others, depending on factors such as gender, race and socioeconomic status (SES). Among PwD, these sociodemographic variables may pose further challenges to coping with the pandemic. Thus, research on the impacts of the pandemic on PwD should consider the experiences of underserved populations so that health-care providers can address disparities.
+
+Given the high prevalence of psychological distress among PwD during the pandemic, investigating ways to alleviate COVID distress would be beneficial. General self-efficacy has been linked to lower levels of distress and may be a correlate of reduced COVID distress. Another factor potentially associated with COVID distress is diabetes distress, which is associated with negative health outcomes, such as reduced adherence to medication regimens. Resilient coping is associated with a greater quality of life and metabolic control in patients with diabetes. Despite their potential implications for psychosocial well-being, there is a lack of research into how these factors are associated with COVID distress.
+
+In this study, we aimed to assess the psychosocial experiences of PwD (type 1 and type 2) of different sociodemographic and clinical groups and the associations between modifiable psychosocial constructs and COVID distress to inform clinicians of targets for minimizing distress among their patients with diabetes.
+
+Methods
+
+Study design and setting
+
+This work was a mixed-methods study, involving qualitative interviews and an online cross-sectional survey. Given the disparities in distress experienced by subgroups in our interview sample, we examined, through the cross-sectional survey, certain diabetes-related psychosocial constructs that may be associated with COVID distress.
+
+Participant recruitment
+
+Community-dwelling adults ≥18 years of age with either type 1 or type 2 diabetes and living in Ontario, Canada, and those part of patient networks in Canada, were included in this study. Pregnant women, adults in long-term care and at end of life or those who could not give consent were excluded from this study because their experiences were presumed to be different from PwD in the general population.
+
+Recruitment of participants for the interviews and cross-sectional survey occurred from May 2020 to September 2020 and May 2020 to February 2021, respectively. Recruitment occurred via individuals from participants’ circles of care from St. Michael’s Hospital specialty clinics, primary care clinics and community health centres in Toronto, Ontario. Professional, research and patient networks, such as Diabetes Canada and KT Canada Network, were also used to recruit patients. Purposive sampling was used to deliberately select participants for recruitment to ensure demographic diversity and capture under-represented populations. Participants who were interviewed were also invited to participate in the survey.
+
+All participants provided verbal informed consent to participate in the study. This study was approved by the research ethics board of St. Michael’s Hospital in Toronto, Ontario.
+
+Individual interviews
+
+Data collection
+
+Interviews were conducted, audiotaped and then transcribed verbatim and annotated using field notes for subsequent analysis. Data were collected via 45- to 60-minute semistructured telephone interviews with open-ended questions to explore participants’ experiences. Interview questions were informed by the Wellness Evaluation of Lifestyle Inventory, developed from the Wheel of Wellness theoretical framework, the “gold standard” of wellness assessments in clinical settings, and stress and coping theory, which comprehensively explores psychological and emotional responsiveness and coping with multiple types of stressors. Interview questions were pilot-tested with knowledge users. Participants with significant language barriers were interviewed alongside a caregiver.
+
+Data analysis
+
+Data collection and analysis were conducted concurrently until saturation was attained. The interview guide was iteratively refined throughout data collection to capture emerging ideas. Transcripts were coded to develop concise summaries of key themes within and across interviews. Coding was conducted independently by 4 individuals (J.H.B.I., C.E.K., D.C., A.S.), and codes were refined and organized according to Shaw’s framework for coping, illness behaviour and outcomes to provide a greater focus on the impact of the pandemic on PwD. Specifically, we focussed on participants’ appraisal of the situation, coping strategies and health behaviours. Transcripts were critically analyzed using inductive thematic analysis and constant comparative analysis. As an initial exploration, a categorical comparison with SES, type of diabetes, gender and race was used to compare subgroups and identify characteristics within which there appeared to be inequities in COVID-19 burden. NVivo version 12 software was used to manage data.
+
+Cross-sectional survey
+
+Outcomes and covariates
+
+Psychometric scales used and constructs measured
+
+Scale	Construct measured	Internal consistency (α)	Scoring format	Number of items	 	Problem Areas in Diabetes	Diabetes distress	0.92	5-point Likert scale ranging from 0 (not a problem) to 4 (serious problem)	20	 	Brief Resilient Coping Scale	Resilient coping	0.69	5-point Likert scale ranging from 1 (does not describe me at all) to 5 (describes me very well)	4	 	Impact of Event Scale-6	Posttraumatic stress reaction (as a measure of COVID distress)	0.80	5-point Likert scale ranging from 0 (not at all) to 4 (extremely)	6	 	Self-Efficacy for Managing Chronic Diseases	Self-efficacy	0.93	10-point Likert scale ranging from 1 (not at all confident) to 10 (totally confident)	6
+
+Validated psychometric scales were used to measure diabetes distress, resilient coping, diabetes self-efficacy and COVID distress (Table 1 ). The Problem Areas in Diabetes Scale, a 20-question scale with an internal consistency of 0.92, was used to measure diabetes distress. Each question is scored on a 5-point Likert scale. Resilient coping was measured using the Brief Resilient Coping Scale, a 4-question scale with an internal consistency of 0.69. Similarly, questions on the Brief Resilient Coping Scale are also scored using a 5-point Likert format. Diabetes self-efficacy was measured using the Self-Efficacy for Managing Chronic Diseases Scale, which has an internal consistency of 0.80 and contains 6 questions measured on a 10-point Likert scale. Last, the Impact of Event Scale-6, which assesses posttraumatic stress reaction, was used as a measure of COVID distress. The Impact of Event Scale-6 has an internal consistency of 0.93, contains 6 questions and is measured on a 5-point Likert scale. All scales were treated as continuous variables.
+
+Data collection
+
+All outcome and covariate data were self-reported by participants. Surveys were conducted over the telephone for participants with low literacy skills and offered in multiple languages for participants who were unable to speak English, although all were conducted in English.
+
+Statistical analysis
+
+Multiple linear regression was used to assess the associations between psychosocial constructs (diabetes distress, resilient coping, diabetes self-efficacy) and COVID distress, adjusting for age, gender, type of diabetes, race, occupation and diabetes duration. For all models, beta (β) coefficients and associated 95% confidence intervals (CIs) were reported. Diabetes distress and resilient coping were assessed as potential mediators by including them as covariates for adjustment in the regression model with diabetes self-efficacy as the primary predictor and COVID distress as the outcome. A two-sided p value of <0.05 was used as the cutoff for statistical significance.
+
+The size of the sample was based on guidelines for regression analyses by Harrell of 10 observations per coefficient. Complete case analysis was performed because the proportion of missing data in included covariates was very small and there was little evidence to suggest the data were not missing at random. Furthermore, all regression analyses included approximately 140 observations and were thus considered to be sufficiently powered. All statistical analyses were conducted using R version 4.0.2 (R Foundation for Statistical Computing, Vienna, Austria).
+
+Results
+
+Individual interviews
+
+Participants’ characteristics
+
+Characteristics of included participants for individual interviews (n=47) and cross-sectional surveys (n=153)
+
+Characteristics	Individual interviews (N=47)	Cross-sectional surveys (N=153)	 	n	%	n	%	 	Age, years	 	 18–30	6	12.8	16	10.5	 	 31–50	8	17.0	32	20.9	 	 51–64	11	23.4	44	28.8	 	 ≥65	20	42.6	60	39.2	 	 Missing	2	4.3	1	0.7	 	Gender	 	 Men	24	51.1	72	47.1	 	 Women	23	48.9	79	51.6	 	 Missing	0	0.0	2	1.3	 	Race	 	 White	24	51.1	100	65.4	 	 Non-White	23	48.9	52	34.0	 	 Missing	0	0.0	1	0.6	 	Type of diabetes	 	 Type 1	15	31.9	55	35.9	 	 Type 2	32	68.1	96	62.7	 	 Missing	0	0.0	2	1.3	 	Diabetes duration	 	 ≤5 years ago	8	17.0	20	13.1	 	 >5 years ago	39	83.0	131	85.6	 	 Missing	0	0.0	2	1.3	 	Annual household income	 	 <$25,000	4	8.5	13	8.5	 	 $25,000–$39,999	3	6.4	16	10.5	 	 $40,000–$59,999	4	8.5	21	13.7	 	 $60,000–$79,999	7	14.9	20	13.1	 	 $80,000–$99,999	8	17.0	16	10.5	 	 ≥$100,000	16	34.0	53	34.6	 	 Missing	5	10.6	14	9.2	 	Highest level of education achieved	 	 High school diploma or less	13	27.7	34	22.2	 	 Professional or trade certification	0	0.0	18	11.8	 	 College diploma or undergraduate university degree	16	34.0	60	39.2	 	 Postgraduate degree	18	38.3	40	26.1	 	 Missing	0	0.0	1	0.6	 	Occupational status	 	 Full- or part-time employment	20	42.6	64	41.8	 	 Full- or part-time student	2	4.3	8	5.2	 	 Unemployed	4	8.5	14	9.2	 	 Retired	21	44.7	64	41.8	 	 Missing	0	0.0	3	1.9	 	Living situation	 	 Living alone	4	8.5	35	22.9	 	 Living with others	43	91.5	115	75.1	 	 Missing	0	0.0	3	2.0
+
+The characteristics of the 47 included participants are shown in Table 2 .
+
+Perceptions of the COVID-19 pandemic and stress management strategies
+
+Participants’ clinical and sociodemographic characteristics seemed to impact their perceptions of the pandemic and stress management strategies. Accordingly, we identified contrasting experiences of (1) White vs non-White participants; (2) participants of high SES vs low SES; (3) participants with type 1 vs type 2 diabetes; and (4) women vs men, as detailed in what follows.
+
+Theme 1: Participants with type 1 diabetes were minimally impacted by the pandemic and used more problem-focussed management strategies to confront stressors compared with participants with type 2 diabetes.
+
+I’m never really worried about the pandemic because I’m inside...the pandemic hasn’t caused me any distress. (P18)
+
+Participants with type 1 diabetes perceived less fear from the pandemic and its associated limitations:
+
+I think about my health a lot more and I’m a bit more afraid because I’m a diabetic (sic)… (P5)
+
+In contrast, participants with type 2 diabetes perceived a higher personal risk, which in turn contributed to a heightened sense of anxiety and fear of potential consequences:
+
+So the stress levels go down automatically because you’re going and meeting new people…Now everything got pent up because you’re not meeting anyone. (P31)
+
+Furthermore, participants with type 2 diabetes also reported greater distress from having reduced contact with members of their support network due to the social limitations of the pandemic:
+
+We’re not walking anywhere, we can’t just sit on our butts all day and work and expect not to gain weight or become unhealthy so we actively decided to do an hour walk every day. (P33)
+
+The perceptions of participants with type 1 and type 2 diabetes also seemed to impact the coping strategies employed to manage stressors. Participants with type 1 diabetes seemed to engage in more active problem-focussed behaviours to manage stressors and reduce distress:
+
+I prefer to be more of a one-way street. I’ll keep you (other people in support network) fully informed on my health but at the same time I’d prefer if you didn’t comment on what I’m doing. (P2)
+
+Participants with type 1 diabetes also indicated a greater self-reliance in terms of managing their stressors and diabetes. For example, when asked about the role of support networks in their diabetes management, this participant responded:
+
+I made sure that I was contacting people either through Zoom or by phone and I was talking to several people every week. (P47)
+
+On the other hand, participants with type 2 diabetes reported greater distress from having reduced contact with their support network and made more attempts to interact with their support network to manage stress:
+
+The Ontario government has released a lot of stuff but…I don’t typically consume that kind of stuff…I think an e-mail or something like that could definitely be really helpful from each of the doctors and the government. (P2)
+
+Participants’ perceptions of the pandemic and management methods influenced the kinds of health-care interventions they thought were necessary. Participants with type 1 diabetes indicated that messaging from clinics could supplement current methods to help ascertain other resources:
+
+Figure out how you can cut the wait time to see a specialist right? It was already really bad before COVID. COVID just made it worse... So hire more doctors. (P31)
+
+On the other hand, because participants with type 2 diabetes were generally more fearful and anxious, many indicated that increasing health-care resources to accommodate for all participants was one improvement the health-care system should adopt:
+
+In general, participants with type 1 diabetes perceived less distress from the pandemic and used problem-focussed management strategies.
+
+Theme 2: Non-White participants were more accepting of the pandemic and relied on their support network and faith-based strategies to manage stressors.
+
+I keep myself from it (the pandemic) and I do what I used to do… I am not stressing myself about it. (P36)
+
+Non-White participants perceived the pandemic as less negative compared to White participants. Although some non-White participants reported distress regarding their personal risk, many expressed acceptance of the pandemic and its impacts. For example, one Black participant minimized the impact of the pandemic on her day-to-day living:
+
+I don’t think my support network’s been impacted too much during the pandemic…they were able to provide the same (social) support as they were before. I’m fortunate that I haven’t been impacted too much. (P45)
+
+Similarly, non-White participants perceived minimal impact on relationships and their stability. Furthermore, some participants also adopted positive mindsets, which may have moderated some of the impacts of the pandemic:
+
+There’s a general feeling of anxiety around what goes on. The longer it goes, the more stressful it feels. (P8)
+
+In contrast, White participants more commonly reported a general sense of anxiety, which was pervasive and sustained throughout their daily lives:
+
+I’m just worried about my mental health more than anything… I don’t know why I just seem more hopeless about the future. (P42)
+
+A major source of anxiety for White participants was a concern for their mental health and feeling of uncertainty about the future:
+
+I think it’s a concern from everybody, you know? You start wondering, will you ever shake somebody’s hand again when you first meet them? (P1)
+
+White participants also spoke to experiencing anxiety over the potential social uncertainties due to the limitations of the pandemic:
+
+I usually talk with my husband. He’s my friend and he usually listens to me a lot. That helps me. (P17)
+
+The approach to managing stressors appeared to have differed between non-White and White participants. Many non-White participants reported relying on their support networks to manage stress. For example, when asked about her normal approach to stress, a participant responded:
+
+My friends will send inspirations…or we’ll pray together every now and then… That’s how we keep our connection and we have group chats on Whatsapp. (P32)
+
+Faith and spirituality also appeared to be much more important and prevalent aspects of non-White participants’ lives in comparison to reports by White participants. Many non-White participants noted that faith and spirituality helped them manage stress and it also provided them with a strong community of support during the pandemic:
+
+I had to change my eating habits cause I can’t go shopping as much...I don’t have any junk food in the house anymore…I’ve had to do my own adjusting for my ratios. (P42)
+
+On the other hand, White participants typically reported employing more task-based stress management methods. In response to changing schedules, many White participants reported adapting their routines by engaging in more health-related behaviours, such as improving their diets, which facilitated the management of their diabetes:
+
+In general, perceived instability regarding the future and relationships was a major driver of anxiety and distress, especially among White participants.
+
+Theme 3: Participants of high SES perceived the COVID-19 pandemic as less negative and were better positioned to adapt to the pandemic compared with participants of low SES.
+
+Things were changing very quickly such as having to work from home…it definitely took an emotional toll. Stress and anxiety levels were very high… I’m very used to being in control with my own life and things were changing so rapidly it felt like there was just no control over life. (P25)
+
+The experiences of participants of low SES contrasted sharply with those of high SES. Participants of low SES were more anxious and distressed about the pandemic. Many noted a loss of a sense of control in their lives derived from upheavals of their daily routines and inabilities to readjust their lives. One participant had just started a new job when the pandemic occurred and noted difficulties in adjusting to a new lifestyle:
+
+My job is very stressful so when I came home, I got better control of my blood sugars because I had more control over my timetable and what I did in the day. Things were less chaotic than they are at work, so it was a little bit easier. I maintain my diet very tightly. (P26)
+
+On the other hand, participants of high SES perceived the pandemic as less negative and something that facilitated the organization of their daily lives. Specifically, participants of high SES seemed to be able to work from home more frequently, which they perceived as advantageous for their diabetes management:
+
+Yeah, I used to go out and walk. I had a class downstairs where I live and exercise. Now I don’t have anything because of COVID. (P28)
+
+This perceived sense of control (or lack thereof) appeared to impact the strategies employed to manage their diabetes and other stressors. Participants of low SES had trouble finding strategies to mitigate the impacts of the pandemic:
+
+I usually approach stress by talking to my husband, having a conversation and telling ideas to each other. Sometimes with my family as well. (P29)
+
+A major strategy utilized by participants of low SES was interacting with their support networks. Relatively little tension within support networks was reported by participants of low SES and, accordingly, support from friends and families seemed to be important when dealing with stress for many participants of low SES:
+
+I’m not eating out…I’m not getting lunch when I don’t have time to eat lunch because I’m home right? I can easily just make a healthy lunch at home so if anything, my diet is much better. (P33)
+
+On the other hand, participants of high SES were more likely to use problem-focussed strategies and respond adaptively to pandemic-related changes:
+
+Thus, sense of control impacted participants’ perceptions of the pandemic and the adaptiveness of their management strategies.
+
+Theme 4: Women perceived the impact of the pandemic as more negative but used problem-focussed stress management methods to actively improve their well-being and health.
+
+I feel as a female, because they are more a foundation, they are not just taking care of themselves, they have other people to take care of. I think for females, it is a burden even more. (P13)
+
+The experiences of women during the pandemic contrasted starkly with those of men. Women reported having much greater burdens during the pandemic than men. In particular, the strain of having to adopt multiple roles within the family was a major driver of distress:
+
+I’m definitely spending more time at home with 3 kids…the stress of multitasking and the pressure of the daily has definitely affected me during the pandemic, just handling everything. (P5)
+
+In addition, another major source of distress among many women was the strain resulting from a mixing of their home and work lives:
+
+I’ve found it easier to manage my blood sugars. Working set hours made it difficult before the pandemic. (P10)
+
+On the other hand, although some men also found that the pandemic and their elevated personal risks were sources of distress, many men found that the pandemic facilitated better management of their diabetes:
+
+Doesn’t matter how long it will take…I have to carefully figure out how you deal with problems and stress. (P21)
+
+The stress management strategies of women and men also differed markedly. Although women reported greater distress and burden, women also appeared to have more self-directedness toward their own situations:
+
+I was doing some research, reading some books regarding healthy eating so I did achieve a little bit of a lifestyle of homemade food. Now when I go to work…I make sure that I eat it on time. (P13)
+
+In addition, this self-directedness also seemed to enable the utilization of problem-focussed management strategies, which facilitated greater improvements in their health:
+
+There’s things you can do to not think about your condition and relieve stress in that sense. You know, picking up a hobby. If it’s doing a little bit of woodworking or something just to take your mind off things. (P1)
+
+Men appeared to manage stress primarily through methods focussed on avoidance. One man found that avoidance was the optimal solution during the pandemic, and this sentiment was echoed by several others:
+
+Women reported having greater distress and burdens during the pandemic but seemed to have a sense of self-directedness, which facilitated usage of problem-focussed management strategies.
+
+Cross-sectional survey
+
+Sample characteristics
+
+Characteristics of the included participants are shown in Table 2. The distribution of men (47.1%) and women (51.6%) in the sample was approximately equal. Participants ≥65 years of age comprised 39.2% of the sample. The majority of the participants were White (65.4%) and had type 2 diabetes (62.7%).
+
+Adjusted relationship between resilient coping, diabetes distress and diabetes self-efficacy with COVID distress
+
+Adjusted relationships between selected scales and COVID distress
+
+Scale comparisons	Additional covariates ∗	Beta coefficient (95% CI)	p Value	 	Resilient Coping and COVID Distress	No additional	−0.0517 (−0.0918 to −0.0116)	0.012	 	Diabetes Distress and COVID Distress	No additional	0.0260 (0.0149 to 0.0371)	<0.0001	 	Diabetes Self-Efficacy and COVID Distress	No additional	−0.0184 (−0.0316 to −0.0052)	0.007	 	Diabetes distress	−0.0065 (−0.0206 to 0.0076)	0.364	 	Resilient coping	−0.0143 (−0.0283 to −0.0002)	0.047	 	Diabetes distress and resilient coping	−0.0004 (−0.0154 to 0.0147)	0.963
+
+CI, confidence interval; COVID, coronavirus disease.
+
+All models adjusted for age, gender, race, diabetes duration, type of diabetes and occupation.
+
+As shown in Table 3 , higher levels of diabetes distress (β=0.0260; 95% CI, 0.0149 to 0.0371; p<0.0001) were significantly associated with higher COVID distress, whereas higher levels of resilient coping (β=−0.0517; 95% CI, −0.0918 to −0.0116; p=0.012) and diabetes self-efficacy (β=−0.0184; 95% CI, −0.0316 to −0.0052; p=0.007) were associated with lower levels of COVID distress, adjusted for all covariates.
+
+Discussion
+
+This study examined the impacts of the pandemic on diverse PwD and psychosocial factors associated with COVID distress. Our results reveal how sociodemographic characteristics shaped PwD’s experiences of the pandemic, and potential avenues for mitigating the negative impacts of the pandemic.
+
+From the qualitative component of our study, we identified several differences in participants’ experiences of the pandemic. First, our results demonstrate that anxiety was lower among people with type 1 diabetes; distress may have been heightened in participants with type 2 diabetes due to additional comorbidities, including obesity and hypertension. These findings indicate the need to address the psychosocial well-being of PwD uniquely depending on their type of diabetes.
+
+Second, we found that the perceptions and coping strategies of White vs non-White PwD differed. White participants expressed both a more general sense of anxiety and distress and distress specifically regarding uncertainties about the future due to the pandemic. In contrast, cross-sectional studies by Özcan et al and Stoop et al found that diabetes distress was more prevalent among ethnic minorities; however, cross-sectional studies by Peyrot et al and Pouwer et al found that ethnic minorities had better quality of life and well-being. These differences in sources of distress and coping strategies may be due to unmeasured factors related to ethnicity, such as migration stress, language barriers and cultural values.
+
+Third, our participants of lower SES were unable to use the same glycemic control strategies as those of higher SES. Participants of lower SES also reported greater anxiety and distress due to a loss of daily routine and control over their life circumstances and had greater difficulties managing stressors in our study. A cross-sectional study by Fidan et al showed that low education levels were associated with difficulties in coping, which may be due to a lack of resources to buffer the impacts of stressful events. Similarly, our results show that PwD of higher SES were better able to cope with their distress by finding ways to maintain activities disrupted by the pandemic such as exercising and eating well, which in turn translated into greater mental well-being compared with PwD of lower SES.
+
+Fourth, we found that women with diabetes expressed more anxiety and distress than did men. This finding aligns with several studies, which showed that women in general have experienced higher levels of psychological distress during the pandemic and are at increased risk for mental health problems. Women with diabetes may experience more anxiety due to an interplay between diabetes-related responsibility and additional responsibilities related to employment and caring for families.
+
+From the quantitative component of our study, we determined that higher levels of resilient coping, diabetes self-efficacy and lower levels of diabetes distress were associated with lower levels of COVID distress. Thus, utilizing resilient coping behaviours, such as setting behavioural goals, fulfilling health-care obligations and increasing motivation, would help reduce PwD’s COVID distress. Self-efficacy has been shown to be relevant in adequately managing chronic health conditions, as it heavily influences the pursuit of health behaviours. Diabetes distress may have increased in PwD due to pandemic-induced disruptions in self-management routines (e.g. diet and physical activity). This was reflected in our interviews, particularly among participants with type 2 diabetes, who expressed worry about their diabetes status as well as more fear and anxiety surrounding the pandemic. Thus, diabetes self-management education and psychological interventions such as cognitive behavioural therapy, which have shown success in reducing diabetes distress, may be useful for PwD for reducing COVID distress as well.
+
+Strengths and limitations
+
+Our study has limitations. First, participants were not completely balanced in terms of sociodemographic characteristics. A higher proportion of participants were of higher SES, and thus their perspectives may not be representative of all PwD. Second, data were collected across different periods of public health restrictions, which may have led to differences in perceptions, experiences and levels of distress. In the quantitative component, causality cannot be inferred from the relationships examined given the cross-sectional nature of this study. In addition, these data may not be generalizable to the general population of PwD in Ontario. Older adults, women and those of high SES were over-represented in our sample. In the qualitative component, we were unable to assess whether differences in observed themes were attributable to other, or intersecting, participant characteristics due to sample size limitations.
+
+Nevertheless, our study also has strengths. It is one of the first to explore the multifaceted impact of COVID-19 on PwD and strategies used to manage stressors. It is also among the first to evaluate possible determinants of COVID distress among PwD. In addition, methodologic rigour was promoted as coding was performed by 4 independent coders and qualitative data were interpreted and analyzed by 5 individuals. Feedback from a team with expertise in qualitative data analysis and diabetes care was incorporated at multiple stages in the study. Moreover, we used validated and reliable psychometric scales to assess all constructs in this study.
+
+In conclusion, our results suggest that the impacts of the pandemic have varied across sociodemographic and clinical groups, and that clinicians and educators can target resilient coping, diabetes self-efficacy and diabetes distress to minimize COVID distress. Therefore, this study has highlighted the need to evaluate and contextualize the psychosocial well-being of PwD at routine checkups.
+
+References
+
+Evolution of severe acute respiratory syndrome coronavirus 2 (SARS-CoV-2) as coronavirus disease 2019 (COVID-19) pandemic: A global health emergency
+
+Understanding novel COVID-19: Its impact on organ failure and risk assessment for diabetic and cancer patients
+
+Social isolation during Covid-19: Boon or bane to diabetes management
+
+COVID-19 and Black, Asian, and minority ethnic communities: A complex relationship without just cause
+
+Gender inequality during the COVID-19 pandemic: Income, expenditure, savings, and job loss
+
+Mental health in the era of COVID-19: Prevalence of psychiatric disorders in a cohort of patients with type 1 and type 2 diabetes during the social distancing
+
+Coping self-efficacy as a mediator of distress following a natural disaster
+
+The Importance of addressing depression and diabetes distress in adults with type 2 diabetes
+
+Healthy coping, negative emotions, and diabetes management: A systematic review and appraisal
+
+The risk of clinical complications and death among pregnant women with COVID-19 in the Cerner COVID-19 cohort: A retrospective analysis
+
+Purposeful sampling for qualitative data collection and analysis in mixed method implementation research
+
+Qualitative research method-interviewing and observation
+
+The assessment and measurement of wellness in the clinical medical setting: a systematic review
+
+The wheel of wellness counseling for wellness: A holistic model for treatment planning
+
+Saturation in qualitative research: exploring its conceptualization and operationalization
+
+Determining sample size
+
+Characterising and justifying sample size sufficiency in interview-based studies: systematic analysis of qualitative health research over a 15-year period
+
+Three approaches to qualitative content analysis
+
+A framework for the study of coping, illness behaviour and outcomes
+
+A purposeful approach to the constant comparative method in the analysis of qualitative interviews
+
+How to assess diabetes distress: comparison of the Problem Areas in Diabetes Scale (PAID) and the Diabetes Distress Scale (DDS)
+
+The development and psychometric evaluation of the Brief Resilient Coping Scale
+
+Evaluating self-efficacy for managing chronic disease: Psychometric properties of the six-item Self-Efficacy Scale in Germany
+
+Brief measure of posttraumatic stress reactions: Impact of Event Scale-6
+
+The moderator–mediator variable distinction in social psychological research: Conceptual, strategic, and statistical considerations
+
+What is the difference between missing completely at random and missing at random?
+
+Health-related quality of life in type 1 and type 2 diabetic patients in a Portuguese central public hospital
+
+High diabetes distress among ethnic minorities is not explained by metabolic, cardiovascular, or lifestyle factors: Findings from the Dutch Diabetes Pearl Cohort
+
+Diabetes-specific emotional distress in people with Type 2 diabetes: A comparison between primary and secondary care
+
+Ethnic differences in psychological outcomes among people with diabetes: USA results from the second Diabetes Attitudes, Wishes, and Needs (DAWN2) study
+
+Ethnic aspects of emotional distress in patients with diabetes---the Amsterdam Health Monitor Study
+
+Patients with type 2 diabetes mellitus: Obstacles in coping
+
+Mindfulness, age and gender as protective factors against psychological distress during COVID-19 pandemic
+
+Risk factors for psychological distress during the COVID-19 pandemic in Israel: Loneliness, age, gender, and health status play an important role
+
+Emotional distress in young adults during the COVID-19 pandemic: Evidence of risk and resilience from a longitudinal cohort study
+
+Gender differences in living with diabetes mellitus
+
+Psychological adaptive difficulties and their management during COVID-19 pandemic in people with diabetes mellitus
+
+Self-management education: History, definition, outcomes, and mechanisms
+
+Diabetes and COVID-19: Risks, management, and learnings from other national disasters
+
+Healthy coping: Issues and implications in diabetes education and care
+
+Diabetes distress: Understanding the hidden struggles of living with diabetes and exploring intervention strategies
+
+The detection and management of diabetes distress in people with type 1 diabetes
+
+Author Disclosures
+
+Conflicts of interest: None.
+
+Author Contributions
+
+J.H.B.I. contributed to data acquisition and analyses and writing of the manuscript. C.E. contributed to study design, data acquisition and analyses and writing of the manuscript. D.C. and A.S. contributed to data acquisition and analyses and editing of the manuscript. K.Z. contributed to writing of the manuscript and reviewed and edited the manuscript. A.A. and G.L.B. contributed to study conception and design, interpretation of the findings and editing of the manuscript. C.P. and J.S. contributed to the interpretation of findings and editing of the manuscript. C.H.Y. contributed to study design, data acquisition and analyses and editing of the manuscript. C.H.Y. is the guarantor of this work and takes responsibility for the contents of the published article.
+
