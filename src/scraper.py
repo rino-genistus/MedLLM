@@ -19,14 +19,26 @@ chosen_books = {
     "Chemistry2e": "https://assets.openstax.org/oscms-prodcms/media/documents/Chemistry2e-WEB.pdf",
 }
 
+remaining_textbooks = {
+    #"Biology2e": "https://d3bxy9euw4e147.cloudfront.net/oscms-prodcms/media/documents/Biology2e-OP_aHSFm3Y.pdf",
+    #"Human Osteology": "https://scholarworks.gvsu.edu/cgi/viewcontent.cgi?article=1004&context=books",
+    #"General Microbiology": "/Users/rino/Downloads/General-Microbiology-1774571417.pdf",
+    #"College Physics 2e": "https://assets.openstax.org/oscms-prodcms/media/documents/College_Physics_2e-WEB_7Zesafu.pdf",
+    #"Statistical Inference for Everyone": "/Users/rino/Downloads/Statistical Inference For Everyone.pdf",
+    "Orgo with Bio": "https://digitalcommons.morris.umn.edu/cgi/viewcontent.cgi?article=1000&context=chem_facpubs",
+}
 def create_dir():
     os.makedirs("DIAGRAMS", exist_ok=True)
     os.makedirs("TEXTBOOKS", exist_ok=True)
 
 def create_text_and_images(books):
     for name, url in books.items():
-        response = requests.get(url)
-        with pdfplumber.open(io.BytesIO(response.content)) as pdf:
+        headers = {'User-Agent': 'Mozilla/5.0'}
+        if url.startswith("/") or url[1] == ":": 
+            pdf_data = io.BytesIO(open(url, "rb").read())
+        else:
+            pdf_data = io.BytesIO(requests.get(url, headers=headers).content)
+        with pdfplumber.open(pdf_data) as pdf:
             with open(f"data/processed/TEXTBOOKS/{name}.txt", "w") as f:
                 for page_num, page in enumerate(pdf.pages):
                     if page_num+1>22:

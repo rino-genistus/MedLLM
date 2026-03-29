@@ -6,19 +6,36 @@ from langchain_openai.embeddings import OpenAIEmbeddings
 from langchain_openai import ChatOpenAI
 from langchain_openai import OpenAI
 from langchain_core.prompts import ChatPromptTemplate
+from langchain_text_splitters import RecursiveCharacterTextSplitter
 import re
 import time
 import json
 from json_repair import repair_json
+import unicodedata
 
-def get_useable_chunks():
-    with open("/Users/rino/MedLLM/MedLLM/data/processed/TEXTBOOKS/Chemistry2e.txt", "r") as f:
+text_splitter = RecursiveCharacterTextSplitter(
+    chunk_size=60000,
+    chunk_overlap=2000,
+    separators=["\n### ", "\n## ", "\n# ", "\n\n", ". ", " "],
+)
+
+def get_useable_chunks(path):
+    with open(path, "r") as f:
         text = f.read()
         print(len(text))
         punct_to_remove = string.punctuation
         #text = text.translate(str.maketrans('','',punct_to_remove))
         chunks_to_feed = re.findall(r'(Chapter\s+\d+[\s\S]*?)(?=Chapter\s+\d+|$)', text, re.IGNORECASE)
-    return chunks_to_feed
+        if len(chunks_to_feed) == 0:
+            chunks_to_feed = re.findall(r'(PAGE:\s+\d+[\s\S]*?)(?=PAGE:\s+\d+|$)', text, re.IGNORECASE)
+        final_chunks = []
+        for chunk in chunks_to_feed:
+            if len(chunk) > 40000:
+                sub_sections = text_splitter.split_text(chunk)
+                final_chunks.extend(sub_sections)
+            else:
+                final_chunks.append(chunk)
+    return final_chunks
 
 def semantic_chunker(chunk_list):
     text_splitter = SemanticChunker(OpenAIEmbeddings())
@@ -30,7 +47,7 @@ def semantic_chunker(chunk_list):
             print(f"INDEX: {idx}, CHUNK: {chunk} \n")"""
     return docs
 
-def get_chunk_json(chunk_list):
+def get_chunk_json(chunk_list, textbook_name):
     llm = ChatOpenAI(model='gpt-4o-mini', max_tokens=16000)
     template = ChatPromptTemplate.from_template(
         """You are a document processing expert. Split this document into as many chunks as required for maximum understanding and best semantic grouping. 
@@ -69,7 +86,9 @@ def get_chunk_json(chunk_list):
     content_list = []
     for idx, chunk in enumerate(chunk_list):
         print(f"CHUNK: {idx}")
-        response = chunking_chain.invoke({"doc": chunk})
+        clean_chunk = chunk.encode("utf-8", "ignore").decode("utf-8")
+        cleaner_chunk = unicodedata.normalize('NFKC', clean_chunk)
+        response = chunking_chain.invoke({"doc": cleaner_chunk})
         content = response.content
         print("DEBUG content repr:", repr(content))
         try:
@@ -81,8 +100,10 @@ def get_chunk_json(chunk_list):
         print(f"CONTENT: \n {content}")
         content_list.extend(parsed)
 
-        with open("chunks_json.json", "w") as f:
+        filename = f"/Users/rino/MedLLM/MedLLM/data/processed/chunks_json_{textbook_name}.json"
+        with open(filename, "w") as f:
             json.dump(content_list, f, indent=4)
+        time.sleep(5)
         """except Exception as e:
             #Need for exception here is because the max number of tokens per minute or TPM is exceeded and requires more time to reload
             if "rate_limit_exceeded" in str(e).lower():
