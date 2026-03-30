@@ -25,7 +25,7 @@ remaining_textbooks = {
     #"General Microbiology": "/Users/rino/Downloads/General-Microbiology-1774571417.pdf",
     #"College Physics 2e": "https://assets.openstax.org/oscms-prodcms/media/documents/College_Physics_2e-WEB_7Zesafu.pdf",
     #"Statistical Inference for Everyone": "/Users/rino/Downloads/Statistical Inference For Everyone.pdf",
-    "Orgo with Bio": "https://digitalcommons.morris.umn.edu/cgi/viewcontent.cgi?article=1000&context=chem_facpubs",
+    "Orgo with Bi": "https://assets.openstax.org/oscms-prodcms/media/documents/Microbiology-WEB.pdf",
 }
 def create_dir():
     os.makedirs("DIAGRAMS", exist_ok=True)
