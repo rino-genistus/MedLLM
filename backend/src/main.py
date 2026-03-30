@@ -1,11 +1,24 @@
 import json
-from src.scraper import create_text_and_images, create_dir, books, chosen_books, remaining_textbooks
-from src.processor import get_useable_chunks, get_chunk_json
-from src.database import pine, create_content_list, create_db, upsert_to_pinecone, ask_medllm
+from scraper import create_text_and_images, create_dir, books, chosen_books, remaining_textbooks
+from processor import get_useable_chunks, get_chunk_json
+from database import pine, create_content_list, create_db, upsert_to_pinecone, ask_medllm
 from langchain_openai.embeddings import OpenAIEmbeddings
 from pinecone_text.sparse import BM25Encoder
 import os
 from pathlib import Path
+from fastapi import FastAPI
+
+app = FastAPI()
+
+from fastapi.middleware.cors import CORSMiddleware
+
+app.add_middleware(
+    CORSMiddleware,
+    allow_origins=["*"], 
+    allow_methods=["*"],
+    allow_headers=["*"],
+)
+
 
 
 """ 
@@ -78,4 +91,29 @@ completed_textbooks_dir = "/Users/rino/MedLLM/MedLLM/data/processed/COMPLETED_TE
         hybrid_index = create_db()
         upsert_to_pinecone(chunks_json=chunks_json, bm25=bm25, hybrid_index=hybrid_index, textbook_name=textbook_name)"""
 
-create_text_and_images(remaining_textbooks)
+
+"""total_content_list = []
+
+for e in os.scandir("/Users/rino/MedLLM/MedLLM/backend/data/processed/json_chunks"):
+    with open(e.path, "r") as f:
+        data = json.load(f)
+        current_content_list = create_content_list(data)
+        total_content_list.extend(current_content_list)
+        print(len(total_content_list))
+
+global_bm25_encoder = BM25Encoder()
+global_bm25_encoder.fit(total_content_list)
+global_bm25_encoder.dump("/Users/rino/MedLLM/MedLLM/backend/data/models/global_bm25.json")"""
+
+
+@app.get("/")
+def root():
+    return {"Hello": "World"}
+
+@app.get("/medLLM_message")
+def getMessage(query: str):
+    hybrid_index = create_db()
+    global_bm25_encoder = BM25Encoder()
+    global_bm25_encoder.load("/Users/rino/MedLLM/MedLLM/backend/data/models/global_bm25.json")
+    answer = ask_medllm(query, global_bm25_encoder, hybrid_index)
+    return answer

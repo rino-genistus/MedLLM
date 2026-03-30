@@ -87,7 +87,7 @@ def ask_medllm(query, bm25, hybrid_index):
     norm_dense, norm_sparse = hybrid_score_normalizer(dense_query_embedding, sparse_query_embedding, alpha=0.75)
     query_response = hybrid_index.query(
         namespace = "MedLibrary",
-        top_k = 10,
+        top_k = 1000,
         vector = norm_dense,
         sparse_vector = norm_sparse,
         include_values = False,
@@ -96,12 +96,12 @@ def ask_medllm(query, bm25, hybrid_index):
     context_for_ai = "\n\n".join([result['metadata']['content'] for result in query_response['matches']])
     prompt = """
     You are a medical school study assistant. 
-    1. Answer the question based only on the context provided to you. 
+    1. Answer the question based only on the context provided to you. If the context is about a specific technical subject, you may provide a brief 1-sentence general definition before diving into the context-specific details.
     2. Include any specific examples (like chemicals, experiments, or real-world applications) mentioned in the text.
     3. If the context describes a process, include the energy requirements or chemical formulas provided.
-    4. If the answer to the questions doesn't exist in the context provided to you, reply by saying "I dont know the answer to this question". 
-    5. Do not use any outside knowledge or common sense facts not found in the text.
-    6. Cite the specific 'Header' from the metadata for each fact you state.
+    4. If the answer to the questions doesn't exist in the context provided to you and cannot be reasonably inferred, reply by saying "I dont know the answer to this question". 
+    5. Prioritize the provided text over outside knowledge. If the text contradicts common knowledge, follow the text.
+    6. Cite the specific 'Header' from the metadata for each fact you state, exactly as it is.
 
     Context:
     {Context}
@@ -114,7 +114,7 @@ def ask_medllm(query, bm25, hybrid_index):
     prompt_ai = ChatPromptTemplate.from_template(prompt)
     chain = prompt_ai | llm
     answer_from_ai = chain.invoke({"Context": context_for_ai, "Question": query})
-    print(answer_from_ai.content)
+    return answer_from_ai.content
 
 def hybrid_score_normalizer(dense_embedding, sparse_embedding, alpha):
     if alpha > 1 or alpha < 0:
