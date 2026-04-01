@@ -4,11 +4,15 @@ from processor import get_useable_chunks, get_chunk_json
 from database import pine, create_content_list, create_db, upsert_to_pinecone, ask_medllm
 from langchain_openai.embeddings import OpenAIEmbeddings
 from pinecone_text.sparse import BM25Encoder
+from supabase import create_client, Client
 import os
 from pathlib import Path
 from fastapi import FastAPI
+from pydantic import BaseModel
+import re
 
 app = FastAPI()
+supabase: Client = create_client(os.getenv("SUPABASE_URL"), os.getenv("SUPABASE_KEY"))
 
 from fastapi.middleware.cors import CORSMiddleware
 
@@ -115,5 +119,71 @@ def getMessage(query: str):
     hybrid_index = create_db()
     global_bm25_encoder = BM25Encoder()
     global_bm25_encoder.load("/Users/rino/MedLLM/MedLLM/backend/data/models/global_bm25.json")
-    answer = ask_medllm(query, global_bm25_encoder, hybrid_index)
-    return answer
+    raw = ask_medllm(query, global_bm25_encoder, hybrid_index)
+
+    cleaned = raw.strip()
+    if cleaned.startswith("```"):
+        cleaned = re.sub(r"^```(?:json)?\n?", "", cleaned)
+        cleaned = re.sub(r"\n?```$", "", cleaned)
+        cleaned = cleaned.strip()
+    
+    cleaned = cleaned.replace("\\(", "\\\\(").replace("\\)", "\\\\)").replace("\\[", "\\\\[").replace("\\]", "\\\\]")
+
+    try:
+        parsed = json.loads(cleaned)
+    except json.JSONDecodeError as e:
+        print("PARSE FAILED:", e)
+        print("CLEANED WAS:", repr(cleaned))
+        return {"topic": "", "answer": cleaned, "sources": []}
+    return {  
+        "topic": parsed["topic"],
+        "answer": parsed["answer"],
+        "sources": parsed["sources"]
+    }
+
+class MessagePayload(BaseModel):
+    conversation_id: str | None = None
+    title: str | None = None
+    role: str
+    content: str
+    auth0_id: str
+
+
+@app.post("/save_message")
+def save_conversations(payload: MessagePayload):
+    user = supabase.table("users").select("id").eq("auth0_id", payload.auth0_id).execute()
+    if not user.data:
+        new_user = supabase.table("users").insert({"auth0_id": payload.auth0_id}).execute()
+        user_id = new_user.data[0]["id"]
+    else:
+        user_id = user.data[0]["id"]
+
+    convo_id = payload.conversation_id
+    if not convo_id:
+        new_convo = supabase.table("conversations").insert({
+            "user_id": user_id,
+            "title": payload.title or "New conversation"
+        }).execute()
+        convo_id = new_convo.data[0]["id"]
+    
+    supabase.table("messages").insert({
+        "conversation_id": convo_id,
+        "role": payload.role,
+        "content": payload.content,
+    }).execute()
+
+    return {"conversation_id": convo_id}
+
+@app.get("/get_conversations")
+def get_conversations(auth0_id: str):
+    user = supabase.table("users").select("id").eq("auth0_id", auth0_id).execute()
+    if not user.data:
+        return {"conversations": []}
+    user_id = user.data[0]["id"]
+    convos = supabase.table("conversations").select("title", "id", "created_at").eq("user_id", user_id).order("created_at", desc=True).execute()
+    return {"conversations": convos.data}
+
+@app.get("/get_messages")
+def get_messages(conversation_id: str):
+    messages = supabase.table("messages").select("role", "content").eq("conversation_id", conversation_id).order("created_at").execute()
+    return {"messages": messages.data}

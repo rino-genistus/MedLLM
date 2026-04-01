@@ -1,4 +1,8 @@
-function Sidebar({ open, onToggle, conversations, activeId, onSelect, onNewChat, user, onSignOut }) {
+import { useAuth0 } from "@auth0/auth0-react"
+
+function Sidebar({ open, onToggle, conversations, activeId, onSelect, onNewChat}) {
+    const { logout, user } = useAuth0()   // get user and logout from Auth0
+    const handleSignOut = () => logout({ logoutParams: { returnTo: window.location.origin } })
     return (
       <aside className={`sidebar ${open ? "open" : "closed"}`}>
         <div className="sidebar-top">
@@ -45,7 +49,7 @@ function Sidebar({ open, onToggle, conversations, activeId, onSelect, onNewChat,
                 <p className="user-name">{user.name}</p>
                 <p className="user-email">{user.email}</p>
               </div>
-              <button className="icon-btn signout-btn" onClick={onSignOut} title="Sign out">
+              <button className="icon-btn signout-btn" onClick={handleSignOut} title="Sign out">
                 <svg width="15" height="15" viewBox="0 0 24 24" fill="none" stroke="currentColor" strokeWidth="2">
                   <path d="M9 21H5a2 2 0 0 1-2-2V5a2 2 0 0 1 2-2h4"/>
                   <polyline points="16 17 21 12 16 7"/><line x1="21" y1="12" x2="9" y2="12"/>
@@ -53,7 +57,7 @@ function Sidebar({ open, onToggle, conversations, activeId, onSelect, onNewChat,
               </button>
             </div>
           ) : (
-            <button className="icon-btn avatar-icon" onClick={onSignOut} title="Sign out">
+            <button className="icon-btn avatar-icon" onClick={handleSignOut} title="Sign out">
               <div className="avatar small">{user.name[0].toUpperCase()}</div>
             </button>
           )}

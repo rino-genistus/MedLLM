@@ -4,7 +4,7 @@ from pinecone import ServerlessSpec
 from dotenv import load_dotenv
 from langchain_openai.embeddings import OpenAIEmbeddings
 from langchain_openai import ChatOpenAI
-from langchain_core.prompts import ChatPromptTemplate
+from langchain_core.prompts import ChatPromptTemplate, SystemMessagePromptTemplate, HumanMessagePromptTemplate
 
 load_dotenv()
 api_key = os.getenv("PINECONE_API_KEY")
@@ -87,31 +87,45 @@ def ask_medllm(query, bm25, hybrid_index):
     norm_dense, norm_sparse = hybrid_score_normalizer(dense_query_embedding, sparse_query_embedding, alpha=0.75)
     query_response = hybrid_index.query(
         namespace = "MedLibrary",
-        top_k = 1000,
+        top_k = 100,
         vector = norm_dense,
         sparse_vector = norm_sparse,
         include_values = False,
         include_metadata = True,
     )
     context_for_ai = "\n\n".join([result['metadata']['content'] for result in query_response['matches']])
-    prompt = """
-    You are a medical school study assistant. 
-    1. Answer the question based only on the context provided to you. If the context is about a specific technical subject, you may provide a brief 1-sentence general definition before diving into the context-specific details.
-    2. Include any specific examples (like chemicals, experiments, or real-world applications) mentioned in the text.
-    3. If the context describes a process, include the energy requirements or chemical formulas provided.
-    4. If the answer to the questions doesn't exist in the context provided to you and cannot be reasonably inferred, reply by saying "I dont know the answer to this question". 
-    5. Prioritize the provided text over outside knowledge. If the text contradicts common knowledge, follow the text.
-    6. Cite the specific 'Header' from the metadata for each fact you state, exactly as it is.
+    system_prompt = """
+    You are a medical and science tutor. You answer questions strictly based on provided context.
 
-    Context:
+    CRITICAL RULES — violating any of these makes your answer wrong:
+    1. Never write any expression, unit, or variable twice. Each appears exactly once.
+    2. When you use LaTeX for an expression, do NOT follow it with the same expression in plain text.
+    3. WRONG: "\\( m/s^2 \\) meters per second squared" or "\\( m/s^2 \\)m/s²"
+    4. CORRECT: "\\( m/s^2 \\)" — stop there, do not repeat it.
+
+    RULES:
+    1. Base your answer on the provided context only. You may give a one-sentence definition of technical terms not in the context.
+    2. Do not repeat any fact, equation, or expression more than once.
+    3. EVERY math expression, variable, unit, or equation MUST use LaTeX delimiters. Inline: \\( ... \\). Display: \\[ ... \\]. Never write math as plain text. Ever.
+    4. If the answer is not in the context, reply: "I do not have enough information in the current textbooks to answer this."
+
+    OUTPUT FORMAT — return only this JSON, no extra text, no code fences:
+    {{
+    "topic": "Main subject",
+    "answer": "Your answer with all math in LaTeX",
+    "sources": ["relevant", "keywords"]
+    }}"""
+
+    human_prompt = """Context:
     {Context}
 
     Question:
-    {Question}
+    {Question}"""
 
-    Answer:
-    """
-    prompt_ai = ChatPromptTemplate.from_template(prompt)
+    prompt_ai = ChatPromptTemplate.from_messages([
+        SystemMessagePromptTemplate.from_template(system_prompt),
+        HumanMessagePromptTemplate.from_template(human_prompt)
+    ])
     chain = prompt_ai | llm
     answer_from_ai = chain.invoke({"Context": context_for_ai, "Question": query})
     return answer_from_ai.content
